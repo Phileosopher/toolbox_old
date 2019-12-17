@@ -1,13 +1,13 @@
 # toolbox
 
-To be a professional is a multi-dimensional existence:
-* Claims and validates expertise in a niche
-* Aware of other experts in the field and related industries
+A professional must be aware of three dimensions:
+* Claims and validates niche expertise
+* Aware of other affiliated experts that surpass them
 * Capable of delegating work
 
 Most respectable developers accomplish the first and naturally understand the second. However, many people reinvent the wheel because they want to do it "better".
 
-While a fancier UI or more baked-in features would make the interfacing experience more seamless, a complete industry plebeian just needs to know whether that tool exists.
+While a fancier UI or more baked-in features would make the interfacing experience more seamless, a plebeian just needs to know if that tool exists and which one is good enough.
 
 A computer, abstracted, is merely a device that gathers, stores, and outputs information. Professionals with computers deal with information that mostly isn't theirs. As you read this, the HTML and CSS was somebody else's writing filtered through the creative work of graphics engineers after getting run through the CPU and RAM engineers' creations.
 
