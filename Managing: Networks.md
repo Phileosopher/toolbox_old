@@ -18,7 +18,10 @@ Network Snapshots:
   
 Traffic Analysis:  
   [MRTG (Multi Router Traffic Grapher)⬇️](https://oss.oetiker.ch/mrtg/)
-  
+
+Exploration/Auditing:  
+  [Nmap⬇️](https://nmap.org/)
+
 ## Research
 
 Protocol Analysis:  
