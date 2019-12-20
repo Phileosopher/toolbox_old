@@ -6,6 +6,9 @@ Audio Recording/Mixing:
 	[Audacity⬛](https://www.audacityteam.org/) / 
 	[LMMS⬛](https://lmms.io/)
 
+Audio Separation:  
+	[Spleeter⬇️](https://github.com/deezer/spleeter)
+
 Drum Accompaniment:  
 	[AutoDrum⬛](https://openmidiproject.osdn.jp/AutoDrum_en.html)
 
