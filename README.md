@@ -5,14 +5,18 @@ A professional must be aware of three dimensions:
 * Aware of other affiliated experts that surpass them
 * Capable of delegating work
 
-Most respectable developers accomplish the first and naturally understand the second. However, many people reinvent the wheel because they want to do it "better".
+Most respectable developers accomplish the first and naturally understand the second. However, many people reinvent the wheel because they want to do it "better" or are unaware of what's already out there.
 
-While a fancier UI or more baked-in features would make the interfacing experience more seamless, a plebeian just needs to know if that tool exists and which one is good enough.
+A computer is, by its nature, a multitool with built-in tools (aka "commands"). With only a little curiosity and experience, most people discover them immediately.
 
-A computer, abstracted, is merely a device that gathers, stores, and outputs information. Professionals with computers deal with information that mostly isn't theirs. As you read this, the HTML and CSS was somebody else's writing filtered through the creative work of graphics engineers after getting run through the CPU and RAM engineers' creations.
+A computer has an extensible design _built_ for replacing parts. The meatspace analogue is a Swiss Army Knife where you can enlarge or remove the corkscrew, attach a chainsaw or secure a nuclear-powered rocket engine to it.
 
-The worst pencil is better than the best memory. I will forget some of the things other people have made that might help me. Since I can't predict what will aid my future projects, this is a junk drawer/filing cabinet of everything I might want to use.
+On an unfamiliar project, a plebeian/n00b just needs to know a tool exists. They don't care if the sub-sub-sub-niche industry has better options or if it's legacy software. Plus, my unofficial experience is that when people see deprecated software for a clear need, 3 devs create better versions (usually FOSS).
+
+The worst pencil is better than the best memory, so this is where I hoard good stuff I _might_ find useful someday. A digital junk drawer, if you will.
+
+For brevity's sake, I'm mostly glossing over a few groups:
+* The built-in tools. If I need them, they're there.
+* Paid tools, at least when they make me pause to consider purchasing.
 
 I've marked ☁ for web apps and ⬛ for portable apps, most of which are through [PortableApps.com](https://portableapps.com/). I've marked ⬇️ if the program isn't portable or requires download. If it's a reference sheet, it's marked with *.
-
-Since I usually remember when I pay for things, for brevity's sake most of these things are free.
