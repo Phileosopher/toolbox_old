@@ -52,6 +52,9 @@ Disk Usage:
   
 ## WinOS
 
+Linux Simulator:  
+  [Cygwin⬇️](https://www.cygwin.com/)
+
 Registry Analysis:  
   [RegAlyzer⬛](https://www.safer-networking.org/products/regalyzer/)
   
