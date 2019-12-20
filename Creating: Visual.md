@@ -6,7 +6,8 @@ Screenshots:
   [ShareX⬇️](https://getsharex.com/)
   
 Color Inspiration:  
-  [GradientGenerator☁](https://gradientgenerator.com/) / 
+  [ColorBox by Lyft Design (Palette Picker)☁](https://www.colorbox.io/) / 
+  [GradientGenerator (Gradients)☁](https://gradientgenerator.com/) / 
   [Color Supply's Color Picker*](https://colorsupplyyy.com/app) / 
   [Coolors.co*](https://coolors.co/browser/latest/1) / 
   [Adobe Color*](https://color.adobe.com) / 
