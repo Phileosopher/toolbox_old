@@ -13,7 +13,7 @@ A computer has an extensible design _built_ for replacing parts. The meatspace a
 
 On an unfamiliar project, a plebeian/n00b just needs to know a tool exists. They don't care if the sub-sub-sub-niche industry has better options or if it's legacy software. Plus, my unofficial experience is that when people see deprecated software for a clear need, 3 devs create better versions (usually FOSS).
 
-The worst pencil is better than the best memory, so this is where I hoard good stuff I _might_ find useful someday. A digital junk drawer, if you will.
+The worst pencil is better than the best memory, so I stick links to neat things here that I _might_ find useful someday. Like a hoarder's barn, but collecting less dust and proportionally smaller.
 
 For brevity's sake, I'm mostly glossing over a few groups:
 * The built-in tools. If I need them, they're there.
