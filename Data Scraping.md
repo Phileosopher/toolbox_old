@@ -9,14 +9,16 @@ Downloading/Feeds:
 	[qBittorrent⬛](https://www.qbittorrent.org/)
 
 Google's Advanced Search Operators:  
-	[ahrefs' Advanced Search Operators List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
-	[Supple's Advanced Search Operators List*](https://ahrefs.com/blog/google-advanced-search-operators/)
+	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
+	[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 Spreadsheets:  
 	[Google Sheets☁](https://sheets.google.com) / 
 	[Microsoft Excel Online☁](https://office.live.com/start/Excel.aspx) / 
-	[LibreOffice Calc⬛](https://www.libreoffice.org/) / 
-	[Guesstimate (for approximations)☁](https://www.getguesstimate.com/)
+	[LibreOffice Calc⬛](https://www.libreoffice.org/)
+
+Approximate Spreadsheets:  
+	[Guesstimate☁](https://www.getguesstimate.com/)
 
 ## Niche: Language
 
