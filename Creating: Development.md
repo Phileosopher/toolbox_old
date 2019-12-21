@@ -3,9 +3,12 @@
 ## General Case
 
 Browser:  
-	[Firefox Quantum: Developer Edition⬇️](https://www.mozilla.org/en-US/firefox/developer/)
+	[Firefox Quantum: Developer Edition⬛](https://www.mozilla.org/en-US/firefox/developer/)
   
-Web-Based IDEs:  
+Back-End IDEs:
+	[XAMPP⬇️](https://www.apachefriends.org/index.html)
+
+Front-End IDEs:  
 	[CodePen☁](https://codepen.io/) / 
 	[JSFiddle☁](https://jsfiddle.net/) / 
 	[Mozilla's Thimble☁](https://thimble.mozilla.org/) / 
