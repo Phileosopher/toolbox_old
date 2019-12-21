@@ -30,12 +30,6 @@ Tutorials:
 	[Github: Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
 
 ## Building Data
-
-Spreadsheets:  
-	[Google Sheets☁](https://sheets.google.com) / 
-	[Microsoft Excel Online☁](https://office.live.com/start/Excel.aspx) / 
-	[LibreOffice Calc⬛](https://www.libreoffice.org/) / 
-	[Guesstimate (for approximations)☁](https://www.getguesstimate.com/)
   
 Hash/ID Generation:  
 	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
