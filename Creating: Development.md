@@ -5,16 +5,13 @@
 Browser:  
 	[Firefox Quantum: Developer Edition⬛](https://www.mozilla.org/en-US/firefox/developer/)
   
-Back-End IDEs:
+Back-End IDE - PHP-focused:
 	[XAMPP⬇️](https://www.apachefriends.org/index.html)
 
 Front-End IDEs:  
 	[CodePen☁](https://codepen.io/) / 
-	[JSFiddle☁](https://jsfiddle.net/) / 
-	[Mozilla's Thimble☁](https://thimble.mozilla.org/) / 
-	[JS Bin☁](https://jsbin.com/) / 
 	[repl.it☁](https://repl.it/)
-  
+
 ## Code Snips
 
 CSS:  
@@ -27,23 +24,21 @@ CSS/HTML/JS:
 	[Code My UI☁](https://codemyui.com/) / 
 	[LittleSnippets.net☁](https://littlesnippets.net/)
 
-## Docs
-
-Tutorials:  
-	[Github: Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
-
-## Building Data
-  
-Hash/ID Generation:  
-	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
-	[Pazera's Online Hash Generator☁](http://www.pazera-software.com/online-tools/online-hash-generator.html) / 
-	[PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable) / 
-	[Zint Barcode Generator⬛](https://sourceforge.net/projects/zint/)
-
-## Sporks
+## Docs/Reference
 
 Color Names:  
 	[Github: Meodai's Color Names☁](https://github.com/meodai/color-names)
 
 Device Measurements:  
 	[Material Design's Device Metrics☁](https://material.io/tools/devices/)
+
+Tutorials:  
+	[Github: Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
+
+## Generating Data
+  
+Hash/ID Generation:  
+	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
+	[Pazera's Online Hash Generator☁](http://www.pazera-software.com/online-tools/online-hash-generator.html) / 
+	[PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable) / 
+	[Zint Barcode Generator⬛](https://sourceforge.net/projects/zint/)
