@@ -35,6 +35,9 @@ Device Measurements:
 Tutorials:  
 	[Github: Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
 
+Github:  
+	[Github Docs*](https://try.github.io/)
+
 ## Generating Data
   
 Hash/ID Generation:  
