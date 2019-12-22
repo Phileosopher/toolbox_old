@@ -1,24 +1,16 @@
 # Data Scraping
 
-## General
+## Finding/Getting
+
+Google's Advanced Search Operators:  
+	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
+	[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 Downloading/Feeds:  
 	[Free Download Manager⬇️](https://www.freedownloadmanager.org/) / 
 	[KeepVid☁](https://keepvid.com/) / 
 	[QuiteRSS⬛](https://quiterss.org/) / 
 	[qBittorrent⬛](https://www.qbittorrent.org/)
-
-Google's Advanced Search Operators:  
-	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
-	[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
-
-Spreadsheets:  
-	[Google Sheets☁](https://sheets.google.com) / 
-	[Microsoft Excel Online☁](https://office.live.com/start/Excel.aspx) / 
-	[LibreOffice Calc⬛](https://www.libreoffice.org/)
-
-Approximate Spreadsheets:  
-	[Guesstimate☁](https://www.getguesstimate.com/)
 
 ## Niche: Language
 
@@ -114,3 +106,19 @@ Wireless Networks:
 
 Popular Trends:  
 	[Google Trends☁](https://trends.google.com/)
+
+## Cleaning/Prepping
+
+Spreadsheets:  
+	[Google Sheets☁](https://sheets.google.com) / 
+	[Microsoft Excel Online☁](https://office.live.com/start/Excel.aspx) / 
+	[LibreOffice Calc⬛](https://www.libreoffice.org/)
+
+Approximate Spreadsheets:  
+	[Guesstimate☁](https://www.getguesstimate.com/)
+
+Cleaning:  
+	[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
+)
+
+
