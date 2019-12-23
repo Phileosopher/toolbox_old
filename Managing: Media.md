@@ -23,10 +23,11 @@ TTS:
 	[Balabolka⬛](http://cross-plus-a.com/balabolka.htm) / 
 	[Screen Reader⬛](http://jacquelin.potier.free.fr/screenreader/)
 
-## Tagging/Metadata
+## Tags/Metadata
 
 Analysis:  
-	[MediaInfo⬛](https://mediaarea.net/en/MediaInfo)
+	[MediaInfo⬛](https://mediaarea.net/en/MediaInfo) / 
+	[Get-Metadata.com☁](https://www.get-metadata.com/)
 
 Audio:  
 	[Mp3tag⬇️](https://www.mp3tag.de/en/) / 
