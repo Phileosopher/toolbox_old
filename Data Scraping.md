@@ -47,7 +47,8 @@ Random Number Generator:
 	[RANDOM.ORG☁](https://www.random.org/)
 
 Step-by-Step Instructions:  
-	[Mathway*(step-by-step)](https://www.mathway.com/)
+	[Mathway☁](https://www.mathway.com/) / 
+	[BetterExplained*](https://betterexplained.com/)
 
 ## Niche: News/Trends/Events
 
