@@ -49,6 +49,28 @@ Random Number Generator:
 Step-by-Step Instructions:  
 	[Mathway*(step-by-step)](https://www.mathway.com/)
 
+## Niche: News/Trends/Events
+
+International Time:  
+	[Every Time Zone☁](https://everytimezone.com/)
+
+News (Aggregation):  
+	[[INSIDE]☁](https://inside.com/)
+
+Popular Trends:  
+	[Google Trends☁](https://trends.google.com/)
+
+## Niche: Personal Information
+
+Flights:  
+	[FlightStats by Cirium☁](https://www.flightstats.com)
+
+Packages:  
+	[Boxoh☁](http://www.boxoh.com/)
+
+Rewards Points:  
+	[Award Wallet☁](https://awardwallet.com/)
+
 ## Niche: Science
 
 Astronomy:  
@@ -72,6 +94,9 @@ Software:
 	[AlternativeTo☁](https://alternativeto.net/) / 
 	[Capterra☁](https://www.capterra.com/)
 
+Wireless Networks:  
+	[WiGLE☁](https://wigle.net/)
+
 ## Niche: Other
 
 Color Extraction:  
@@ -86,26 +111,6 @@ Investing:
 
 Torah/Bible-related:  
 	[The SWORD Project⬇️](https://www.crosswire.org/sword/modules/index.jsp)
-
-## Tracking
-
-International Time:  
-	[Every Time Zone☁](https://everytimezone.com/)
-
-News Aggregation:  
-	[[INSIDE]☁](https://inside.com/)
-
-Packages:  
-	[Boxoh☁](http://www.boxoh.com/)
-
-Flights:  
-	[FlightStats by Cirium☁](https://www.flightstats.com)
-
-Wireless Networks:  
-	[WiGLE☁](https://wigle.net/)
-
-Popular Trends:  
-	[Google Trends☁](https://trends.google.com/)
 
 ## Cleaning/Prepping
 
