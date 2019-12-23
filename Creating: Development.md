@@ -14,10 +14,17 @@ Front-End IDEs:
 
 ## Code Snips
 
+Forms - PHP:  
+	[pForm☁](http://www.phpform.org/)
+
+Forms - jQuery:  
+	[jQuery formBuilder☁](https://formbuilder.online/)
+
 CSS:  
 	[codrops' CSS Reference☁](https://tympanus.net/codrops/css_reference/) / 
 	[imagehover.css☁](http://imagehover.io/)
-  
+
+
 CSS/HTML/JS:  
 	[CodyHouse Components☁](https://codyhouse.co/ds/components) / 
 	[Globals☁](https://codyhouse.co/ds/globals) / 
