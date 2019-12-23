@@ -21,7 +21,8 @@ Singing Training:
 	[Solfege⬛](https://portableapps.com/apps/education/solfege-portable)
 
 Video Recording/Streaming:  
-	[OBS Studio⬛](https://obsproject.com/)
+	[OBS Studio⬛](https://obsproject.com/) / 
+	[Streamlabs OBS⬛](https://streamlabs.com/streamlabs-obs)
 
 ## Editing
 
