@@ -1,31 +1,39 @@
-# Managing: Hardware
+# Managing: Recommended Hardware
 
-## Preventative Maintenance
 
-Software Update:  
-  [Ninite⬇️](https://ninite.com/)
-  
-Hardware Upgrade:  
-  [Crucial by Micron☁](https://www.crucial.com/)
-  
-Backup/Restore:
-  [Clonezilla⬛](https://clonezilla.org/) / 
-  [Recuva⬛](https://www.ccleaner.com/recuva)
-  
-Portable Computing:  
-  [PortableApps.com⬛](https://portableapps.com/) / 
-  [Pendrivelinux.com⬛](https://www.pendrivelinux.com/) / 
-  [UNetbootin⬛](https://unetbootin.github.io/)
-  
-## Diagnostics - Hardware
+## General-Purpose Tools
 
-USB drive loaded with a decent version of Linux and/or many, many portable apps
+Leatherman/Victorinox multitool
+
+Hammer
+
+Screwdrivers, various sizes
+
+Standard and needlenose pliers
+
+Utility knife
+
+Plenty of anti-static mats, wrist straps, and cloths
+
+Protective gloves
+
+Headlamp
+
+## Universally Convenient Peripherals
+
+Secondary/gaming keypad (for faster macros)
+
+10-key (for small laptops when inputting data)
+
+USB extension cables and USB hubs
+
+## For Hardware Diagnostics
+
+USB drive(s) loaded with a decent version of Linux and/or a plethora of portable apps
 
 A _wired_ USB keyboard (less trouble to setup)
 
 Bluetooth keyboard (for mobile devices)
-
-USB extension cables and USB hubs
 
 POST card
 
@@ -33,7 +41,7 @@ Loopback plugs
 
 Multimeter
 
-## Diagnostics - Connections
+## For Diagnosing Connections
 
 Tone and probe kit
 
@@ -53,7 +61,7 @@ USB to serial adapter
 
 PoE cable
 
-## Running/Recabling
+## For Running/Recabling
 
 Cable strippers, crimpers, and electrician's scissors
 
@@ -68,30 +76,3 @@ Punchdown tools
 Fishing rods
 
 Drywall saw
-
-## General Tools
-
-Leatherman/Victorinox multitool
-
-Hammer
-
-Screwdrivers, various sizes
-
-Standard and needlenose pliers
-
-Utility knife
-
-Plenty of anti-static mats, wrist straps, and cloths
-
-Protective gloves
-
-Headlamp
-
-## Peripherals
-
-Secondary/gaming keypad (for faster macros)
-
-10-key (for small laptops when inputting data)
-
-## Other Tools
-
