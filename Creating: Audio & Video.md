@@ -1,5 +1,14 @@
 # Creating: Audio & Video
 
+## Recording Repos
+
+Sound Effects:  
+	[Freesound☁](https://freesound.org/)
+
+Samples/Loops:  
+	[SampleSwap☁](https://sampleswap.org/)
+	[Looperman☁](https://www.looperman.com/)
+
 ## Creation
 
 Audio Recording/Mixing:  
