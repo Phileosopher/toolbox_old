@@ -29,6 +29,14 @@ Translation:
 Word Pronunciation:  
 	[YouGlish☁](https://youglish.com/)
 
+## Niche: Location-Based
+
+International Time:  
+	[Every Time Zone☁](https://everytimezone.com/)
+
+Map/Geolocation:  
+	[OpenStreetMap☁](https://www.openstreetmap.org/about)
+
 ## Niche: Math/Calculators
 
 General-purpose Calculators:  
@@ -51,9 +59,6 @@ Step-by-Step Instructions:
 	[BetterExplained*](https://betterexplained.com/)
 
 ## Niche: News/Trends/Events
-
-International Time:  
-	[Every Time Zone☁](https://everytimezone.com/)
 
 News (Aggregation):  
 	[[INSIDE]☁](https://inside.com/)
