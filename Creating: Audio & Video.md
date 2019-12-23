@@ -4,7 +4,8 @@
 
 Audio Recording/Mixing:  
 	[Audacity⬛](https://www.audacityteam.org/) / 
-	[LMMS⬛](https://lmms.io/)
+	[LMMS⬛](https://lmms.io/) / 
+	[Bandlab's Cakewalk⬇️](https://www.bandlab.com/products/cakewalk)
 
 Audio Separation:  
 	[Spleeter⬇️](https://github.com/deezer/spleeter)
