@@ -1,4 +1,4 @@
-# Managing: Trust Issues
+# Prevention: Trust Issues
 
 ## Web Anonymity
 
