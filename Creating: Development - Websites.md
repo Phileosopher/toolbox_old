@@ -116,6 +116,9 @@ Site Speed Test:
 Google Business Review Link Generator:  
 	[Supple's Business Review Link Generator☁](https://supple.com.au/tools/google-review-link-generator/)
 
+Local Business Schema Generator:  
+	[Supple's Local Business Schema Generator☁](https://supple.com.au/tools/local-business-schema-generator/)
+
 Analytics:  
 	[Clicky☁](https://clicky.com/) / 
 	[Google Analytics☁](https://analytics.google.com/) / 
