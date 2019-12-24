@@ -1,4 +1,4 @@
-# Creating: Visual
+# Creating: Visual/CG
 
 ## Visual Data Repos
 
@@ -110,16 +110,37 @@ Icons/Cursors/Animations:
 
 ## Creating Elements: 3D Renders
 
-Models:  
+CAD:  
+	[FreeCAD⬇️](https://www.freecadweb.org/)
+
+Graphics:  
 	[Blender⬛](https://www.blender.org/) / 
 	[K-3D⬛](http://www.k-3d.org/)
+
+Game Engines:  
+	[Unity⬇️](https://unity.com/) / 
+	[Godot Engine⬇️](https://godotengine.org/)
+	[Unreal Engine⬇️](https://www.unrealengine.com/)
+	[Source SDK⬇️](https://developer.valvesoftware.com/wiki/SDK_Installation)
 
 Home Design:  
 	[Easyhome Homestyler☁](https://www.homestyler.com)
 
+Human Models:  
+	[MakeHuman⬇️](http://www.makehumancommunity.org/)
+
+Multitool:  
+	[SketchUp☁](https://www.sketchup.com/)
+
 Physics Models:  
 	[Algodoo⬇️](http://www.algodoo.com/)
-  
+
+Videos:  
+	[Source Filmmaker⬇️](https://store.steampowered.com/app/1840/Source_Filmmaker/)
+
+Voxel Art/Path Tracing Renderer:  
+	(MagicaVoxel(Github)⬇️)[https://ephtracy.github.io/]
+
 ## Assembling/Publishing
 
 Presentations:  
@@ -140,10 +161,10 @@ Timelines:
 Word Clouds:  
 	[WordClouds.com☁](https://www.wordclouds.com/)
   
-Prototyping/Collaboration:
+Prototyping/Collaboration:  
 	[Figma☁](https://www.figma.com/) / 
-	[Marvel☁](https://marvelapp.com/) / 
 	[InVision☁](https://www.invisionapp.com/) / 
+	[Marvel☁](https://marvelapp.com/) / 
 	[Pencil Project⬛](https://pencil.evolus.vn/)
 
 ## Visual Testing
