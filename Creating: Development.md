@@ -59,3 +59,6 @@ Hash/ID Generation:
 
 Web Debugging:  
 	[Telerik's Fiddler⬇️](https://www.telerik.com/fiddler)
+
+Structured Data:  
+	[Google's Structured Data Testing Tool☁](https://search.google.com/structured-data/testing-tool/u/0/)
