@@ -1,6 +1,6 @@
 # Data Scraping
 
-## Finding/Getting
+## General
 
 Google's Advanced Search Operators:  
 	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
@@ -34,8 +34,9 @@ Word Pronunciation:
 International Time:  
 	[Every Time Zone☁](https://everytimezone.com/)
 
-Map/Geolocation:  
-	[OpenStreetMap☁](https://www.openstreetmap.org/about)
+Maps/Geolocation:  
+	[OpenStreetMap☁](https://www.openstreetmap.org/about) / 
+	[Google Earth⬇️](https://www.google.com/earth/)
 
 ## Niche: Math/Calculators
 
