@@ -25,13 +25,13 @@ Secondary/gaming keypad (for faster macros)
 
 10-key (for small laptops when inputting data)
 
-USB extension cables and USB hubs
+USB extensions and hubs
 
 ## For Hardware Diagnostics
 
 USB drive(s) loaded with a decent version of Linux and/or a plethora of portable apps
 
-A _wired_ USB keyboard (less trouble to setup)
+Wired USB keyboard (less trouble to setup)
 
 Bluetooth keyboard (for mobile devices)
 
@@ -43,21 +43,17 @@ Multimeter
 
 ## For Diagnosing Connections
 
-Tone and probe kit
+Toner kit
 
 Cable tester(s)
 
 Wireless analyzer
 
-Extra network switch for diagnosis
+USB NIC
 
-USB/ethernet adapter
+USB/ethernet, Lightning/ethernet, and USB/serial adapters
 
-Lightning/ethernet adapter
-
-Cisco rollover cable (Serial/RJ45)
-
-USB to serial adapter
+Yost cable (Serial/RJ45)
 
 PoE cable
 
@@ -65,7 +61,7 @@ PoE cable
 
 Cable strippers, crimpers, and electrician's scissors
 
-Cat5e cable/tips
+Extra RJ-45 cable/tips/boots
 
 Extra SFPs, especially a multi-mode LC
 
