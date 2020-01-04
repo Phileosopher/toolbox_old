@@ -14,13 +14,12 @@ Front-End IDEs:
 
 ## Code Snips/Libraries
 
-CSS:  
-	[codrops' CSS Reference☁](https://tympanus.net/codrops/css_reference/) / 
+CSS - Properties:  
+	[codrops' CSS Reference*](https://tympanus.net/codrops/css_reference/)
+CSS - imagehover:  
 	[imagehover.css☁](http://imagehover.io/)
 
-CSS/HTML/JS:  
-	[CodyHouse Components☁](https://codyhouse.co/ds/components) / 
-	[Globals☁](https://codyhouse.co/ds/globals) / 
+HTML/CSS/JS:  
 	[Code My UI☁](https://codemyui.com/) / 
 	[LittleSnippets.net☁](https://littlesnippets.net/)
 
