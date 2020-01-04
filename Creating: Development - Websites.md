@@ -113,6 +113,9 @@ Site Speed Test:
 	[GTmetrix☁](https://gtmetrix.com) / 
 	[Google PageSpeed☁](https://developers.google.com/speed/pagespeed/insights/)
 
+JIT Preloading:  
+	[instant.page☁](https://instant.page/)
+
 Google Business Review Link Generator:  
 	[Supple's Business Review Link Generator☁](https://supple.com.au/tools/google-review-link-generator/)
 
