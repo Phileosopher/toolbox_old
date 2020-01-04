@@ -1,0 +1,3 @@
+# Path for Windows Start Menu shortcuts
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs
