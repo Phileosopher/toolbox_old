@@ -1,4 +1,16 @@
-# Creating: Writing
+# Creating: Writing/Speeches
+
+## Inspiration
+
+Auto-Generated:  
+	[Masterpiece Generator☁](https://www.plot-generator.org.uk/)
+
+Illustrations:  
+	[Sermon Illustrations*](http://www.moreillustrations.com/) / 
+	[Sermon Illustrations*](http://www.sermonillustrations.com/)	
+
+Quotes:  
+	[BrainyQuote*](https://www.brainyquote.com/)
 
 ## Building
 
@@ -15,13 +27,10 @@ Word Processor:
 Text Character Reference:  
 	[Copy Paste Character☁](https://www.copypastecharacter.com/) / 
 	[BabelMap⬛](http://www.babelstone.co.uk/Software/BabelMap.html)
-  
-Auto-Generated Inspiration:  
-	[Masterpiece Generator☁](https://www.plot-generator.org.uk/)
-  
+
 Journaling:  
 	[RedNotebook⬛](https://rednotebook.sourceforge.io/)
-  
+
 ## Editing
 
 Thesaurus/Dictionary:  
