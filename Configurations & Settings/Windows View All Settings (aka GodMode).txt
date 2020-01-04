@@ -1,0 +1,7 @@
+1. Create a folder
+
+2. Rename it to the following:
+
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+NOTE: Can rename GodMode to anything that abides by standard folder conventions
