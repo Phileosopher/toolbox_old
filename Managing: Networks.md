@@ -21,7 +21,7 @@ Network Snapshots:
 
 Traffic Analysis:  
 	[MRTG (Multi Router Traffic Grapher)⬇️](https://oss.oetiker.ch/mrtg/)
-	
+
 Exploration/Auditing:  
 	[Nmap/Zenmap⬇️](https://nmap.org/)
 
@@ -40,6 +40,10 @@ MAC Lookup:
 Cabled Providers:  
 	[BroadbandNow.com☁](https://broadbandnow.com/)
 
+## Configuring
+
+Telnet/SSH client:  
+	[PuTTY⬛](https://putty.org/)
 
 ## Documentation
 
