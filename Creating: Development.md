@@ -12,6 +12,9 @@ Front-End IDEs:
 	[CodePen☁](https://codepen.io/) / 
 	[repl.it☁](https://repl.it/)
 
+API Cheatsheets:  
+	[OverAPI.com☁](http://overapi.com/)
+
 ## Code Snips/Libraries
 
 CSS - Properties:  
