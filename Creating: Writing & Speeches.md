@@ -2,8 +2,9 @@
 
 ## Inspiration
 
-Auto-Generated:  
-	[Masterpiece Generator☁](https://www.plot-generator.org.uk/)
+Generated:  
+	[Masterpiece Generator☁](https://www.plot-generator.org.uk/) / 
+	[WordCounter.net's Random Word Generator☁](https://wordcounter.net/random-word-generator)
 
 Illustrations:  
 	[Sermon Illustrations*](http://www.moreillustrations.com/) / 
@@ -31,6 +32,9 @@ Text Character Reference:
 Journaling:  
 	[RedNotebook⬛](https://rednotebook.sourceforge.io/)
 
+Text Character Reference:  
+	[Citation Generator☁](https://www.citationgenerator.com/)
+
 ## Editing
 
 Thesaurus/Dictionary:  
@@ -43,3 +47,9 @@ Grammar/Spelling/Style Check:
 	[Hemingway App☁](http://www.hemingwayapp.com/) / 
 	[Readable☁](https://app.readable.com/text/?demo) / 
 	[Grammarly⬇️](https://app.grammarly.com/)
+
+Counting:  
+	[WordCounter.net's Editor Counter☁](https://wordcounter.net/edit-counter) / 
+	[WordCounter.net's Character Counter☁](https://wordcounter.net/character-count) / 
+	[WordCounter.net's Website Page Word Counter☁](https://wordcounter.net/website-word-count) / 
+	[WordCounter.net's Words Per Page☁](https://wordcounter.net/words-per-page)
