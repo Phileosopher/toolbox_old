@@ -52,6 +52,9 @@ Stock Icons:
 	[Noun Project⬇️](https://thenounproject.com/) / 
 	[Typicons⬇️](https://www.s-ings.com/typicons/)
 
+SVGs:  
+	[unDraw⬇️](https://undraw.co/)
+
 Multi-Element Forage Zones:  
 	[365psd⬇️](https://365psd.com/) / 
 	[AllTheFreeStock⬇️](https://allthefreestock.com/) / 
@@ -72,7 +75,7 @@ Multi-Element Forage Zones:
 	[Start Bootstrap⬇️](https://startbootstrap.com/) / 
 	[Stockio⬇️](https://www.stockio.com/)
 
-Premade Fonts:  
+Fonts:  
 	[dafont.com⬇️](https://www.dafont.com/) / 
 	[Font Squirrel⬇️](https://www.fontsquirrel.com/) / 
 	[Google Fonts⬇️](https://fonts.google.com/) / 
