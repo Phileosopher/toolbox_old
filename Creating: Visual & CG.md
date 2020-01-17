@@ -93,6 +93,9 @@ Vector Graphics:
 	[Canva☁](https://www.canva.com/) / 
 	[Inkscape⬛](https://inkscape.org/)
 
+Drawing/Painting:  
+	[Krita⬛](https://krita.org/en/)
+
 ## Creating Elements: 2D Renders
 
 CAD:  
@@ -106,7 +109,8 @@ Font Builder:
 
 Icons/Cursors/Animations:  
 	[GFIE Pro⬛](http://greenfishsoftware.org/) / 
-	[Pencil2D Animation⬛](https://www.pencil2d.org/)
+	[Pencil2D Animation⬛](https://www.pencil2d.org/) / 
+	[OpenToonz⬇️](https://opentoonz.github.io/e/)
 
 ## Creating Elements: 3D Renders
 
