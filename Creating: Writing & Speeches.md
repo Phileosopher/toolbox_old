@@ -46,7 +46,8 @@ Grammar/Spelling/Style Check:
 	[After the Deadline☁](https://www.polishmywriting.com/) / 
 	[Hemingway App☁](http://www.hemingwayapp.com/) / 
 	[Readable☁](https://app.readable.com/text/?demo) / 
-	[Grammarly⬇️](https://app.grammarly.com/)
+	[Grammarly⬇️](https://app.grammarly.com/) / 
+	[Bullshit.js⬇️](https://mourner.github.io/bullshit.js/)
 
 Counting:  
 	[WordCounter.net's Editor Counter☁](https://wordcounter.net/edit-counter) / 
