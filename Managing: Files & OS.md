@@ -56,13 +56,8 @@ File Data:
 	[FileInfo☁](https://fileinfo.com/) / 
 	[FileAlyzer⬛](https://www.safer-networking.org/products/filealyzer/)
 
-## Disk Space Management
-
-PC Junk Cleaning:  
-	[CCleaner⬛](https://www.ccleaner.com/)
-
 Disk Usage:  
-	[WinDirStat⬛](https://windirstat.net/) / 
+	[WinDirStat⬛](https://windirstat.net/)
 
 ## Process Monitoring
 
