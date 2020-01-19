@@ -1,10 +1,12 @@
 # Managing: Files/OS
 
-## File Management
+## Navigation
 
 Folder Navigation:  
 	[FileVoyager⬛](https://www.filevoyager.com/) / 
 	[TidyTabs(tabs for all programs)⬛](https://www.nurgo-software.com/products/tidytabs)
+
+## File Manipulation
 
 Batch Renaming:  
 	[Ant Renamer️⬛](https://www.antp.be/software/renamer)
