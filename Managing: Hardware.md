@@ -2,14 +2,27 @@
 
 ## Hardware Status
 
-Laptop Battery Status:  
-	[HDDExpert⬇️](https://kcsoftwares.com/?hdde)
+General Hardware:  
+	[HWiNFO⬛](https://www.hwinfo.com/)
 
-Laptop Battery Status:  
-	[BATExpert⬇️](https://kcsoftwares.com/?batexpert)
+CPU:  
+	[CPU-Z⬛](https://www.cpuid.com/softwares/cpu-z.html)
 
-RAM Status:  
+RAM:  
 	[RAMExpert⬇️](https://kcsoftwares.com/?ramexpert)
+
+PCI Assets:  
+	[PCI-Z⬛](https://www.pci-z.com/)
+
+Graphics Card:  
+	[GPU-Z⬛](https://www.techpowerup.com/gpuz/)
+
+HD:  
+	[HDDExpert⬇️](https://kcsoftwares.com/?hdde) / 
+	[SSD-Z⬛](http://aezay.dk/aezay/ssdz/)
+
+Laptop Battery:  
+	[BATExpert⬇️](https://kcsoftwares.com/?batexpert)
 
 ## Hardware Planning
 
