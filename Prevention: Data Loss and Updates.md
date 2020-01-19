@@ -34,4 +34,5 @@ Portable Apps:
 	
 Portable OS:  
 	[Pendrivelinux.com⬛](https://www.pendrivelinux.com/) / 
-  [UNetbootin⬛](https://unetbootin.github.io/)
+	[UNetbootin⬛](https://unetbootin.github.io/) / 
+	[Rufus⬛](https://rufus.ie/)
