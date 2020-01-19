@@ -5,10 +5,10 @@
 A/V Playback - WinOS:  
 	[VLC⬛](https://www.videolan.org/vlc/)
 
-A/V Playback - Unix-like:
+A/V Playback - Unix-like:  
 	[SMPlayer⬛](https://www.smplayer.info/)
 
-Library Management - 10-foot UI:
+Library Management - 10-foot UI:  
 	[Kodi⬛](https://kodi.tv/)
 
 Library Management - Music:  
