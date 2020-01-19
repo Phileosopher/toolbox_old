@@ -17,22 +17,19 @@ PC Junk:
 SQLite Databases:  
 	[SpeedyFox⬛](https://www.crystalidea.com/speedyfox)
 
-## System Recovery
+## Backup/Recovery
 
-Backup/Restore:
-	[Ignition⬛](https://kcsoftwares.com/?ignition)
-
-CD/DVD Backup:
-	[Clonezilla⬇️](https://clonezilla.org/) / 
-
-Hard Drive Recovery:
+HD:
 	[Recuva⬛](https://www.ccleaner.com/recuva) / 
 	[TestDisk⬇️](https://www.cgsecurity.org/wiki/TestDisk)
+
+CD/DVD:
+	[Clonezilla⬇️](https://clonezilla.org/) / 
 
 MBR Management:  
 	[HDHacker⬛](http://dimio.altervista.org/eng/#HDHacker)
 
-Specific File Recovery:  
+Photo Recovery:  
 	[PhotoRec⬇️](https://www.cgsecurity.org/wiki/PhotoRec)
 
 ## Portable Computing
