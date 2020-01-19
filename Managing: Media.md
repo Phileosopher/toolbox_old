@@ -69,3 +69,6 @@ Image Conversion/Optimization:
 	[ImgConvert⬇️](http://www.pazera-software.com/products/img-convert/) / 
 	[Caesium⬇️☁](https://saerasoft.com/caesium/) / 
 	[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize)
+
+Image Conversion/Optimization:  
+	[VideoInspector⬇️](https://kcsoftwares.com/?vtb)
