@@ -24,6 +24,9 @@ Batch Archive/Extract:
 ISO Mounting:  
 	[WinCDEmu⬛](http://wincdemu.sysprogs.org/)
 
+ISO Mounting:  
+	[DSynchronize⬛](http://dimio.altervista.org/eng/#DSynchronize)
+
 ## File Search
 
 File/Program Search:  
@@ -53,6 +56,9 @@ PC Junk Cleaning:
 
 Disk Usage:  
 	[WinDirStat⬛](https://windirstat.net/)
+
+MBR Management:  
+	[HDHacker⬇️](http://dimio.altervista.org/eng/#HDHacker)
 
 ## WinOS
 
