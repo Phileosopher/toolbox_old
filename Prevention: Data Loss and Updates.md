@@ -8,7 +8,15 @@ Software Update:
 
 Driver Update:  
 	[DUMo⬛](https://kcsoftwares.com/?dumo)
-  
+
+## Cleanup
+
+PC Junk:  
+	[CCleaner⬛](https://www.ccleaner.com/)
+
+SQLite Databases:  
+	[SpeedyFox⬛](https://www.crystalidea.com/speedyfox)
+
 ## System Recovery
 
 Backup/Restore:
