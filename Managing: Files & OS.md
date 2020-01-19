@@ -1,11 +1,5 @@
 # Managing: Files/OS
 
-## Navigation
-
-Folder Navigation:  
-	[FileVoyager⬛](https://www.filevoyager.com/) / 
-	[TidyTabs(tabs for all programs)⬛](https://www.nurgo-software.com/products/tidytabs)
-
 ## File Manipulation
 
 File Splitting:  
