@@ -57,9 +57,6 @@ PC Junk Cleaning:
 Disk Usage:  
 	[WinDirStat⬛](https://windirstat.net/)
 
-MBR Management:  
-	[HDHacker⬇️](http://dimio.altervista.org/eng/#HDHacker)
-
 ## WinOS
 
 Linux Simulator:  
