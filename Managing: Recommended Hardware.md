@@ -1,5 +1,23 @@
-# Managing: Recommended Hardware
+# Managing: Hardware
 
+## Hardware Status
+
+Laptop Battery Status:  
+	[HDDExpert⬇️](https://kcsoftwares.com/?hdde)
+
+Laptop Battery Status:  
+	[BATExpert⬇️](https://kcsoftwares.com/?batexpert)
+
+RAM Status:  
+	[RAMExpert⬇️](https://kcsoftwares.com/?ramexpert)
+
+## Hardware Planning
+
+PC Builds:  
+	[PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
+
+Hardware Upgrade:  
+	[Crucial by Micron☁](https://www.crucial.com/)
 
 ## General-Purpose Tools
 
