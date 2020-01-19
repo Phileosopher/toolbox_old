@@ -28,13 +28,16 @@ IP Lookup:
 Network connection viewer (for Linux):  
 	[Netactview⬇️](http://netactview.sourceforge.net/)
 
+tracert/ping GUI:
+	[WinMTR⬛](https://www.bitwizard.nl/mtr/)
+
 ## L4
 
 Probe:  
 	[Nmap/Zenmap⬇️](https://nmap.org/)
 
 TCP/UDP Monitoring:  
-	[PortExpert⬇️](https://kcsoftwares.com/?portexpert)
+	[TCPView⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
 ## L5-7
 
