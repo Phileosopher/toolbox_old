@@ -39,19 +39,25 @@ Built-in:
 Quickstart Keys:  
 	[ControlPad(start programs with number pad)⬛](https://sector-seven.com/software/controlpad)
 
-Clipboard Manager:  
-	[Ditto⬛](https://ditto-cp.sourceforge.io/)
-
 DIY Shortcuts:  
 	[AutoHotkey(keyboard shortcut macros)⬇️](https://www.autohotkey.com/) / 
 	[TinyTask(macros)⬛](https://www.tinytask.net/) / 
 	[Texter(text substitution)⬛](https://texter.en.softonic.com/)
 
+## OS Optimization
+
+Clipboard Manager:  
+	[Ditto⬛](https://ditto-cp.sourceforge.io/)
+
+Folder Navigation:  
+	[Double Commander⬇️](https://doublecmd.sourceforge.io/) / 
+	[FreeCommander⬛](https://freecommander.com/en/summary/)
+
 ## Automation
 
 Service Synchronization:  
 	[IFTTT☁](https://ifttt.com) / 
-	[Zapier☁⬇️](https://zapier.com/)
+	[Zapier☁](https://zapier.com/)
 
 ## Focus
 
