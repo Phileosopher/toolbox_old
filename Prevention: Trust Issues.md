@@ -2,8 +2,8 @@
 
 ## Web Anonymity
 
-Ads Opt-Out:  
-	[Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/)
+Web Browser:  
+	[Tor Browser⬇️](https://www.torproject.org/)
 
 Browser Fingerprint:  
 	[AmIUnique☁](https://amiunique.org/)
@@ -11,6 +11,8 @@ Browser Fingerprint:
 Data Breach Search:  
 	[have i been pwned?☁](https://haveibeenpwned.com/) / 
 	[WhatIsMyIPAddress' Trace Email☁](https://whatismyipaddress.com/trace-email)
+
+## Sending Information
 
 Email Short Link:  
 	[scr.im☁](http://scr.im/)
@@ -21,11 +23,6 @@ Temporary Email:
 	[Email On Deck☁](https://www.emailondeck.com/) / 
 	[guerrillamail.com☁](https://www.guerrillamail.com/)
 
-## Sensitive Information
-
-Password Management:  
-	[KeePass⬛](https://keepass.info/)
-
 Sending Corrupted Files:  
 	[Corrupt-a-File.net☁](https://corrupt-a-file.net/)
 
@@ -35,24 +32,32 @@ Short-Term Notes:
 Short-Term File Sharing:  
 	[Ge.tt☁](http://ge.tt/)
 
-## Defensive Scans
+## Secure Data Storage
 
-File Virus Scan:  
+Password Management:  
+	[KeePass⬛](https://keepass.info/)
+
+Cloud Storage:  
+	[MEGA☁](https://mega.nz/)
+
+## Virus Scans
+
+Files:  
 	[Jotti's malware scan☁](https://virusscan.jotti.org/)
 
-Short Link Investigator:  
+Short Links:  
 	[unFurlr☁](https://unfurlr.com/)
 
-Website Virus Scan:  
+Websites:  
 	[Norton Safe Web☁](https://safeweb.norton.com/)
 
-WHOIS Lookup:  
-	[WhoDat⬛](https://portableapps.com/apps/utilities/whodat-portable)
-
-## CySec
+## Probes
 
 Pen Test:  
 	[Nmap/Zenmap⬇️](https://nmap.org/)
+
+WHOIS Lookup:  
+	[WhoDat⬛](https://portableapps.com/apps/utilities/whodat-portable)
 
 ## Deletion
 
@@ -62,6 +67,9 @@ Account Deleter:
 File Deletion:  
 	[BleachBit⬛](https://www.bleachbit.org/) / 
 	[DBAN (Darik's Boot & Nuke)⬇️](https://dban.org/)
+
+Ads Opt-Out:  
+	[Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/)
 
 ## IRL
 
