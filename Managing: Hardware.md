@@ -9,7 +9,7 @@ CPU:
 	[CPU-Z⬛](https://www.cpuid.com/softwares/cpu-z.html)
 
 RAM:  
-	[RAMExpert⬇️](https://kcsoftwares.com/?ramexpert)
+	[RAMMap⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 
 PCI Assets:  
 	[PCI-Z⬛](https://www.pci-z.com/)
@@ -18,7 +18,6 @@ Graphics Card:
 	[GPU-Z⬛](https://www.techpowerup.com/gpuz/)
 
 HD:  
-	[HDDExpert⬇️](https://kcsoftwares.com/?hdde) / 
 	[SSD-Z⬛](http://aezay.dk/aezay/ssdz/) / 
 	[CrystalDiskMark⬛](https://crystalmark.info/en/software/crystaldiskmark/)
 
