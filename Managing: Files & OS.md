@@ -8,26 +8,28 @@ Folder Navigation:
 
 ## File Manipulation
 
-Batch Renaming:  
-	[Ant Renamer️⬛](https://www.antp.be/software/renamer)
-
-Batch Copying:  
-	[FastCopy⬛](https://fastcopy.jp/en/)
-
-Batch Merging:  
-	[WinMerge⬛](https://winmerge.org/)
-
 File Splitting:  
 	[KFK⬇️](https://kcsoftwares.com/?kfk)
-
-Batch Archive/Extract:  
-	[PeaZip⬛](https://www.peazip.org/)
 
 ISO Mounting:  
 	[WinCDEmu⬛](http://wincdemu.sysprogs.org/)
 
-ISO Mounting:  
+File Synchronization:  
 	[FreeFileSync⬛](https://freefilesync.org/)
+
+## Batch File Management
+
+Renaming:  
+	[Ant Renamer️⬛](https://www.antp.be/software/renamer)
+
+Copying:  
+	[FastCopy⬛](https://fastcopy.jp/en/)
+
+Merging:  
+	[WinMerge⬛](https://winmerge.org/)
+
+Archive/Extract:  
+	[PeaZip⬛](https://www.peazip.org/)
 
 ## File Search
 
@@ -60,7 +62,7 @@ PC Junk Cleaning:
 	[CCleaner⬛](https://www.ccleaner.com/)
 
 Disk Usage:  
-	[WinDirStat⬛](https://windirstat.net/)
+	[WinDirStat⬛](https://windirstat.net/) / 
 
 ## Process Monitoring
 
