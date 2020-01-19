@@ -1,4 +1,4 @@
-# Data Scraping
+# Creating: Data Scraping
 
 ## General
 
@@ -6,14 +6,25 @@ Google's Advanced Search Operators:
 	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
 	[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
 
-Downloading/Feeds:  
-	[Free Download Manager⬇️](https://www.freedownloadmanager.org/) / 
-	[KeepVid☁](https://keepvid.com/) / 
-	[QuiteRSS⬛](https://quiterss.org/) / 
-	[qBittorrent⬛](https://www.qbittorrent.org/)
-
 Memorization/Flashcards:  
 	[Mnemosyne⬛](https://mnemosyne-proj.org/)
+
+## Downloading
+
+Download Manager:  
+	[Free Download Manager⬇️](https://www.freedownloadmanager.org/)
+
+HTTP Media Downloads:  
+	[KeepVid☁](https://keepvid.com/)
+
+RSS:  
+	[QuiteRSS⬛](https://quiterss.org/)
+
+Torrents:  
+	[qBittorrent⬛](https://www.qbittorrent.org/)
+
+FTP Client:  
+	[FileZilla⬛](https://filezilla-project.org/)
 
 ## Niche: Language
 
