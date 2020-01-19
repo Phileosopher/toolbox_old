@@ -8,9 +8,6 @@ Software Update:
 
 Driver Update:  
 	[SUMo⬛](https://kcsoftwares.com/?sumo)
-
-Hardware Upgrade:  
-	[Crucial by Micron☁](https://www.crucial.com/)
   
 ## System Recovery
 
