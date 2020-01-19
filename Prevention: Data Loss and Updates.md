@@ -21,6 +21,9 @@ Hard Drive Recovery:
 	[Recuva⬛](https://www.ccleaner.com/recuva) / 
 	[TestDisk⬇️](https://www.cgsecurity.org/wiki/TestDisk)
 
+MBR Management:  
+	[HDHacker⬛](http://dimio.altervista.org/eng/#HDHacker)
+
 Specific File Recovery:  
 	[PhotoRec⬇️](https://www.cgsecurity.org/wiki/PhotoRec)
 
