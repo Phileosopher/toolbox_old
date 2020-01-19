@@ -7,7 +7,7 @@ Software Update:
 	[SUMo⬛](https://kcsoftwares.com/?sumo)
 
 Driver Update:  
-	[SUMo⬛](https://kcsoftwares.com/?sumo)
+	[DUMo⬛](https://kcsoftwares.com/?dumo)
   
 ## System Recovery
 
