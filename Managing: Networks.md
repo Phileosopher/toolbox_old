@@ -47,6 +47,10 @@ Speed Test:
 Persistent Connection Test:  
 	[Supple's keep-alive Validation SEO Tool☁](https://supple.com.au/tools/check-persistent-connection/)
 
+Remote Boot Management:  
+	[DShutdown⬇️](http://dimio.altervista.org/eng/#DShutdown)
+
+
 ## Monitoring
 
 Site Uptime History:  
