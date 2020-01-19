@@ -1,8 +1,8 @@
 # Managing: Hardware
 
-## Hardware Status
+## Status/Benchmarking
 
-General Hardware:  
+All-in-One:  
 	[HWiNFO⬛](https://www.hwinfo.com/)
 
 CPU:  
@@ -19,7 +19,9 @@ Graphics Card:
 
 HD:  
 	[HDDExpert⬇️](https://kcsoftwares.com/?hdde) / 
-	[SSD-Z⬛](http://aezay.dk/aezay/ssdz/)
+	[SSD-Z⬛](http://aezay.dk/aezay/ssdz/) / 
+	[CrystalDiskMark⬛](https://crystalmark.info/en/software/crystaldiskmark/)
+
 
 Laptop Battery:  
 	[BATExpert⬇️](https://kcsoftwares.com/?batexpert)
