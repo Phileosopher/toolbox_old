@@ -29,19 +29,22 @@ ISO Mounting:
 
 ## File Search
 
-File/Program Search:  
+Files/Programs:  
 	[Listary⬛](https://www.listary.com/) / 
 	[PathLocate⬇️](http://www.pazera-software.com/products/path-locate/)
 
-Duplicate File Search:  
+Duplicate Files:  
 	[Auslogics Duplicate File Finder⬛](https://www.auslogics.com/en/software/duplicate-file-finder/) / 
 	[dupeGuru⬇️](https://dupeguru.voltaicideas.net/)
 
-Empty Folder Search:  
+Empty Folder:  
 	[RmEDir⬇️](http://www.pazera-software.com/products/rmedir/)
 
-Shortcuts Search:  
+Shortcuts:  
 	[Shortcuts Search And Replace⬛](http://jacquelin.potier.free.fr/ShortcutsSearchAndReplace/)
+
+Removable Media:  
+	[Virtual Volumes View⬛](http://vvvapp.sourceforge.net/)
 
 ## File Analysis
 
@@ -57,13 +60,24 @@ PC Junk Cleaning:
 Disk Usage:  
 	[WinDirStat⬛](https://windirstat.net/)
 
+## Process Monitoring
+
+In-Depth Tracking:  
+	[Process Monitor⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+
+Tracing Memory Use:  
+	[VMMap⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
+
 ## WinOS
 
 Linux Simulator:  
 	[Cygwin⬇️](https://www.cygwin.com/)
 
-Registry Analysis:  
+Registry Browsing:  
 	[RegAlyzer⬛](https://www.safer-networking.org/products/regalyzer/)
+
+Registry Comparison:  
+	[WhatChanged⬛](https://portableapps.com/apps/utilities/whatchanged-portable)
 
 DLL/EXE Analysis:  
 	[PEInfo⬇️](http://www.pazera-software.com/products/peinfo/)
