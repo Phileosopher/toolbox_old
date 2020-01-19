@@ -12,6 +12,9 @@ Downloading/Feeds:
 	[QuiteRSS⬛](https://quiterss.org/) / 
 	[qBittorrent⬛](https://www.qbittorrent.org/)
 
+Memorization/Flashcards:  
+	[Mnemosyne⬛](https://mnemosyne-proj.org/)
+
 ## Niche: Language
 
 Book Reading Estimation:  
