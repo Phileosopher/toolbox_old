@@ -131,7 +131,8 @@ Game Engines:
 	[Source SDK⬇️](https://developer.valvesoftware.com/wiki/SDK_Installation)
 
 Home Design:  
-	[Easyhome Homestyler☁](https://www.homestyler.com)
+	[Easyhome Homestyler☁](https://www.homestyler.com) / 
+	[Sweet Home 3D⬇️](http://www.sweethome3d.com/)
 
 Human Models:  
 	[MakeHuman⬇️](http://www.makehumancommunity.org/)
