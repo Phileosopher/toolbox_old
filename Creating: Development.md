@@ -49,6 +49,9 @@ Tutorials:
 Github:  
 	[Github Docs*](https://try.github.io/)
 
+Git GUI:  
+	[Sourcetree⬇️](https://www.sourcetreeapp.com/)
+
 ## Generating Data
   
 Hash/ID Generation:  
