@@ -42,6 +42,9 @@ DNS Checker:
 Bootstrap CSS Themes:  
 	[Bootswatch☁](https://bootswatch.com/)
 
+WordPress Boilerplate:  
+	[Bedrock⬇️](https://roots.io/bedrock/)
+
 WordPress Templates/Themes/Plugins:  
 	[Colorlib☁](https://colorlib.com/wp/templates/) / 
 	[WordPress Plugins Library☁](https://wordpress.org/plugins/)
