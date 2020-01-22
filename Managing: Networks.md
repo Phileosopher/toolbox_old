@@ -53,7 +53,6 @@ Persistent Connection Test:
 Remote Boot Management:  
 	[DShutdown⬇️](http://dimio.altervista.org/eng/#DShutdown)
 
-
 ## Monitoring
 
 Site Uptime History:  
@@ -67,6 +66,11 @@ Traffic Analysis:
 
 Enterprise Monitoring:  
 	[openNMS⬇️](https://www.opennms.com/)
+
+## LANs
+
+IoT Server:  
+	[Home Assistant⬇️](https://www.home-assistant.io/)
 
 ## Documentation
 
