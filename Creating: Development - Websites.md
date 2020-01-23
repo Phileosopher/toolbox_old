@@ -37,10 +37,7 @@ Domain Registration:
 DNS Checker:  
 	[whatsmydns.net☁](https://www.whatsmydns.net/)
 
-## Design
-
-Bootstrap CSS Themes:  
-	[Bootswatch☁](https://bootswatch.com/)
+## CMS
 
 WordPress Boilerplate:  
 	[Bedrock⬇️](https://roots.io/bedrock/)
@@ -52,8 +49,10 @@ WordPress Templates/Themes/Plugins:
 Dev Environment:  
 	[Modernizr☁](https://modernizr.com/)
 
-Web Forms:  
-	[Google Forms☁](http://forms.google.com/)
+## Design
+
+Bootstrap CSS Themes:  
+	[Bootswatch☁](https://bootswatch.com/)
 
 Fonts:  
 	[FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/) / 
@@ -67,11 +66,25 @@ Search Feature:
 	[Google Custom Search Engine☁](https://cse.google.com/cse/) / 
 	[OpenSearch☁](http://www.opensearch.org/Home)
 
-## Usability Testing
+Web Forms:  
+	[Google Forms☁](http://forms.google.com/)
+
+## Functionality Testing
 
 Dead Link Check:  
 	[dead link checker☁](https://www.deadlinkchecker.com/) / 
 	[W3C Link Checker☁](https://validator.w3.org/checklink)
+
+Lint - CSS:  
+	[CSS Lint☁](http://csslint.net/)
+
+Validation - HTML:  
+	[W3C Markup Validation Service☁](https://validator.w3.org/)
+
+Validation - CSS:  
+	[W3C CSS Validation Service☁](http://jigsaw.w3.org/css-validator/)
+
+## Usability Testing
 
 Multi-Browser Testing:  
 	[Browser Shots☁](http://browsershots.org/) / 
