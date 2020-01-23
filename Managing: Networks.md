@@ -8,6 +8,9 @@ Mobile Network Test (for mobile):
 Cabled Providers:  
 	[BroadbandNow.com☁](https://broadbandnow.com/)
 
+Cable/Port Diagnosis:  
+	[5-in-1 network admin's cable*](http://www.ossmann.com/5-in-1.html)
+
 ## L2
 
 Protocol Analysis:  
