@@ -94,14 +94,15 @@ Rewards Points:
 
 ## Niche: Science
 
+Papers/Data:  
+	[Sci-Hub☁](https://sci-hub.se/) / 
+	[Library Genesis☁](https://libgen.is/)
+
 Astronomy:  
 	[Stellarium Web☁](https://stellarium-web.org/)
 
 Nutrition/Supplements:
 	[Examine.com☁](https://examine.com/)
-
-Papers:  
-	[Sci-Hub☁](https://sci-hub.se/)
 
 ## Niche: Tech
 
