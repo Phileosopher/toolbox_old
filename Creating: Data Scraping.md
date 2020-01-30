@@ -52,6 +52,9 @@ Maps/Geolocation:
 	[OpenStreetMap☁](https://www.openstreetmap.org/about) / 
 	[Google Earth⬇️](https://www.google.com/earth/)
 
+Nuclear Detonations:  
+	[NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)
+
 ## Niche: Math/Calculators
 
 General-purpose Calculators:  
