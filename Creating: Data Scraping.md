@@ -76,6 +76,9 @@ Step-by-Step Instructions:
 	[Mathway☁](https://www.mathway.com/) / 
 	[BetterExplained*](https://betterexplained.com/)
 
+Stock Option Outcome Calculator:  
+	[TLDR Stock Options☁](https://tldroptions.io/)
+
 ## Niche: News/Trends/Events
 
 News (Aggregation):  
