@@ -36,13 +36,18 @@ Built-in:
 	[Browser Shortcuts*](https://stucky.tech/toolbox/b) / 
 	[MS Office Shortcuts*](https://stucky.tech/toolbox/o)
 
-Quickstart Keys:  
-	[ControlPad(start programs with number pad)⬛](https://sector-seven.com/software/controlpad)
-
 DIY Shortcuts:  
 	[AutoHotkey(keyboard shortcut macros)⬇️](https://www.autohotkey.com/) / 
 	[TinyTask(macros)⬛](https://www.tinytask.net/) / 
-	[Texter(text substitution)⬛](https://texter.en.softonic.com/)
+
+NumPad Shortcuts:  
+	[ControlPad⬛](https://sector-seven.com/software/controlpad)
+
+Keys to Gamepad:  
+	[AntiMicro)⬛](https://github.com/AntiMicro/antimicro)
+
+Text Substitution:  
+	[Texter⬛](https://texter.en.softonic.com/)
 
 ## OS Optimization
 
