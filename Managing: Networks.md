@@ -67,6 +67,9 @@ Network Configuration Snapshots:
 Traffic Analysis:  
 	[MRTG (Multi Router Traffic Grapher)⬇️](https://oss.oetiker.ch/mrtg/)
 
+Data Transfer Analysis:  
+	[bandwhich(Unix-like)⬇️](https://github.com/imsnif/bandwhich)
+
 Enterprise Monitoring:  
 	[openNMS⬇️](https://www.opennms.com/)
 
