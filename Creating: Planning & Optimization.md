@@ -78,4 +78,5 @@ Ambient Noise:
 
 Freelancing:  
 	[Fiverr☁](https://www.fiverr.com/) / 
+	[Thumbtack☁](https://www.thumbtack.com/) / 
 	[Upwork☁](https://www.upwork.com/)
