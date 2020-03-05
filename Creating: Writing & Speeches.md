@@ -35,7 +35,7 @@ Journaling:
 Text Character Reference:  
 	[Citation Generator☁](https://www.citationgenerator.com/)
 
-## Editing
+## Editing - Transcript
 
 Thesaurus/Dictionary:  
 	[wordhippo☁](https://www.wordhippo.com/) / 
@@ -54,3 +54,9 @@ Counting:
 	[WordCounter.net's Character Counter☁](https://wordcounter.net/character-count) / 
 	[WordCounter.net's Website Page Word Counter☁](https://wordcounter.net/website-word-count) / 
 	[WordCounter.net's Words Per Page☁](https://wordcounter.net/words-per-page)
+
+## Editing - Final
+
+Text Conversion:  
+	[DOC to MD Converter☁](https://word2md.com/) / 
+	[e-book/PDF conversion☁](https://www.epubconverter.com/)
