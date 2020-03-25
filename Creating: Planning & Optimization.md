@@ -21,6 +21,9 @@ To Do Lists:
 Kanban Boards:  
 	[Trello☁⬇️](https://trello.com/)
 
+Grocery Management:  
+	[grocy☁⬇️](https://grocy.info/)
+
 ## Time Optimization
 
 Time Tracking:  
