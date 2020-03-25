@@ -2,7 +2,7 @@
 
 ## Real-Time
 Videoconferencing/Screensharing/Phone:  
-	[Zoom☁⬇️](https://zoom.us/)
+	[Jitsi Meet☁⬇️](https://meet.jit.si/)
 
 Webpage Markups:  
 	[Marker.to☁⬇️](http://marker.to/)
