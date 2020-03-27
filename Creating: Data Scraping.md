@@ -110,7 +110,7 @@ Papers/Data:
 Astronomy:  
 	[Stellarium Web☁](https://stellarium-web.org/)
 
-Nutrition/Supplements:
+Nutrition/Supplements:  
 	[Examine.com☁](https://examine.com/)
 
 ## Niche: Tech
@@ -145,6 +145,9 @@ Torah/Bible-related:
 
 ## Cleaning/Prepping
 
+Cleaning:  
+	[Zotero⬇️](https://www.zotero.org/)
+
 Spreadsheets:  
 	[Google Sheets☁](https://sheets.google.com) / 
 	[Microsoft Excel Online☁](https://office.live.com/start/Excel.aspx) / 
@@ -154,8 +157,9 @@ Approximate Spreadsheets:
 	[Guesstimate☁](https://www.getguesstimate.com/)
 
 Cleaning:  
-	[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
-)
+	[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) / 
+	[Zotero⬇️](https://www.zotero.org/)
+
 
 ## Mental Download
 
