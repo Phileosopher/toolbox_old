@@ -128,6 +128,9 @@ Software:
 Wireless Networks:  
 	[WiGLE☁](https://wigle.net/)
 
+Industrial/Tech Parts:  
+	[Octopart☁](https://octopart.com/)
+
 ## Niche: Other
 
 Color Extraction:  
