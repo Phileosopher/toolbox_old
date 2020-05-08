@@ -34,6 +34,9 @@ Domain Registration:
 	[namecheap☁](https://www.namecheap.com/) / 
 	[iwantmyname☁](https://iwantmyname.com/)
 
+Free Domains:  
+	[Freenom☁](https://www.freenom.com)
+
 DNS Checker:  
 	[whatsmydns.net☁](https://www.whatsmydns.net/)
 
