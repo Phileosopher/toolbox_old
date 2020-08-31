@@ -32,6 +32,10 @@ MBR Management:
 Photo Recovery:  
 	[PhotoRec⬇️](https://www.cgsecurity.org/wiki/PhotoRec)
 
+Website Download:  
+	[HTTrack Website Copier⬇️](https://www.httrack.com/)
+
+
 ## Portable Computing
 
 Portable Apps:  
