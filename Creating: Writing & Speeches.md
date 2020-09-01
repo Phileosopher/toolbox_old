@@ -27,12 +27,13 @@ Word Processor:
   
 Text Character Reference:  
 	[Copy Paste Character☁](https://www.copypastecharacter.com/) / 
-	[BabelMap⬛](http://www.babelstone.co.uk/Software/BabelMap.html)
+	[BabelMap⬛](http://www.babelstone.co.uk/Software/BabelMap.html) / 
+	[TypeIt☁](https://www.typeit.org/)
 
 Journaling:  
 	[RedNotebook⬛](https://rednotebook.sourceforge.io/)
 
-Text Character Reference:  
+Citations:  
 	[Citation Generator☁](https://www.citationgenerator.com/)
 
 ## Editing - Transcript
