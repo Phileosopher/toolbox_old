@@ -18,6 +18,11 @@ Sheet Music Notation:
 Singing Training:  
 	[Solfege⬛](https://portableapps.com/apps/education/solfege-portable)
 
+## Testing
+
+Tone Generation:  
+	[Online Tone Generator☁](https://www.szynalski.com/tone-generator/)
+
 ## Live-Action Performance
 
 Recording/Mixing - Audio:  
