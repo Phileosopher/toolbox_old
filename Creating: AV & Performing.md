@@ -32,7 +32,8 @@ Recording/mixing audio:
 
 Recording/streaming video:  
 	[OBS Studio⬛](https://obsproject.com/) / 
-	[Streamlabs OBS⬛](https://streamlabs.com/streamlabs-obs)
+	[Streamlabs OBS⬛](https://streamlabs.com/streamlabs-obs) / 
+	[VirtualDub⬛](https://sourceforge.net/projects/virtualdub/)
 
 Drum accompaniment:  
 	[AutoDrum⬛](https://openmidiproject.osdn.jp/AutoDrum_en.html)
