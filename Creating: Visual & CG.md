@@ -2,60 +2,7 @@
 
 ## Visual Data Repos
 
-Screenshots:  
-	[ShareX⬇️](https://getsharex.com/)
-  
-Color Inspiration:  
-	[ColorBox by Lyft Design (Palette Picker)☁](https://www.colorbox.io/) / 
-	[GradientGenerator (Gradients)☁](https://gradientgenerator.com/) / 
-	[Color Supply's Color Picker*](https://colorsupplyyy.com/app) / 
-	[Coolors.co*](https://coolors.co/browser/latest/1) / 
-	[Adobe Color*](https://color.adobe.com) / 
-	[Color Hunt*](https://colorhunt.co/) / 
-	[Material Design Palette*](https://www.materialpalette.com/) / 
-	[Adobe Color Trends*](https://color.adobe.com/trends) / 
-	[Adobe Color Explore*](https://color.adobe.com/explore/most-popular/?time=all) / 
-	[U.S. Team Colors*](https://usteamcolors.com/) / 
-	[U.S. Brand Colors*](https://usbrandcolors.com/)
-  
-Stock Photos:  
-	[BucketListly Blog's Photos⬇️](https://www.bucketlistly.blog/photos/) / 
-	[Chamber of Commerce Stock Photo Search⬇️](https://www.chamberofcommerce.org/findaphoto/) / 
-	[Free Images⬇️](https://www.freeimages.com/) / 
-	[HD Wallpapers⬇️](https://uhdwallpapers.org/) / 
-	[LibreStock⬇️](https://librestock.com/) / 
-	[Negative Space⬇️](https://negativespace.co/) / 
-	[picjumbo⬇️](https://picjumbo.com/) / 
-	[Picography⬇️](https://picography.co) / 
-	[SKUAWK⬇️](http://skuawk.com/) / 
-	[Stock Up⬇️](https://www.sitebuilderreport.com/stock-up/) / 
-	[Stockified⬇️](https://www.stockified.com/) / 
-	[StockSnap.io⬇️](https://stocksnap.io/) / 
-	[stokpic⬇️](https://stokpic.com/) / 
-	[Unsplash⬇️](https://unsplash.com/) / 
-	[Vector.me⬇️](https://vector.me/) / 
-	[Visual Hunt⬇️](https://visualhunt.com/)
-  
-Stock Icons:  
-	[Bootstrap Icons⬇️](http://www.bootstrapicons.com/) / 
-	[CSS ICON⬇️](https://cssicon.space) / 
-	[Icon Store⬇️](https://iconstore.co/) / 
-	[iconmonstr⬇️](https://iconmonstr.com/) / 
-	[Ionicons⬇️](https://ionicons.com/) / 
-	[Feather⬇️](https://feathericons.com/) / 
-	[Find Icons⬇️](https://findicons.com/) / 
-	[FlatIcon⬇️](https://www.flaticon.com/) / 
-	[Font Awesome⬇️](https://fontawesome.com/icons?d=gallery&m=free) / 
-	[Fontello⬇️](http://fontello.com/) / 
-	[Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / 
-	[Material Design Icons⬇️](https://www.materialpalette.com/icons) / 
-	[Noun Project⬇️](https://thenounproject.com/) / 
-	[Typicons⬇️](https://www.s-ings.com/typicons/)
-
-SVGs:  
-	[unDraw⬇️](https://undraw.co/)
-
-Multi-Element Forage Zones:  
+Multi-element forage zones:  
 	[365psd⬇️](https://365psd.com/) / 
 	[AllTheFreeStock⬇️](https://allthefreestock.com/) / 
 	[Bootsnipp⬇️](https://bootsnipp.com/) / 
@@ -75,6 +22,56 @@ Multi-Element Forage Zones:
 	[Smithsonian Open Access⬇️](https://www.si.edu/openaccess) / 
 	[Start Bootstrap⬇️](https://startbootstrap.com/) / 
 	[Stockio⬇️](https://www.stockio.com/)
+  
+Color inspiration:  
+	[ColorBox by Lyft Design (Palette Picker)☁](https://www.colorbox.io/) / 
+	[GradientGenerator (Gradients)☁](https://gradientgenerator.com/) / 
+	[Color Supply's Color Picker*](https://colorsupplyyy.com/app) / 
+	[Coolors.co*](https://coolors.co/browser/latest/1) / 
+	[Adobe Color*](https://color.adobe.com) / 
+	[Color Hunt*](https://colorhunt.co/) / 
+	[Material Design Palette*](https://www.materialpalette.com/) / 
+	[Adobe Color Trends*](https://color.adobe.com/trends) / 
+	[Adobe Color Explore*](https://color.adobe.com/explore/most-popular/?time=all) / 
+	[U.S. Team Colors*](https://usteamcolors.com/) / 
+	[U.S. Brand Colors*](https://usbrandcolors.com/)
+  
+Stock photos:  
+	[BucketListly Blog's Photos⬇️](https://www.bucketlistly.blog/photos/) / 
+	[Chamber of Commerce Stock Photo Search⬇️](https://www.chamberofcommerce.org/findaphoto/) / 
+	[Free Images⬇️](https://www.freeimages.com/) / 
+	[HD Wallpapers⬇️](https://uhdwallpapers.org/) / 
+	[LibreStock⬇️](https://librestock.com/) / 
+	[Negative Space⬇️](https://negativespace.co/) / 
+	[picjumbo⬇️](https://picjumbo.com/) / 
+	[Picography⬇️](https://picography.co) / 
+	[SKUAWK⬇️](http://skuawk.com/) / 
+	[Stock Up⬇️](https://www.sitebuilderreport.com/stock-up/) / 
+	[Stockified⬇️](https://www.stockified.com/) / 
+	[StockSnap.io⬇️](https://stocksnap.io/) / 
+	[stokpic⬇️](https://stokpic.com/) / 
+	[Unsplash⬇️](https://unsplash.com/) / 
+	[Vector.me⬇️](https://vector.me/) / 
+	[Visual Hunt⬇️](https://visualhunt.com/)
+  
+Stock icons:  
+	[Bootstrap Icons⬇️](http://www.bootstrapicons.com/) / 
+	[CSS ICON⬇️](https://cssicon.space) / 
+	[Icon Store⬇️](https://iconstore.co/) / 
+	[iconmonstr⬇️](https://iconmonstr.com/) / 
+	[Ionicons⬇️](https://ionicons.com/) / 
+	[Feather⬇️](https://feathericons.com/) / 
+	[Find Icons⬇️](https://findicons.com/) / 
+	[FlatIcon⬇️](https://www.flaticon.com/) / 
+	[Font Awesome⬇️](https://fontawesome.com/icons?d=gallery&m=free) / 
+	[Fontello⬇️](http://fontello.com/) / 
+	[Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / 
+	[Material Design Icons⬇️](https://www.materialpalette.com/icons) / 
+	[Noun Project⬇️](https://thenounproject.com/) / 
+	[Typicons⬇️](https://www.s-ings.com/typicons/)
+
+SVGs:  
+	[unDraw⬇️](https://undraw.co/)
 
 Fonts:  
 	[dafont.com⬇️](https://www.dafont.com/) / 
@@ -88,16 +85,19 @@ Fonts:
 
 ## Creating Elements: Photos/Graphics
 
-Photo Tweaking/Filters:  
+Screenshots:  
+	[ShareX⬇️](https://getsharex.com/)
+	
+Photo tweaking/filters:  
 	[FotoSketcher⬛](https://fotosketcher.com/) / 
 	[GIMP⬛](https://www.gimp.org/) / 
 	[RawTherapee⬛](http://www.rawtherapee.com/)
 
-Vector Graphics:  
+Vector graphics:  
 	[Canva☁](https://www.canva.com/) / 
 	[Inkscape⬛](https://inkscape.org/)
 
-Drawing/Painting:  
+Drawing/painting:  
 	[Krita⬛](https://krita.org/en/)
 
 ## Creating Elements: 2D Renders
@@ -105,13 +105,13 @@ Drawing/Painting:
 CAD:  
 	[LibreCAD⬛](https://librecad.org/)
 
-Photo Generator:  
+Procedural generation:  
 	[Hot Spot Studio(light images)⬛](https://www.rlvision.com/spots/about.php)
 
-Font Builder:  
+Font builder:  
 	[FontForge⬛](https://fontforge.github.io/)
 
-Icons/Cursors/Animations:  
+Icons/cursors/animations:  
 	[GFIE Pro⬛](http://greenfishsoftware.org/) / 
 	[Pencil2D Animation⬛](https://www.pencil2d.org/) / 
 	[OpenToonz⬇️](https://opentoonz.github.io/e/)
@@ -125,29 +125,29 @@ Graphics:
 	[Blender⬛](https://www.blender.org/) / 
 	[K-3D⬛](http://www.k-3d.org/)
 
-Game Engines:  
+Game engines:  
 	[Unity⬇️](https://unity.com/) / 
 	[Godot Engine⬇️](https://godotengine.org/)
 	[Unreal Engine⬇️](https://www.unrealengine.com/)
 	[Source SDK⬇️](https://developer.valvesoftware.com/wiki/SDK_Installation)
 
-Home Design:  
+Home design:  
 	[Easyhome Homestyler☁](https://www.homestyler.com) / 
 	[Sweet Home 3D⬇️](http://www.sweethome3d.com/)
 
-Human Models:  
+Human models:  
 	[MakeHuman⬇️](http://www.makehumancommunity.org/)
 
 Multitool:  
 	[SketchUp☁](https://www.sketchup.com/)
 
-Physics Models:  
+Physics models:  
 	[Algodoo⬇️](http://www.algodoo.com/)
 
 Videos:  
 	[Source Filmmaker⬇️](https://store.steampowered.com/app/1840/Source_Filmmaker/)
 
-Voxel Art/Path Tracing Renderer:  
+Voxel art/path tracing renderer:  
 	(MagicaVoxel(Github)⬇️)[https://ephtracy.github.io/]
 
 ## Assembling/Publishing
@@ -157,7 +157,7 @@ Presentations:
 	[Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx) / 
 	[LibreOffice Impress⬛](https://www.libreoffice.org/)
 
-Desktop Publishing:  
+Desktop publishing:  
 	[Microsoft Sway☁](https://sway.office.com) / 
 	[Scribus⬛](https://www.scribus.net/)
   
@@ -167,10 +167,10 @@ Diagrams:
 Timelines:  
 	[TimeGraphics☁](https://time.graphics/)
   
-Word Clouds:  
+Word clouds:  
 	[WordClouds.com☁](https://www.wordclouds.com/)
   
-Prototyping/Collaboration:  
+Prototyping/collaboration:  
 	[Figma☁](https://www.figma.com/) / 
 	[InVision☁](https://www.invisionapp.com/) / 
 	[Marvel☁](https://marvelapp.com/) / 
@@ -178,7 +178,7 @@ Prototyping/Collaboration:
 
 ## Visual Testing
 
-Color Ratio/Blindness Testing:  
+Color ratio/colorblindness testing:  
 	[Contrast Checker☁](https://webaim.org/resources/contrastchecker/) / 
 	[Colour Contrast Analyzer⬛](https://developer.paciellogroup.com/resources/contrastanalyser/) / 
 	[Check My Colours☁](http://www.checkmycolours.com/) / 
