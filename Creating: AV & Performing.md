@@ -38,20 +38,28 @@ Drum accompaniment:
 	[AutoDrum⬛](https://openmidiproject.osdn.jp/AutoDrum_en.html)
 
 DJing:  
-	[Serato DJ Lite⬛](https://serato.com/dj/lite)
-
+	[Serato DJ Lite⬛](https://serato.com/dj/lite) / 
+	[Mixxx⬛](https://www.mixxx.org/)
 
 ## Editing
 
 General editing:  
 	[AudioMass☁](https://audiomass.co/)
 
-Clipping/trimming - extracting audio from video:  
-	[Pazera Free Audio Extractor⬇️](http://www.pazera-software.com/products/audio-extractor/)
-
-Clipping/trimming - audio separation:  
-	[Spleeter⬇️](https://github.com/deezer/spleeter)
-
 Video editing:  
 	[Kdenlive⬛](https://kdenlive.org/) / 
 	[DaVinci Resolve⬇️](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+Clipping/trimming - extracting audio from video:  
+	[Pazera Free Audio Extractor⬇️](http://www.pazera-software.com/products/audio-extractor/)
+
+Clipping/trimming - audio component separation:  
+	[Spleeter⬇️](https://github.com/deezer/spleeter)
+
+Clipping/trimming - splitting audio tracks:  
+	[Mp3splt⬛](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
+	
+Clipping/trimming - stretching audio:  
+	[Paul's Extreme Sound Stretch⬛](http://hypermammut.sourceforge.net/paulstretch/)
+
+
