@@ -56,6 +56,18 @@ Counting:
 	[WordCounter.net's Website Page Word Counter☁](https://wordcounter.net/website-word-count) / 
 	[WordCounter.net's Words Per Page☁](https://wordcounter.net/words-per-page)
 
+## Editing - Format
+
+OCR:  
+	[Online OCR☁](https://www.onlineocr.net/) / 
+	[Free Online OCR☁](https://www.newocr.com/)
+
+PDF/ebook editor:  
+	[PDFescape☁](https://www.pdfescape.com/open/)
+
+PDF/ebook Splitter/Joiner:  
+	[FaxTool⬇️](https://sector-seven.com/software/faxtool)
+
 ## Editing - Final
 
 Text Conversion:  
