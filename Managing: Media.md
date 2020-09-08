@@ -2,16 +2,16 @@
 
 ## Consuming
 
-A/V Playback - WinOS:  
+A/V playback - WinOS:  
 	[VLC⬛](https://www.videolan.org/vlc/)
 
-A/V Playback - Unix-like:  
+A/V playback - Unix-like:  
 	[SMPlayer⬛](https://www.smplayer.info/)
 
-Library Management - 10-foot UI:  
+Media library management - 10-foot UI:  
 	[Kodi⬛](https://kodi.tv/)
 
-Library Management - Music:  
+Media library management - music:  
 	[MusicBee⬛](https://getmusicbee.com/)
 
 DjVu:  
@@ -39,36 +39,32 @@ Audio:
 	[Mp3tag⬇️](https://www.mp3tag.de/en/) / 
 	[MusicBrainz Picard⬛](https://picard.musicbrainz.org/)
 
+Video:  
+	[VideoInspector⬇️](https://kcsoftwares.com/?vtb)
+
 Audiobooks:  
 	[Chapter and Verse⬇️](http://lodensoftware.com/chapter-and-verse/)
 
-Gain Adjustment:  
+Gain adjustment:  
 	[MP3Gain⬇️](http://mp3gain.sourceforge.net/)
 
-## Converting/Optimizing
+## Converting/Transcoding
 
-OCR:  
-	[Online OCR☁](https://www.onlineocr.net/) / 
-	[Free Online OCR☁](https://www.newocr.com/)
-  
-PDF/ebook Editor:  
-	[PDFescape☁](https://www.pdfescape.com/open/)
+General:  
+	[Online-Convert.com☁](https://www.online-convert.com/)
 
-PDF/ebook Splitter/Joiner:  
-	[FaxTool⬇️](https://sector-seven.com/software/faxtool)
-
-PDF/PS Conversion:
+PDF/PS:  
 	[Ghostscript⬛](https://www.ghostscript.com/)
-  
-Audio/Video Conversion:  
-	[Online-Convert.com☁](https://www.online-convert.com/) / 
+
+Video:  
 	[HandBrake⬇️](https://handbrake.fr/) / 
-	[fre:ac⬛](https://www.freac.org/)
+	[TEncoder Video Converter⬛](https://www.fosshub.com/TAudioConverter.html)
 
-Image Conversion/Optimization:  
+Audio:  
+	[fre:ac⬛](https://www.freac.org/) / 
+	[TAudioConverter⬛](https://www.fosshub.com/TAudioConverter.html)
+
+Image:  
+	[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize) / 
 	[ImgConvert⬇️](http://www.pazera-software.com/products/img-convert/) / 
-	[Caesium⬇️☁](https://saerasoft.com/caesium/) / 
-	[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize)
-
-Image Conversion/Optimization:  
-	[VideoInspector⬇️](https://kcsoftwares.com/?vtb)
+	[Caesium⬇️☁](https://saerasoft.com/caesium/)
