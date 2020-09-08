@@ -31,9 +31,6 @@ Large Files:
 Faxes:  
 	[faxZERO.com☁](https://faxzero.com/)
 
-Make PDF pages look scanned:  
-	[Scan Your PDF☁](https://www.scanyourpdf.com/)
-
 ## IRL
 
 In-Person Connecting:  
