@@ -6,15 +6,16 @@ Google's Advanced Search Operators:
 	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
 	[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
 
-Memorization/Flashcards:  
-	[Mnemosyne⬛](https://mnemosyne-proj.org/)
+Memorization/flashcards:  
+	[Mnemosyne⬛](https://mnemosyne-proj.org/) / 
+	[Anki⬇️](https://apps.ankiweb.net/)
 
 ## Downloading
 
-Download Manager:  
+Download manager:  
 	[Free Download Manager⬇️](https://www.freedownloadmanager.org/)
 
-HTTP Media Downloads:  
+HTTP media downloads:  
 	[KeepVid☁](https://keepvid.com/)
 
 RSS:  
@@ -23,74 +24,74 @@ RSS:
 Torrents:  
 	[qBittorrent⬛](https://www.qbittorrent.org/)
 
-FTP Client:  
+FTP client:  
 	[FileZilla⬛](https://filezilla-project.org/)
 
 ## Niche: Language
 
-Book Reading Estimation:  
+Book reading estimation:  
 	[How Long to Read☁](https://www.howlongtoreadthis.com/)
 
-Font Search:  
+Font search:  
 	[Fontspring Matcherator☁](https://www.fontspring.com/matcherator)
 
-Historical Word Usage:  
+Historical word usage:  
 	[Google Books Ngram Viewer☁](https://books.google.com/ngrams)
 
 Translation:  
 	[Google Translate☁](https://translate.google.com/)
 
-Word Pronunciation:  
+Word pronunciation:  
 	[YouGlish☁](https://youglish.com/)
 
 ## Niche: Location-Based
 
-International Time:  
+International time:  
 	[Every Time Zone☁](https://everytimezone.com/)
 
-Maps/Geolocation:  
+Maps/geolocation:  
 	[OpenStreetMap☁](https://www.openstreetmap.org/about) / 
 	[Google Earth⬇️](https://www.google.com/earth/)
 
-Cost of Living:  
+Cost of living:  
 	[NUMBEO☁](https://www.numbeo.com/)
 
-Nuclear Detonations:  
+Nuclear detonations:  
 	[NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)
 
 ## Niche: Math/Calculators
 
-General-purpose Calculators:  
+General-purpose calculators:  
 	[Calculator.net☁](https://www.calculator.net/) / 
 	[SpeedCrunch⬛](https://speedcrunch.org/)
 
-Heavy-Duty Calculating:  
-	[Wolfram|Alpha☁(heavy lifting)](https://www.wolframalpha.com/)
+Heavy-duty calculating:  
+	[Wolfram|Alpha☁](https://www.wolframalpha.com/)
 
-Measurement Conversion:  
+Measurement conversion:  
 	[Online Conversion☁](http://www.onlineconversion.com/) / 
 	[ConvertAll⬛](http://convertall.bellz.org/) / 
 	[Converber⬛](http://www.xyntec.com/converber.htm)
 
-Random Number Generator:  
+Random number generator:  
 	[RANDOM.ORG☁](https://www.random.org/)
 
-Step-by-Step Instructions:  
+Step-by-step instructions:  
 	[Mathway☁](https://www.mathway.com/) / 
 	[BetterExplained*](https://betterexplained.com/)
 
-Startup Profitability Calculator:  
+Startup profitability calculator:  
 	[Startup Growth Calculator☁](http://growth.tlb.org/#)
 
-Stock Option Outcome Calculator:  
+Stock option outcome calculator:  
 	[TLDR Stock Options☁](https://tldroptions.io/)
 
 ## Niche: News/Trends/Events
 
-News (Aggregation):  
+News aggregation:  
 	[[INSIDE]☁](https://inside.com/)
 
-Popular Trends:  
+Popular trends:  
 	[Google Trends☁](https://trends.google.com/)
 
 ## Niche: Personal Information
@@ -101,42 +102,42 @@ Flights:
 Packages:  
 	[Boxoh☁](http://www.boxoh.com/)
 
-Rewards Points:  
+Rewards points:  
 	[Award Wallet☁](https://awardwallet.com/)
 
 ## Niche: Science
 
-Papers/Data:  
+Papers/data:  
 	[Sci-Hub☁](https://sci-hub.se/) / 
 	[Library Genesis☁](https://libgen.is/)
 
 Astronomy:  
 	[Stellarium Web☁](https://stellarium-web.org/)
 
-Nutrition/Supplements:  
+Nutrition/supplements:  
 	[Examine.com☁](https://examine.com/)
 
-## Niche: Tech
+## Niche: Tech Info
 
 Datasets:  
 	[Google Dataset Search☁](https://toolbox.google.com/datasetsearch)
 
-Site Status:  
+Site status:  
 	[Down For Everyone Or Just Me☁](https://downforeveryoneorjustme.com/)
 
 Software:  
 	[AlternativeTo☁](https://alternativeto.net/) / 
 	[Capterra☁](https://www.capterra.com/)
 
-Wireless Networks:  
+Wireless networks:  
 	[WiGLE☁](https://wigle.net/)
 
-Industrial/Tech Parts:  
+Industrial/tech parts:  
 	[Octopart☁](https://octopart.com/)
 
 ## Niche: Other
 
-Color Extraction:  
+Color extraction:  
 	[Tineye's Color extraction☁](https://labs.tineye.com/color/) / 
 	[Adobe Color☁](https://color.adobe.com)
 
@@ -146,7 +147,10 @@ Charities/NPOs:
 Investing:  
 	[investorjunkie☁](https://investorjunkie.com/)
 
-Torah/Bible-related:  
+Podcasts:  
+	[Listen Notes☁](https://www.listennotes.com/)
+
+Torah/Bible:  
 	[The SWORD Project⬇️](https://www.crosswire.org/sword/modules/index.jsp)
 
 ## Cleaning/Prepping
