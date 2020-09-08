@@ -2,45 +2,48 @@
 
 ## Web Anonymity
 
-Web Browser:  
+Web browser:  
 	[Tor Browser⬇️](https://www.torproject.org/)
 
-Browser Fingerprint:  
+Browser fingerprint:  
 	[AmIUnique☁](https://amiunique.org/)
 
-Data Breach Search:  
+Data breach search:  
 	[have i been pwned?☁](https://haveibeenpwned.com/) / 
 	[WhatIsMyIPAddress' Trace Email☁](https://whatismyipaddress.com/trace-email)
 
-Image Scrubbing:  
+Image scrubbing:  
 	[Image Scrubber (Github)☁](https://everestpipkin.github.io/image-scrubber/)
 
-## Sending Information
+## Obscuring Sent Information
 
-Email Short Link:  
+Email short link:  
 	[scr.im☁](http://scr.im/)
 
-Temporary Email:  
+Temporary email:  
 	[Maildrop☁](https://maildrop.cc/) / 
 	[10 minute mail☁](https://10minutemail.com/) / 
 	[Email On Deck☁](https://www.emailondeck.com/) / 
 	[guerrillamail.com☁](https://www.guerrillamail.com/)
 
-Sending Corrupted Files:  
+Sending corrupted files:  
 	[Corrupt-a-File.net☁](https://corrupt-a-file.net/)
 
-Short-Term Notes:  
+Short-term notes:  
 	[privnote☁](https://privnote.com/)
 
-Short-Term File Sharing:  
+Short-term file sharing:  
 	[Ge.tt☁](http://ge.tt/)
+
+PDFs that look scanned:  
+	[Scan Your PDF☁](https://www.scanyourpdf.com/)
 
 ## Secure Data Storage
 
-Password Management:  
+Password management:  
 	[KeePass⬛](https://keepass.info/)
 
-Cloud Storage:  
+Cloud storage:  
 	[MEGA☁](https://mega.nz/)
 
 ## Virus Scans
@@ -48,7 +51,7 @@ Cloud Storage:
 Files:  
 	[Jotti's malware scan☁](https://virusscan.jotti.org/)
 
-Short Links:  
+Short links:  
 	[unFurlr☁](https://unfurlr.com/)
 
 Websites:  
@@ -56,27 +59,27 @@ Websites:
 
 ## Probes
 
-Pen Test:  
+Pen test:  
 	[Nmap/Zenmap⬇️](https://nmap.org/)
 
-WHOIS Lookup:  
+WHOIS lookup:  
 	[WhoDat⬛](https://portableapps.com/apps/utilities/whodat-portable)
 
 ## Deletion
 
-Account Deleter:  
+Account deleter:  
 	[Account Killer☁](https://www.accountkiller.com/en/popular)
 
-File Deletion:  
+File deletion:  
 	[BleachBit⬛](https://www.bleachbit.org/) / 
 	[DBAN (Darik's Boot & Nuke)⬇️](https://dban.org/)
 
-Ads Opt-Out:  
+Ads opt-out:  
 	[Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/)
 
 ## IRL
 
-Followup Service:  
+Followup service:  
 	[Kitestring☁](https://www.kitestring.io/)
 
 Photo IDs:  
