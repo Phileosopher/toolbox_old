@@ -1,4 +1,4 @@
-# Creating: Visual/CG
+# Creating: Visual Design/CG
 
 ## Visual Data Repos
 
@@ -37,6 +37,7 @@ Color inspiration:
 	[U.S. Brand Colors*](https://usbrandcolors.com/)
   
 Stock photos:  
+	[British Museum Collection⬇️](https://www.britishmuseum.org/collection) / 
 	[BucketListly Blog's Photos⬇️](https://www.bucketlistly.blog/photos/) / 
 	[Chamber of Commerce Stock Photo Search⬇️](https://www.chamberofcommerce.org/findaphoto/) / 
 	[Free Images⬇️](https://www.freeimages.com/) / 
