@@ -42,25 +42,28 @@ DJing:
 	[Serato DJ Lite⬛](https://serato.com/dj/lite) / 
 	[Mixxx⬛](https://www.mixxx.org/)
 
-## Editing
+## Audio Editing
 
-General editing:  
-	[AudioMass☁](https://audiomass.co/)
+General:  
+	[AudioMass☁](https://audiomass.co/) / 
+	[WaveShop⬛](http://waveshop.sourceforge.net/)
 
-Video editing:  
+Track element separation:  
+	[Spleeter⬇️](https://github.com/deezer/spleeter)
+
+Track splitting:  
+	[Mp3splt⬛](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
+	
+Stretching:  
+	[Paul's Extreme Sound Stretch⬛](http://hypermammut.sourceforge.net/paulstretch/)
+
+## Video Editing
+
+General:  
+	[Story Creator☁](https://storycreatorapp.com/) / 
 	[Kdenlive⬛](https://kdenlive.org/) / 
 	[DaVinci Resolve⬇️](https://www.blackmagicdesign.com/products/davinciresolve/)
 
-Clipping/trimming - extracting audio from video:  
+Extracting audio from video:  
 	[Pazera Free Audio Extractor⬇️](http://www.pazera-software.com/products/audio-extractor/)
-
-Clipping/trimming - audio component separation:  
-	[Spleeter⬇️](https://github.com/deezer/spleeter)
-
-Clipping/trimming - splitting audio tracks:  
-	[Mp3splt⬛](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
-	
-Clipping/trimming - stretching audio:  
-	[Paul's Extreme Sound Stretch⬛](http://hypermammut.sourceforge.net/paulstretch/)
-
 
