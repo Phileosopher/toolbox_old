@@ -36,29 +36,40 @@ I've marked ☁ for web apps and ⬛ for portable apps, most of which are throug
 
 ## Organization Convention (updated 2020-09-09)
 
-Is it some type of direct communication tool?
-* [Communicating.md](https://github.com/PhilosAccounting/toolbox/blob/master/Communicating.md)
+1. Is it some type of direct communication tool?
+  * [Communicating.md](/blob/master/Communicating.md)
 
-Is it making something new?
-* Managing
+2. Is it making something new?
+  * Do you want to be productive or optimize your flow?
+    * [Creating.PlanOptimize.md](/blob/master/Creating.PlanOptimize.md)
+  * Do you need to gather data?
+    * [Creating.DataGather.md](/blob/master/Creating.DataGather.md)
+  * Will you be recording something?
+    * [Creating.Performing.md](/blob/master/Creating.Performing.md)
+  * Will you be writing something?
+    * [Creating.WritingSpeeches.md](/blob/master/Creating.WritingSpeeches.md)
+  * Will you be making visual elements?
+    * [Creating.VisualCG.md](/blob/master/Creating.VisualCG.md)
+  * Does it require coding?
+    * [Creating.Dev.md](/blob/master/Creating.Dev.md)
+    * [Script Snips](/blob/master/Script Snips)
+    * Is it specific to making a website?
+      * [Creating.DevWeb.md](/blob/master/Creating.DevWeb.md)
+
+
+3. Do you have trust issues?
+  * With people?
+    * [Trust.People.md](/blob/master/Trust.People.md)
+  * With things?
+    * [Trust.DataLossUpdates.md](/blob/master/Trust.DataLossUpdates.md)
+
+4. Are you trying to manage something?
   * Is it dealing with hardware?
-    * Mgmt.Hardware.md
-
-
-
-Configurations & Settings
-Script Snips
-Communicating.md
-Creating.DataGather.md
-Creating.Dev.md
-Creating.DevWeb.md
-Creating.Performing.md
-Creating.PlanOptimize.md
-Creating.VisualCG.md
-Creating.WritingSpeeches.md
-Mgmt.FilesOS.md
-Mgmt.Hardware.md
-Mgmt.Media.md
-Mgmt.Networks.md
-Trust.DataLossUpdates.md
-Trust.People
+    * [Mgmt.Hardware.md](/blob/master/Mgmt.Hardware.md)
+  * Is it managing only a few specific files at a time?
+    * [Mgmt.Media.md](/blob/master/Mgmt.Media.md)
+  * Is it within the OS, or with many files?
+    * [Mgmt.FilesOS.md](/blob/master/Mgmt.FilesOS.md)
+    * [Configurations & Settings](/blob/master/Configurations & Settings)
+  * Is it with more than one computer?
+    * [Mgmt.Networks.md](/blob/master/Mgmt.Networks.md)
