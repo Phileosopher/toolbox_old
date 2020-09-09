@@ -13,7 +13,7 @@ Illustrations:
 Quotes:  
 	[BrainyQuote*](https://www.brainyquote.com/)
 
-## Building
+## General Writing
 
 Text Editor:  
 	[Atom⬇️](https://atom.io/) / 
@@ -24,7 +24,9 @@ Word Processor:
 	[Google Docs☁](https://docs.google.com) / 
 	[Microsoft Word Online☁](https://office.live.com/start/Word.aspx) / 
 	[LibreOffice Writer⬛](https://www.libreoffice.org/)
-  
+
+## Specific Needs
+
 Text Character Reference:  
 	[Copy Paste Character☁](https://www.copypastecharacter.com/) / 
 	[BabelMap⬛](http://www.babelstone.co.uk/Software/BabelMap.html) / 
@@ -35,6 +37,9 @@ Journaling:
 
 Citations:  
 	[Citation Generator☁](https://www.citationgenerator.com/)
+
+Math Calculations:  
+	[LibreOffice Math⬛](https://www.libreoffice.org/discover/math/)
 
 ## Editing - Transcript
 
@@ -62,9 +67,13 @@ OCR:
 	[Online OCR☁](https://www.onlineocr.net/) / 
 	[Free Online OCR☁](https://www.newocr.com/)
 
-PDF/ebook editor:  
-	[PDFescape☁](https://www.pdfescape.com/open/) / 
-	[PDF-XChange Editor⬛](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
+PDF editor:  
+	[PDFescape☁](https://www.pdfescape.com/windows/) / 
+	[PDF-XChange Editor⬛](https://pdf-xchange.eu/pdf-xchange-editor/index.htm) / 
+	[PDFTK Builder⬛](http://www.angusj.com/pdftkb/)
+
+EPUB editor:  
+	[Sigil⬛](https://sigil-ebook.com/)
 
 PDF/ebook Splitter/Joiner:  
 	[FaxTool⬇️](https://sector-seven.com/software/faxtool)
