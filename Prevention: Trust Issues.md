@@ -8,12 +8,22 @@ Web browser:
 Browser fingerprint:  
 	[AmIUnique☁](https://amiunique.org/)
 
+## Sending Safe Information
+
+Short-term notes:  
+	[privnote☁](https://privnote.com/)
+
+Short-term file sharing:  
+	[Ge.tt☁](http://ge.tt/)
+
+Secure messaging:  
+	[Signal⬇️](https://signal.org/)
+
+## Leak Investigation
+
 Data breach search:  
 	[have i been pwned?☁](https://haveibeenpwned.com/) / 
 	[WhatIsMyIPAddress' Trace Email☁](https://whatismyipaddress.com/trace-email)
-
-Image scrubbing:  
-	[Image Scrubber (Github)☁](https://everestpipkin.github.io/image-scrubber/)
 
 ## Obscuring Sent Information
 
@@ -29,11 +39,8 @@ Temporary email:
 Sending corrupted files:  
 	[Corrupt-a-File.net☁](https://corrupt-a-file.net/)
 
-Short-term notes:  
-	[privnote☁](https://privnote.com/)
-
-Short-term file sharing:  
-	[Ge.tt☁](http://ge.tt/)
+Image scrubbing:  
+	[Image Scrubber (Github)☁](https://everestpipkin.github.io/image-scrubber/)
 
 PDFs that look scanned:  
 	[Scan Your PDF☁](https://www.scanyourpdf.com/)
