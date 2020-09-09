@@ -82,7 +82,8 @@ Fonts:
 	[Lost Type Co-op⬇️](http://www.losttype.com/browse/) / 
 	[National Park Typeface⬇️](https://nationalparktypeface.com/) / 
 	[Public Sans⬇️](https://public-sans.digital.gov/) / 
-	[Use & Modify⬇️](http://usemodify.com/)
+	[Scunthorpe Sans⬇️](https://vole.wtf/scunthorpe-sans/)
+	[Use & Modify⬇️](http://usemodify.com/) / 
 
 ## Creating Elements: Photos/Graphics
 
