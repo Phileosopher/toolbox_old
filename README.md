@@ -37,39 +37,39 @@ I've marked ☁ for web apps and ⬛ for portable apps, most of which are throug
 ## Organization Convention (updated 2020-09-09)
 
 1. Is it some type of direct communication tool?
-  * [Communicating.md](/blob/master/Communicating.md)
+  * [Communicating.md](https://github.com/PhilosAccounting/toolbox/blob/master/Communicating.md)
 
 2. Is it making something new?
   * Do you want to be productive or optimize your flow?
-    * [Creating.PlanOptimize.md](/blob/master/Creating.PlanOptimize.md)
+    * [Creating.PlanOptimize.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.md)
   * Do you need to gather data?
-    * [Creating.DataGather.md](/blob/master/Creating.DataGather.md)
+    * [Creating.DataGather.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.DataGather.md)
   * Will you be recording something?
-    * [Creating.Performing.md](/blob/master/Creating.Performing.md)
+    * [Creating.Performing.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.md)
   * Will you be writing something?
-    * [Creating.WritingSpeeches.md](/blob/master/Creating.WritingSpeeches.md)
+    * [Creating.WritingSpeeches.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.WritingSpeeches.md)
   * Will you be making visual elements?
-    * [Creating.VisualCG.md](/blob/master/Creating.VisualCG.md)
+    * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
   * Does it require coding?
-    * [Creating.Dev.md](/blob/master/Creating.Dev.md)
-    * [Script Snips](/blob/master/Script Snips)
+    * [Creating.Dev.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.md)
+    * [Script Snips](https://github.com/PhilosAccounting/toolbox/blob/master/Script Snips)
     * Is it specific to making a website?
-      * [Creating.DevWeb.md](/blob/master/Creating.DevWeb.md)
+      * [Creating.DevWeb.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.DevWeb.md)
 
 
 3. Do you have trust issues?
   * With people?
-    * [Trust.People.md](/blob/master/Trust.People.md)
+    * [Trust.People.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.People.md)
   * With things?
-    * [Trust.DataLossUpdates.md](/blob/master/Trust.DataLossUpdates.md)
+    * [Trust.DataLossUpdates.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.DataLossUpdates.md)
 
 4. Are you trying to manage something?
   * Is it dealing with hardware?
-    * [Mgmt.Hardware.md](/blob/master/Mgmt.Hardware.md)
+    * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md)
   * Is it managing only a few specific files at a time?
-    * [Mgmt.Media.md](/blob/master/Mgmt.Media.md)
+    * [Mgmt.Media.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Media.md)
   * Is it within the OS, or with many files?
-    * [Mgmt.FilesOS.md](/blob/master/Mgmt.FilesOS.md)
-    * [Configurations & Settings](/blob/master/Configurations & Settings)
+    * [Mgmt.FilesOS.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.FilesOS.md)
+    * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/blob/master/Configurations & Settings)
   * Is it with more than one computer?
-    * [Mgmt.Networks.md](/blob/master/Mgmt.Networks.md)
+    * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
