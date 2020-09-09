@@ -9,7 +9,7 @@ A/V playback - Unix-like:
 	[SMPlayer⬛](https://www.smplayer.info/)
 
 DjVu:  
-	[WinDjView/MacDjView⬇️](https://windjview.sourceforge.io/)
+	[WinDjView/MacDjView⬛](https://windjview.sourceforge.io/)
   
 Images:  
 	[XnView⬛](https://www.xnview.com/) /
