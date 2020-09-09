@@ -61,6 +61,9 @@ Folder Navigation:
 	[Double Commander⬇️](https://doublecmd.sourceforge.io/) / 
 	[FreeCommander⬛](https://freecommander.com/en/summary/)
 
+Virtual Desktops (for WinOS):  
+	[VirtuaWin⬛](https://virtuawin.sourceforge.io/)
+
 ## Automation
 
 Service Synchronization:  
