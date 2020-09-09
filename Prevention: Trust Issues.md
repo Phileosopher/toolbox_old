@@ -7,6 +7,9 @@ Web browser:
 
 Browser fingerprint:  
 	[AmIUnique☁](https://amiunique.org/)
+	
+Browser blocking:  
+	[uBlock Origin⬇️](https://github.com/gorhill/uBlock/)
 
 ## Sending Safe Information
 
