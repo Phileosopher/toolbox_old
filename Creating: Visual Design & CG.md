@@ -108,7 +108,8 @@ CAD:
 	[LibreCAD⬛](https://librecad.org/)
 
 Procedural generation:  
-	[Hot Spot Studio(light images)⬛](https://www.rlvision.com/spots/about.php)
+	[Hot Spot Studio⬛](https://www.rlvision.com/spots/about.php) / 
+	[Fyre⬛](http://fyre.navi.cx/)
 
 Font builder:  
 	[FontForge⬛](https://fontforge.github.io/)
@@ -117,6 +118,9 @@ Icons/cursors/animations:
 	[GFIE Pro⬛](http://greenfishsoftware.org/) / 
 	[Pencil2D Animation⬛](https://www.pencil2d.org/) / 
 	[OpenToonz⬇️](https://opentoonz.github.io/e/)
+
+Ken Burns effect:  
+	[PhotoFilmStrip⬛](https://www.photofilmstrip.org/en/)
 
 ## Creating Elements: 3D Renders
 
@@ -152,7 +156,18 @@ Videos:
 Voxel art/path tracing renderer:  
 	(MagicaVoxel(Github)⬇️)[https://ephtracy.github.io/]
 
-## Assembling/Publishing
+## Creating Elements: Charts/Graphs
+
+Diagrams:  
+	[yEd Live☁](https://www.yworks.com/yed-live/)
+  
+Timelines:  
+	[TimeGraphics☁](https://time.graphics/)
+  
+Word clouds:  
+	[WordClouds.com☁](https://www.wordclouds.com/)
+
+## Creating Elements: Multimedia
 
 Presentations:  
 	[Google Slides☁](https://slides.google.com) / 
@@ -162,16 +177,7 @@ Presentations:
 Desktop publishing:  
 	[Microsoft Sway☁](https://sway.office.com) / 
 	[Scribus⬛](https://www.scribus.net/)
-  
-Diagrams:  
-	[yEd Live☁️](https://www.yworks.com/yed-live/)
-  
-Timelines:  
-	[TimeGraphics☁](https://time.graphics/)
-  
-Word clouds:  
-	[WordClouds.com☁](https://www.wordclouds.com/)
-  
+
 Prototyping/collaboration:  
 	[Figma☁](https://www.figma.com/) / 
 	[InVision☁](https://www.invisionapp.com/) / 
