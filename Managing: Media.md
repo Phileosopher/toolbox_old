@@ -64,7 +64,7 @@ Audio:
 	[fre:ac⬛](https://www.freac.org/) / 
 	[TAudioConverter⬛](https://www.fosshub.com/TAudioConverter.html)
 
-Image:  
+Images:  
 	[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize) / 
 	[ImgConvert⬇️](http://www.pazera-software.com/products/img-convert/) / 
 	[Caesium⬇️☁](https://saerasoft.com/caesium/)
