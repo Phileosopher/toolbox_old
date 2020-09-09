@@ -150,6 +150,9 @@ Investing:
 Podcasts:  
 	[Listen Notes☁](https://www.listennotes.com/)
 
+Similar websites:  
+	[Similarsites.com☁](https://www.similarsites.com/)
+
 Torah/Bible:  
 	[The SWORD Project⬇️](https://www.crosswire.org/sword/modules/index.jsp)
 
