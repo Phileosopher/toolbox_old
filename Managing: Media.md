@@ -69,9 +69,12 @@ Audio:
 	[fre:ac⬛](https://www.freac.org/) / 
 	[TAudioConverter⬛](https://www.fosshub.com/TAudioConverter.html)
 
+Images:  
+	[ImageMagick⬇️](https://imagemagick.org/index.php)
+
 Image conversion/compression - lossy:  
 	[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize) / 
-	[Caesium⬇️☁](https://saerasoft.com/caesium/)
+	[Caesium☁](https://saerasoft.com/caesium/)
 	[PngOptimizer⬛](https://psydk.org/pngoptimizer) / 
 	[TinyPNG☁](https://tinypng.com/)
 
