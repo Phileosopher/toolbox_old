@@ -52,7 +52,7 @@ I've marked ☁ for web apps and ⬛ for portable apps, most of which are throug
     * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
   * Does it require coding?
     * [Creating.Dev.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.md)
-    * [Script Snips](https://github.com/PhilosAccounting/toolbox/blob/master/Script Snips)
+    * [Script Snips](https://github.com/PhilosAccounting/toolbox/tree/master/Script%20Snips)
     * Is it specific to making a website?
       * [Creating.DevWeb.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.DevWeb.md)
 
@@ -70,6 +70,6 @@ I've marked ☁ for web apps and ⬛ for portable apps, most of which are throug
     * [Mgmt.Media.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Media.md)
   * Is it within the OS, or with many files?
     * [Mgmt.FilesOS.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.FilesOS.md)
-    * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/blob/master/Configurations & Settings)
+    * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/tree/master/Configurations%20%26%20Settings)
   * Is it with more than one computer?
     * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
