@@ -1,18 +1,12 @@
 # Managing: Media
 
-## Consuming
+## Playback/View
 
 A/V playback - WinOS:  
 	[VLC⬛](https://www.videolan.org/vlc/)
 
 A/V playback - Unix-like:  
 	[SMPlayer⬛](https://www.smplayer.info/)
-
-Media library management - 10-foot UI:  
-	[Kodi⬛](https://kodi.tv/)
-
-Media library management - music:  
-	[MusicBee⬛](https://getmusicbee.com/)
 
 DjVu:  
 	[WinDjView/MacDjView⬇️](https://windjview.sourceforge.io/)
@@ -31,6 +25,14 @@ PDF/ebooks:
 TTS:  
 	[Balabolka⬛](http://cross-plus-a.com/balabolka.htm) / 
 	[Screen Reader⬛](http://jacquelin.potier.free.fr/screenreader/)
+
+## Organizing
+
+Media library - 10-foot UI:  
+	[Kodi⬛](https://kodi.tv/)
+
+Media library - music:  
+	[MusicBee⬛](https://getmusicbee.com/)
 
 ## Tags/Metadata
 
@@ -53,13 +55,13 @@ Gain adjustment:
 
 ## Converting/Transcoding
 
-General:  
+General conversion:  
 	[Online-Convert.com☁](https://www.online-convert.com/)
 
-PDF/PS:  
+PDF/PS conversion:  
 	[Ghostscript⬛](https://www.ghostscript.com/)
 
-Video:  
+Video conversion:  
 	[HandBrake⬇️](https://handbrake.fr/) / 
 	[TEncoder Video Converter⬛](https://www.fosshub.com/TAudioConverter.html)
 
@@ -67,7 +69,11 @@ Audio:
 	[fre:ac⬛](https://www.freac.org/) / 
 	[TAudioConverter⬛](https://www.fosshub.com/TAudioConverter.html)
 
-Images:  
+Image conversion/compression - lossy:  
 	[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize) / 
-	[ImgConvert⬇️](http://www.pazera-software.com/products/img-convert/) / 
 	[Caesium⬇️☁](https://saerasoft.com/caesium/)
+	[PngOptimizer⬛](https://psydk.org/pngoptimizer) / 
+	[TinyPNG☁](https://tinypng.com/)
+
+Image - fix blur:  
+	[SmartDeblur](http://smartdeblur.net/)
