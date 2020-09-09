@@ -64,8 +64,6 @@ I've marked ☁ for web apps and ⬛ for portable apps, most of which are throug
     * [Trust.DataLossUpdates.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.DataLossUpdates.md)
 
 4. Are you trying to manage something?
-  * Is it dealing with hardware?
-    * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md)
   * Is it managing only a few specific files at a time?
     * [Mgmt.Media.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Media.md)
   * Is it within the OS, or with many files?
@@ -73,3 +71,5 @@ I've marked ☁ for web apps and ⬛ for portable apps, most of which are throug
     * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/tree/master/Configurations%20%26%20Settings)
   * Is it with more than one computer?
     * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
+  * Is it dealing with hardware?
+    * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md)
