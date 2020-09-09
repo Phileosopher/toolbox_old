@@ -20,7 +20,10 @@ DjVu:
 Images:  
 	[XnView⬛](https://www.xnview.com/) /
 	[IrfanView⬇️](https://www.irfanview.com/)
-  
+
+Image comparison:  
+	[DiffImg⬛](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Viewers/DiffImg.shtml)
+
 PDF/ebooks:  
 	[Sumatra⬛](https://www.sumatrapdfreader.org/free-pdf-reader.html) / 
 	[calibre⬛](https://calibre-ebook.com/)
