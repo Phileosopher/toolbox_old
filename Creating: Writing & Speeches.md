@@ -63,7 +63,8 @@ OCR:
 	[Free Online OCR☁](https://www.newocr.com/)
 
 PDF/ebook editor:  
-	[PDFescape☁](https://www.pdfescape.com/open/)
+	[PDFescape☁](https://www.pdfescape.com/open/) / 
+	[PDF-XChange Editor⬛](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
 
 PDF/ebook Splitter/Joiner:  
 	[FaxTool⬇️](https://sector-seven.com/software/faxtool)
