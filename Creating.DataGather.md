@@ -1,4 +1,4 @@
-# Creating: Data Scraping
+# Creating: Data Gathering
 
 ## General
 
