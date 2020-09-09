@@ -55,7 +55,7 @@ Stock photos:
 	[Vector.me⬇️](https://vector.me/) / 
 	[Visual Hunt⬇️](https://visualhunt.com/)
   
-Stock icons:  
+Icons:  
 	[Bootstrap Icons⬇️](http://www.bootstrapicons.com/) / 
 	[CSS ICON⬇️](https://cssicon.space) / 
 	[Icon Store⬇️](https://iconstore.co/) / 
@@ -69,10 +69,13 @@ Stock icons:
 	[Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / 
 	[Material Design Icons⬇️](https://www.materialpalette.com/icons) / 
 	[Noun Project⬇️](https://thenounproject.com/) / 
+	[Rough Font Awesome⬇️](https://djamshed.github.io/rough-awesome-font/dist/) / 
+	[System UIcons⬇️](https://systemuicons.com/) / 
+	[Tabler Icons⬇️](https://tablericons.com/) / 
 	[Typicons⬇️](https://www.s-ings.com/typicons/)
 
 SVGs:  
-	[unDraw⬇️](https://undraw.co/)
+	[unDraw⬇️](https://undraw.co/illustrations)
 
 Fonts:  
 	[dafont.com⬇️](https://www.dafont.com/) / 
