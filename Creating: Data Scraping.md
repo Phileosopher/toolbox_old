@@ -156,6 +156,7 @@ Torah/Bible:
 ## Cleaning/Prepping
 
 Cleaning:  
+	[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) / 
 	[Zotero⬇️](https://www.zotero.org/)
 
 Spreadsheets:  
@@ -165,11 +166,6 @@ Spreadsheets:
 
 Approximate Spreadsheets:  
 	[Guesstimate☁](https://www.getguesstimate.com/)
-
-Cleaning:  
-	[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) / 
-	[Zotero⬇️](https://www.zotero.org/)
-
 
 ## Mental Download
 
