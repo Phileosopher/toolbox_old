@@ -20,7 +20,6 @@ Image comparison:
 
 PDF/ebooks:  
 	[Sumatra⬛](https://www.sumatrapdfreader.org/free-pdf-reader.html) / 
-	[calibre⬛](https://calibre-ebook.com/)
   
 TTS:  
 	[Balabolka⬛](http://cross-plus-a.com/balabolka.htm) / 
