@@ -26,13 +26,16 @@ TTS:
 	[Balabolka⬛](http://cross-plus-a.com/balabolka.htm) / 
 	[Screen Reader⬛](http://jacquelin.potier.free.fr/screenreader/)
 
-## Organizing
+## Media library
 
-Media library - 10-foot UI:  
+10-foot UI:  
 	[Kodi⬛](https://kodi.tv/)
 
-Media library - music:  
+Music:  
 	[MusicBee⬛](https://getmusicbee.com/)
+
+Ebooks:  
+	[calibre⬛](https://calibre-ebook.com/)
 
 ## Tags/Metadata
 
