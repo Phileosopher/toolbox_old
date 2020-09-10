@@ -73,18 +73,23 @@ Measurement conversion:
 	[ConvertAll⬛](http://convertall.bellz.org/) / 
 	[Converber⬛](http://www.xyntec.com/converber.htm)
 
-Random number generator:  
-	[RANDOM.ORG☁](https://www.random.org/)
-
 Step-by-step instructions:  
 	[Mathway☁](https://www.mathway.com/) / 
 	[BetterExplained*](https://betterexplained.com/)
+
+Random number generator:  
+	[RANDOM.ORG☁](https://www.random.org/)
+
+## Nichey Niche: Very Specific Math/Calculators
 
 Startup profitability calculator:  
 	[Startup Growth Calculator☁](http://growth.tlb.org/#)
 
 Stock option outcome calculator:  
 	[TLDR Stock Options☁](https://tldroptions.io/)
+
+Marketing ROI calculator:  
+	[Fractl Content ROI Calculator☁](http://frac.tl/content-roi-calc/)
 
 ## Niche: News/Trends/Events
 
@@ -93,6 +98,11 @@ News aggregation:
 
 Popular trends:  
 	[Google Trends☁](https://trends.google.com/)
+
+Influencer search:  
+	[Anewstip☁](https://anewstip.com/) / 
+	[NinjaOutreach☁](https://ninjaoutreach.com/) / 
+	[Google Trends☁](https://trends.google.com/) / 
 
 Market surveys:  
 	[Google Forms☁](https://www.google.com/forms/about/) / 
