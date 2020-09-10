@@ -1,31 +1,31 @@
 # Communicating
 
 ## Real-Time
-Videoconferencing/Screensharing/Phone:  
+Videoconferencing/screensharing/phone:  
 	[Jitsi Meet☁⬇️](https://meet.jit.si/)
 
-Webpage Markups:  
+Webpage markups:  
 	[Marker.to☁⬇️](http://marker.to/)
 
-Chat Services:  
+Chat services:  
 	[Rocket.Chat☁⬇️](https://rocket.chat/) / 
 	[tinychat☁](https://tinychat.com)
 
 Multichat:  
 	[All-in-One Messenger⬇️](https://allinone.im/)
 
-Video Multicast:  
+Video multicast:  
 	[Restream☁](https://restream.io/)
 
 ## Sending/Receiving
 
-Email/Calendar/Contacts:  
+Email/calendar/contacts:  
 	[Mozilla Thunderbird⬛](https://www.thunderbird.net/)
 
-Link Shortener:  
+Link shortener:  
 	[bitly☁](https://bitly.com/)
 
-Large Files:  
+Large files:  
 	[WeTransfer☁](https://wetransfer.com/)
 
 Faxes:  
@@ -33,15 +33,21 @@ Faxes:
 
 ## Social Media
 
-Social Media Image Posts:  
+Social media image posts:  
 	[Pablo by Buffer☁](https://pablo.buffer.com/)
+
+Developer advice:  
+	[Stack Overflow☁](https://stackoverflow.com/)
+
+Design ideas:  
+	[Behance☁](https://www.behance.net/)
 
 ## IRL/Outsourcing
 
-In-Person Connecting:  
+In-person connecting:  
 	[Meetup☁](https://www.meetup.com/)
 
-Tech Support Callback:  
+Tech support callback:  
 	[GetHuman☁](https://gethuman.com/) / 
 	[FastCustomer☁](http://www.fastcustomer.com/)
 
