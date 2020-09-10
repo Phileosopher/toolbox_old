@@ -36,7 +36,7 @@ Faxes:
 Social Media Image Posts:  
 	[Pablo by Buffer☁](https://pablo.buffer.com/)
 
-## IRL
+## IRL/Outsourcing
 
 In-Person Connecting:  
 	[Meetup☁](https://www.meetup.com/)
@@ -44,3 +44,6 @@ In-Person Connecting:
 Tech Support Callback:  
 	[GetHuman☁](https://gethuman.com/) / 
 	[FastCustomer☁](http://www.fastcustomer.com/)
+
+Handwritten messages:  
+	[Handwriting.io☁](https://handwriting.io/)
