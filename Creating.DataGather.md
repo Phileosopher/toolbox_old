@@ -94,6 +94,11 @@ News aggregation:
 Popular trends:  
 	[Google Trends☁](https://trends.google.com/)
 
+Market surveys:  
+	[Google Forms☁](https://www.google.com/forms/about/) / 
+	[Survey Maker☁](https://www.survey-maker.com/) / 
+	[Survey Planet☁](https://surveyplanet.com/)
+
 ## Niche: Personal Information
 
 Flights:  
