@@ -57,13 +57,18 @@ Dev Environment:
 Bootstrap CSS Themes:  
 	[Bootswatch☁](https://bootswatch.com/)
 
+CSS Gradients:  
+	[CSS Gradient*](https://cssgradient.io/) / 
+	[GradientGenerator*](https://gradientgenerator.com/)
+
 Fonts:  
 	[FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/) / 
 	[Web Font Generator☁](https://www.web-font-generator.com/)
 
 Favicons:  
-	[Favicon Generator☁](https://realfavicongenerator.net/) / 
-	[Github: Favicon Cheat Sheet☁](http://github.com/audreyr/favicon-cheat-sheet)
+	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
+	[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
+	[Github: Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
 
 Search Feature:  
 	[Google Custom Search Engine☁](https://cse.google.com/cse/) / 
