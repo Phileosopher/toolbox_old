@@ -29,7 +29,7 @@ Archive/Extract:
 
 Files/Programs:  
 	[Listary⬛](https://www.listary.com/) / 
-	[PathLocate⬇️](http://www.pazera-software.com/products/path-locate/)
+	[voidtools' Everything⬛](https://www.voidtools.com/)
 
 Duplicate Files:  
 	[Auslogics Duplicate File Finder⬛](https://www.auslogics.com/en/software/duplicate-file-finder/) / 
