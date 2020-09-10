@@ -109,6 +109,10 @@ Market surveys:
 	[Survey Maker☁](https://www.survey-maker.com/) / 
 	[Survey Planet☁](https://surveyplanet.com/)
 
+Social media listening:  
+	[Notify☁](https://notify.ly/) / 
+	[Mention☁](https://mention.com/) / 
+
 ## Niche: Personal Information
 
 Flights:  
