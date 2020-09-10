@@ -6,10 +6,6 @@ Google's Advanced Search Operators:
 	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
 	[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
 
-Memorization/flashcards:  
-	[Mnemosyne⬛](https://mnemosyne-proj.org/) / 
-	[Anki⬇️](https://apps.ankiweb.net/)
-
 ## Downloading
 
 Download manager:  
@@ -45,6 +41,9 @@ Word pronunciation:
 	[YouGlish☁](https://youglish.com/)
 
 ## Niche: Location-Based
+
+Device location tag:  
+	[Where Am I☁](https://ctrlq.org/maps/where/)
 
 International time:  
 	[Every Time Zone☁](https://everytimezone.com/)
@@ -191,5 +190,8 @@ Approximate Spreadsheets:
 
 ## Mental Download
 
-Studying:  
-	[Mnemosyne⬛](https://mnemosyne-proj.org/)
+Memorization/flashcards:  
+	[Mnemosyne⬛](https://mnemosyne-proj.org/) / 
+	[Anki⬇️](https://apps.ankiweb.net/)
+
+
