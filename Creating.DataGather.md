@@ -2,9 +2,12 @@
 
 ## General
 
-Google's Advanced Search Operators:  
+Google's advanced search operators:  
 	[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/) / 
 	[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
+
+Search by image:  
+	[Google's Reverse Image Search☁(select camera icon)](https://images.google.com/)
 
 ## Downloading
 
@@ -97,6 +100,9 @@ News aggregation:
 
 Popular trends:  
 	[Google Trends☁](https://trends.google.com/)
+
+The first tweet of something:  
+	[First Tweet☁](http://ctrlq.org/first/)
 
 Influencer search:  
 	[Anewstip☁](https://anewstip.com/) / 
