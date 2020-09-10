@@ -54,5 +54,8 @@ Tech support callback:
 Copywriting:  
 	[Copify UK☁](https://uk.copify.com/)
 
+Book Publishing:  
+	[Draft2Digital☁](https://draft2digital.com/)
+
 Handwritten messages:  
 	[Handwriting.io☁](https://handwriting.io/)
