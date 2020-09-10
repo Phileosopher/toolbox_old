@@ -32,8 +32,6 @@ For brevity's sake, I'm mostly glossing over a few groups:
 * The built-in tools. If I need them, they're there.
 * Paid tools, at least when they make me pause to consider purchasing.
 
-I've marked ☁ for web apps and ⬛ for portable apps, most of which are through [PortableApps.com](https://portableapps.com/). I've marked ⬇️ if the program isn't portable or requires download. If it's a reference sheet, it's marked with *.
-
 ## Organization Convention (updated 2020-09-09)
 
 1. Is it some type of direct communication tool?
@@ -73,3 +71,6 @@ I've marked ☁ for web apps and ⬛ for portable apps, most of which are throug
     * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
   * Is it dealing with hardware?
     * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md)
+
+
+I've marked ☁ for web apps and ⬛ for portable apps, most of which are through [PortableApps.com](https://portableapps.com/). I've marked ⬇️ if the program isn't portable or requires download. If it's a reference sheet or something to copy-paste, it's marked with *.
