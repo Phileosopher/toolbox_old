@@ -68,6 +68,7 @@ Icons:
 	[Fontello⬇️](http://fontello.com/) / 
 	[Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / 
 	[Material Design Icons⬇️](https://www.materialpalette.com/icons) / 
+	[Myiconfinder⬇️](http://www.myiconfinder.com/) / 
 	[Noun Project⬇️](https://thenounproject.com/) / 
 	[Rough Font Awesome⬇️](https://djamshed.github.io/rough-awesome-font/dist/) / 
 	[System UIcons⬇️](https://systemuicons.com/) / 
