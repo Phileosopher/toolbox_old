@@ -109,6 +109,9 @@ Vector graphics:
 Drawing/painting:  
 	[Krita⬛](https://krita.org/en/)
 
+Remove backgrounds from photos with people:  
+	[SocialBook's Background Remover☁](https://socialbook.io/remove-background)
+
 ## Creating Elements: 2D Renders
 
 CAD:  
