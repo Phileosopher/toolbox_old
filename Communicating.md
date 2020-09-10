@@ -33,6 +33,9 @@ Faxes:
 
 ## Social Media
 
+Social media auto-posts:  
+	[Buffer☁](https://buffer.com/)
+
 Social media image posts:  
 	[Pablo by Buffer☁](https://pablo.buffer.com/)
 
