@@ -87,7 +87,10 @@ Fonts:
 	[National Park Typeface⬇️](https://nationalparktypeface.com/) / 
 	[Public Sans⬇️](https://public-sans.digital.gov/) / 
 	[Scunthorpe Sans⬇️](https://vole.wtf/scunthorpe-sans/)
-	[Use & Modify⬇️](http://usemodify.com/) / 
+	[Use & Modify⬇️](http://usemodify.com/)
+
+PPT/Google Slideshow Templates:  
+	[SlidesCarnival⬇️](https://www.slidescarnival.com/)
 
 ## Creating Elements: Photos/Graphics
 
@@ -177,6 +180,10 @@ Presentations:
 	[Google Slides☁](https://slides.google.com) / 
 	[Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx) / 
 	[LibreOffice Impress⬛](https://www.libreoffice.org/)
+
+Infographics:  
+	[Infogram☁](https://infogram.com/)
+	[Piktochart☁](https://piktochart.com/)
 
 Desktop publishing:  
 	[Microsoft Sway☁](https://sway.office.com) / 
