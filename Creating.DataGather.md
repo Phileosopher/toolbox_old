@@ -104,6 +104,10 @@ News aggregation:
 Popular trends:  
 	[Google Trends☁](https://trends.google.com/)
 
+Popular retail trends:  
+	[Google's Rising Retail Categories☁](https://www.thinkwithgoogle.com/feature/category-trends/)
+	[Google Shopping Insights☁](https://shopping.thinkwithgoogle.com/)
+
 The first tweet of something:  
 	[First Tweet☁](http://ctrlq.org/first/)
 
