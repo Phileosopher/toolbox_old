@@ -23,6 +23,7 @@ Color selection - palettes:
 	[ColorSpace*](https://mycolor.space/) / 
 	[Color Hunt*](https://colorhunt.co/) / 
 	[Color Supply's Color Picker*](https://colorsupplyyy.com/app) / 
+	[Colormind*](http://colormind.io/) / 
 	[Coolors.co*](https://coolors.co/) / 
 	[Curated Material Design Color Palettes*](https://material.colorion.co/) / 
 	[Flat UI Colors 2*](https://flatuicolors.com/) / 
@@ -46,7 +47,8 @@ Color selection - gradients:
 	[WebGradients*](https://webgradients.com/)
 
 Font examples:  
-	[FontSpark*](https://fontspark.app/)
+	[FontSpark*](https://fontspark.app/) / 
+	[Font Flipper*](https://fontflipper.com/upload)
 
 Font pairing:  
 	[Fontjoy*](https://fontjoy.com/) / 
@@ -61,6 +63,7 @@ Multi-element forage zones:
 	[365psd⬇️](https://365psd.com/) / 
 	[AllTheFreeStock⬇️](https://allthefreestock.com/) / 
 	[Bootsnipp⬇️](https://bootsnipp.com/) / 
+	[Colors and Fonts⬇️](https://www.colorsandfonts.com/) / 
 	[FOCA⬇️](https://https://focastock.com/) / 
 	[Freebie Supply⬇️](https://freebiesupply.com/) / 
 	[Freebiesbug⬇️](https://freebiesbug.com/) / 
@@ -72,17 +75,19 @@ Multi-element forage zones:
 	[pixabay⬇️](https://pixabay.com/) / 
 	[PSD Repo⬇️](https://psdrepo.com/) / 
 	[PSDDD.co⬇️](https://psddd.co/) / 
-	[Sketch App Sources⬇️](http://www.sketchappsources.com/) / 
+	[App Sources⬇️](http://www.sketchappsources.com/) / 
 	[Sketch Repo⬇️](https://sketchrepo.com/) / 
 	[Sketchapp TV⬇️](http://sketchapp.tv/) / 
 	[Smithsonian Open Access⬇️](https://www.si.edu/openaccess) / 
 	[Start Bootstrap⬇️](https://startbootstrap.com/) / 
 	[Stockio⬇️](https://www.stockio.com/)
+	[UpLabs⬇️](https://www.uplabs.com/)
 
 Stock photos:  
 	[British Museum Collection⬇️](https://www.britishmuseum.org/collection) / 
 	[BucketListly Blog's Photos⬇️](https://www.bucketlistly.blog/photos/) / 
 	[Chamber of Commerce FindAPhoto⬇️](https://www.chamberofcommerce.org/findaphoto/) / 
+	[Food Pictures⬇️](https://www.foodiesfeed.com/) / 
 	[Free Images⬇️](https://www.freeimages.com/) / 
 	[HD Wallpapers⬇️](https://uhdwallpapers.org/) / 
 	[Kaboompics⬇️](https://kaboompics.com/) / 
@@ -113,14 +118,19 @@ Icons:
 	[700+ CSS Icons⬇️](https://css.gg/) / 
 	[Bootstrap Icons⬇️](https://icons.getbootstrap.com/) / 
 	[Bootstrap Icons⬇️](http://www.bootstrapicons.com/) / 
+	[Boxicons⬇️](https://boxicons.com/) / 
 	[CoreUI Icons⬇️](https://coreui.io/icons/) / 
 	[CSS ICON⬇️](https://cssicon.space) / 
 	[DEVICON⬇️](https://devicon.dev/) / 
 	[Endless Icons⬇️](http://endlessicons.com/) / 
+	[Entypo⬇️](http://www.entypo.com/) / 
 	[Eva Icons⬇️](https://akveo.github.io/eva-icons) / 
+	[Feather⬇️](https://feathericons.com/) / 
+	[Free Icons⬇️](https://icon-icons.com/) / 
 	[IcoMoon⬇️](https://icomoon.io/app/) / 
 	[Icon Store⬇️](https://iconstore.co/) / 
 	[iconmonstr⬇️](https://iconmonstr.com/) / 
+	[Ikonate⬇️](https://ikonate.com/) / 
 	[Ionicons⬇️](https://ionicons.com/) / 
 	[Feather⬇️](https://feathericons.com/) / 
 	[Find Icons⬇️](https://findicons.com/) / 
@@ -129,13 +139,16 @@ Icons:
 	[Fontello⬇️](http://fontello.com/) / 
 	[Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / 
 	[Heroicons⬇️](https://heroicons.dev/) / 
+	[Jam icons⬇️](https://linearicons.com/free) / 
 	[Linearicons⬇️](https://linearicons.com/free) / 
 	[Lordicon⬇️](https://lordicon.com/free-icons) / 
 	[Material Design Icons⬇️](https://www.materialpalette.com/icons) / 
+	[Material Design Icons⬇️](https://material.io/resources/icons/?style=baseline) / 
 	[Myiconfinder⬇️](http://www.myiconfinder.com/) / 
 	[Noun Project⬇️](https://thenounproject.com/) / 
 	[Remix Icon⬇️](https://remixicon.com/)
 	[Rough Font Awesome⬇️](https://djamshed.github.io/rough-awesome-font/dist/) / 
+	[Simple Icons⬇️](https://simpleicons.org/) / 
 	[SVG Icons⬇️](http://svgicons.sparkk.fr/) / 
 	[System UIcons⬇️](https://systemuicons.com/) / 
 	[Tabler Icons⬇️](https://tablericons.com/) / 
@@ -144,14 +157,24 @@ Icons:
 	[vivid.js⬇️](https://webkul.github.io/vivid/)
 
 SVGs/illustrations:  
+	[DrawKit⬇️](https://www.drawkit.io/) / 
+	[Facebook Design's Devices⬇️](https://facebook.design/devices) / 
+	[Hero Patterns⬇️](https://www.heropatterns.com/) / 
 	[Humaaans⬇️](https://www.humaaans.com/) / 
+	[illlustrations⬇️](https://illlustrations.co/) / 
+	[ManyPixels' Illustration Gallery⬇️](https://www.manypixels.co/gallery/) / 
+	[Open Doodles⬇️](https://www.opendoodles.com/) / 
 	[Open Peeps⬇️](https://www.openpeeps.com/) / 
 	[Paaatterns!⬇️](https://products.ls.graphics/paaatterns/) / 
 	[unDraw⬇️](https://undraw.co/illustrations)
 
 Fonts:  
 	[1001 Free Fonts⬇️](https://www.1001freefonts.com/) / 
+	[Abstract Fonts⬇️](http://www.abstractfonts.com/) / 
+	[Befonts⬇️](https://befonts.com/) / 
 	[DaFont⬇️](https://www.dafont.com/) / 
+	[Fontget⬇️](https://www.fontget.com/) / 
+	[FontSpace⬇️](https://www.fontspace.com/) / 
 	[Font Squirrel⬇️](https://www.fontsquirrel.com/) / 
 	[Fontfabric's Free Fonts⬇️](https://www.fontfabric.com/free-fonts/) / 
 	[Google Fonts⬇️](https://fonts.google.com/) / 
@@ -183,11 +206,17 @@ Ken Burns effect:
 
 ## Creating Elements: Auto-Renders
 
+Blob generator:  
+	[Blobs☁](https://blobs.app/)
+
 Chaotic functions:  
 	[Fyre⬛](http://fyre.navi.cx/)
 
 Light generation:  
 	[Hot Spot Studio⬛](https://www.rlvision.com/spots/about.php)
+
+Live background generator:  
+	[makebackground.io☁](https://makebackground.io/)
 
 SVG waves:  
 	[Get Waves☁](https://getwaves.io/)
@@ -200,6 +229,11 @@ Remove backgrounds from photos with people:
 
 ## Creating Elements: 2D Renders
 
+Animations:  
+	[Blush⬇️(Figma/Sketch plugin)](https://blush.design/) / 
+	[OpenToonz⬇️](https://opentoonz.github.io/e/) / 
+	[Pencil2D Animation⬛](https://www.pencil2d.org/)
+
 CAD:  
 	[LibreCAD⬛](https://librecad.org/)
 
@@ -209,17 +243,15 @@ Drawing/painting:
 Font builder:  
 	[FontForge⬛](https://fontforge.github.io/)
 
+Icons/cursors:   
+	[GFIE Pro⬛](http://greenfishsoftware.org/)
+
 Logo builder:  
 	[LogoHub☁](https://logohub.io/)
 
 Vector graphics:  
 	[Canva☁](https://www.canva.com/) / 
 	[Inkscape⬛](https://inkscape.org/)
-
-Misc (Icons/cursors/animations):  
-	[GFIE Pro⬛](http://greenfishsoftware.org/) / 
-	[Pencil2D Animation⬛](https://www.pencil2d.org/) / 
-	[OpenToonz⬇️](https://opentoonz.github.io/e/)
 
 ## Creating Elements: 3D Renders
 
@@ -260,6 +292,10 @@ Voxel art/path tracing renderer:
 Diagrams:  
 	[yEd Live☁](https://www.yworks.com/yed-live/)
   
+Infographics:  
+	[Infogram☁](https://infogram.com/)
+	[Piktochart☁](https://piktochart.com/)
+
 Timelines:  
 	[TimeGraphics☁](https://time.graphics/)
   
@@ -272,10 +308,6 @@ Presentations:
 	[Google Slides☁](https://slides.google.com) / 
 	[Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx) / 
 	[LibreOffice Impress⬛](https://www.libreoffice.org/)
-
-Infographics:  
-	[Infogram☁](https://infogram.com/)
-	[Piktochart☁](https://piktochart.com/)
 
 Desktop publishing:  
 	[Microsoft Sway☁](https://sway.office.com) / 
