@@ -93,6 +93,9 @@ Stock option outcome calculator:
 Marketing ROI calculator:  
 	[Fractl Content ROI Calculator☁](http://frac.tl/content-roi-calc/)
 
+Typographical Golden Ratio calculator:  
+	[Golden Ratio Typography Calculator☁](https://grtcalculator.com/)
+
 ## Niche: News/Trends/Events
 
 News aggregation:  
