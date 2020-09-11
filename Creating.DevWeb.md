@@ -81,7 +81,7 @@ Search Feature:
 Web Forms:  
 	[Google Forms☁](http://forms.google.com/)
 
-## Functionality Testing
+## Testing: Functionality
 
 Dead Link Check:  
 	[dead link checker☁](https://www.deadlinkchecker.com/) / 
@@ -96,7 +96,7 @@ Validation - HTML:
 Validation - CSS:  
 	[W3C CSS Validation Service☁](http://jigsaw.w3.org/css-validator/)
 
-## Usability Testing
+## Testing: Usability
 
 Multi-Browser Testing:  
 	[Browser Shots☁](http://browsershots.org/) / 
@@ -113,7 +113,19 @@ Accessibility Test:
 Worldwide Test:  
 	[W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)
 
-## SEO
+## Testing: Speed
+
+Google's Cache Test:  
+	[Google Cache Checker☁](https://www.webnots.com/seo-tools/google-cache-checker)
+
+HTTP Testing:  
+	[WBox⬇️](http://www.hping.org/wbox/)
+
+Site Speed Test:  
+	[GTmetrix☁](https://gtmetrix.com) / 
+	[Google PageSpeed☁](https://developers.google.com/speed/pagespeed/insights/)
+
+## Webcrawler SEO
 
 Sitemap Generator:  
 	[XML Sitemaps Generator☁](https://www.xml-sitemaps.com/)
@@ -126,9 +138,6 @@ HTTP Headers:
 	[REDbot☁](https://redbot.org/) / 
 	[WebNots HTTP Header Checker☁](https://www.webnots.com/seo-tools/http-header-checker/)
 
-Google's Cache Test:  
-	[Google Cache Checker☁](https://www.webnots.com/seo-tools/google-cache-checker)
-
 Uptime Tracking:  
 	[Uptime Robot☁](https://uptimerobot.com/) / 
 	[GotSiteMonitor.com☁](https://www.gotsitemonitor.com/)
@@ -136,10 +145,6 @@ Uptime Tracking:
 SEO Checker:  
 	[BuzzSumo☁](https://app.buzzsumo.com/) / 
 	[woorank☁](https://www.woorank.com/)
-
-Site Speed Test:  
-	[GTmetrix☁](https://gtmetrix.com) / 
-	[Google PageSpeed☁](https://developers.google.com/speed/pagespeed/insights/)
 
 JIT Preloading:  
 	[instant.page☁](https://instant.page/)
@@ -150,16 +155,16 @@ Google Business Review Link Generator:
 Local Business Schema Generator:  
 	[Supple's Local Business Schema Generator☁](https://supple.com.au/tools/local-business-schema-generator/)
 
-Analytics:  
-	[Clicky☁](https://clicky.com/) / 
-	[Google Analytics☁](https://analytics.google.com/) / 
-	[Statcounter☁](https://statcounter.com/)
-
-## Sporks
-
-HTTP Testing:  
-	[WBox⬇️](http://www.hping.org/wbox/)
+## Social Media & Tracking
 
 Social Media:  
 	[TweetDeck☁](https://tweetdeck.twitter.com/) / 
 	[Facebook Debugger☁](https://developers.facebook.com/tools/debug/)
+
+SERP Preview:  
+	[Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)
+
+Analytics:  
+	[Clicky☁](https://clicky.com/) / 
+	[Google Analytics☁](https://analytics.google.com/) / 
+	[Statcounter☁](https://statcounter.com/)
