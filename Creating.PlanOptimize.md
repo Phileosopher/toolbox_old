@@ -7,6 +7,9 @@ Quick Notes/Sporadic:
 
 Mind Mapping/Outlining:  
 	[mimind⬇️](https://mimind.cryptobees.com/) / 
+	[Obsidian⬇️](https://obsidian.md/)
+
+Hierarchical spreadsheets:  
 	[TreeSheets⬇️](http://strlen.com/treesheets/)
 
 Notebooks:  
