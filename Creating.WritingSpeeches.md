@@ -13,6 +13,9 @@ Illustrations:
 Quotes:  
 	[BrainyQuote*](https://www.brainyquote.com/)
 
+Tone Generator:  
+	[The Portent Tone of Voice Generator☁](https://www.portent.com/tools/tone-of-voice-generator)
+
 ## General Writing
 
 Text Editor:  
@@ -83,3 +86,6 @@ PDF/ebook Splitter/Joiner:
 Text Conversion:  
 	[DOC to MD Converter☁](https://word2md.com/) / 
 	[e-book/PDF conversion☁](https://www.epubconverter.com/)
+
+Titling:  
+	[Portent's Content Idea Generator☁](https://www.portent.com/tools/title-maker/)
