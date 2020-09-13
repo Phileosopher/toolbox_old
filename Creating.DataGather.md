@@ -96,6 +96,9 @@ Marketing ROI calculator:
 Typographical Golden Ratio calculator:  
 	[Golden Ratio Typography Calculator☁](https://grtcalculator.com/)
 
+Renting vs. Buying calculator:  
+	[NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
+
 ## Niche: News/Trends/Events
 
 News aggregation:  
