@@ -64,6 +64,7 @@ Multi-element forage zones:
 	[AllTheFreeStock⬇️](https://allthefreestock.com/) / 
 	[Bootsnipp⬇️](https://bootsnipp.com/) / 
 	[Colors and Fonts⬇️](https://www.colorsandfonts.com/) / 
+	[Design Bonos⬇️](https://designbonos.com/) / 
 	[FOCA⬇️](https://https://focastock.com/) / 
 	[Freebie Supply⬇️](https://freebiesupply.com/) / 
 	[Freebiesbug⬇️](https://freebiesbug.com/) / 
