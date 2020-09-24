@@ -145,6 +145,7 @@ Icons:
 	[Lordicon⬇️](https://lordicon.com/free-icons) / 
 	[Material Design Icons⬇️](https://www.materialpalette.com/icons) / 
 	[Material Design Icons⬇️](https://material.io/resources/icons/?style=baseline) / 
+	[Mono Icons⬇️](https://icons.mono.company/) / 
 	[Myiconfinder⬇️](http://www.myiconfinder.com/) / 
 	[Noun Project⬇️](https://thenounproject.com/) / 
 	[Remix Icon⬇️](https://remixicon.com/)
