@@ -86,6 +86,7 @@ Ambient Noise:
 ## Delegating
 
 Freelancing:  
+	[Amazon Mechanical Turk☁](https://www.mturk.com/)
 	[Fiverr☁](https://www.fiverr.com/) / 
 	[Thumbtack☁](https://www.thumbtack.com/) / 
-	[Upwork☁](https://www.upwork.com/)
+	[Upwork☁](https://www.upwork.com/) / 
