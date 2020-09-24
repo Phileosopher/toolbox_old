@@ -75,8 +75,13 @@ Service Synchronization:
 
 ## Focus
 
-Timers:  
-	[Online Timer☁](http://www.timer-tab.com/) / 
+Timer:  
+	[Online Timer☁](http://www.timer-tab.com/)
+
+Pomodoro Timer:  
+	[YAPA 2⬇️](https://github.com/YetAnotherPomodoroApp/YAPA-2)
+
+Repetitive Strain Timer:  
 	[Workrave(repetitive strain)⬛](http://www.workrave.org/)
 
 Ambient Noise:  
