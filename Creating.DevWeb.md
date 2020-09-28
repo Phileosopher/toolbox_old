@@ -27,6 +27,11 @@ Static Hosting:
 	[GitHub Pages☁](https://pages.github.com/) / 
 	[1MB☁](https://1mb.site/)
 
+## Back-End
+
+LAMP Server Variants:  
+	[XAMPP⬇️](https://www.apachefriends.org/index.html)
+
 ## Domains
 
 Domain Registration:  
