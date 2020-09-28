@@ -9,6 +9,7 @@ Stock videos:
 	[Videvo's Royalty Free Videos⬇️](https://www.videvo.net/stock-video-footage/)
 
 Sound effects:  
+	[BBC Sound Effects (licensed)⬇️](http://bbcsfx.acropolis.org.uk/) / 
 	[Freesound⬇️](https://freesound.org/) / 
 	[Videvo's Royalty Free Sound Effects⬇️](https://www.videvo.net/royalty-free-sound-effects/)
 
