@@ -1,41 +1,24 @@
 # Creating: Development
 
-## General Case
+## General
 
 Browser:  
 	[Firefox Quantum: Developer Edition⬛](https://www.mozilla.org/en-US/firefox/developer/)
-  
-LAMP Server Variants:  
-	[XAMPP⬇️](https://www.apachefriends.org/index.html)
 
-Front-End IDEs:  
+## IDEs
+
+Front-End:  
 	[CodePen☁](https://codepen.io/) / 
 	[repl.it☁](https://repl.it/)
 
-API Cheatsheets:  
-	[OverAPI.com☁](http://overapi.com/)
-
-## Code Snips/Libraries
-
-CSS - Properties:  
-	[codrops' CSS Reference*](https://tympanus.net/codrops/css_reference/)
-CSS - imagehover:  
-	[imagehover.css☁](http://imagehover.io/)
-
-HTML/CSS/JS:  
-	[Code My UI☁](https://codemyui.com/) / 
-	[LittleSnippets.net☁](https://littlesnippets.net/)
-
-Computational Intelligence:  
-	[Free Wolfram Engine for Developers⬇️](https://www.wolfram.com/engine/)
-
-Forms - PHP:  
-	[pForm☁](http://www.phpform.org/)
-
-Forms - jQuery:  
-	[jQuery formBuilder☁](https://formbuilder.online/)
+General:  
+	[Apache NetBeans⬇️](https://netbeans.org/) / 
+	[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
 
 ## Docs/Reference
+
+API Cheatsheets:  
+	[OverAPI.com☁](http://overapi.com/)
 
 Color Names:  
 	[Github: Meodai's Color Names☁](https://github.com/meodai/color-names)
@@ -67,8 +50,3 @@ Web Debugging:
 
 Structured Data:  
 	[Google's Structured Data Testing Tool☁](https://search.google.com/structured-data/testing-tool/u/0/)
-
-## Compiling
-
-Creating Digital Signatures:  
-	[MassCert⬇️](https://kcsoftwares.com/?masscert)
