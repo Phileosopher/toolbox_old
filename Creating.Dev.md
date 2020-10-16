@@ -1,13 +1,19 @@
 # Creating: Development
 
-## General
+## General-Use
 
 Browser:  
 	[Firefox Quantum: Developer Edition⬛](https://www.mozilla.org/en-US/firefox/developer/)
 
+Version Control:  
+	[Git⬛](https://git-scm.com/)
+	
+Git GUI:  
+	[Sourcetree⬇️](https://www.sourcetreeapp.com/)
+
 ## IDEs
 
-Front-End:  
+Front-End/In-Browser:  
 	[CodePen☁](https://codepen.io/) / 
 	[repl.it☁](https://repl.it/)
 
@@ -15,28 +21,28 @@ General:
 	[Apache NetBeans⬇️](https://netbeans.org/) / 
 	[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
 
-## Docs/Reference
+## Quick-Reference
 
 API Cheatsheets:  
-	[OverAPI.com☁](http://overapi.com/)
-
-Color Names:  
-	[Github: Meodai's Color Names☁](https://github.com/meodai/color-names)
+	[OverAPI.com*](http://overapi.com/)
 
 Device Measurements:  
 	[Material Design's Device Metrics☁](https://material.io/tools/devices/)
 
 Tutorials:  
-	[Github: Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
+	[Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
 
-Github:  
-	[Github Docs*](https://try.github.io/)
+GitHub:  
+	[GitHub Docs*](https://try.github.io/)
 
-Git GUI:  
-	[Sourcetree⬇️](https://www.sourcetreeapp.com/)
+## Convenient Libraries
+
+Color Names:  
+	[Github: Meodai's Color Names(Github)](https://github.com/meodai/color-names)
+
 
 ## Generating Data
-  
+
 Hash/ID Generation:  
 	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
 	[Pazera's Online Hash Generator☁](http://www.pazera-software.com/online-tools/online-hash-generator.html) / 
