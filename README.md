@@ -4,7 +4,7 @@ I've made this toolbox to accomplish several things.
 
 ## 1. Convenience
 
-Since we don't write essays in machine code, _everyone_ exploits an abstraction when using computers. An OS is the equivalent of a vastly complicated multitool, but sometimes the built-in stuff doesn't work for specific cases.
+Since we don't write essays in machine code, _everyone_ exploits an abstraction when using computers. An OS is the equivalent of a vastly complicated multitool, but where you can strap a rocket ship and a fertilizer box to it.
 
 With the web, most hackers will get a specific app, use it, then promptly forget about it. Then, months or years later, they'll rediscover it while researching a solution, then promptly forget it.
 
