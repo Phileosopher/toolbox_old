@@ -21,6 +21,11 @@ General:
 	[Apache NetBeans⬇️](https://netbeans.org/) / 
 	[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
 
+## Ideas
+
+Possible Projects:  
+	[Mega Projects List*](https://github.com/karan/Projects/)
+
 ## Quick-Reference
 
 API Cheatsheets:  
@@ -40,14 +45,13 @@ GitHub:
 Color Names:  
 	[Github: Meodai's Color Names(Github)](https://github.com/meodai/color-names)
 
+## Generating Codes
 
-## Generating Data
-
-Hash/ID Generation:  
-	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
-	[Pazera's Online Hash Generator☁](http://www.pazera-software.com/online-tools/online-hash-generator.html) / 
-	[PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable) / 
+Barcodes:  
 	[Zint Barcode Generator⬛](https://sourceforge.net/projects/zint/)
+
+UUID/GUID:  
+	[PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
 
 ## Debugging
 

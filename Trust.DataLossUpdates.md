@@ -1,5 +1,11 @@
 # Trust Issues: Data Loss & Updates
 
+## Transfer Verification
+
+Hashing:  
+	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
+	[Pazera's Online Hash Generator☁](http://www.pazera-software.com/online-tools/online-hash-generator.html)
+
 ## System Updates
 
 Software Update:  
