@@ -77,6 +77,7 @@ Fonts:
 Favicons:  
 	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
 	[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
+	[SVG Favicon Maker☁](https://formito.com/tools/favicon) / 
 	[Github: Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
 
 Search Feature:  

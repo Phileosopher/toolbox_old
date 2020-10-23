@@ -40,10 +40,15 @@ Tutorials:
 GitHub:  
 	[GitHub Docs*](https://try.github.io/)
 
+## APIs
+
+Color Names (JS):  
+	[Huginn(Github)](https://github.com/huginn/huginn)
+
 ## Convenient Libraries
 
-Color Names:  
-	[Github: Meodai's Color Names(Github)](https://github.com/meodai/color-names)
+Color Names (JS):  
+	[Meodai's Color Names(Github)](https://github.com/meodai/color-names)
 
 ## Generating Codes
 

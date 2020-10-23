@@ -2,8 +2,11 @@
 
 ## Visual Inspiration
 
-Color search engine:  
-	[TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/) / 
+Color search engine (by image):  
+	[TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
+
+Color search engine (by color name):  
+	[Color-Names☁](https://meodai.github.io/color-names/)
 
 Logo inspiration:  
 	[Namecheap's Free Logo Maker*](https://www.namecheap.com/logo-maker/app/new)
@@ -136,6 +139,7 @@ Icons:
 	[Feather⬇️](https://feathericons.com/) / 
 	[Find Icons⬇️](https://findicons.com/) / 
 	[FlatIcon⬇️](https://www.flaticon.com/) / 
+	[FLAT SVG DESIGNS⬇️](https://flat-svg-designs.net/en/icons/all/) / 
 	[Font Awesome⬇️](https://fontawesome.com/icons?d=gallery&m=free) / 
 	[Fontello⬇️](http://fontello.com/) / 
 	[Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / 

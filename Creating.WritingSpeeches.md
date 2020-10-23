@@ -30,6 +30,10 @@ Word Processor:
 
 ## Specific Needs
 
+Technical Documentation:  
+	[LaTeX⬇️](https://www.latex-project.org/) / 
+	[SwiftLaTeX☁](https://www.swiftlatex.com)
+
 Text Character Reference:  
 	[Copy Paste Character☁](https://www.copypastecharacter.com/) / 
 	[BabelMap⬛](http://www.babelstone.co.uk/Software/BabelMap.html) / 
