@@ -42,15 +42,23 @@ GitHub:
 
 ## APIs
 
-Color Names (JS):  
-	[Huginn(Github)](https://github.com/huginn/huginn)
+Automated task agents (i.e., IFTTT/Zapier w/ code):  
+	[Huginn(Github)](https://github.com/huginn/huginn) / 
+	[n8n.io☁](https://n8n.io)
+
+## Compilers
+
+## Decompilers
+
+.NET to C#:  
+	[JetBrains' dotPeek⬇️](https://www.jetbrains.com/decompiler/)
 
 ## Convenient Libraries
 
 Color Names (JS):  
 	[Meodai's Color Names(Github)](https://github.com/meodai/color-names)
 
-## Generating Codes
+## Generating ID Codes
 
 Barcodes:  
 	[Zint Barcode Generator⬛](https://sourceforge.net/projects/zint/)
