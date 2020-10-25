@@ -32,7 +32,8 @@ Book reading estimation:
 	[How Long to Read☁](https://www.howlongtoreadthis.com/)
 
 Font search:  
-	[Fontspring Matcherator☁](https://www.fontspring.com/matcherator)
+	[Fontspring Matcherator☁](https://www.fontspring.com/matcherator) / 
+	[Font Squirrel's Font Identifier☁](https://www.fontsquirrel.com/matcherator)
 
 Historical word usage:  
 	[Google Books Ngram Viewer☁](https://books.google.com/ngrams)
@@ -171,10 +172,6 @@ Industrial/tech parts:
 
 ## Niche: Other
 
-Color extraction:  
-	[Tineye's Color extraction☁](https://labs.tineye.com/color/) / 
-	[Adobe Color☁](https://color.adobe.com)
-
 Charities/NPOs:  
 	[Charity Navigator☁](https://www.charitynavigator.org/)
 
@@ -190,7 +187,7 @@ Similar websites:
 Torah/Bible:  
 	[The SWORD Project⬇️](https://www.crosswire.org/sword/modules/index.jsp)
 
-## Cleaning/Prepping
+## Data Cleaning/Prepping
 
 Cleaning:  
 	[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) / 

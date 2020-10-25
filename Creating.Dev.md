@@ -40,6 +40,11 @@ Tutorials:
 GitHub:  
 	[GitHub Docs*](https://try.github.io/)
 
+Existing source code:  
+	[Historical Source(Github)](https://github.com/historicalsource) / 
+    [Reddit's comment system](https://raw.githubusercontent.com/reddit-archive/reddit/753b17407e9a9dca09558526805922de24133d53/r2/r2/lib/db/_sorts.pyx) / 
+	[VVVVVV(Github)](https://github.com/TerryCavanagh/vvvvvv) / 
+
 ## APIs
 
 Automated task agents (i.e., IFTTT/Zapier w/ code):  
@@ -55,8 +60,11 @@ Automated task agents (i.e., IFTTT/Zapier w/ code):
 
 ## Convenient Libraries
 
-Color Names (JS):  
-	[Meodai's Color Names(Github)](https://github.com/meodai/color-names)
+Color names:  
+	[Meodai's Color Names(JS - Github)](https://github.com/meodai/color-names)
+
+Search feature:  
+	[OpenSearch(Python - Github)](http://www.opensearch.org/Home)
 
 ## Generating ID Codes
 
@@ -66,10 +74,18 @@ Barcodes:
 UUID/GUID:  
 	[PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
 
-## Debugging
+## Debugging/Testing
 
 Web Debugging:  
 	[Telerik's Fiddler⬇️](https://www.telerik.com/fiddler)
 
-Structured Data:  
-	[Google's Structured Data Testing Tool☁](https://search.google.com/structured-data/testing-tool/u/0/)
+CSS - Linting:  
+	[CSS Lint☁](http://csslint.net/)
+
+JS - Linting:  
+	[JSLint☁](https://jslint.com/)
+
+## Edge Cases
+
+TTS:  
+	[Talon⬇️](https://talonvoice.com/)

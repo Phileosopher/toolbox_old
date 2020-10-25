@@ -63,38 +63,31 @@ Bootstrap CSS Themes:
 	[Bootswatch☁](https://bootswatch.com/)
 
 CSS Gradients:  
-	[CSS Gradient*](https://cssgradient.io/) / 
-	[Grabient*](https://www.grabient.com/) / 
-	[GradientGenerator*](https://gradientgenerator.com/)
+	[CSS Gradient*](https://cssgradient.io/)
 
 CSS Gradients with hover effects:
 	[Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
 
-Fonts:  
-	[FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/) / 
-	[Web Font Generator☁](https://www.web-font-generator.com/)
+Webfonts:  
+	[FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/tools/webfont-generator)
 
 Favicons:  
 	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
 	[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
 	[SVG Favicon Maker☁](https://formito.com/tools/favicon) / 
-	[Github: Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
+	[Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
 
-Search Feature:  
-	[Google Custom Search Engine☁](https://cse.google.com/cse/) / 
-	[OpenSearch☁](http://www.opensearch.org/Home)
+Search feature:  
+	[Google Custom Search Engine☁](https://cse.google.com/cse/)
 
-Web Forms:  
+Web forms:  
 	[Google Forms☁](http://forms.google.com/)
 
 ## Testing: Functionality
 
-Dead Link Check:  
+Dead link check:  
 	[dead link checker☁](https://www.deadlinkchecker.com/) / 
 	[W3C Link Checker☁](https://validator.w3.org/checklink)
-
-Lint - CSS:  
-	[CSS Lint☁](http://csslint.net/)
 
 Validation - HTML:  
 	[W3C Markup Validation Service☁](https://validator.w3.org/)
@@ -102,72 +95,75 @@ Validation - HTML:
 Validation - CSS:  
 	[W3C CSS Validation Service☁](http://jigsaw.w3.org/css-validator/)
 
+Structured data:  
+	[Google's Structured Data Testing Tool☁](https://search.google.com/structured-data/testing-tool/u/0/)
+
 ## Testing: Usability
 
-Multi-Browser Testing:  
+Multi-browser testing:  
 	[Browser Shots☁](http://browsershots.org/) / 
 	[Browserling☁](https://www.browserling.com/) / 
 	[Turbo's Browser Sandbox☁](https://turbo.net/browsers)
 
-Mobile-Friendly Test:  
+Mobile-friendly test:  
 	[Google's Mobile-Friendly Test☁](https://search.google.com/test/mobile-friendly) / 
 	[Responsinator☁](https://www.responsinator.com/)
 
-Accessibility Test:  
+Accessibility test:  
 	[AChecker☁](https://achecker.ca/)
 
-Worldwide Test:  
+Worldwide test:  
 	[W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)
 
 ## Testing: Speed
 
-Google's Cache Test:  
+Google's cache test:  
 	[Google Cache Checker☁](https://www.webnots.com/seo-tools/google-cache-checker)
 
-HTTP Testing:  
+HTTP testing:  
 	[WBox⬇️](http://www.hping.org/wbox/)
 
-Site Speed Test:  
+Site speed test:  
 	[GTmetrix☁](https://gtmetrix.com) / 
 	[Google PageSpeed☁](https://developers.google.com/speed/pagespeed/insights/)
 
-## Webcrawler SEO
+## Non-Human SEO
 
-Sitemap Generator:  
+Sitemap generator:  
 	[XML Sitemaps Generator☁](https://www.xml-sitemaps.com/)
 
-Image Compression:  
+Image compression:  
 	[PunyPNG☁](http://punypng.com/) / 
 	[PNGGauntlet⬛](https://pnggauntlet.com/)
 
-HTTP Headers:  
+HTTP headers:  
 	[REDbot☁](https://redbot.org/) / 
 	[WebNots HTTP Header Checker☁](https://www.webnots.com/seo-tools/http-header-checker/)
 
-Uptime Tracking:  
+Uptime tracking:  
 	[Uptime Robot☁](https://uptimerobot.com/) / 
 	[GotSiteMonitor.com☁](https://www.gotsitemonitor.com/)
 
-SEO Checker:  
+SEO checker:  
 	[BuzzSumo☁](https://app.buzzsumo.com/) / 
 	[woorank☁](https://www.woorank.com/)
 
-JIT Preloading:  
+JIT preloading:  
 	[instant.page☁](https://instant.page/)
 
-Google Business Review Link Generator:  
+Google business review link generator:  
 	[Supple's Business Review Link Generator☁](https://supple.com.au/tools/google-review-link-generator/)
 
-Local Business Schema Generator:  
+Local business schema generator:  
 	[Supple's Local Business Schema Generator☁](https://supple.com.au/tools/local-business-schema-generator/)
 
 ## Social Media & Tracking
 
-Social Media:  
+Social media:  
 	[TweetDeck☁](https://tweetdeck.twitter.com/) / 
 	[Facebook Debugger☁](https://developers.facebook.com/tools/debug/)
 
-SERP Preview:  
+SERP preview:  
 	[Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)
 
 Analytics:  

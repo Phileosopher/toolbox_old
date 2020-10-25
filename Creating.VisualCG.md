@@ -1,12 +1,18 @@
 # Creating: Visual Design/CG
 
-## Visual Inspiration
+## Color Search
 
-Color search engine (by image):  
+Color extraction:  
+	[Tineye's Color extraction☁](https://labs.tineye.com/color/) / 
+	[Adobe Color☁](https://color.adobe.com)
+
+Color pattern search:  
 	[TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
 
-Color search engine (by color name):  
+Color name search:  
 	[Color-Names☁](https://meodai.github.io/color-names/)
+
+## Visual Inspiration
 
 Logo inspiration:  
 	[Namecheap's Free Logo Maker*](https://www.namecheap.com/logo-maker/app/new)
