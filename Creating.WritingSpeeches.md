@@ -48,6 +48,15 @@ Citations:
 Math Calculations:  
 	[LibreOffice Math⬛](https://www.libreoffice.org/discover/math/)
 
+Resumés:  
+	[Reactive Resume☁](https://rx-resume.web.app/) / 
+	[Resumake☁](https://resumake.io/) / 
+	[wtfresume☁](https://wtfresume.com/)
+
+Resumés - software engineers:  
+	[gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
+
+
 ## Editing - Transcript
 
 Thesaurus/Dictionary:  

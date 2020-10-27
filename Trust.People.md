@@ -22,6 +22,10 @@ Short-term file sharing:
 Secure messaging:  
 	[Signal⬇️](https://signal.org/)
 
+Hashing/checksum:  
+	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
+	[Checksum Calculator⬇️](http://www.checksumcalculator.com/)
+
 ## Leak Investigation
 
 Data breach search:  

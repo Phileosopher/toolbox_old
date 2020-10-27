@@ -2,24 +2,28 @@
 
 ## Research
 
-Webhost Research:  
+Webhost research:  
 	[WhoIsHostingThis☁](https://www.whoishostingthis.com/)
 
-Site Structure:  
-	[builtWith☁](https://builtwith.com/)
+Site structure:  
+	[builtWith☁](https://builtwith.com/) / 
+	[WhatRuns(browser plugin)](https://www.whatruns.com/)
+
+Dev learning:  
+	[MDN web docs☁](https://developer.mozilla.org/en-US/)
 
 ## Cheap/Free Hosting
 
-Managed Hosting - Free:  
+Managed hosting - free:  
 	[Neocities☁](https://neocities.org/) / 
 	[Heroku☁](https://www.heroku.com/)
 
-Managed Hosting - Dirt-cheap:  
+Managed hosting - dirt-cheap:  
 	[Amazon S3☁](https://aws.amazon.com/s3/) / 
 	[NearlyFreeSpeech.NET☁](https://www.nearlyfreespeech.net/) / 
 	[Bluehost Education Discount☁](https://www.bluehost.com/special/educationspecial)
 
-Static Hosting:  
+Static hosting:  
 	[Pancake☁](https://www.pancake.io/) / 
 	[Dropbox☁](https://www.dropbox.com/) / 
 	[Google's Firebase☁](https://firebase.google.com/) / 
@@ -29,53 +33,58 @@ Static Hosting:
 
 ## Back-End
 
-LAMP Server Variants:  
+LAMP server variants:  
 	[XAMPP⬇️](https://www.apachefriends.org/index.html)
 
 ## Domains
 
-Domain Registration:  
+Domain registration:  
 	[Namech_k☁](https://namechk.com/) / 
 	[namecheap☁](https://www.namecheap.com/) / 
 	[iwantmyname☁](https://iwantmyname.com/)
 
-Free Domains:  
+Free domains:  
 	[Freenom☁](https://www.freenom.com)
 
-DNS Checker:  
+DNS checker:  
 	[whatsmydns.net☁](https://www.whatsmydns.net/)
 
 ## CMS
 
-WordPress Boilerplate:  
+Bootstrap CSS themes:  
+	[Bootswatch*](https://bootswatch.com/)
+
+WordPress - boilerplate:  
 	[Bedrock⬇️](https://roots.io/bedrock/)
 
-WordPress Templates/Themes/Plugins:  
+WordPress - templates/themes/plugins:  
 	[Colorlib☁](https://colorlib.com/wp/templates/) / 
 	[WordPress Plugins Library☁](https://wordpress.org/plugins/)
 
-Dev Environment:  
-	[Modernizr☁](https://modernizr.com/)
+## Visual Design
 
-## Design
-
-Bootstrap CSS Themes:  
-	[Bootswatch☁](https://bootswatch.com/)
-
-CSS Gradients:  
-	[CSS Gradient*](https://cssgradient.io/)
-
-CSS Gradients with hover effects:
-	[Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
+Templates:  
+	[Creative Tim's Free Templates⬇️](https://www.creative-tim.com/templates/free)
 
 Webfonts:  
 	[FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/tools/webfont-generator)
+
+Landing page images:  
+	[LandingStock⬇️](https://landingstock.com/)
 
 Favicons:  
 	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
 	[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
 	[SVG Favicon Maker☁](https://formito.com/tools/favicon) / 
 	[Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
+
+404 pages:  
+	[404 Illustrations⬇️](https://error404.fun/)
+
+## Features
+
+Browser elements:  
+	[Things you can do with a browser in 2020*](https://github.com/luruke/browser-2020)
 
 Search feature:  
 	[Google Custom Search Engine☁](https://cse.google.com/cse/)
@@ -85,9 +94,16 @@ Web forms:
 
 ## Testing: Functionality
 
+Web Debugging:  
+	[Telerik's Fiddler⬇️](https://www.telerik.com/fiddler)
+	[web.dev☁](https://web.dev/)
+
 Dead link check:  
 	[dead link checker☁](https://www.deadlinkchecker.com/) / 
 	[W3C Link Checker☁](https://validator.w3.org/checklink)
+
+On-the-ground testing:  
+	[Modernizr☁](https://modernizr.com/)
 
 Validation - HTML:  
 	[W3C Markup Validation Service☁](https://validator.w3.org/)
@@ -110,7 +126,9 @@ Mobile-friendly test:
 	[Responsinator☁](https://www.responsinator.com/)
 
 Accessibility test:  
-	[AChecker☁](https://achecker.ca/)
+    [A11ygator☁](https://a11ygator.chialab.io/) / 
+    [AChecker☁](https://achecker.ca/) / 
+    [ANDI(browser plugin)](https://www.ssa.gov/accessibility/andi/help/install.html) / 
 
 Worldwide test:  
 	[W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)

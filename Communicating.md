@@ -45,11 +45,7 @@ Social media auto-posts:
 Social media image posts:  
 	[Pablo by Buffer☁](https://pablo.buffer.com/)
 
-Developer advice:  
-	[Stack Overflow☁](https://stackoverflow.com/)
 
-Design ideas:  
-	[Behance☁](https://www.behance.net/)
 
 ## IRL/Outsourcing
 

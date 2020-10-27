@@ -59,9 +59,13 @@ Gain adjustment:
 
 General conversion:  
 	[Online-Convert.com☁](https://www.online-convert.com/)
+	[Pandoc(CLI)⬇️](https://pandoc.org/)
 
 PDF/PS conversion:  
 	[Ghostscript⬛](https://www.ghostscript.com/)
+
+PDF to JPG conversion:  
+	[Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
 
 Video conversion:  
 	[HandBrake⬇️](https://handbrake.fr/) / 
@@ -76,7 +80,7 @@ Images:
 
 Image conversion/compression - lossy:  
 	[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize) / 
-	[Caesium☁](https://saerasoft.com/caesium/)
+	[Caesium☁](https://saerasoft.com/caesium/) / 
 	[PngOptimizer⬛](https://psydk.org/pngoptimizer) / 
 	[TinyPNG☁](https://tinypng.com/)
 

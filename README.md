@@ -16,7 +16,7 @@ I'm fairly certain many developers reinvent the wheel because they don't realize
 
 Naturally, there are limits to this. Refactoring is complicated, and it's often hard to find *precisely* what you want.
 
-But, on the whole, if I need something to stretch audio or batch compare files, I'd like to know it exists.
+But, on the whole, if I need something to stretch audio or batch compare files, I'd like to know it exists, and often my hard drive can't hold that many terabytes of one-off programs.
 
 Plus, if you're _not_ the software developer type, there's a very high chance that CLI-based software scares you. While a mouse and touchscreen is groovy, sometimes you want to do the same 20,000 computer tasks and typing "del _*.*_ sacares you.
 
@@ -34,13 +34,16 @@ For brevity's sake, I'm mostly glossing over a few groups:
 
 ## Organization Convention (updated 2020-10-17)
 
-1. Is it a tool for directly communicating?
+1. Is it simply for consuming?
+   * [Consuming.md](https://github.com/PhilosAccounting/toolbox/blob/master/consuming.md)
+   
+2. Is it a tool for directly communicating?
    * [Communicating.md](https://github.com/PhilosAccounting/toolbox/blob/master/Communicating.md)
 
-2. Is it making something new?
+3. Is it making something new?
    * Do you want to be productive or optimize your flow?
      * [Creating.PlanOptimize.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.md)
-   * Do you need to gather data?
+   * Do you need to gather data or web search?
      * [Creating.DataGather.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.DataGather.md)
    * Will you be recording something?
      * [Creating.Performing.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.md)
@@ -48,13 +51,18 @@ For brevity's sake, I'm mostly glossing over a few groups:
      * [Creating.WritingSpeeches.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.WritingSpeeches.md)
    * Will you be making visual elements?
      * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
+     * Will you be pulling from or borrowing existing visual elements?
+       * [Creating.VisualCG.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Repos.md)
    * Does it require code?
      * [Creating.Dev.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.md)
-     * [Script Snips](https://github.com/PhilosAccounting/toolbox/tree/master/Script%20Snips)
+     * Is it snippets of actual code?
+       * [Script Snips](https://github.com/PhilosAccounting/toolbox/tree/master/Script%20Snips)
+     * Is it an elaborate addon like a library or framework?
+       * [Creating.Dev.Addons.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Addons.md)
      * Is it specific to making a website?
-       * [Creating.DevWeb.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.DevWeb.md)
+       * [Creating.Dev.Web.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Web.md)
 
-3. Do you have trust issues?
+4. Do you have trust issues?
    * With people?
      * [Trust.People.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.People.md)
    * With things?

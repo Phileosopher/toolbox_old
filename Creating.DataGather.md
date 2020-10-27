@@ -26,6 +26,19 @@ Torrents:
 FTP client:  
 	[FileZilla⬛](https://filezilla-project.org/)
 
+## Niche: Colors
+
+Color extraction:  
+	[Adobe Color☁](https://color.adobe.com) / 
+	[Color Picker online☁](https://image-color.com/) / 
+	[Tineye's Color extraction☁](https://labs.tineye.com/color/)
+
+Color pattern search:  
+	[TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
+
+Color name search:  
+	[Color-Names☁](https://meodai.github.io/color-names/)
+
 ## Niche: Language
 
 Book reading estimation:  
@@ -200,11 +213,3 @@ Spreadsheets:
 
 Approximate Spreadsheets:  
 	[Guesstimate☁](https://www.getguesstimate.com/)
-
-## Mental Download
-
-Memorization/flashcards:  
-	[Mnemosyne⬛](https://mnemosyne-proj.org/) / 
-	[Anki⬇️](https://apps.ankiweb.net/)
-
-

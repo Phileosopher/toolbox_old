@@ -46,12 +46,17 @@ Removable Media:
 
 ## File Analysis
 
+Comparisons:  
+    [Meld⬇️](https://meldmerge.org/) / 
+
 File Data:  
 	[FileInfo☁](https://fileinfo.com/) / 
 	[FileAlyzer⬛](https://www.safer-networking.org/products/filealyzer/)
 
 Disk Usage:  
-	[WinDirStat⬛](https://windirstat.net/)
+    [NCurses(CLI)](https://dev.yorhel.nl/ncdu) / 
+    [WinDirStat⬛](https://windirstat.net/) / 
+	[WizTree⬇️](https://wiztreefree.com/)
 
 ## Process Monitoring
 

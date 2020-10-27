@@ -2,6 +2,9 @@
 
 ## General-Use
 
+Dev advice:  
+	[Stack Overflow☁](https://stackoverflow.com/)
+
 Browser:  
 	[Firefox Quantum: Developer Edition⬛](https://www.mozilla.org/en-US/firefox/developer/)
 
@@ -10,6 +13,11 @@ Version Control:
 	
 Git GUI:  
 	[Sourcetree⬇️](https://www.sourcetreeapp.com/)
+
+## Syntactic Sugar
+
+DuckDuckGo:  
+	[DuckDuckGo !bang operators☁](https://mosermichael.github.io/duckduckbang/html/main.html)
 
 ## IDEs
 
@@ -26,6 +34,9 @@ General:
 Possible Projects:  
 	[Mega Projects List*](https://github.com/karan/Projects/)
 
+Pseudocode:  
+	[Graphviz⬇️](https://www.graphviz.org/)
+
 ## Quick-Reference
 
 API Cheatsheets:  
@@ -40,16 +51,17 @@ Tutorials:
 GitHub:  
 	[GitHub Docs*](https://try.github.io/)
 
-Existing source code:  
-	[Historical Source(Github)](https://github.com/historicalsource) / 
-    [Reddit's comment system](https://raw.githubusercontent.com/reddit-archive/reddit/753b17407e9a9dca09558526805922de24133d53/r2/r2/lib/db/_sorts.pyx) / 
-	[VVVVVV(Github)](https://github.com/TerryCavanagh/vvvvvv) / 
-
 ## APIs
 
 Automated task agents (i.e., IFTTT/Zapier w/ code):  
 	[Huginn(Github)](https://github.com/huginn/huginn) / 
 	[n8n.io☁](https://n8n.io)
+
+Public-access APIs:  
+	[Public APIs☁](https://public-apis.xyz/)
+
+Package tracking:  
+	[Package Place⬇️](https://package.place/)
 
 ## Compilers
 
@@ -57,14 +69,6 @@ Automated task agents (i.e., IFTTT/Zapier w/ code):
 
 .NET to C#:  
 	[JetBrains' dotPeek⬇️](https://www.jetbrains.com/decompiler/)
-
-## Convenient Libraries
-
-Color names:  
-	[Meodai's Color Names(JS - Github)](https://github.com/meodai/color-names)
-
-Search feature:  
-	[OpenSearch(Python - Github)](http://www.opensearch.org/Home)
 
 ## Generating ID Codes
 
@@ -76,14 +80,20 @@ UUID/GUID:
 
 ## Debugging/Testing
 
-Web Debugging:  
-	[Telerik's Fiddler⬇️](https://www.telerik.com/fiddler)
+Accessibility test:  
+	[A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/)
 
-CSS - Linting:  
+General linting:  
+	[Github's Super Linter(Github)](https://github.com/github/super-linter)
+
+CSS - linting:  
 	[CSS Lint☁](http://csslint.net/)
 
-JS - Linting:  
+JS - linting:  
 	[JSLint☁](https://jslint.com/)
+
+Fuzzing:  
+	[Microsoft OneFuzz(Github)](https://github.com/microsoft/onefuzz)
 
 ## Edge Cases
 

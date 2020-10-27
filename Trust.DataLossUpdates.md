@@ -1,11 +1,5 @@
 # Trust Issues: Data Loss & Updates
 
-## Transfer Verification
-
-Hashing:  
-	[RapidCRC Unicode⬛](http://www.ov2.eu/programs/rapidcrc-unicode) / 
-
-
 ## System Updates
 
 Software Update:  
@@ -37,6 +31,9 @@ MBR Management:
 
 Photo Recovery:  
 	[PhotoRec⬇️](https://www.cgsecurity.org/wiki/PhotoRec)
+
+Undelete - JPGs:  
+	[saintmarina's undelete(Github)](https://github.com/saintmarina/undelete_jpg)
 
 Webgrabber:  
 	[HTTrack Website Copier⬇️](https://www.httrack.com/)
