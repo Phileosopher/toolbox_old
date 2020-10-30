@@ -49,7 +49,7 @@ C. Do you have trust issues?
 D. Are you working with datasets or raw information?
 1. Do you need to broadly calculate something?
    * [Creating.Data.Calculators.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Calculators.md)
-3. Are you gathering the information online?
+2. Are you gathering the information online?
    * [Creating.Data.Gather.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Gather.md)
  3. Are you cleaning it up?
        * [Creating.Data.Cleaning.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Cleaning.md)
@@ -58,9 +58,9 @@ E. Are you actually *making* something new?
  1. Can you physically touch it?
      * [Creating.Craftwork.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Craftwork.md)
   2. Will you be recording something or editing video?
-      * [Creating.Performing.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.md)
+      * [Creating.PerformEdit.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PerformEdit.md)
       * Do you need existing audio/visual elements?
-        * [Creating.Performing.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.Repos.md)
+        * [Creating.PerformEdit.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PerformEdit.Repos.md)
    3. Will you be writing something?
       * [Creating.WritingSpeeches.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.WritingSpeeches.md)
    4. Will you be making or tweaking visual elements or CG?
@@ -85,7 +85,6 @@ F. Are you trying to maintain/organize/repair?
       * [Gists (labeled as Hacks)](https://gist.github.com/PhilosAccounting)
 3. Are you working with lots of computer files at once?
      * [Mgmt.FilesOS.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.FilesOS.md)
-     * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/tree/master/Configurations%20%26%20Settings)
 4. Are you messing around with multiple computers at once?
    * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
 
@@ -94,7 +93,7 @@ To demarcate further:
 * ⬛ for portable apps (many through [PortableApps.com](https://portableapps.com/)).
 * ⬇️ if the program isn't portable or requires downloading.
 * If it's a reference sheet or something to copy-paste with very little UI required, it's marked with _*_.
-* When I've remember, I specify if it's a browser plugin.
+* When I've remember, I specify if it's a browser plugin or CLI.
 
 If you like what you see, feel free to contribute or fork.
 

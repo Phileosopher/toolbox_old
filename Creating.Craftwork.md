@@ -5,6 +5,9 @@
 Paper sizes:  
 [PaperSizes☁](https://papersizes.io/)
 
+Mechanical experimentation:  
+[MockMechanics⬇️](https://mockmechanics.com/)
+
 ## Electrical
 
 Circuit simulator:  
