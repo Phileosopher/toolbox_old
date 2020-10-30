@@ -32,7 +32,7 @@ For brevity's sake, I'm mostly glossing over a few groups:
 * The built-in tools. If I need them, they're there.
 * Paid tools, at least when they make me pause to consider purchasing.
 
-## Organization Convention (updated 2020-10-17)
+## Organization Convention (updated 2020-10-30)
 
 A. Are you simply consuming things?
    * [Consuming.md](https://github.com/PhilosAccounting/toolbox/blob/master/consuming.md)
