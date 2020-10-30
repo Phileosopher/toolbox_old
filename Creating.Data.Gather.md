@@ -28,16 +28,20 @@ FTP client:
 
 ## Niche: Colors
 
-Color extraction:  
-	[Adobe Color☁](https://color.adobe.com) / 
-	[Color Picker online☁](https://image-color.com/) / 
-	[Tineye's Color extraction☁](https://labs.tineye.com/color/)
+Color search (by associated object):  
+[Picular☁](https://picular.co/)
 
-Color pattern search:  
-	[TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
+Color search (by color name):  
+[Color-Names☁](https://meodai.github.io/color-names/)
 
-Color name search:  
-	[Color-Names☁](https://meodai.github.io/color-names/)
+Color extraction from an image:  
+[Adobe Color☁](https://color.adobe.com) / 
+[Color Picker online☁](https://image-color.com/) / 
+[Tineye's Color extraction☁](https://labs.tineye.com/color/)
+
+Object search (by color):  
+[TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
+
 
 ## Niche: Language
 
@@ -75,43 +79,6 @@ Cost of living:
 Nuclear detonations:  
 	[NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)
 
-## Niche: Math/Calculators
-
-General-purpose calculators:  
-	[Calculator.net☁](https://www.calculator.net/) / 
-	[SpeedCrunch⬛](https://speedcrunch.org/)
-
-Heavy-duty calculating:  
-	[Wolfram|Alpha☁](https://www.wolframalpha.com/)
-
-Measurement conversion:  
-	[Online Conversion☁](http://www.onlineconversion.com/) / 
-	[ConvertAll⬛](http://convertall.bellz.org/) / 
-	[Converber⬛](http://www.xyntec.com/converber.htm)
-
-Step-by-step instructions:  
-	[Mathway☁](https://www.mathway.com/) / 
-	[BetterExplained*](https://betterexplained.com/)
-
-Random number generator:  
-	[RANDOM.ORG☁](https://www.random.org/)
-
-## Nichey Niche: Very Specific Math/Calculators
-
-Startup profitability calculator:  
-	[Startup Growth Calculator☁](http://growth.tlb.org/#)
-
-Stock option outcome calculator:  
-	[TLDR Stock Options☁](https://tldroptions.io/)
-
-Marketing ROI calculator:  
-	[Fractl Content ROI Calculator☁](http://frac.tl/content-roi-calc/)
-
-Typographical Golden Ratio calculator:  
-	[Golden Ratio Typography Calculator☁](https://grtcalculator.com/)
-
-Renting vs. Buying calculator:  
-	[NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 
 ## Niche: Trends/Opinions
 

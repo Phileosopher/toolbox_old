@@ -46,37 +46,24 @@ C. Do you have trust issues?
    2. With things?
       * [Trust.DataLossUpdates.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.DataLossUpdates.md)
  
- D. Are you trying to maintain/organize/repair?
- 1. Do you want to be productive or optimize your flow?
-     * [Creating.PlanOptimize.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.md)
- 2. Are you physically fussing with technology?
-    * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md) 
-    * Are they little "hacks" that make life better?
-      * [Gists (labeled as Hacks)](https://gist.github.com/PhilosAccounting)
-3. Are you working with lots of computer files at once?
-     * [Mgmt.FilesOS.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.FilesOS.md)
-     * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/tree/master/Configurations%20%26%20Settings)
-4. Are you messing around with multiple computers at once?
-   * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
-5. Are you only fussing with a few specific files?
-     * [Mgmt.Media.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Media.md)
-
-E. Are you working directly with datasets/info?
-1. Are you gathering it?
+D. Are you working with datasets or raw information?
+1. Do you need to broadly calculate something?
+   * [Creating.Data.Calculators.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Calculators.md)
+3. Are you gathering the information online?
    * [Creating.Data.Gather.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Gather.md)
- 2. Are you cleaning it up?
+ 3. Are you cleaning it up?
        * [Creating.Data.Cleaning.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Cleaning.md)
 
-F. Are you actually *making* something new?
+E. Are you actually *making* something new?
  1. Can you physically touch it?
      * [Creating.Craftwork.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Craftwork.md)
-  2. Will you be recording something?
+  2. Will you be recording something or editing video?
       * [Creating.Performing.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.md)
       * Do you need existing audio/visual elements?
         * [Creating.Performing.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.Repos.md)
    3. Will you be writing something?
       * [Creating.WritingSpeeches.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.WritingSpeeches.md)
-   4. Will you be making visual elements?
+   4. Will you be making or tweaking visual elements or CG?
       * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
       * Do you need existing visual elements?
         * [Creating.VisualCG.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Repos.md)
@@ -88,7 +75,20 @@ F. Are you actually *making* something new?
         * [Creating.Dev.Addons.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Addons.md)
       * Is it use-specific to web development?
         * [Creating.Dev.Web.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Web.md)
- 
+
+F. Are you trying to maintain/organize/repair?
+ 1. Do you want to be productive or optimize your flow?
+     * [Creating.PlanOptimize.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.md)
+ 2. Are you physically fussing with technology?
+    * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md) 
+    * Are they little "hacks" that make life better?
+      * [Gists (labeled as Hacks)](https://gist.github.com/PhilosAccounting)
+3. Are you working with lots of computer files at once?
+     * [Mgmt.FilesOS.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.FilesOS.md)
+     * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/tree/master/Configurations%20%26%20Settings)
+4. Are you messing around with multiple computers at once?
+   * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
+
 To demarcate further:
 * ☁ for web apps and interactive pages.
 * ⬛ for portable apps (many through [PortableApps.com](https://portableapps.com/)).
