@@ -56,8 +56,13 @@ Tech support callback:
 	[GetHuman☁](https://gethuman.com/) / 
 	[FastCustomer☁](http://www.fastcustomer.com/)
 
+## Outsourcing - Writing
+
 Copywriting:  
 	[Copify UK☁](https://uk.copify.com/)
+
+Localization:  
+	[Crowdin☁](https://crowdin.com/)
 
 Book Publishing:  
 	[Draft2Digital☁](https://draft2digital.com/)
