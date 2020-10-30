@@ -14,8 +14,9 @@ Sound effects:
 	[Videvo's Royalty Free Sound Effects⬇️](https://www.videvo.net/royalty-free-sound-effects/)
 
 Samples/loops:  
-	[SampleSwap⬇️](https://sampleswap.org/)
-	[Looperman⬇️](https://www.looperman.com/)
+	[SampleSwap⬇️](https://sampleswap.org/) / 
+	[Looperman⬇️](https://www.looperman.com/) / 
+    [Facebook Design's Sound Kit for Prototypes⬇️](https://facebook.design/soundkit)
 
 Stock music:  
 	[Videvo's Royalty Free Music⬇️](https://www.videvo.net/royalty-free-music/)

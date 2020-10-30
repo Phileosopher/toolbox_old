@@ -1,7 +1,5 @@
 # Creating: Visual Design/CG
 
-
-
 ## Capture/Modify
 
 Taking screenshots:  
@@ -127,23 +125,34 @@ Presentations:
 	[LibreOffice Impress⬛](https://www.libreoffice.org/)
 
 Mockups:  
-	[Animockup☁](https://animockup.com/)
+	[Animockup☁](https://animockup.com/) / 
+	[Cleanmock☁](https://cleanmock.com/) / 
 
 Desktop publishing:  
 	[Microsoft Sway☁](https://sway.office.com) / 
 	[Scribus⬛](https://www.scribus.net/)
 
-Prototyping/collaboration:  
-	[Figma☁](https://www.figma.com/) / 
+Prototyping/wireframing:  
+    [Facebook's Origami Studio⬇️](https://origami.design/) /
+    [Figma(has many plugins!)☁](https://www.figma.com/) / 
 	[InVision☁](https://www.invisionapp.com/) / 
 	[Marvel☁](https://marvelapp.com/) / 
 	[Pencil Project⬛](https://pencil.evolus.vn/)
 
-## Visual Testing
+Wireframe kits:  
+    [Contra Wireframe Kit⬇️](https://contrauikit.com/)
 
-Color ratio/colorblindness testing:  
-	[Contrast Checker☁](https://webaim.org/resources/contrastchecker/) / 
-	[Colour Contrast Analyzer⬛](https://developer.paciellogroup.com/resources/contrastanalyser/) / 
-	[Check My Colours☁](http://www.checkmycolours.com/) / 
+## Visual Testing / Accessibility
+
+Colorblindness testing:  
 	[Coblis - Color Blindness Simulator☁](https://www.color-blindness.com/coblis-color-blindness-simulator/) / 
 	[Color Oracle⬇️](https://colororacle.org/)
+
+Color ratio:  
+	[A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/) / 
+	[ColorShark☁](https://colorshark.io/) / 
+	[Colour Contrast Analyzer⬛](https://developer.paciellogroup.com/resources/contrastanalyser/) / 
+	[Contrast Checker☁](https://webaim.org/resources/contrastchecker/) / 
+    [Hex Naw☁](https://hexnaw.com/)
+Once-over:  
+	[Checklist Design*](https://www.checklist.design/)

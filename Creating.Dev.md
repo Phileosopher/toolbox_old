@@ -1,23 +1,81 @@
 # Creating: Development
 
-## General-Use
+## Ideas
 
-Dev advice:  
-	[Stack Overflow☁](https://stackoverflow.com/)
+Possible projects:  
+	[Mega Projects List*](https://github.com/karan/Projects/)
+
+Pseudocode:  
+	[Graphviz⬇️](https://www.graphviz.org/)
+
+CSS improvements:  
+    [CSS-Tricks*](https://css-tricks.com/)
+
+Tutorials:  
+	[Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
+
+## General-Purpose
 
 Browser:  
 	[Firefox Quantum: Developer Edition⬛](https://www.mozilla.org/en-US/firefox/developer/)
 
 Version Control:  
-	[Git⬛](https://git-scm.com/)
+    [Bitbucket⬛](https://bitbucket.org/) / 
+    [Git⬛](https://git-scm.com/) / 
+    [Github⬛](https://github.com/) / 
 	
 Git GUI:  
 	[Sourcetree⬇️](https://www.sourcetreeapp.com/)
 
-## Syntactic Sugar
+## Research
 
-DuckDuckGo:  
-	[DuckDuckGo !bang operators☁](https://mosermichael.github.io/duckduckbang/html/main.html)
+Dev advice:  
+	[Stack Overflow☁](https://stackoverflow.com/)
+
+Design principles:  
+    [Design Principles*](https://principles.design/)
+
+GitHub:  
+	[GitHub Docs*](https://try.github.io/)
+
+## Quick-Reference
+
+AWS:  
+	[Amazon Web Services (explained each on one line)☁](https://adayinthelifeof.nl/2020/05/20/aws.html)
+
+Spatial/pixel dimensions:  
+	[Dimensions.com☁](https://www.dimensions.com/) / 
+    [DPI love☁](https://dpi.lv/) / 
+    [Material Design's Device Metrics☁](https://material.io/tools/devices/)
+
+UX rules:  
+	[Laws of UX☁](https://lawsofux.com/)
+
+## Quick-Reference - Code Snips
+
+CSS:  
+[Animate.css*](https://animate.style/)
+
+CSS - centering:  
+[How to Center in CSS*](http://howtocenterincss.com/)
+
+CSS - gradients:  
+[CSS Gradient*](https://cssgradient.io/)
+
+CSS - gradients with hover effects:
+[Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
+
+CSS - keyframes:
+[Keyframes☁](https://keyframes.app/v2/)
+
+CSS - shadows:  
+[Trendy CSS Text Shadows by Mixfont☁](https://www.mixfont.com/shadows)
+
+HTML/JS:  
+[HTML DOM*](https://htmldom.dev/)
+
+JS - simple utilities:
+[1loc*](https://1loc.dev/)
 
 ## IDEs
 
@@ -29,29 +87,21 @@ General:
 	[Apache NetBeans⬇️](https://netbeans.org/) / 
 	[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
 
-## Ideas
+## Syntactic Sugar
 
-Possible Projects:  
-	[Mega Projects List*](https://github.com/karan/Projects/)
+DuckDuckGo:  
+	[DuckDuckGo !bang operators☁](https://mosermichael.github.io/duckduckbang/html/main.html)
 
-Pseudocode:  
-	[Graphviz⬇️](https://www.graphviz.org/)
+JS:  
+    [Sugar⬇️](https://sugarjs.com/)
 
-## Quick-Reference
+JS - Ruby-esque:  
+	[CoffeeScript⬇️](https://coffeescript.org/)
+
+## APIs
 
 API Cheatsheets:  
 	[OverAPI.com*](http://overapi.com/)
-
-Device Measurements:  
-	[Material Design's Device Metrics☁](https://material.io/tools/devices/)
-
-Tutorials:  
-	[Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
-
-GitHub:  
-	[GitHub Docs*](https://try.github.io/)
-
-## APIs
 
 Automated task agents (i.e., IFTTT/Zapier w/ code):  
 	[Huginn(Github)](https://github.com/huginn/huginn) / 
@@ -63,7 +113,10 @@ Public-access APIs:
 Package tracking:  
 	[Package Place⬇️](https://package.place/)
 
-## Compilers
+## Edge Cases
+
+TTS:  
+	[Talon⬇️](https://talonvoice.com/)
 
 ## Decompilers
 
@@ -78,24 +131,16 @@ Barcodes:
 UUID/GUID:  
 	[PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
 
-## Debugging/Testing
+## Testing - Debugging
 
-Accessibility test:  
-	[A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/)
-
-General linting:  
+Linting - General:  
 	[Github's Super Linter(Github)](https://github.com/github/super-linter)
 
-CSS - linting:  
+Linting - CSS:  
 	[CSS Lint☁](http://csslint.net/)
 
-JS - linting:  
+Linting - JS:  
 	[JSLint☁](https://jslint.com/)
 
 Fuzzing:  
 	[Microsoft OneFuzz(Github)](https://github.com/microsoft/onefuzz)
-
-## Edge Cases
-
-TTS:  
-	[Talon⬇️](https://talonvoice.com/)

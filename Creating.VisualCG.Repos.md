@@ -7,33 +7,24 @@ General:
 	[Happy Hues*](https://www.happyhues.co/)
 
 Palettes:  
-	[Adobe Color Explore*](https://color.adobe.com/explore/most-popular/?time=all) / 
-	[Adobe Color Trends*](https://color.adobe.com/trends) / 
-	[ColorSpace*](https://mycolor.space/) / 
-	[Color Hunt*](https://colorhunt.co/) / 
-	[Color Supply's Color Picker*](https://colorsupplyyy.com/app) / 
-	[Colormind*](http://colormind.io/) / 
-	[Coolors.co*](https://coolors.co/) / 
-	[Curated Material Design Color Palettes*](https://material.colorion.co/) / 
+	[Adobe Color Explore*](https://color.adobe.com/explore/most-popular/?time=all) / [Adobe Color Trends*](https://color.adobe.com/trends) / 
+	[Cloudflare Design's Color*](https://cloudflare.design/color) / 
+    [color x color*](https://colorcolor.in/) / [Colorable*](https://colorable.jxnblk.com/) / [ColorSpace*](https://mycolor.space/) / [Color Hunt*](https://colorhunt.co/) / [Color Supply's Color Picker*](https://colorsupplyyy.com/app) / [colors.lol*](https://colors.lol/) / [Colormind*](http://colormind.io/) / 
+    [Coolors.co*](https://coolors.co/) / [Curated Material Design Color Palettes*](https://material.colorion.co/) / [Culrs*](https://www.culrs.com) /
 	[Flat UI Colors 2*](https://flatuicolors.com/) / 
-	[Material Design Color Palette Generator*](https://www.materialpalette.com/) / 
-	[Material Design's Color Tool*](https://material.io/resources/color/) / 
-	[Palette List*](https://www.palettelist.com/) / 
-	[Palleton*](https://paletton.com/)
+	[Material Design Color Palette Generator*](https://www.materialpalette.com/) / [Material Design's Color Tool*](https://material.io/resources/color/) / 
+	[Palette List*](https://www.palettelist.com/) / [Palleton*](https://paletton.com/)
 
-Specific colors/brands:  
-	[Brand Palettes*](https://brandpalettes.com/all-brands/) / 
-	[BrandColors*](https://brandcolors.net/) / 
-	[Instant Logo Search⬇️](http://instantlogosearch.com/) / 
-	[U.S. Team Colors*](https://usteamcolors.com/) / 
-	[U.S. Brand Colors*](https://usbrandcolors.com/)
+Branded colors:  
+	[Brand Palettes*](https://brandpalettes.com/all-brands/) / [BrandColors*](https://brandcolors.net/) / 
+	[Instant Logo Search☁](http://instantlogosearch.com/) / 
+	[U.S. Team Colors*](https://usteamcolors.com/) / [U.S. Brand Colors*](https://usbrandcolors.com/)
 
 Gradients:  
-	[ColorBox by Lyft Design*](https://www.colorbox.io/) / 
-	[Color Curves*](https://colorcurves.app/) / 
-	[Gradient Hunt*](https://gradienthunt.com/) / 
-	[Gradienta*](https://gradienta.io/) / 
-	[uiGradients*](https://uigradients.com/) / 
+	[ColorBox by Lyft Design*](https://www.colorbox.io/) / [Color Curves*](https://colorcurves.app/) / [ColorKit*](https://colorkit.io/) / 
+    [Grabient*](https://www.grabient.com/) / [Gradient Hunt*](https://gradienthunt.com/) / [Gradienta*](https://gradienta.io/) / 
+    [IRA Design⬇️](https://iradesign.io/) / 
+    [uiGradients*](https://uigradients.com/) / 
 	[WebGradients*](https://webgradients.com/)
 
 Design inspiration:  
@@ -45,9 +36,7 @@ Formatting:
 	[Archetype☁](https://archetypeapp.com)
 
 Examples:  
-	[FontSpark*](https://fontspark.app/) / 
-	[Font Flipper*](https://fontflipper.com/upload) / 
-	[Fonts In Use*](https://fontsinuse.com/)
+	[FontSpark*](https://fontspark.app/) / [Font Flipper*](https://fontflipper.com/upload) / [Fonts In Use*](https://fontsinuse.com/)
 
 Pairing:  
 	[Brandmark Font Generator*](https://brandmark.io/font-generator/) / 
@@ -67,7 +56,7 @@ Multi-element forage zones:
 	[Colors and Fonts⬇️](https://www.colorsandfonts.com/) / 
 	[Design Bonos⬇️](https://designbonos.com/) / 
 	[FOCA⬇️](https://https://focastock.com/) / [Freebie Supply⬇️](https://freebiesupply.com/) / [Freebiesbug⬇️](https://freebiesbug.com/) / [freepik⬇️](https://www.freepik.com/) / [Free Nature Stock⬇️](https://freenaturestock.com/) / 
-	[Icons8⬇️](https://icons8.com/) / [ISO Republic⬇️](https://isorepublic.com/) / 
+	[Icons8⬇️](https://icons8.com/) / [ISO Republic⬇️](https://isorepublic.com/) / [Interfacer⬇️](https://interfacer.xyz/) / 
     [Mixkit⬇️](https://mixkit.co/) / 
 	[Pexels⬇️](https://www.pexels.com/) / [pixabay⬇️](https://pixabay.com/) / [PSD Repo⬇️](https://psdrepo.com/) / [PSDDD.co⬇️](https://psddd.co/) / 
 	[Sketch Repo⬇️](https://sketchrepo.com/) / [Sketchapp TV⬇️](http://sketchapp.tv/) / [Smithsonian Open Access⬇️](https://www.si.edu/openaccess) / [Start Bootstrap⬇️](https://startbootstrap.com/) / [Stockio⬇️](https://www.stockio.com/)
@@ -89,39 +78,6 @@ Stock photos:
 	[Unsplash⬇️](https://unsplash.com/) / 
 	[Vector.me⬇️](https://vector.me/) / [Visual Hunt⬇️](https://visualhunt.com/)
 
-Icons:  
-	[700+ CSS Icons⬇️](https://css.gg/) / 
-	[Bootstrap Icons⬇️](https://icons.getbootstrap.com/) / [Bootstrap Icons⬇️](http://www.bootstrapicons.com/) / [Boxicons⬇️](https://boxicons.com/) / 
-	[CoreUI Icons⬇️](https://coreui.io/icons/) / [CSS ICON⬇️](https://cssicon.space) / 
-	[DEVICON⬇️](https://devicon.dev/) / 
-	[Endless Icons⬇️](http://endlessicons.com/) / [Entypo⬇️](http://www.entypo.com/) / [Eva Icons⬇️](https://akveo.github.io/eva-icons) / 
-	[Feather⬇️](https://feathericons.com/) / [Find Icons⬇️](https://findicons.com/) / [FlatIcon⬇️](https://www.flaticon.com/) / [FLAT SVG DESIGNS⬇️](https://flat-svg-designs.net/en/icons/all/) / [Font Awesome⬇️](https://fontawesome.com/icons?d=gallery&m=free) / [Fontello⬇️](http://fontello.com/) / [Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / [Free Icons⬇️](https://icon-icons.com/) / 
-	[Heroicons⬇️](https://heroicons.dev/) / 
-	[IcoMoon⬇️](https://icomoon.io/app/) / [Iconfinder's Free Icons⬇️](https://www.iconfinder.com/free_icons) /    [Icon Store⬇️](https://iconstore.co/) / [iconmonstr⬇️](https://iconmonstr.com/) / [Ikonate⬇️](https://ikonate.com/) / [Ionicons⬇️](https://ionicons.com/) / 
-	[Jam icons⬇️](https://linearicons.com/free) / 
-	[Linearicons⬇️](https://linearicons.com/free) / [Lordicon⬇️](https://lordicon.com/free-icons) / 
-	[Material Design Icons⬇️](https://materialdesignicons.com/) / [Material Design Icons⬇️](https://www.materialpalette.com/icons) / [Material Design Icons⬇️](https://material.io/resources/icons/?style=baseline) / [Mono Icons⬇️](https://icons.mono.company/) / [Myiconfinder⬇️](http://www.myiconfinder.com/) / 
-	[Noun Project⬇️](https://thenounproject.com/) / 
-	[Remix Icon⬇️](https://remixicon.com/)[Rough Font Awesome⬇️](https://djamshed.github.io/rough-awesome-font/dist/) / 
-	[Simple Icons⬇️](https://simpleicons.org/) / [SVG Icons⬇️](http://svgicons.sparkk.fr/) / [System UIcons⬇️](https://systemuicons.com/) / 
-	[Tabler Icons⬇️](https://tablericons.com/) / [Typicons⬇️](https://www.s-ings.com/typicons/) / 
-	[Unicons by iconscout⬇️](https://iconscout.com/unicons) / [UXWing⬇️](https://uxwing.com/) / 
-	[vivid.js⬇️](https://webkul.github.io/vivid/)
-
-SVGs/illustrations:  
-	[Absurd Design⬇️](https://absurd.design/) / [Avataaars⬇️](https://avataaars.com/) / 
-    [Black Illustrations⬇️](https://www.blackillustrations.com/) / [Bulbman⬇️](https://bulbman.art/) / 
-	[DrawKit⬇️](https://www.drawkit.io/) / 
-	[Facebook Design's Devices⬇️](https://facebook.design/devices) / 
-    [Getillustrations.com's Ghost Builder⬇️](https://getillustrations.com/illustration-pack/ghost-illustrations-builder) / 
-	[Hero Patterns⬇️](https://www.heropatterns.com/) / [Humaaans⬇️](https://www.humaaans.com/) / 
-	[Icons8 Illustrations⬇️](https://icons8.com/illustrations) / [iconscout's Paper Illustrations⬇️](https://iconscout.com/paper-illustrations) / [illlustrations⬇️](https://illlustrations.co/) / 
-	[Kapwing's 404 Illustrations⬇️](https://www.kapwing.com/404-illustrations) / 
-	[ManyPixels' Illustration Gallery⬇️](https://www.manypixels.co/gallery/) / 
-	[Open Doodles⬇️](https://www.opendoodles.com/) / [Open Peeps⬇️](https://www.openpeeps.com/) / 
-	[Paaatterns!⬇️](https://products.ls.graphics/paaatterns/) / 
-	[unDraw⬇️](https://undraw.co/illustrations)
-
 Fonts:  
 	[1001 Free Fonts⬇️](https://www.1001freefonts.com/) / 
 	[Abstract Fonts⬇️](http://www.abstractfonts.com/) / 
@@ -134,6 +90,44 @@ Fonts:
 	[Public Sans⬇️](https://public-sans.digital.gov/) / 
 	[Scunthorpe Sans⬇️](https://vole.wtf/scunthorpe-sans/)
 	[Use & Modify⬇️](http://usemodify.com/)
+
+Icons:  
+	[700+ CSS Icons⬇️](https://css.gg/) / 
+	[Bootstrap Icons⬇️](https://icons.getbootstrap.com/) / [Bootstrap Icons⬇️](http://www.bootstrapicons.com/) / [Boxicons⬇️](https://boxicons.com/) / 
+	[CoreUI Icons⬇️](https://coreui.io/icons/) / [CSS ICON⬇️](https://cssicon.space) / 
+	[DEVICON⬇️](https://devicon.dev/) / [DrawKit's Icons⬇️](https://www.drawkit.io/free-icons) / 
+	[Endless Icons⬇️](http://endlessicons.com/) / [Entypo⬇️](http://www.entypo.com/) / [Eva Icons⬇️](https://akveo.github.io/eva-icons) / [Evericons⬇️](http://www.evericons.com/) / 
+	[Feather⬇️](https://feathericons.com/) / [Find Icons⬇️](https://findicons.com/) / [FlatIcon⬇️](https://www.flaticon.com/) / [FLAT SVG DESIGNS⬇️](https://flat-svg-designs.net/en/icons/all/) / [Font Awesome⬇️](https://fontawesome.com/icons?d=gallery&m=free) / [Fontello⬇️](http://fontello.com/) / [Foundation Icon Fonts 3⬇️](https://zurb.com/playground/foundation-icon-fonts-3) / [Free Icons⬇️](https://icon-icons.com/) / 
+	[Heroicons⬇️](https://heroicons.dev/) / 
+	[IcoMoon⬇️](https://icomoon.io/app/) / [Iconfinder's Free Icons⬇️](https://www.iconfinder.com/free_icons) /    [Icon Store⬇️](https://iconstore.co/) / [IconBros⬇️](https://www.iconbros.com/) / [iconmonstr⬇️](https://iconmonstr.com/) / [Ikonate⬇️](https://ikonate.com/) / [Ionicons⬇️](https://ionicons.com/) / 
+	[Jam icons⬇️](https://linearicons.com/free) / 
+	[Linearicons⬇️](https://linearicons.com/free) / [Line Awesome⬇️](https://icons8.com/line-awesome) / [Lordicon⬇️](https://lordicon.com/free-icons) / 
+	[Material Design Icons⬇️](https://materialdesignicons.com/) / [Material Design Icons⬇️](https://www.materialpalette.com/icons) / [Material Design Icons⬇️](https://material.io/resources/icons/?style=baseline) / [Mono Icons⬇️](https://icons.mono.company/) / [Myiconfinder⬇️](http://www.myiconfinder.com/) / 
+	[Noun Project⬇️](https://thenounproject.com/) / 
+	[Remix Icon⬇️](https://remixicon.com/)[Rough Font Awesome⬇️](https://djamshed.github.io/rough-awesome-font/dist/) / 
+	[Simple Icons⬇️](https://simpleicons.org/) / [SVG Icons⬇️](http://svgicons.sparkk.fr/) / [System UIcons⬇️](https://systemuicons.com/) / 
+	[Tabler Icons⬇️](https://tablericons.com/) / [Typicons⬇️](https://www.s-ings.com/typicons/) / 
+	[Unicons by iconscout⬇️](https://iconscout.com/unicons) / [UXWing⬇️](https://uxwing.com/) / 
+	[vivid.js⬇️](https://webkul.github.io/vivid/)
+
+SVGs/illustrations:  
+	[Absurd Design⬇️](https://absurd.design/) / [Avataaars⬇️](https://avataaars.com/) / 
+    [Black Illustrations⬇️](https://www.blackillustrations.com/) / [Bulbman⬇️](https://bulbman.art/) / 
+	[DrawKit⬇️](https://www.drawkit.io/) / [Dash Illustrations⬇️](https://www.karthiksrinivas.in/dash) / [Delesign's Free Illustrations⬇️](https://www.delesign.com/free-designs/graphics) / 
+    [Getillustrations.com's Ghost Builder⬇️](https://getillustrations.com/illustration-pack/ghost-illustrations-builder) / [Glaze⬇️](https://www.glazestock.com/) / 
+	[Hero Patterns⬇️](https://www.heropatterns.com/) / [Humaaans⬇️](https://www.humaaans.com/) / 
+	[Icons8 Illustrations⬇️](https://icons8.com/illustrations) / [iconscout's Indian Doodle⬇️](https://iconscout.com/illustration-pack/indian-doodle) / [iconscout's Paper Illustrations⬇️](https://iconscout.com/paper-illustrations) / [illlustrations⬇️](https://illlustrations.co/) / 
+    [Lukasz Adam's Free Illustrations⬇️](https://lukaszadam.com/illustrations) /
+    [ManyPixels' Illustration Gallery⬇️](https://www.manypixels.co/gallery/) / 
+	[Open Doodles⬇️](https://www.opendoodles.com/) / [Open Peeps⬇️](https://www.openpeeps.com/) / 
+	[Paaatterns!⬇️](https://products.ls.graphics/paaatterns/) / 
+	[unDraw⬇️](https://undraw.co/illustrations)
+
+Mockup templates:  
+    [Facebook Design's Devices⬇️](https://facebook.design/devices) /
+    [Facebook Design's Diverse Device Hands⬇️](https://facebook.design/handskit) / 
+    [Facebook Design's Virtual Hands⬇️](https://facebook.design/virtual-hands) / 
+    [Lstore Graphics' Free Mockups⬇️](https://www.ls.graphics/free-mockups)
 
 PPT/Google Slideshow Templates:  
 	[SlidesCarnival⬇️](https://www.slidescarnival.com/)

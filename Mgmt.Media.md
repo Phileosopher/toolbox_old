@@ -71,6 +71,9 @@ Video conversion:
 	[HandBrake⬇️](https://handbrake.fr/) / 
 	[TEncoder Video Converter⬛](https://www.fosshub.com/TAudioConverter.html)
 
+Video to GIF conversion:  
+	[EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif)
+
 Audio:  
 	[fre:ac⬛](https://www.freac.org/) / 
 	[TAudioConverter⬛](https://www.fosshub.com/TAudioConverter.html)

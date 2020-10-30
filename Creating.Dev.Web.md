@@ -61,7 +61,7 @@ WordPress - templates/themes/plugins:
 	[Colorlib☁](https://colorlib.com/wp/templates/) / 
 	[WordPress Plugins Library☁](https://wordpress.org/plugins/)
 
-## Visual Design
+## Front-End / Visual Design
 
 Templates:  
 	[Creative Tim's Free Templates⬇️](https://www.creative-tim.com/templates/free)
@@ -73,13 +73,17 @@ Landing page images:
 	[LandingStock⬇️](https://landingstock.com/)
 
 Favicons:  
-	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
+    [favicon.io☁](https://favicon.io/) /	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
 	[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
 	[SVG Favicon Maker☁](https://formito.com/tools/favicon) / 
 	[Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
 
 404 pages:  
-	[404 Illustrations⬇️](https://error404.fun/)
+	[404 Illustrations⬇️](https://error404.fun/) / 
+    [Kapwing's 404 Illustrations⬇️](https://www.kapwing.com/404-illustrations)
+
+Dark mode:  
+	[Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
 
 ## Features
 
@@ -115,6 +119,12 @@ Structured data:
 	[Google's Structured Data Testing Tool☁](https://search.google.com/structured-data/testing-tool/u/0/)
 
 ## Testing: Usability
+
+Color contrast test:  
+	[Check My Colours☁](http://www.checkmycolours.com/) / 
+
+Colorblindness test:  
+	[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter) / 
 
 Multi-browser testing:  
 	[Browser Shots☁](http://browsershots.org/) / 

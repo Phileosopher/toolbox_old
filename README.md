@@ -81,3 +81,5 @@ For brevity's sake, I'm mostly glossing over a few groups:
 
 
 I've marked ☁ for web apps and ⬛ for portable apps (many through [PortableApps.com](https://portableapps.com/)). I've marked ⬇️ if the program isn't portable or requires download. If it's a reference sheet or something to copy-paste, it's marked with _*_.
+
+If you like what you see, feel free to contribute with your own best stuff! Or, just fork it.

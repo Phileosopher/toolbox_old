@@ -1,30 +1,35 @@
 # Creating: Planning/Optimization
 
-## Ideas/Projects/Lists
+## Note-Taking
 
-Quick Notes/Sporadic:  
+Quick notes/sporadic:  
 	[notes.io☁](http://notes.io/)
-
-Mind Mapping/Outlining:  
-	[mimind⬇️](https://mimind.cryptobees.com/) / 
-	[Obsidian⬇️](https://obsidian.md/)
-
-Hierarchical spreadsheets:  
-	[TreeSheets⬇️](http://strlen.com/treesheets/)
 
 Notebooks:  
 	[OneNote️☁⬇️](https://www.onenote.com/) / 
 	[Evernote☁⬇️](https://evernote.com/) / 
 	[QOwnNotes☁⬛](https://www.qownnotes.org/)
 
-To Do Lists:  
-	[Microsoft's To Do☁⬇️](https://to-do.microsoft.com/) / 
+Mind mapping/outlining:  
+	[mimind⬇️](https://mimind.cryptobees.com/) / 
+	[Obsidian⬇️](https://obsidian.md/)
+
+Reference images/visual boards:  
+    [Eagle⬇️](https://en.eagle.cool/) / 
+    [Milanote⬇️](https://milanote.com/)
+
+Hierarchical spreadsheets:  
+	[TreeSheets⬇️](http://strlen.com/treesheets/)
+
+## Lists/Projects
+
+To do lists:  
 	[Todoist☁⬇️](https://todoist.com/)
 
-Kanban Boards:  
+Kanban boards:  
 	[Trello☁⬇️](https://trello.com/)
 
-Grocery Management:  
+Grocery management:  
 	[grocy☁⬇️](https://grocy.info/)
 
 ## Time Optimization
@@ -42,23 +47,27 @@ Built-in:
 	[Browser Shortcuts*](https://stucky.tech/toolbox/b) / 
 	[MS Office Shortcuts*](https://stucky.tech/toolbox/o)
 
-DIY Shortcuts:  
+DIY shortcuts:  
 	[AutoHotkey(keyboard shortcut macros)⬇️](https://www.autohotkey.com/) / 
 	[TinyTask(macros)⬛](https://www.tinytask.net/) / 
 
-NumPad Shortcuts:  
+Extra keypad:  
+    [Razer Tartarus(buy)](https://www.razer.com/gaming-keypads/razer-tartarus-v2/RZ07-02270100-R3M1)
+
+NumPad shortcuts:  
 	[ControlPad⬛](https://sector-seven.com/software/controlpad)
 
-Keys to Gamepad:  
-	[AntiMicro)⬛](https://github.com/AntiMicro/antimicro)
+Keys to gamepad:  
+	[AntiMicro⬛](https://github.com/AntiMicro/antimicro) / 
 
-Text Substitution:  
+Text substitution:  
 	[Texter⬛](https://texter.en.softonic.com/)
 
 ## OS Optimization
 
 Clipboard Manager:  
-	[Ditto⬛](https://ditto-cp.sourceforge.io/)
+    [ClipboardFusion⬇️](https://www.clipboardfusion.com/) / 
+    [Ditto⬛](https://ditto-cp.sourceforge.io/)
 
 Folder Navigation:  
 	[Double Commander⬇️](https://doublecmd.sourceforge.io/) / 

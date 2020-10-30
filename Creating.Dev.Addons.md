@@ -12,18 +12,6 @@ Games:
     [Command & Conquer/Red Alert(Github)](https://github.com/electronicarts/CnC_Remastered_Collection) / 
 	[VVVVVV(Github)](https://github.com/TerryCavanagh/vvvvvv)
 
-CSS:  
-	[Animate.css*](https://animate.style/)
-
-CSS - gradients:  
-	[CSS Gradient*](https://cssgradient.io/)
-
-CSS - gradients with hover effects:
-	[Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
-
-JS - simple utilities:
-	[1loc*](https://1loc.dev/)
-
 ## Frameworks
 
 All-web apps:  
@@ -33,8 +21,11 @@ All-web apps:
 Dynamic lighting/visuals:  
 	[SpriteIlluminator⬇️](https://www.codeandweb.com/spriteilluminator)
 
+Flexbox:  
+	[Bulma⬇️](https://bulma.io/)
+
 Physics - 2D:  
-	[P⬇️](https://www.codeandweb.com/physicseditor)
+	[PhysicsEditor⬇️](https://www.codeandweb.com/physicseditor)
 
 Sprite downscaling:  
 	[TexturePacker⬇️](https://www.codeandweb.com/texturepacker) / 
