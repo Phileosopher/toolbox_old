@@ -51,6 +51,8 @@ C. Do you have trust issues?
      * [Creating.PlanOptimize.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.md)
  2. Are you physically fussing with technology?
     * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md) 
+    * Are they little "hacks" that make life better?
+      * [Gists (labeled as Hacks)](https://gist.github.com/PhilosAccounting)
 3. Are you working with lots of computer files at once?
      * [Mgmt.FilesOS.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.FilesOS.md)
      * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/tree/master/Configurations%20%26%20Settings)
@@ -81,17 +83,17 @@ F. Are you actually *making* something new?
    5. Are you developing software or need to use code?
       * [Creating.Dev.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.md)
       * Is it little snips of actual code?
-        * [Gists](https://gist.github.com/PhilosAccounting)
+        * [Gists (labeled as Snips)](https://gist.github.com/PhilosAccounting)
       * Is it an elaborate addon like a library or framework?
         * [Creating.Dev.Addons.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Addons.md)
       * Is it use-specific to web development?
         * [Creating.Dev.Web.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Web.md)
  
 To demarcate further:
-* ☁ for web apps.
+* ☁ for web apps and interactive pages.
 * ⬛ for portable apps (many through [PortableApps.com](https://portableapps.com/)).
 * ⬇️ if the program isn't portable or requires downloading.
-* If it's a reference sheet or something to copy-paste, it's marked with _*_.
+* If it's a reference sheet or something to copy-paste with very little UI required, it's marked with _*_.
 * When I've remember, I specify if it's a browser plugin.
 
 If you like what you see, feel free to contribute or fork.

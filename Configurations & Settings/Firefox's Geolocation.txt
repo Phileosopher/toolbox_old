@@ -1,7 +1,0 @@
-# Toggle Firefox's Geolocation
-
-Geo.enabled
-	false
-
-Geo.wifi.uri
-	data:application/json,{"location": {"lat": [latitude I want], "lng": [longitude I want]}, "accuracy": 27000.0}

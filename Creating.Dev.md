@@ -51,32 +51,6 @@ Spatial/pixel dimensions:
 UX rules:  
 [Laws of UX☁](https://lawsofux.com/)
 
-## Quick-Reference - Code Snips
-
-CSS:  
-[Animate.css*](https://animate.style/)
-
-CSS - centering:  
-[How to Center in CSS*](http://howtocenterincss.com/)
-
-CSS - gradients:  
-[CSS Gradient*](https://cssgradient.io/)
-
-CSS - gradients with hover effects:  
-[Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
-
-CSS - keyframes:  
-[Keyframes☁](https://keyframes.app/v2/)
-
-CSS - shadows:  
-[Trendy CSS Text Shadows by Mixfont☁](https://www.mixfont.com/shadows)
-
-HTML/JS:  
-[HTML DOM*](https://htmldom.dev/)
-
-JS - simple utilities:  
-[1loc*](https://1loc.dev/)
-
 ## IDEs
 
 Front-End/In-Browser:  
