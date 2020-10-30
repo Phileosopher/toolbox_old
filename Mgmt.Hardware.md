@@ -3,35 +3,34 @@
 ## Status/Benchmarking
 
 All-in-One:  
-	[HWiNFO⬛](https://www.hwinfo.com/)
+[HWiNFO⬛](https://www.hwinfo.com/)
 
 CPU:  
-	[CPU-Z⬛](https://www.cpuid.com/softwares/cpu-z.html)
+[CPU-Z⬛](https://www.cpuid.com/softwares/cpu-z.html)
 
 RAM:  
-	[RAMMap⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
+[RAMMap⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 
 PCI Assets:  
-	[PCI-Z⬛](https://www.pci-z.com/)
+[PCI-Z⬛](https://www.pci-z.com/)
 
 Graphics Card:  
-	[GPU-Z⬛](https://www.techpowerup.com/gpuz/)
+[GPU-Z⬛](https://www.techpowerup.com/gpuz/)
 
 HD:  
-	[SSD-Z⬛](http://aezay.dk/aezay/ssdz/) / 
-	[CrystalDiskMark⬛](https://crystalmark.info/en/software/crystaldiskmark/)
-
+[SSD-Z⬛](http://aezay.dk/aezay/ssdz/) / 
+[CrystalDiskMark⬛](https://crystalmark.info/en/software/crystaldiskmark/)
 
 Laptop Battery:  
-	[BATExpert⬇️](https://kcsoftwares.com/?batexpert)
+[BATExpert⬇️](https://kcsoftwares.com/?batexpert)
 
 ## Hardware Planning
 
 PC Builds:  
-	[PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
+[PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
 
 Hardware Upgrade:  
-	[Crucial by Micron☁](https://www.crucial.com/)
+[Crucial by Micron☁](https://www.crucial.com/)
 
 ## General-Purpose Tools
 
@@ -59,7 +58,7 @@ Secondary/gaming keypad (for faster macros)
 
 USB extensions and hubs
 
-## For Hardware Diagnostics
+## Hardware Diagnostics
 
 USB drive(s) loaded with a decent version of Linux and/or a plethora of portable apps
 
@@ -73,7 +72,7 @@ Loopback plugs
 
 Multimeter
 
-## For Diagnosing Connections
+## Diagnosing Connections
 
 Toner kit
 
@@ -89,7 +88,7 @@ Yost cable (Serial/RJ45)
 
 PoE cable
 
-## For Running/Recabling
+## Running/Recabling
 
 Cable strippers, crimpers, and electrician's scissors
 

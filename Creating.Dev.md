@@ -49,7 +49,7 @@ Spatial/pixel dimensions:
     [Material Design's Device Metrics☁](https://material.io/tools/devices/)
 
 UX rules:  
-	[Laws of UX☁](https://lawsofux.com/)
+[Laws of UX☁](https://lawsofux.com/)
 
 ## Quick-Reference - Code Snips
 
@@ -62,10 +62,10 @@ CSS - centering:
 CSS - gradients:  
 [CSS Gradient*](https://cssgradient.io/)
 
-CSS - gradients with hover effects:
+CSS - gradients with hover effects:  
 [Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
 
-CSS - keyframes:
+CSS - keyframes:  
 [Keyframes☁](https://keyframes.app/v2/)
 
 CSS - shadows:  
@@ -74,49 +74,49 @@ CSS - shadows:
 HTML/JS:  
 [HTML DOM*](https://htmldom.dev/)
 
-JS - simple utilities:
+JS - simple utilities:  
 [1loc*](https://1loc.dev/)
 
 ## IDEs
 
 Front-End/In-Browser:  
-	[CodePen☁](https://codepen.io/) / 
-	[repl.it☁](https://repl.it/)
+[CodePen☁](https://codepen.io/) / 
+[repl.it☁](https://repl.it/)
 
 General:  
-	[Apache NetBeans⬇️](https://netbeans.org/) / 
-	[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
+[Apache NetBeans⬇️](https://netbeans.org/) / 
+[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
 
 ## Syntactic Sugar
 
 DuckDuckGo:  
-	[DuckDuckGo !bang operators☁](https://mosermichael.github.io/duckduckbang/html/main.html)
+[DuckDuckGo !bang operators☁](https://mosermichael.github.io/duckduckbang/html/main.html)
 
 JS:  
-    [Sugar⬇️](https://sugarjs.com/)
+[Sugar⬇️](https://sugarjs.com/)
 
 JS - Ruby-esque:  
-	[CoffeeScript⬇️](https://coffeescript.org/)
+[CoffeeScript⬇️](https://coffeescript.org/)
 
 ## APIs
 
 API Cheatsheets:  
-	[OverAPI.com*](http://overapi.com/)
+[OverAPI.com*](http://overapi.com/)
 
 Automated task agents (i.e., IFTTT/Zapier w/ code):  
-	[Huginn(Github)](https://github.com/huginn/huginn) / 
-	[n8n.io☁](https://n8n.io)
+[Huginn(Github)](https://github.com/huginn/huginn) / 
+[n8n.io☁](https://n8n.io)
 
 Public-access APIs:  
-	[Public APIs☁](https://public-apis.xyz/)
+[Public APIs☁](https://public-apis.xyz/)
 
 Package tracking:  
-	[Package Place⬇️](https://package.place/)
+[Package Place⬇️](https://package.place/)
 
 ## Edge Cases
 
 TTS:  
-	[Talon⬇️](https://talonvoice.com/)
+[Talon⬇️](https://talonvoice.com/)
 
 ## Decompilers
 

@@ -1,4 +1,4 @@
-# Creating: Data Gathering
+# Creating: Data - Gathering
 
 ## General
 
@@ -113,13 +113,11 @@ Typographical Golden Ratio calculator:
 Renting vs. Buying calculator:  
 	[NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 
-## Niche: News/Trends/Events
+## Niche: Trends/Opinions
 
-News aggregation:  
-	[[INSIDE]☁](https://inside.com/)
-
-Popular trends:  
-	[Google Trends☁](https://trends.google.com/)
+Social media listening:  
+	[Notify☁](https://notify.ly/) / 
+	[Mention☁](https://mention.com/)
 
 Popular retail trends:  
 	[Google's Rising Retail Categories☁](https://www.thinkwithgoogle.com/feature/category-trends/)
@@ -134,13 +132,10 @@ Influencer search:
 	[Google Trends☁](https://trends.google.com/) / 
 
 Market surveys:  
-	[Google Forms☁](https://www.google.com/forms/about/) / 
-	[Survey Maker☁](https://www.survey-maker.com/) / 
-	[Survey Planet☁](https://surveyplanet.com/)
-
-Social media listening:  
-	[Notify☁](https://notify.ly/) / 
-	[Mention☁](https://mention.com/) / 
+[Google Forms☁](https://www.google.com/forms/about/) / 
+[Survey Maker☁](https://www.survey-maker.com/) / 
+[SurveyMonkey☁](https://www.surveymonkey.com/) /
+[Survey Planet☁](https://surveyplanet.com/)
 
 ## Niche: Personal Information
 
@@ -199,17 +194,3 @@ Similar websites:
 
 Torah/Bible:  
 	[The SWORD Project⬇️](https://www.crosswire.org/sword/modules/index.jsp)
-
-## Data Cleaning/Prepping
-
-Cleaning:  
-	[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) / 
-	[Zotero⬇️](https://www.zotero.org/)
-
-Spreadsheets:  
-	[Google Sheets☁](https://sheets.google.com) / 
-	[Microsoft Excel Online☁](https://office.live.com/start/Excel.aspx) / 
-	[LibreOffice Calc⬛](https://www.libreoffice.org/)
-
-Approximate Spreadsheets:  
-	[Guesstimate☁](https://www.getguesstimate.com/)

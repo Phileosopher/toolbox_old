@@ -58,37 +58,40 @@ WordPress - boilerplate:
 	[Bedrock⬇️](https://roots.io/bedrock/)
 
 WordPress - templates/themes/plugins:  
-	[Colorlib☁](https://colorlib.com/wp/templates/) / 
-	[WordPress Plugins Library☁](https://wordpress.org/plugins/)
+[Colorlib☁](https://colorlib.com/wp/templates/) / 
+[WordPress Plugins Library☁](https://wordpress.org/plugins/)
 
 ## Front-End / Visual Design
 
 Templates:  
-	[Creative Tim's Free Templates⬇️](https://www.creative-tim.com/templates/free)
+[Creative Tim's Free Templates⬇️](https://www.creative-tim.com/templates/free)
 
 Webfonts:  
-	[FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/tools/webfont-generator)
+[FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/tools/webfont-generator)
 
 Landing page images:  
-	[LandingStock⬇️](https://landingstock.com/)
+[LandingStock⬇️](https://landingstock.com/)
 
 Favicons:  
-    [favicon.io☁](https://favicon.io/) /	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
-	[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
-	[SVG Favicon Maker☁](https://formito.com/tools/favicon) / 
-	[Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
+[favicon.io☁](https://favicon.io/) /	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
+[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
+[SVG Favicon Maker☁](https://formito.com/tools/favicon) / 
+[Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
 
 404 pages:  
-	[404 Illustrations⬇️](https://error404.fun/) / 
-    [Kapwing's 404 Illustrations⬇️](https://www.kapwing.com/404-illustrations)
+[404 Illustrations⬇️](https://error404.fun/) / 
+[Kapwing's 404 Illustrations⬇️](https://www.kapwing.com/404-illustrations)
 
 Dark mode:  
-	[Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
+[Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
+
+Visual site map designer:  
+[Octopus.do☁](https://octopus.do/)
 
 ## Features
 
 Browser elements:  
-	[Things you can do with a browser in 2020*](https://github.com/luruke/browser-2020)
+[Things you can do with a browser in 2020*](https://github.com/luruke/browser-2020)
 
 Search feature:  
 	[Google Custom Search Engine☁](https://cse.google.com/cse/)
@@ -187,9 +190,12 @@ Local business schema generator:
 
 ## Social Media & Tracking
 
-Social media:  
-	[TweetDeck☁](https://tweetdeck.twitter.com/) / 
-	[Facebook Debugger☁](https://developers.facebook.com/tools/debug/)
+Twitter:  
+[Twitter's Card Validator☁](https://cards-dev.twitter.com/validator) / 
+[TweetDeck☁](https://tweetdeck.twitter.com/)
+
+Facebook:  
+[Facebook Debugger☁](https://developers.facebook.com/tools/debug/)
 
 SERP preview:  
 	[Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)

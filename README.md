@@ -34,52 +34,66 @@ For brevity's sake, I'm mostly glossing over a few groups:
 
 ## Organization Convention (updated 2020-10-17)
 
-1. Is it simply for consuming?
+A. Are you simply consuming things?
    * [Consuming.md](https://github.com/PhilosAccounting/toolbox/blob/master/consuming.md)
    
-2. Is it a tool for directly communicating?
+B. Will you be directly communicating with someone?
    * [Communicating.md](https://github.com/PhilosAccounting/toolbox/blob/master/Communicating.md)
 
-3. Is it making something new?
-   * Do you want to be productive or optimize your flow?
+C. Do you have trust issues?
+   1. With people?
+      * [Trust.People.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.People.md)
+   2. With things?
+      * [Trust.DataLossUpdates.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.DataLossUpdates.md)
+ 
+ D. Are you trying to maintain/organize/repair?
+ 1. Do you want to be productive or optimize your flow?
      * [Creating.PlanOptimize.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.md)
-   * Do you need to gather data or web search?
-     * [Creating.DataGather.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.DataGather.md)
-   * Will you be recording something?
-     * [Creating.Performing.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.md)
-   * Will you be writing something?
-     * [Creating.WritingSpeeches.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.WritingSpeeches.md)
-   * Will you be making visual elements?
-     * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
-     * Will you be pulling from or borrowing existing visual elements?
-       * [Creating.VisualCG.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Repos.md)
-   * Does it require code?
-     * [Creating.Dev.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.md)
-     * Is it snippets of actual code?
-       * [Script Snips](https://github.com/PhilosAccounting/toolbox/tree/master/Script%20Snips)
-     * Is it an elaborate addon like a library or framework?
-       * [Creating.Dev.Addons.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Addons.md)
-     * Is it specific to making a website?
-       * [Creating.Dev.Web.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Web.md)
-
-4. Do you have trust issues?
-   * With people?
-     * [Trust.People.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.People.md)
-   * With things?
-     * [Trust.DataLossUpdates.md](https://github.com/PhilosAccounting/toolbox/blob/master/Trust.DataLossUpdates.md)
-
-4. Are you trying to manage files?
-   * Are you fussing with only a few specific files?
-     * [Mgmt.Media.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Media.md)
-   * Is it within the OS, or with many files?
+ 2. Are you physically fussing with technology?
+    * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md) 
+3. Are you working with lots of computer files at once?
      * [Mgmt.FilesOS.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.FilesOS.md)
      * [Configurations & Settings](https://github.com/PhilosAccounting/toolbox/tree/master/Configurations%20%26%20Settings)
-   * Is it with more than one computer?
-     * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
-   * Is it dealing with hardware?
-     * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md)
+4. Are you messing around with multiple computers at once?
+   * [Mgmt.Networks.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Networks.md)
+5. Are you only fussing with a few specific files?
+     * [Mgmt.Media.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Media.md)
 
+E. Are you working directly with datasets/info?
+1. Are you gathering it?
+   * [Creating.Data.Gather.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Gather.md)
+ 2. Are you cleaning it up?
+       * [Creating.Data.Cleaning.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Cleaning.md)
 
-I've marked ☁ for web apps and ⬛ for portable apps (many through [PortableApps.com](https://portableapps.com/)). I've marked ⬇️ if the program isn't portable or requires download. If it's a reference sheet or something to copy-paste, it's marked with _*_.
+F. Are you actually *making* something new?
+ 1. Can you physically touch it?
+     * [Creating.Craftwork.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Craftwork.md)
+  2. Will you be recording something?
+      * [Creating.Performing.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.md)
+      * Do you need existing audio/visual elements?
+        * [Creating.Performing.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Performing.Repos.md)
+   3. Will you be writing something?
+      * [Creating.WritingSpeeches.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.WritingSpeeches.md)
+   4. Will you be making visual elements?
+      * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
+      * Do you need existing visual elements?
+        * [Creating.VisualCG.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Repos.md)
+   5. Are you developing software or need to use code?
+      * [Creating.Dev.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.md)
+      * Is it little snips of actual code?
+        * [Gists](https://gist.github.com/PhilosAccounting)
+      * Is it an elaborate addon like a library or framework?
+        * [Creating.Dev.Addons.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Addons.md)
+      * Is it use-specific to web development?
+        * [Creating.Dev.Web.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Web.md)
+ 
+To demarcate further:
+* ☁ for web apps.
+* ⬛ for portable apps (many through [PortableApps.com](https://portableapps.com/)).
+* ⬇️ if the program isn't portable or requires downloading.
+* If it's a reference sheet or something to copy-paste, it's marked with _*_.
+* When I've remember, I specify if it's a browser plugin.
 
-If you like what you see, feel free to contribute with your own best stuff! Or, just fork it.
+If you like what you see, feel free to contribute or fork.
+
+I love feedback, so please drop me a line (https://stucky.tech) if I've made your life easier.

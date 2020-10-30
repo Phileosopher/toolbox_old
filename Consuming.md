@@ -11,6 +11,11 @@ Memorization/flashcards:
 	[Mnemosyne⬛](https://mnemosyne-proj.org/) / 
 	[Anki⬇️](https://apps.ankiweb.net/)
 
+## News
+
+News aggregation:  
+[[INSIDE]☁](https://inside.com/)
+
 ## Social Media
 
 Cross-platform influencer following:  
