@@ -1,21 +1,22 @@
 # Communicating
 
 ## Real-Time
+
 Videoconferencing/screensharing/phone:  
-	[Jitsi Meet☁⬇️](https://meet.jit.si/)
+[Jitsi Meet☁⬇️](https://meet.jit.si/)
 
 Webpage markups:  
-	[Marker.to☁⬇️](http://marker.to/)
+[Marker.to☁⬇️](http://marker.to/)
 
 Chat services:  
-	[Rocket.Chat☁⬇️](https://rocket.chat/) / 
-	[tinychat☁](https://tinychat.com)
+[Rocket.Chat☁⬇️](https://rocket.chat/),
+[tinychat☁](https://tinychat.com)
 
 Multichat:  
-	[All-in-One Messenger⬇️](https://allinone.im/)
+[All-in-One Messenger⬇️](https://allinone.im/)
 
 Video multicast:  
-	[Restream☁](https://restream.io/)
+[Restream☁](https://restream.io/)
 
 ## Sending/Receiving
 
@@ -40,7 +41,7 @@ Text-to-handwriting:
 ## Social Media
 
 Social media auto-posts:  
-[Buffer☁](https://buffer.com/) / 
+[Buffer☁](https://buffer.com/),
 [Hootsuite☁](https://hootsuite.com/)
 
 Social media image posts:  
