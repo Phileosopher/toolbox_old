@@ -6,7 +6,7 @@ Webhost research:
 [WhoIsHostingThis☁](https://www.whoishostingthis.com/)
 
 Site structure:  
-[builtWith☁](https://builtwith.com/) / 
+[builtWith☁](https://builtwith.com/) /
 [WhatRuns(browser plugin)](https://www.whatruns.com/)
 
 Dev learning:  
@@ -15,20 +15,20 @@ Dev learning:
 ## Cheap/Free Hosting
 
 Managed hosting - free:  
-[Neocities☁](https://neocities.org/) / 
+[Neocities☁](https://neocities.org/) /
 [Heroku☁](https://www.heroku.com/)
 
 Managed hosting - dirt-cheap:  
-[Amazon S3☁](https://aws.amazon.com/s3/) / 
-[NearlyFreeSpeech.NET☁](https://www.nearlyfreespeech.net/) / 
+[Amazon S3☁](https://aws.amazon.com/s3/) /
+[NearlyFreeSpeech.NET☁](https://www.nearlyfreespeech.net/) /
 [Bluehost Education Discount☁](https://www.bluehost.com/special/educationspecial)
 
 Static hosting:  
-[Pancake☁](https://www.pancake.io/) / 
-[Dropbox☁](https://www.dropbox.com/) / 
-[Google's Firebase☁](https://firebase.google.com/) / 
-[Netlify☁](https://app.netlify.com/) / 
-[GitHub Pages☁](https://pages.github.com/) / 
+[Pancake☁](https://www.pancake.io/) /
+[Dropbox☁](https://www.dropbox.com/) /
+[Google's Firebase☁](https://firebase.google.com/) /
+[Netlify☁](https://app.netlify.com/) /
+[GitHub Pages☁](https://pages.github.com/) /
 [1MB☁](https://1mb.site/)
 
 ## Back-End
@@ -39,8 +39,8 @@ LAMP server variants:
 ## Domains
 
 Domain registration:  
-[Namech_k☁](https://namechk.com/) / 
-[namecheap☁](https://www.namecheap.com/) / 
+[Namech_k☁](https://namechk.com/) /
+[namecheap☁](https://www.namecheap.com/) /
 [iwantmyname☁](https://iwantmyname.com/)
 
 Free domains:  
@@ -52,13 +52,13 @@ DNS checker:
 ## CMS (content management system)
 
 Bootstrap CSS themes:  
-	[Bootswatch*](https://bootswatch.com/)
+[Bootswatch*](https://bootswatch.com/)
 
 WordPress - boilerplate:  
-	[Bedrock⬇️](https://roots.io/bedrock/)
+[Bedrock⬇️](https://roots.io/bedrock/)
 
 WordPress - templates/themes/plugins:  
-[Colorlib☁](https://colorlib.com/wp/templates/) / 
+[Colorlib☁](https://colorlib.com/wp/templates/) /
 [WordPress Plugins Library☁](https://wordpress.org/plugins/)
 
 ## Front-End / Visual Design
@@ -76,13 +76,13 @@ Landing page images:
 [LandingStock⬇️](https://landingstock.com/)
 
 Favicons:  
-[favicon.io☁](https://favicon.io/) /	[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) / 
-[Real Favicon Generator☁](https://realfavicongenerator.net/) / 
-[SVG Favicon Maker☁](https://formito.com/tools/favicon) / 
+[favicon.io☁](https://favicon.io/) /[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) /
+[Real Favicon Generator☁](https://realfavicongenerator.net/) /
+[SVG Favicon Maker☁](https://formito.com/tools/favicon) /
 [Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
 
 404 pages:  
-[404 Illustrations⬇️](https://error404.fun/) / 
+[404 Illustrations⬇️](https://error404.fun/) /
 [Kapwing's 404 Illustrations⬇️](https://www.kapwing.com/404-illustrations)
 
 Dark mode:  
@@ -112,7 +112,7 @@ Web Debugging:
 [web.dev☁](https://web.dev/)
 
 Dead link check:  
-[dead link checker☁](https://www.deadlinkchecker.com/) / 
+[dead link checker☁](https://www.deadlinkchecker.com/) /
 [W3C Link Checker☁](https://validator.w3.org/checklink)
 
 On-the-ground testing:  
@@ -130,10 +130,10 @@ Structured data:
 ## Testing: Usability
 
 Color contrast test:  
-[Check My Colours☁](http://www.checkmycolours.com/) / 
+[Check My Colours☁](http://www.checkmycolours.com/) /
 
 Colorblindness test:  
-[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter) / 
+[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter) /
 
 Multi-browser testing:  
 [Browser Shots☁](http://browsershots.org/) / 
