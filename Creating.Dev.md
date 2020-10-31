@@ -61,16 +61,10 @@ General:
 [Apache NetBeans⬇️](https://netbeans.org/),
 [Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
 
-## Syntactic Sugar
+## Sugar Bits
 
 DuckDuckGo:  
 [DuckDuckGo !bang operators☁](https://mosermichael.github.io/duckduckbang/html/main.html)
-
-JS:  
-[Sugar⬇️](https://sugarjs.com/)
-
-JS - Ruby-esque:  
-[CoffeeScript⬇️](https://coffeescript.org/)
 
 ## APIs
 

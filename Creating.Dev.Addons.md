@@ -37,14 +37,26 @@ Sprite downscaling:
 [TexturePacker⬇️](https://www.codeandweb.com/texturepacker),
 [TexturePacker3D⬇️](https://www.codeandweb.com/texturepacker3d)
 
-## Convenient Libraries
+## Syntactic Sugar
 
-Animations:  
-[98.css(CSS)](https://jdan.github.io/98.css/)
+JS:  
+[Sugar⬇️](https://sugarjs.com/)
+
+JS - Ruby-esque:  
+[CoffeeScript⬇️](https://coffeescript.org/)
+
+JSON:  
+[Hjson⬇️](https://github.com/hjson/hjson-js)
+
+## Libraries/Engines - Visual
+
+Animations/SVGs:  
 [Anime.js(JS)](https://animejs.com/)
+[Textures.js(JS - D3 @Github)](https://brumm.af/shadows),
+[tween.js(JS @Github)](https://github.com/sole/tween.js)
 
-Color names:  
-[Meodai's Color Names(JS @Github)](https://github.com/meodai/color-names)
+Aesthetics - Win98 UI:  
+[98.css(CSS)](https://jdan.github.io/98.css/)
 
 Game engines:  
 [Unity⬇️](https://unity.com/),
@@ -55,11 +67,16 @@ Game engines:
 Photo color filters:  
 [filters.css(CSS)](https://bansal.io/filters-css)
 
+## Libraries/Engines - Back-End
+
+Color names:  
+[Meodai's Color Names(JS @Github)](https://github.com/meodai/color-names)
+
+Computational heavy lifting:  
+[Wolfram Engine⬇️](https://www.wolfram.com/engine/)
+
 Search feature:  
 [OpenSearch(Python @Github)](http://www.opensearch.org/Home)
-
-SVGs:  
-[Textures.js(JS - D3 @Github)](https://brumm.af/shadows)
 
 ## Machine Learning
 

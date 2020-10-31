@@ -40,6 +40,9 @@ Text-to-handwriting:
 
 ## Social Media
 
+Social media skimming:  
+[TweetDeck☁](https://tweetdeck.twitter.com/)
+
 Social media auto-posts:  
 [Buffer☁](https://buffer.com/),
 [Hootsuite☁](https://hootsuite.com/)

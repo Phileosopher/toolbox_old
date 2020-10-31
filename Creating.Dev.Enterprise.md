@@ -1,9 +1,17 @@
 # Creating: Development - Enterprise
 
-## LMS (learning management system)
+## In-House
 
-Online courses/education:  
+LMS (learning management system):  
 [ATutor⬇️](https://atutor.github.io/atutor/index.html),
 [FlightPath⬇️](https://getflightpath.com/),
 [Moodle⬇️](https://moodle.org/),
 [Omeka⬇️](https://omeka.org/)
+
+Process automation:  
+[Bonitasoft⬇️](https://www.bonitasoft.com/)
+
+## Outsourcing
+
+Localization/translation:  
+[Crowdin☁](https://crowdin.com/)

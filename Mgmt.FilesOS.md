@@ -7,7 +7,12 @@ File Splitting:
 
 General file conversion:  
 [Online-Convert.com☁](https://www.online-convert.com/),
+
+General file conversion - documents:  
 [Pandoc(CLI)⬇️](https://pandoc.org/)
+
+General file conversion - audio/video:  
+[FFmpeg(CLI)⬇️](https://www.ffmpeg.org/)
 
 ISO Mounting:  
 [WinCDEmu⬛](http://wincdemu.sysprogs.org/)

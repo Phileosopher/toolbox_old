@@ -153,6 +153,9 @@ Accessibility test:
 Worldwide test:  
 [W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)
 
+HTML:  
+[Facebook's Playable Preview☁](https://developers.facebook.com/tools/playable-preview/)
+
 ## Testing: Speed
 
 Google's cache test:  
@@ -186,6 +189,9 @@ SEO checker:
 [BuzzSumo☁](https://app.buzzsumo.com/),
 [woorank☁](https://www.woorank.com/)
 
+SEO checker - Facebook:  
+[Facebook's Batch Invalidator☁](https://developers.facebook.com/tools/debug/sharing/batch/)
+
 JIT preloading:  
 [instant.page☁](https://instant.page/)
 
@@ -195,19 +201,24 @@ Google business review link generator:
 Local business schema generator:  
 [Supple's Local Business Schema Generator☁](https://supple.com.au/tools/local-business-schema-generator/)
 
-## Social Media & Tracking
+## Social Media
 
 Twitter:  
-[Twitter's Card Validator☁](https://cards-dev.twitter.com/validator),
-[TweetDeck☁](https://tweetdeck.twitter.com/)
+[Twitter's Card Validator☁](https://cards-dev.twitter.com/validator)
 
 Facebook:  
-[Facebook Debugger☁](https://developers.facebook.com/tools/debug/)
+[Facebook's Sharing Debugger☁](https://developers.facebook.com/tools/debug/)
 
-SERP preview:  
+LinkedIn:  
+[LinkedIn's Post Inspector☁](https://www.linkedin.com/post-inspector/)
+
+SERP (search engine rsults page) preview:  
 [Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)
 
-Analytics:  
+## Tracking
+
+Website Analytics:  
 [Clicky☁](https://clicky.com/),
+[Facebook Analytics☁](https://www.facebook.com/analytics/),
 [Google Analytics☁](https://analytics.google.com/),
 [Statcounter☁](https://statcounter.com/)

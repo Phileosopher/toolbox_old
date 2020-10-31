@@ -234,3 +234,6 @@ Color ratio:
 
 Once-over:  
 [Checklist Design*](https://www.checklist.design/)
+
+3D asset validation (.glb files):  
+[Facebook's 3D Model Validation Tool☁](https://developers.facebook.com/tools/3d/validation/)

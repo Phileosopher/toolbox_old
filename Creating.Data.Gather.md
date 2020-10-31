@@ -102,7 +102,7 @@ Market surveys:
 [SurveyMonkey☁](https://www.surveymonkey.com/),
 [Survey Planet☁](https://surveyplanet.com/)
 
-## Niche: Personal Information
+## Niche: Personally Relevant Information
 
 Flights:  
 [FlightStats by Cirium☁](https://www.flightstats.com)
