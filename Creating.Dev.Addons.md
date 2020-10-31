@@ -27,6 +27,9 @@ Dynamic lighting/visuals:
 Flexbox:  
 [Bulma⬇️](https://bulma.io/)
 
+PHP - design-focused:  
+[Laravel⬇️](https://laravel.com/)
+
 Physics - 2D:  
 [PhysicsEditor⬇️](https://www.codeandweb.com/physicseditor)
 

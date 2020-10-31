@@ -8,8 +8,11 @@ Rss-to-email:
 ## Learning
 
 Memorization/flashcards:  
-[Mnemosyne⬛](https://mnemosyne-proj.org/) / 
+[Mnemosyne⬛](https://mnemosyne-proj.org/) /
 [Anki⬇️](https://apps.ankiweb.net/)
+
+Language:  
+[Duolingo☁](https://www.duolingo.com/)
 
 ## News
 
@@ -69,3 +72,8 @@ Music:
 
 Ebooks:  
 [calibre⬛](https://calibre-ebook.com/)
+
+## Specific consumption
+
+Torah/Bible:  
+[The SWORD Project⬇️](https://crosswire.org/sword/index.jsp)

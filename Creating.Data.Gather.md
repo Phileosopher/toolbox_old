@@ -148,16 +148,13 @@ Industrial/tech parts:
 ## Niche: Other
 
 Charities/NPOs:  
-	[Charity Navigator☁](https://www.charitynavigator.org/)
+[Charity Navigator☁](https://www.charitynavigator.org/)
 
 Investing:  
-	[investorjunkie☁](https://investorjunkie.com/)
+[investorjunkie☁](https://investorjunkie.com/)
 
 Podcasts:  
-	[Listen Notes☁](https://www.listennotes.com/)
+[Listen Notes☁](https://www.listennotes.com/)
 
 Similar websites:  
-	[Similarsites.com☁](https://www.similarsites.com/)
-
-Torah/Bible:  
-	[The SWORD Project⬇️](https://www.crosswire.org/sword/modules/index.jsp)
+[Similarsites.com☁](https://www.similarsites.com/)

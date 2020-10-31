@@ -16,21 +16,22 @@ I'm fairly certain many developers reinvent the wheel because they don't realize
 
 Naturally, there are limits to this. Refactoring is complicated, and it's often hard to find *precisely* what you want.
 
-But, on the whole, if I need something to stretch audio or batch compare files, I'd like to know it exists, and often my hard drive can't hold that many terabytes of one-off programs.
+But, on the whole, if I need something to stretch audio or batch compare files, knowing it exists is the largest mental hurdle.
 
 Plus, if you're _not_ the software developer type, there's a very high chance that CLI-based software scares you. While a mouse and touchscreen is groovy, sometimes you want to do the same 20,000 computer tasks and typing "del _*.*_ sacares you.
 
 ## 3. Future Convenience
 
-There are lots of things here that I _might_ find useful someday.
+There are lots of things here that I _might_ find useful someday, but I don't feel like lugging around 4 terabytes of constantly updating programs just to know where they are.
 
 So, this is a bit like a hoarder's barn, but collects less dust and proportionally smaller.
 
 ## Rules
 
 For brevity's sake, I'm mostly glossing over a few groups:
-* The built-in tools. If I need them, they're there.
+* The built-in tools. If I need them, they're in the computer already.
 * Paid tools, at least when they make me pause to consider purchasing.
+* Courses and courseware (unless it helps you make them), since you only need to learn about "xyz" once.
 
 ## Organization Convention (updated 2020-10-30)
 
@@ -75,10 +76,14 @@ E. Are you actually *making* something new?
         * [Creating.Dev.Addons.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Addons.md)
       * Is it use-specific to web development?
         * [Creating.Dev.Web.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Web.md)
+      * Is it something large-scale or *really* ambitious?
+        * [Creating.Dev.Enterprise.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Enterprise.md)
 
 F. Are you trying to maintain/organize/repair?
  1. Do you want to be productive or optimize your flow?
      * [Creating.PlanOptimize.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.md)
+     * Is it related to business/management activities?
+       * [Creating.PlanOptimize.Business.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PlanOptimize.Business.md)
  2. Are you physically fussing with technology?
     * [Mgmt.Hardware.md](https://github.com/PhilosAccounting/toolbox/blob/master/Mgmt.Hardware.md) 
     * Are they little "hacks" that make life better?

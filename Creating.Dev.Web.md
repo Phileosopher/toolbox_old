@@ -49,7 +49,7 @@ Free domains:
 DNS checker:  
 [whatsmydns.net☁](https://www.whatsmydns.net/)
 
-## CMS
+## CMS (content management system)
 
 Bootstrap CSS themes:  
 	[Bootswatch*](https://bootswatch.com/)

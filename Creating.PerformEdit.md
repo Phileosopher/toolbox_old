@@ -33,6 +33,9 @@ DJing:
 [Serato DJ Lite⬛](https://serato.com/dj/lite) / 
 [Mixxx⬛](https://www.mixxx.org/)
 
+Church leadership:  
+[OpenLP⬇️](https://openlp.org/)
+
 ## Audio Editing
 
 General:  

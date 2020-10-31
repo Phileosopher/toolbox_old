@@ -46,28 +46,7 @@ Social media auto-posts:
 Social media image posts:  
 [Pablo by Buffer☁](https://pablo.buffer.com/)
 
-## IRL/Outsourcing
+## IRL
 
 In-person connecting:  
 [Meetup☁](https://www.meetup.com/)
-
-Tech support callback:  
-[GetHuman☁](https://gethuman.com/) / 
-[FastCustomer☁](http://www.fastcustomer.com/)
-
-Freelance developers/designers:  
-[Flexiple☁](https://flexiple.com/)
-
-## Outsourcing - Writing
-
-Copywriting:  
-[Copify UK☁](https://uk.copify.com/)
-
-Localization:  
-[Crowdin☁](https://crowdin.com/)
-
-Book Publishing:  
-[Draft2Digital☁](https://draft2digital.com/)
-
-Handwritten messages:  
-[Handwriting.io☁](https://handwriting.io/)
