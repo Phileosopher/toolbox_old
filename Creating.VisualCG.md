@@ -8,29 +8,29 @@ General design:
 ## Inspiration - Colors
 
 General:  
-[Colorsinspo*](https://colorsinspo.com/) / 
+[Colorsinspo*](https://colorsinspo.com/),
 [Happy Hues*](https://www.happyhues.co/)
 
 Palettes:  
-[Adobe Color Explore*](https://color.adobe.com/explore/most-popular/?time=all) / [Adobe Color Trends*](https://color.adobe.com/trends) / 
-[Cloudflare Design's Color*](https://cloudflare.design/color) / 
-[color x color*](https://colorcolor.in/) / [Colorable*](https://colorable.jxnblk.com/) / [ColorSpace*](https://mycolor.space/) / [Color Hunt*](https://colorhunt.co/) / [Color Supply's Color Picker*](https://colorsupplyyy.com/app) / [colors.lol*](https://colors.lol/) / [Colormind*](http://colormind.io/) / 
-[Coolors.co*](https://coolors.co/) / [Curated Material Design Color Palettes*](https://material.colorion.co/) / [Culrs*](https://www.culrs.com) /
-[Duotone by ShapeFactory☁](https://duotone.shapefactory.co/) / 
-[Flat UI Colors 2*](https://flatuicolors.com/) / 
-[Material Design Color Palette Generator*](https://www.materialpalette.com/) / [Material Design's Color Tool*](https://material.io/resources/color/) / 
-[Palettable*](https://www.palettable.io) / [Palette List*](https://www.palettelist.com/) / [Paletton*](https://paletton.com/) / [Pigment by ShapeFactory☁](https://pigment.shapefactory.co/)
+[Adobe Color Explore*](https://color.adobe.com/explore/most-popular/?time=all), [Adobe Color Trends*](https://color.adobe.com/trends),
+[Cloudflare Design's Color*](https://cloudflare.design/color),
+[color x color*](https://colorcolor.in/), [Colorable*](https://colorable.jxnblk.com/), [ColorSpace*](https://mycolor.space/), [Color Hunt*](https://colorhunt.co/), [Color Supply's Color Picker*](https://colorsupplyyy.com/app), [colors.lol*](https://colors.lol/), [Colormind*](http://colormind.io/),
+[Coolors.co*](https://coolors.co/), [Curated Material Design Color Palettes*](https://material.colorion.co/), [Culrs*](https://www.culrs.com),
+[Duotone by ShapeFactory☁](https://duotone.shapefactory.co/),
+[Flat UI Colors 2*](https://flatuicolors.com/),
+[Material Design Color Palette Generator*](https://www.materialpalette.com/), [Material Design's Color Tool*](https://material.io/resources/color/),
+[Palettable*](https://www.palettable.io), [Palette List*](https://www.palettelist.com/), [Paletton*](https://paletton.com/), [Pigment by ShapeFactory☁](https://pigment.shapefactory.co/)
 
 Branded colors:  
-[Brand Palettes*](https://brandpalettes.com/all-brands/) / [BrandColors*](https://brandcolors.net/) / 
-[Instant Logo Search☁](http://instantlogosearch.com/) / 
-[U.S. Team Colors*](https://usteamcolors.com/) / [U.S. Brand Colors*](https://usbrandcolors.com/)
+[Brand Palettes*](https://brandpalettes.com/all-brands/), [BrandColors*](https://brandcolors.net/),
+[Instant Logo Search☁](http://instantlogosearch.com/),
+[U.S. Team Colors*](https://usteamcolors.com/), [U.S. Brand Colors*](https://usbrandcolors.com/)
 
 Gradients:  
-[ColorBox by Lyft Design*](https://www.colorbox.io/) / [Color Curves*](https://colorcurves.app/) / [ColorKit*](https://colorkit.io/) / 
-[Grabient*](https://www.grabient.com/) / [Gradient Hunt*](https://gradienthunt.com/) / [Gradienta*](https://gradienta.io/) / [Gradient by ShapeFactory*](https://gradient.shapefactory.co/) / [Gradihunt*](https://gradihunt.com/) / 
-[IRA Design⬇️](https://iradesign.io/) / 
-[uiGradients*](https://uigradients.com/) / 
+[ColorBox by Lyft Design*](https://www.colorbox.io/), [Color Curves*](https://colorcurves.app/), [ColorKit*](https://colorkit.io/),
+[Grabient*](https://www.grabient.com/), [Gradient Hunt*](https://gradienthunt.com/), [Gradienta*](https://gradienta.io/), [Gradient by ShapeFactory*](https://gradient.shapefactory.co/), [Gradihunt*](https://gradihunt.com/),
+[IRA Design⬇️](https://iradesign.io/),
+[uiGradients*](https://uigradients.com/),
 [WebGradients*](https://webgradients.com/)
 
 Design inspiration:  
@@ -42,25 +42,26 @@ Formatting:
 [Archetype☁](https://archetypeapp.com)
 
 Examples:  
-[FontSpark*](https://fontspark.app/) / [Font Flipper*](https://fontflipper.com/upload) / [Fonts In Use*](https://fontsinuse.com/) / [Type Anything☁](https://app.typeanything.io/)
+[FontSpark*](https://fontspark.app/), [Font Flipper*](https://fontflipper.com/upload), [Fonts In Use*](https://fontsinuse.com/),
+[Type Anything☁](https://app.typeanything.io/)
 
 Pairing:  
-[Brandmark Font Generator*](https://brandmark.io/font-generator/) / 
-[Canva's Font Combinations*](https://www.canva.com/font-combinations/) / 
-[Fontjoy*](https://fontjoy.com/) / 
-[FontPair*](https://fontpair.co/) / 
+[Brandmark Font Generator*](https://brandmark.io/font-generator/),
+[Canva's Font Combinations*](https://www.canva.com/font-combinations/),
+[Fontjoy*](https://fontjoy.com/),
+[FontPair*](https://fontpair.co/)
 
 Testing:  
 [Fonty*](https://fonty.dizoo.bg/)
 
 ## Photo Capture
 
-Taking screenshots:  
+Screenshots:  
 [ShareX⬇️](https://getsharex.com/)
 
 Photo tweaking/filters:  
-[FotoSketcher⬛](https://fotosketcher.com/) / 
-[GIMP⬛](https://www.gimp.org/) / 
+[FotoSketcher⬛](https://fotosketcher.com/),
+[GIMP⬛](https://www.gimp.org/)
 [RawTherapee⬛](http://www.rawtherapee.com/)
 
 Fix image blur:  
@@ -78,9 +79,9 @@ Images:
 [ImageMagick⬇️](https://imagemagick.org/index.php)
 
 Images - lossy:  
-[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize) / 
-[Caesium☁](https://saerasoft.com/caesium/) / 
-[PngOptimizer⬛](https://psydk.org/pngoptimizer) / 
+[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize),
+[Caesium☁](https://saerasoft.com/caesium/),
+[PngOptimizer⬛](https://psydk.org/pngoptimizer),
 [TinyPNG☁](https://tinypng.com/)
 
 ## Visual Calculators
@@ -97,7 +98,7 @@ Typographical size calculator:
 ## Creating Elements: Auto-Renders
 
 Blob generator:  
-[z creative labs' Blobmaker☁](https://www.blobmaker.app/)
+[z creative labs' Blobmaker☁](https://www.blobmaker.app/),
 [Blobs☁](https://blobs.app/)
 
 Chaotic functions:  
@@ -124,8 +125,8 @@ Remove backgrounds from photos with people:
 ## Creating Elements: 2D Renders
 
 Animations:  
-[Blush☁⬇️(Figma/Sketch plugin)](https://blush.design/) / 
-[OpenToonz⬇️](https://opentoonz.github.io/e/) / 
+[Blush☁⬇️(Figma/Sketch plugin)](https://blush.design/),
+[OpenToonz⬇️](https://opentoonz.github.io/e/),
 [Pencil2D Animation⬛](https://www.pencil2d.org/)
 
 CAD:  
@@ -137,49 +138,33 @@ Drawing/painting:
 Font builder:  
 [FontForge⬛](https://fontforge.github.io/)
 
-Icons/cursors:   
+Icons/cursors:  
 [GFIE Pro⬛](http://greenfishsoftware.org/)
 
 Logo builder:  
-[Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker) / 
-[Logo by ShapeFactory☁](https://logo.shapefactory.co/) / 
-[LogoHub☁](https://logohub.io/) / 
-[Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/app/new) / 
-[Shopify's Hatchful☁](https://hatchful.shopify.com/) / 
+[Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),
+[Logo by ShapeFactory☁](https://logo.shapefactory.co/),
+[LogoHub☁](https://logohub.io/),
+[Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/app/new),
+[Shopify's Hatchful☁](https://hatchful.shopify.com/),
 [Squarespace's Free Logo Maker☁](https://www.squarespace.com/logo)
 
 Vector graphics/illustrations:  
-[Canva☁](https://www.canva.com/) / 
-[Icons8's Vector Creator☁](https://icons8.com/vector-creator) / 
+[Canva☁](https://www.canva.com/),
+[Icons8's Vector Creator☁](https://icons8.com/vector-creator),
 [Inkscape⬛](https://inkscape.org/)
 
 ## Creating Elements: 3D Renders
 
-CAD:  
-[FreeCAD⬇️](https://www.freecadweb.org/)
-
 Graphics:  
-[Blender⬛](https://www.blender.org/) / 
+[Blender⬛](https://www.blender.org/),
 [K-3D⬛](http://www.k-3d.org/)
-
-Game engines:  
-[Unity⬇️](https://unity.com/) / 
-[Godot Engine⬇️](https://godotengine.org/)
-[Unreal Engine⬇️](https://www.unrealengine.com/)
-[Source SDK⬇️](https://developer.valvesoftware.com/wiki/SDK_Installation)
-
-Home design:  
-[Easyhome Homestyler☁](https://www.homestyler.com) / 
-[Sweet Home 3D⬇️](http://www.sweethome3d.com/)
 
 Human models:  
 [MakeHuman⬇️](http://www.makehumancommunity.org/)
 
 Multitool:  
 [SketchUp☁](https://www.sketchup.com/)
-
-Physics models:  
-[Algodoo⬇️](http://www.algodoo.com/)
 
 Videos:  
 [Source Filmmaker⬇️](https://store.steampowered.com/app/1840/Source_Filmmaker/)
@@ -193,7 +178,7 @@ Diagrams:
 [yEd Live☁](https://www.yworks.com/yed-live/)
   
 Infographics:  
-[Infogram☁](https://infogram.com/)
+[Infogram☁](https://infogram.com/),
 [Piktochart☁](https://piktochart.com/)
 
 Timelines:  
@@ -205,24 +190,24 @@ Word clouds:
 ## Creating Elements: Multimedia
 
 Presentations:  
-[Google Slides☁](https://slides.google.com) / 
-[Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx) / 
+[Google Slides☁](https://slides.google.com),
+[Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx),
 [LibreOffice Impress⬛](https://www.libreoffice.org/)
 
 Mockups:  
-[Animockup☁](https://animockup.com/) / 
-[Cleanmock☁](https://cleanmock.com/) / 
+[Animockup☁](https://animockup.com/),
+[Cleanmock☁](https://cleanmock.com/),
 [Threed.io☁](https://threed.io/)
 
 Desktop publishing:  
-[Microsoft Sway☁](https://sway.office.com) / 
+[Microsoft Sway☁](https://sway.office.com),
 [Scribus⬛](https://www.scribus.net/)
 
 Prototyping/wireframing:  
-[Facebook's Origami Studio⬇️](https://origami.design/) /
-[Figma(has many plugins!)☁](https://www.figma.com/) / 
-[InVision☁](https://www.invisionapp.com/) / 
-[Marvel☁](https://marvelapp.com/) / 
+[Facebook's Origami Studio⬇️](https://origami.design/),
+[Figma(has many plugins!)☁](https://www.figma.com/),
+[InVision☁](https://www.invisionapp.com/),
+[Marvel☁](https://marvelapp.com/),
 [Pencil Project⬛](https://pencil.evolus.vn/)
 
 Wireframe kits:  
@@ -236,15 +221,15 @@ Keyboard shortcuts:
 ## Visual Testing / Accessibility
 
 Colorblindness testing:  
-[Coblis - Color Blindness Simulator☁](https://www.color-blindness.com/coblis-color-blindness-simulator/) / 
-[Color Oracle⬇️](https://colororacle.org/) / 
+[Coblis - Color Blindness Simulator☁](https://www.color-blindness.com/coblis-color-blindness-simulator/),
+[Color Oracle⬇️](https://colororacle.org/),
 [Who Can Use☁](https://whocanuse.com/)
 
 Color ratio:  
-[A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/) / 
-[ColorShark☁](https://colorshark.io/) / 
-[Colour Contrast Analyzer⬛](https://developer.paciellogroup.com/resources/contrastanalyser/) / 
-[Contrast Checker☁](https://webaim.org/resources/contrastchecker/) / 
+[A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/),
+[ColorShark☁](https://colorshark.io/),
+[Colour Contrast Analyzer⬛](https://developer.paciellogroup.com/resources/contrastanalyser/),
+[Contrast Checker☁](https://webaim.org/resources/contrastchecker/),
 [Hex Naw☁](https://hexnaw.com/)
 
 Once-over:  

@@ -6,7 +6,7 @@ File Splitting:
 [KFK⬇️](https://kcsoftwares.com/?kfk)
 
 General file conversion:  
-[Online-Convert.com☁](https://www.online-convert.com/) / 
+[Online-Convert.com☁](https://www.online-convert.com/),
 [Pandoc(CLI)⬇️](https://pandoc.org/)
 
 ISO Mounting:  
@@ -29,11 +29,11 @@ Archive/Extract:
 ## File Search
 
 Files/Programs:  
-[Listary⬛](https://www.listary.com/) / 
+[Listary⬛](https://www.listary.com/),
 [voidtools' Everything⬛](https://www.voidtools.com/)
 
 Duplicate Files:  
-[Auslogics Duplicate File Finder⬛](https://www.auslogics.com/en/software/duplicate-file-finder/) / 
+[Auslogics Duplicate File Finder⬛](https://www.auslogics.com/en/software/duplicate-file-finder/),
 [dupeGuru⬇️](https://dupeguru.voltaicideas.net/)
 
 Empty Folder:  
@@ -48,24 +48,24 @@ Removable Media:
 ## File Analysis - Individual
 
 File data:  
-[FileInfo☁](https://fileinfo.com/) / 
+[FileInfo☁](https://fileinfo.com/),
 [FileAlyzer⬛](https://www.safer-networking.org/products/filealyzer/)
 
 Metadata analysis:  
-[MediaInfo⬛](https://mediaarea.net/en/MediaInfo) / 
+[MediaInfo⬛](https://mediaarea.net/en/MediaInfo),
 [Get-Metadata.com☁](https://www.get-metadata.com/)
 
 ## File Analysis - Multiple
 
 Comparisons:  
-[Meld⬇️](https://meldmerge.org/) / 
+[Meld⬇️](https://meldmerge.org/),
 
 Comparisons - images:  
 [DiffImg⬛](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Viewers/DiffImg.shtml)
 
 Disk usage:  
-[NCurses(CLI)](https://dev.yorhel.nl/ncdu) / 
-[WinDirStat⬛](https://windirstat.net/) / 
+[NCurses(CLI)](https://dev.yorhel.nl/ncdu),
+[WinDirStat⬛](https://windirstat.net/),
 [WizTree⬇️](https://wiztreefree.com/)
 
 ## Process Monitoring

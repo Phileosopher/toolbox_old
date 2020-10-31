@@ -25,7 +25,7 @@ WiFi:
 ## L3
 
 IP Lookup:  
-[WhatIsMyIPAddress☁](https://whatismyipaddress.com/) / 
+[WhatIsMyIPAddress☁](https://whatismyipaddress.com/),
 [WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup)
 
 Network connection viewer (for Linux):  
@@ -84,7 +84,7 @@ IoT Server:
 ## Documentation
 
 Network Diagrams:  
-[NetBox⬇️](https://netbox.readthedocs.io/) / 
+[NetBox⬇️](https://netbox.readthedocs.io/),
 [GNS3⬇️](https://gns3.com/)
 
 Graphing (RRDtool-based):  

@@ -8,7 +8,7 @@ Rss-to-email:
 ## Learning
 
 Memorization/flashcards:  
-[Mnemosyne⬛](https://mnemosyne-proj.org/) /
+[Mnemosyne⬛](https://mnemosyne-proj.org/),
 [Anki⬇️](https://apps.ankiweb.net/)
 
 Language:  
@@ -25,7 +25,7 @@ Cross-platform influencer following:
 [Fraidycat⬇️](https://fraidyc.at/)
 
 Videos:  
-[YouTube☁](https://youtube.com) / 
+[YouTube☁](https://youtube.com),
 [NewPipe (for YouTube)⬇️](https://newpipe.schabi.org/)
 
 Topical:  
@@ -35,7 +35,7 @@ Image-based:
 [Pinterest☁](https://pinterest.com)
 
 Creator-based:  
-[Behance☁](https://www.behance.net/) / 
+[Behance☁](https://www.behance.net/),
 [Dribbble☁](https://dribbble.com/)
 
 ## Players
@@ -47,7 +47,7 @@ A/V player - Unix & Friends:
 [SMPlayer⬛](https://www.smplayer.info/)
 
 TTS:  
-[Balabolka⬛](http://cross-plus-a.com/balabolka.htm) / 
+[Balabolka⬛](http://cross-plus-a.com/balabolka.htm),
 [Screen Reader⬛](http://jacquelin.potier.free.fr/screenreader/)
 
 ## Viewers
@@ -56,7 +56,7 @@ DjVu:
 [WinDjView/MacDjView⬛](https://windjview.sourceforge.io/)
 
 Images:  
-[XnView⬛](https://www.xnview.com/) /
+[XnView⬛](https://www.xnview.com/),
 [IrfanView⬇️](https://www.irfanview.com/)
 
 PDF/ebooks:  

@@ -6,7 +6,7 @@ Webhost research:
 [WhoIsHostingThis☁](https://www.whoishostingthis.com/)
 
 Site structure:  
-[builtWith☁](https://builtwith.com/) /
+[builtWith☁](https://builtwith.com/),
 [WhatRuns(browser plugin)](https://www.whatruns.com/)
 
 Dev learning:  
@@ -15,20 +15,20 @@ Dev learning:
 ## Cheap/Free Hosting
 
 Managed hosting - free:  
-[Neocities☁](https://neocities.org/) /
+[Neocities☁](https://neocities.org/),
 [Heroku☁](https://www.heroku.com/)
 
 Managed hosting - dirt-cheap:  
-[Amazon S3☁](https://aws.amazon.com/s3/) /
-[NearlyFreeSpeech.NET☁](https://www.nearlyfreespeech.net/) /
+[Amazon S3☁](https://aws.amazon.com/s3/),
+[NearlyFreeSpeech.NET☁](https://www.nearlyfreespeech.net/),
 [Bluehost Education Discount☁](https://www.bluehost.com/special/educationspecial)
 
 Static hosting:  
-[Pancake☁](https://www.pancake.io/) /
-[Dropbox☁](https://www.dropbox.com/) /
-[Google's Firebase☁](https://firebase.google.com/) /
-[Netlify☁](https://app.netlify.com/) /
-[GitHub Pages☁](https://pages.github.com/) /
+[Pancake☁](https://www.pancake.io/),
+[Dropbox☁](https://www.dropbox.com/),
+[Google's Firebase☁](https://firebase.google.com/),
+[Netlify☁](https://app.netlify.com/),
+[GitHub Pages☁](https://pages.github.com/),
 [1MB☁](https://1mb.site/)
 
 ## Back-End
@@ -39,8 +39,8 @@ LAMP server variants:
 ## Domains
 
 Domain registration:  
-[Namech_k☁](https://namechk.com/) /
-[namecheap☁](https://www.namecheap.com/) /
+[Namech_k☁](https://namechk.com/),
+[namecheap☁](https://www.namecheap.com/),
 [iwantmyname☁](https://iwantmyname.com/)
 
 Free domains:  
@@ -58,7 +58,7 @@ WordPress - boilerplate:
 [Bedrock⬇️](https://roots.io/bedrock/)
 
 WordPress - templates/themes/plugins:  
-[Colorlib☁](https://colorlib.com/wp/templates/) /
+[Colorlib☁](https://colorlib.com/wp/templates/),
 [WordPress Plugins Library☁](https://wordpress.org/plugins/)
 
 ## Front-End / Visual Design
@@ -76,13 +76,13 @@ Landing page images:
 [LandingStock⬇️](https://landingstock.com/)
 
 Favicons:  
-[favicon.io☁](https://favicon.io/) /[Favicon & App Icon Generator☁](https://www.favicon-generator.org/) /
-[Real Favicon Generator☁](https://realfavicongenerator.net/) /
-[SVG Favicon Maker☁](https://formito.com/tools/favicon) /
+[favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
+[Real Favicon Generator☁](https://realfavicongenerator.net/),
+[SVG Favicon Maker☁](https://formito.com/tools/favicon),
 [Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
 
 404 pages:  
-[404 Illustrations⬇️](https://error404.fun/) /
+[404 Illustrations⬇️](https://error404.fun/),
 [Kapwing's 404 Illustrations⬇️](https://www.kapwing.com/404-illustrations)
 
 Dark mode:  
@@ -112,7 +112,7 @@ Web Debugging:
 [web.dev☁](https://web.dev/)
 
 Dead link check:  
-[dead link checker☁](https://www.deadlinkchecker.com/) /
+[dead link checker☁](https://www.deadlinkchecker.com/),
 [W3C Link Checker☁](https://validator.w3.org/checklink)
 
 On-the-ground testing:  
@@ -130,24 +130,24 @@ Structured data:
 ## Testing: Usability
 
 Color contrast test:  
-[Check My Colours☁](http://www.checkmycolours.com/) /
+[Check My Colours☁](http://www.checkmycolours.com/),
 
 Colorblindness test:  
-[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter) /
+[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter),
 
 Multi-browser testing:  
-[Browser Shots☁](http://browsershots.org/) / 
-[Browserling☁](https://www.browserling.com/) / 
+[Browser Shots☁](http://browsershots.org/),
+[Browserling☁](https://www.browserling.com/),
 [Turbo's Browser Sandbox☁](https://turbo.net/browsers)
 
 Mobile-friendly test:  
-[Google's Mobile-Friendly Test☁](https://search.google.com/test/mobile-friendly) / 
+[Google's Mobile-Friendly Test☁](https://search.google.com/test/mobile-friendly),
 [Responsinator☁](https://www.responsinator.com/)
 
 Accessibility test:  
-[A11ygator☁](https://a11ygator.chialab.io/) / 
-[AChecker☁](https://achecker.ca/) / 
-[ANDI(browser plugin)](https://www.ssa.gov/accessibility/andi/help/install.html) / 
+[A11ygator☁](https://a11ygator.chialab.io/),
+[AChecker☁](https://achecker.ca/),
+[ANDI(browser plugin)](https://www.ssa.gov/accessibility/andi/help/install.html),
 [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
 Worldwide test:  
@@ -162,7 +162,7 @@ HTTP testing:
 [WBox⬇️](http://www.hping.org/wbox/)
 
 Site speed test:  
-[GTmetrix☁](https://gtmetrix.com) / 
+[GTmetrix☁](https://gtmetrix.com),
 [Google PageSpeed☁](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Non-Human SEO
@@ -171,19 +171,19 @@ Sitemap generator:
 [XML Sitemaps Generator☁](https://www.xml-sitemaps.com/)
 
 Image compression:  
-[PunyPNG☁](http://punypng.com/) / 
+[PunyPNG☁](http://punypng.com/),
 [PNGGauntlet⬛](https://pnggauntlet.com/)
 
 HTTP headers:  
-[REDbot☁](https://redbot.org/) / 
+[REDbot☁](https://redbot.org/),
 [WebNots HTTP Header Checker☁](https://www.webnots.com/seo-tools/http-header-checker/)
 
 Uptime tracking:  
-[Uptime Robot☁](https://uptimerobot.com/) / 
+[Uptime Robot☁](https://uptimerobot.com/),
 [GotSiteMonitor.com☁](https://www.gotsitemonitor.com/)
 
 SEO checker:  
-[BuzzSumo☁](https://app.buzzsumo.com/) / 
+[BuzzSumo☁](https://app.buzzsumo.com/),
 [woorank☁](https://www.woorank.com/)
 
 JIT preloading:  
@@ -198,7 +198,7 @@ Local business schema generator:
 ## Social Media & Tracking
 
 Twitter:  
-[Twitter's Card Validator☁](https://cards-dev.twitter.com/validator) / 
+[Twitter's Card Validator☁](https://cards-dev.twitter.com/validator),
 [TweetDeck☁](https://tweetdeck.twitter.com/)
 
 Facebook:  
@@ -208,6 +208,6 @@ SERP preview:
 [Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)
 
 Analytics:  
-[Clicky☁](https://clicky.com/) / 
-[Google Analytics☁](https://analytics.google.com/) / 
+[Clicky☁](https://clicky.com/),
+[Google Analytics☁](https://analytics.google.com/),
 [Statcounter☁](https://statcounter.com/)

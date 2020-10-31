@@ -18,7 +18,7 @@ Graphics Card:
 [GPU-Z⬛](https://www.techpowerup.com/gpuz/)
 
 HD:  
-[SSD-Z⬛](http://aezay.dk/aezay/ssdz/) / 
+[SSD-Z⬛](http://aezay.dk/aezay/ssdz/),
 [CrystalDiskMark⬛](https://crystalmark.info/en/software/crystaldiskmark/)
 
 Laptop Battery:  

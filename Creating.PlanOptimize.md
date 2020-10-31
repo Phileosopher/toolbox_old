@@ -6,16 +6,16 @@ Quick notes/sporadic:
 [notes.io☁](http://notes.io/)
 
 Notebooks:  
-[OneNote️☁⬇️](https://www.onenote.com/) / 
-[Evernote☁⬇️](https://evernote.com/) / 
+[OneNote️☁⬇️](https://www.onenote.com/),
+[Evernote☁⬇️](https://evernote.com/),
 [QOwnNotes☁⬛](https://www.qownnotes.org/)
 
 Mind mapping/outlining:  
-[mimind⬇️](https://mimind.cryptobees.com/) / 
+[mimind⬇️](https://mimind.cryptobees.com/),
 [Obsidian⬇️](https://obsidian.md/)
 
 Reference images/visual boards:  
-[Eagle⬇️](https://en.eagle.cool/) / 
+[Eagle⬇️](https://en.eagle.cool/),
 [Milanote⬇️](https://milanote.com/)
 
 Hierarchical spreadsheets:  
@@ -43,13 +43,13 @@ Gantt Charts:
 ## Keyboard Optimization
 
 Built-in:
-[Universal Shortcuts*](https://stucky.tech/toolbox/u) / 
-[Browser Shortcuts*](https://stucky.tech/toolbox/b) / 
+[Universal Shortcuts*](https://stucky.tech/toolbox/u),
+[Browser Shortcuts*](https://stucky.tech/toolbox/b),
 [MS Office Shortcuts*](https://stucky.tech/toolbox/o)
 
 DIY shortcuts:  
-[AutoHotkey(keyboard shortcut macros)⬇️](https://www.autohotkey.com/) / 
-[TinyTask(macros)⬛](https://www.tinytask.net/) / 
+[AutoHotkey(keyboard shortcut macros)⬇️](https://www.autohotkey.com/),
+[TinyTask(macros)⬛](https://www.tinytask.net/)
 
 Extra keypad:  
 [Razer Tartarus(buy)](https://www.razer.com/gaming-keypads/razer-tartarus-v2/RZ07-02270100-R3M1)
@@ -58,7 +58,7 @@ NumPad shortcuts:
 [ControlPad⬛](https://sector-seven.com/software/controlpad)
 
 Keys to gamepad:  
-[AntiMicro⬛](https://github.com/AntiMicro/antimicro) / 
+[AntiMicro⬛](https://github.com/AntiMicro/antimicro),
 
 Text substitution:  
 [Texter⬛](https://texter.en.softonic.com/)
@@ -66,11 +66,11 @@ Text substitution:
 ## OS Optimization
 
 Clipboard Manager:  
-[ClipboardFusion⬇️](https://www.clipboardfusion.com/) / 
+[ClipboardFusion⬇️](https://www.clipboardfusion.com/),
 [Ditto⬛](https://ditto-cp.sourceforge.io/)
 
 Folder Navigation:  
-[Double Commander⬇️](https://doublecmd.sourceforge.io/) / 
+[Double Commander⬇️](https://doublecmd.sourceforge.io/),
 [FreeCommander⬛](https://freecommander.com/en/summary/)
 
 Virtual Desktops (for WinOS):  
@@ -79,11 +79,11 @@ Virtual Desktops (for WinOS):
 ## Automation
 
 Service Synchronization:  
-[IFTTT☁](https://ifttt.com) / 
+[IFTTT☁](https://ifttt.com),
 [Zapier☁](https://zapier.com/)
 
 Tech support callback:  
-[GetHuman☁](https://gethuman.com/) / 
+[GetHuman☁](https://gethuman.com/),
 [FastCustomer☁](http://www.fastcustomer.com/)
 
 ## Focus
@@ -98,7 +98,7 @@ Repetitive strain timer:
 [Workrave(repetitive strain)⬛](http://www.workrave.org/)
 
 Ambient noise:  
-[Noisli☁⬇️](https://www.noisli.com/) / 
+[Noisli☁⬇️](https://www.noisli.com/),
 [generative.fm☁](https://generative.fm/)
 
 Binaural beats:  
@@ -108,9 +108,9 @@ Binaural beats:
 
 Freelancers:  
 [Amazon Mechanical Turk☁](https://www.mturk.com/)
-[Fiverr☁](https://www.fiverr.com/) / 
-[Thumbtack☁](https://www.thumbtack.com/) / 
-[Upwork☁](https://www.upwork.com/) / 
+[Fiverr☁](https://www.fiverr.com/),
+[Thumbtack☁](https://www.thumbtack.com/),
+[Upwork☁](https://www.upwork.com/)
 
 Freelancers - developers/designers:  
 [Flexiple☁](https://flexiple.com/)
