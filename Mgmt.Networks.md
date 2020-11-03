@@ -34,6 +34,12 @@ Network connection viewer (for Linux):
 tracert/ping GUI:
 [WinMTR⬛](https://www.bitwizard.nl/mtr/)
 
+DNS probe (i.e. dig online):  
+[Google's Dig☁](https://toolbox.googleapps.com/apps/dig/)
+
+Email header probe:  
+[Google's Messageheader☁](https://toolbox.googleapps.com/apps/messageheader/)
+
 ## L4
 
 Probe:  
@@ -52,6 +58,9 @@ Speed Test:
 
 Persistent Connection Test:  
 [Supple's keep-alive Validation SEO Tool☁](https://supple.com.au/tools/check-persistent-connection/)
+
+JavaScript Browser Test:  
+[Java Tester's JavaScript Tester☁](https://javatester.org/javascript.html)
 
 Remote Boot Management:  
 [DShutdown⬇️](http://dimio.altervista.org/eng/#DShutdown)

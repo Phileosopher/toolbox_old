@@ -1,12 +1,18 @@
 # Trust Issues: Other People
 
+## Hardening
+
+Remove old Java versions:  
+[Java Uninstall Tool⬇️](https://java.com/en/download/uninstalltool.jsp)
+
 ## Web Anonymity
 
 Web browser:  
 [Tor Browser⬇️](https://www.torproject.org/)
 
 Browser fingerprint:  
-[AmIUnique☁](https://amiunique.org/)
+[AmIUnique☁](https://amiunique.org/),
+[Google's Browserinfo☁](https://toolbox.googleapps.com/apps/browserinfo/),
 
 Browser blocking:  
 [uBlock Origin⬇️](https://github.com/gorhill/uBlock/)

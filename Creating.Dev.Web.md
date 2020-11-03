@@ -47,7 +47,8 @@ Free domains:
 [Freenom☁](https://www.freenom.com)
 
 DNS checker:  
-[whatsmydns.net☁](https://www.whatsmydns.net/)
+[whatsmydns.net☁](https://www.whatsmydns.net/),
+[Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/)
 
 ## CMS (content management system)
 
@@ -107,9 +108,12 @@ Web forms:
 
 ## Testing: Functionality
 
-Web Debugging:  
-[Telerik's Fiddler⬇️](https://www.telerik.com/fiddler)
+Website debugging:  
+[Telerik's Fiddler⬇️](https://www.telerik.com/fiddler),
 [web.dev☁](https://web.dev/)
+
+Text encoding/transcoding:  
+[Google's Encode/Decode☁](https://toolbox.googleapps.com/apps/encode_decode/)
 
 Dead link check:  
 [dead link checker☁](https://www.deadlinkchecker.com/),
@@ -172,6 +176,9 @@ Site speed test:
 
 Sitemap generator:  
 [XML Sitemaps Generator☁](https://www.xml-sitemaps.com/)
+
+DNS cache purge:  
+[Google's Flush Cache☁](https://developers.google.com/speed/public-dns/cache)
 
 Image compression:  
 [PunyPNG☁](http://punypng.com/),
