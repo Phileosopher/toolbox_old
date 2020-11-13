@@ -47,3 +47,6 @@ Portable OS:
 [Pendrivelinux.com⬛](https://www.pendrivelinux.com/),
 [UNetbootin⬛](https://unetbootin.github.io/),
 [Rufus⬛](https://rufus.ie/)
+
+Flash drive testing:  
+[USB Flash Drive Tester⬇️](https://www.softpedia.com/get/System/Benchmarks/USB-Flash-Drive-Tester.shtml)

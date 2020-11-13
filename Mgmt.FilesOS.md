@@ -25,10 +25,11 @@ Renaming:
 Copying:  
 [FastCopy⬛](https://fastcopy.jp/en/)
 
-Merging:  
+Merging/comparison:  
+[Meld(Linux)]([http://meldmerge.org/),
 [WinMerge⬛](https://winmerge.org/)
 
-Archive/Extract:  
+Archiving and extraction:  
 [PeaZip⬛](https://www.peazip.org/)
 
 ## File Search

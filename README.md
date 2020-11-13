@@ -103,10 +103,10 @@ F. Are you trying to maintain/organize/repair?
 To demarcate further:
 
 * ☁ for web apps and interactive pages.
-* ⬛ for portable apps (many through [PortableApps.com](https://portableapps.com/)).
+* ⬛ for Windows portable apps (many through [PortableApps.com](https://portableapps.com/)).
 * ⬇️ if the program isn't portable or requires downloading.
 * If it's a reference sheet or something to copy-paste with very little UI required, it's marked with _*_.
-* When I've remember, I specify if it's a browser plugin or CLI.
+* When I remember, I specify if it's a browser plugin, CLI, or Linux-only.
 
 If you like what you see, feel free to contribute or fork.
 
