@@ -6,6 +6,7 @@ All-in-One:
 [HWiNFO⬛](https://www.hwinfo.com/)
 
 CPU:  
+[CPU-X(Linux)](https://x0rg.github.io/CPU-X/),
 [CPU-Z⬛](https://www.cpuid.com/softwares/cpu-z.html)
 
 RAM:  
