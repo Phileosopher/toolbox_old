@@ -20,6 +20,9 @@ Measurement conversion:
 [ConvertAll⬛](http://convertall.bellz.org/),
 [Converber⬛](http://www.xyntec.com/converber.htm)
 
+Size conversion (countries):  
+[The True Size Of...☁](https://thetruesize.com/)
+
 ## Generators
 
 Random number generator:  
