@@ -38,9 +38,6 @@ Design principles:
 GitHub:  
 [GitHub Docs*](https://try.github.io/)
 
-Memory scanning:  
-[Cheat Engine⬇️](https://www.cheatengine.org/)
-
 ## Quick-Reference
 
 AWS:  

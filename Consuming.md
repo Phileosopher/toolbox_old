@@ -68,7 +68,8 @@ PDF/ebooks:
 [Kodi⬛](https://kodi.tv/)
 
 Music:  
-[MusicBee⬛](https://getmusicbee.com/)
+[MusicBee⬛](https://getmusicbee.com/),
+[Quod Libet⬇️](https://quodlibet.readthedocs.io/)
 
 Ebooks:  
 [calibre⬛](https://calibre-ebook.com/)

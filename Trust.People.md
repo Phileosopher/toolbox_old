@@ -77,9 +77,6 @@ Short links:
 Websites:  
 [Norton Safe Web☁](https://safeweb.norton.com/)
 
-Emergency scan:  
-[Trend Micro HouseCall⬇️](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
-
 ## Probes
 
 Pen test:  
