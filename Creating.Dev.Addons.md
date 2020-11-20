@@ -58,6 +58,9 @@ Animations/SVGs:
 Aesthetics - Win98 UI:  
 [98.css(CSS)](https://jdan.github.io/98.css/)
 
+Document support (ODF):  
+[WebODF(JS)](https://webodf.org/)
+
 Game engines:  
 [Unity⬇️](https://unity.com/),
 [Godot Engine⬇️](https://godotengine.org/),
