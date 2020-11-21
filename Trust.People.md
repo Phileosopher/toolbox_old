@@ -14,10 +14,14 @@ Browser fingerprint:
 [AmIUnique☁](https://amiunique.org/),
 [Google's Browserinfo☁](https://toolbox.googleapps.com/apps/browserinfo/),
 
-Browser blocking:  
+Browser content blocking:  
+[NoScript⬇️](https://noscript.net/),
 [uBlock Origin⬇️](https://github.com/gorhill/uBlock/)
 
 ## Sending Safe Information
+
+VPN:  
+[WireGuard⬇️](https://www.wireguard.com/)
 
 Short-term notes:  
 [privnote☁](https://privnote.com/)
@@ -65,6 +69,9 @@ Password management:
 
 Cloud storage:  
 [MEGA☁](https://mega.nz/)
+
+Distributed file encryption (requires several copies to decrypt):  
+[horcrux⬇️](https://github.com/jesseduffield/horcrux)
 
 ## Virus Scans
 

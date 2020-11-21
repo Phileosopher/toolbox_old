@@ -62,7 +62,7 @@ D. Are you working with datasets or raw information?
 
 E. Are you actually *making* something new?
 
-1. Can you physically touch it?
+1. Can you physically touch it or does it simulate reality (such as a 3D model)?
    * [Creating.Craftwork.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Craftwork.md)
 2. Will you be recording something or editing video?
    * [Creating.PerformEdit.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PerformEdit.md)
@@ -70,7 +70,7 @@ E. Are you actually *making* something new?
       * [Creating.PerformEdit.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PerformEdit.Repos.md)
 3. Will you be writing something?
    * [Creating.WritingSpeeches.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.WritingSpeeches.md)
-4. Will you be making or tweaking visual elements or CG?
+4. Will you be making or tweaking visual elements or CG on a computer screen?
    * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
    * Do you need existing visual elements?
       * [Creating.VisualCG.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Repos.md)

@@ -95,7 +95,7 @@ Typographical Golden Ratio calculator:
 Typographical size calculator:  
 [Type Scale☁](https://type-scale.com/)
 
-## Creating Elements: Auto-Renders
+## Auto-Rendering
 
 Blob generator:  
 [z creative labs' Blobmaker☁](https://www.blobmaker.app/),
@@ -122,7 +122,7 @@ Triangle patterns:
 Remove backgrounds from photos with people:  
 [SocialBook's Background Remover☁](https://socialbook.io/remove-background)
 
-## Creating Elements: 2D Renders
+## 2D Rendering
 
 Animations:  
 [Blush☁⬇️(Figma/Sketch plugin)](https://blush.design/),
@@ -154,25 +154,7 @@ Vector graphics/illustrations:
 [Icons8's Vector Creator☁](https://icons8.com/vector-creator),
 [Inkscape⬛](https://inkscape.org/)
 
-## Creating Elements: 3D Renders
-
-Graphics:  
-[Blender⬛](https://www.blender.org/),
-[K-3D⬛](http://www.k-3d.org/)
-
-Human models:  
-[MakeHuman⬇️](http://www.makehumancommunity.org/)
-
-Multitool:  
-[SketchUp☁](https://www.sketchup.com/)
-
-Videos:  
-[Source Filmmaker⬇️](https://store.steampowered.com/app/1840/Source_Filmmaker/)
-
-Voxel art/path tracing renderer:  
-[MagicaVoxel(Github)⬇️](https://ephtracy.github.io/)
-
-## Creating Elements: Charts/Graphs
+## Charts/Graphs
 
 Diagrams:  
 [yEd Live☁](https://www.yworks.com/yed-live/)
@@ -187,7 +169,7 @@ Timelines:
 Word clouds:  
 [WordClouds.com☁](https://www.wordclouds.com/)
 
-## Creating Elements: Multimedia
+## Multimedia
 
 Presentations:  
 [Google Slides☁](https://slides.google.com),

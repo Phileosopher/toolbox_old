@@ -42,20 +42,29 @@ General:
 [AudioMass☁](https://audiomass.co/),
 [WaveShop⬛](http://waveshop.sourceforge.net/)
 
+Audio conversion:  
+[fre:ac⬛](https://www.freac.org/),
+[TAudioConverter⬛](https://www.fosshub.com/TAudioConverter.html)
+
 Extracting audio from video:  
 [Pazera Free Audio Extractor⬇️](http://www.pazera-software.com/products/audio-extractor/)
-
-Gain adjustment:  
-[MP3Gain⬇️](http://mp3gain.sourceforge.net/)
-
-Track element separation:  
-[Spleeter⬇️](https://github.com/deezer/spleeter)
 
 Track splitting:  
 [Mp3splt⬛](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
 
+Track element separation:  
+[Spleeter⬇️](https://github.com/deezer/spleeter)
+
+Speech recognition:  
+[MARF⬇️](http://marf.sourceforge.net/)
+
 Stretching:  
 [Paul's Extreme Sound Stretch⬛](http://hypermammut.sourceforge.net/paulstretch/)
+
+## Audio Edition - Finalizing
+
+Gain adjustment:  
+[MP3Gain⬇️](http://mp3gain.sourceforge.net/)
 
 Metadata:  
 [Mp3tag⬇️](https://www.mp3tag.de/en/),
@@ -64,16 +73,15 @@ Metadata:
 Metadata - audiobooks:  
 [Chapter and Verse⬇️](http://lodensoftware.com/chapter-and-verse/)
 
-Audio conversion:  
-[fre:ac⬛](https://www.freac.org/),
-[TAudioConverter⬛](https://www.fosshub.com/TAudioConverter.html)
-
 ## Video Editing
 
 General:  
 [Story Creator☁](https://storycreatorapp.com/),
 [Kdenlive⬛](https://kdenlive.org/),
 [DaVinci Resolve⬇️](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+Remove video background:  
+[Unscreen☁](https://www.unscreen.com/)
 
 Convert video:  
 [HandBrake⬇️](https://handbrake.fr/),
@@ -82,11 +90,10 @@ Convert video:
 Convert video to GIF:  
 [EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif)
 
+## Video Editing - Finalizing
+
 Ken Burns effect:  
 [PhotoFilmStrip⬛](https://www.photofilmstrip.org/en/)
 
 Metadata:  
 [VideoInspector⬇️](https://kcsoftwares.com/?vtb)
-
-Remove video background:  
-[Unscreen☁](https://www.unscreen.com/)

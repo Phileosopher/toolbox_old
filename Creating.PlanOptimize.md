@@ -54,6 +54,9 @@ DIY shortcuts:
 Extra keypad:  
 [Razer Tartarus(buy)](https://www.razer.com/gaming-keypads/razer-tartarus-v2/RZ07-02270100-R3M1)
 
+Facial movement tracking:  
+[Movement Tracking(Github))⬇️](https://github.com/surya-veer/movement-tracking),
+
 NumPad shortcuts:  
 [ControlPad⬛](https://sector-seven.com/software/controlpad)
 
@@ -95,7 +98,7 @@ Pomodoro timer:
 [YAPA 2⬇️](https://github.com/YetAnotherPomodoroApp/YAPA-2)
 
 Repetitive strain timer:  
-[Workrave(repetitive strain)⬛](http://www.workrave.org/)
+[Workrave⬛](http://www.workrave.org/)
 
 Ambient noise:  
 [Noisli☁⬇️](https://www.noisli.com/),

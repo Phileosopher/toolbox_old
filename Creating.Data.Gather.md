@@ -44,12 +44,12 @@ Object search (by color):
 
 ## Niche: Language
 
-Book reading estimation:  
-[How Long to Read☁](https://www.howlongtoreadthis.com/)
-
 Font search:  
 [Fontspring Matcherator☁](https://www.fontspring.com/matcherator),
 [Font Squirrel's Font Identifier☁](https://www.fontsquirrel.com/matcherator)
+
+Font search (from a file):  
+[FontDrop!☁](https://fontdrop.info/)
 
 Historical word usage:  
 [Google Books Ngram Viewer☁](https://books.google.com/ngrams)
@@ -125,20 +125,27 @@ Astronomy:
 Nutrition/supplements:  
 [Examine.com☁](https://examine.com/)
 
-## Niche: Tech Info
+## Niche: Tech - Data
 
 Datasets:  
 [Google Dataset Search☁](https://toolbox.google.com/datasetsearch)
 
-Site status:  
+## Niche: Tech - Networks
+
+Website status:  
 [Down For Everyone Or Just Me☁](https://downforeveryoneorjustme.com/)
+
+Wireless networks:  
+[WiGLE☁](https://wigle.net/)
+
+## Niche: Tech - Parts/Software
+
+Similar websites:  
+[Similarsites.com☁](https://www.similarsites.com/)
 
 Software:  
 [AlternativeTo☁](https://alternativeto.net/),
 [Capterra☁](https://www.capterra.com/)
-
-Wireless networks:  
-[WiGLE☁](https://wigle.net/)
 
 Industrial/tech parts:  
 [Octopart☁](https://octopart.com/)
@@ -153,6 +160,3 @@ Investing:
 
 Podcasts:  
 [Listen Notes☁](https://www.listennotes.com/)
-
-Similar websites:  
-[Similarsites.com☁](https://www.similarsites.com/)

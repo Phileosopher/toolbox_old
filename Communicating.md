@@ -38,6 +38,9 @@ Drawn images:
 Text-to-handwriting:  
 [Calligrapher.ai☁](https://www.calligrapher.ai/)
 
+Remote computer access:  
+[Remote Utilities⬇️](https://www.remoteutilities.com/)
+
 ## Social Media
 
 Social media skimming:  
@@ -49,6 +52,11 @@ Social media auto-posts:
 
 Social media image posts:  
 [Pablo by Buffer☁](https://pablo.buffer.com/)
+
+## Social Media - Websites/Profiles
+
+[about.me☁](https://about.me),
+[The Creative Passport☁](https://www.creativepassport.net/)
 
 ## IRL
 

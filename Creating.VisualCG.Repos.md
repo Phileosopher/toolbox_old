@@ -26,11 +26,17 @@
 [LibreStock⬇️](https://librestock.com/), [Life of Pix⬇️](https://www.lifeofpix.com/),
 [Magdeleine⬇️](https://magdeleine.co/), [Morguefile⬇️](https://morguefile.com/photos),
 [Negative Space⬇️](https://negativespace.co/), [New Old Stock⬇️](https://nos.twnsnd.co/),
-[picjumbo⬇️](https://picjumbo.com/), [Picography⬇️](https://picography.co), [picspree⬇️](https://picspree.com/), [pikwizard⬇️](https://pikwizard.com/), [Pixelmob⬇️](https://pixelmob.co/), [Public Domain Pictures⬇️](https://www.publicdomainpictures.net/),
+[picjumbo⬇️](https://picjumbo.com/), [Picography⬇️](https://picography.co), [picspree⬇️](https://picspree.com/), [pikwizard⬇️](https://pikwizard.com/), [Pixelmob⬇️](https://pixelmob.co/),
 [Realistic Shots⬇️](https://realisticshots.com/), [Reshot⬇️](https://www.reshot.com/),
 [Shopify's Burst⬇️](https://burst.shopify.com/), [Skitterphoto⬇️](https://skitterphoto.com/), [SKUAWK⬇️](http://skuawk.com/), [Stock Up⬇️](https://www.sitebuilderreport.com/stock-up/), [Stockified⬇️](https://www.stockified.com/), [StockSnap.io⬇️](https://stocksnap.io/), [Stockvault⬇️](https://www.stockvault.net/), [stokpic⬇️](https://stokpic.com/),
 [Unsplash⬇️](https://unsplash.com/),
 [Vector.me⬇️](https://vector.me/), [Visual Hunt⬇️](https://visualhunt.com/)
+
+## Stock photos - Old Photos
+
+[Barnes Collection Online⬇️](https://collection.barnesfoundation.org/),
+[Public Domain Pictures⬇️](https://www.publicdomainpictures.net/),
+[Van Gogh Museum Collection⬇️](https://www.vangoghmuseum.nl/en/collection)
 
 ## Fonts
 
@@ -45,6 +51,9 @@
 [Public Sans⬇️](https://public-sans.digital.gov/),
 [Scunthorpe Sans⬇️](https://vole.wtf/scunthorpe-sans/),
 [Use & Modify⬇️](http://usemodify.com/)
+
+## Fonts - Programming
+[Dev Fonts⬇️](https://devfonts.gafi.dev/)
 
 ## Icons
 
