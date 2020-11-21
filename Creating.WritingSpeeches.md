@@ -62,7 +62,7 @@ Resumés - software engineers:
 [gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
 
 Wiki creation:  
-[Wikia.org](https://www.wikia.org/),
+[Wikia.org☁](https://www.wikia.org/),
 [Wiki.js⬇️](https://wiki.js.org/)
 
 ## Editing - Transcript
