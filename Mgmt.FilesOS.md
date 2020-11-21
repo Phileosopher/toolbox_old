@@ -73,27 +73,51 @@ Disk usage:
 [WinDirStat⬛](https://windirstat.net/),
 [WizTree⬇️](https://wiztreefree.com/)
 
-## Process Monitoring
+## Process Monitoring/Tracking
 
-In-Depth Tracking:  
+Resource usage tracking:  
+[bpytop(Linux)](https://github.com/aristocratos/bpytop)
+
+In-depth tracking:  
 [Process Monitor⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
 
-Tracing Memory Use:  
+Tracing memory use:  
 [VMMap⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 
 ## WinOS
 
-Linux Simulator:  
-[Cygwin⬇️](https://www.cygwin.com/)
-
-Registry Browsing:  
+Registry browsing:  
 [RegAlyzer⬛](https://www.safer-networking.org/products/regalyzer/)
 
-Registry Comparison:  
+Registry comparison:  
 [WhatChanged⬛](https://portableapps.com/apps/utilities/whatchanged-portable)
 
-DLL/EXE Analysis:  
+DLL/EXE analysis:  
 [PEInfo⬇️](http://www.pazera-software.com/products/peinfo/)
 
-Window Analysis:  
+Window analysis:  
 [WinInfo⬇️](http://www.pazera-software.com/products/wininfo/)
+
+## Virtualization/VMs
+
+General-purpose VMs:  
+[VirtualBox⬇️](https://www.virtualbox.org/),
+[VMware Workstation Player⬇️](https://www.vmware.com/products/workstation-player.html)
+
+Game console VMs:  
+[OpenEmu⬇️](https://openemu.org/)
+[RetroArch⬇️](https://www.retroarch.com/)
+
+Linux simulator (for Windows):  
+[Cygwin⬇️](https://www.cygwin.com/)
+
+VM manager:  
+[Virtual Machine Manager(Linux)](https://virt-manager.org/)
+
+## Handicapped Access
+
+Audio desktop:  
+[Emacspeak⬇️](http://emacspeak.sourceforge.net/)
+
+Keyboard-less interfacing:  
+[Dasher⬇️](http://www.inference.org.uk/dasher/)

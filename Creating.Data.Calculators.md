@@ -41,3 +41,8 @@ Marketing ROI calculator:
 
 Renting vs. Buying calculator:  
 [NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
+
+## Other
+
+Book reading estimation:  
+[How Long to Read☁](https://www.howlongtoread.com/)

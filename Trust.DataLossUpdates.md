@@ -12,7 +12,8 @@ Driver Update:
 ## Cleanup
 
 PC Junk:  
-[CCleaner⬛](https://www.ccleaner.com/)
+[CCleaner⬛](https://www.ccleaner.com/) (with [CCEnhancer](https://singularlabs.com/software/ccenhancer/)),
+[System Ninja⬇️](https://singularlabs.com/software/system-ninja/)
 
 SQLite Databases:  
 [SpeedyFox⬛](https://www.crystalidea.com/speedyfox)

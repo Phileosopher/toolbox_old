@@ -70,6 +70,9 @@ Password management:
 Cloud storage:  
 [MEGA☁](https://mega.nz/)
 
+Distributed file encryption (requires several copies to decrypt):  
+[horcrux⬇️](https://github.com/jesseduffield/horcrux)
+
 ## Virus Scans
 
 Files:  

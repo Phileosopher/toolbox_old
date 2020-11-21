@@ -57,9 +57,12 @@ Front-End/In-Browser:
 [CodePen☁](https://codepen.io/),
 [repl.it☁](https://repl.it/)
 
-General:  
+General-purpose:  
 [Apache NetBeans⬇️](https://netbeans.org/),
-[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/)
+[GNU Emacs⬇️](https://www.gnu.org/software/emacs/),
+[vim⬇️](https://vim.org/),
+[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/),
+[VSCodium⬇️](https://vscodium.com/)
 
 ## Sugar Bits
 

@@ -1,5 +1,17 @@
 # Consuming
 
+## Impairment Aides
+
+Audio aides:  
+[NV Access⬛](https://www.nvaccess.org/)
+
+TTS:  
+[Balabolka⬛](http://cross-plus-a.com/balabolka.htm),
+[Screen Reader⬛](http://jacquelin.potier.free.fr/screenreader/)
+
+Magnifying glass:  
+[Virtual Magnifying Glass⬛](http://magnifier.sourceforge.net/)
+
 ## RSS
 
 Rss-to-email:  
@@ -45,10 +57,6 @@ A/V player - WinOS:
 
 A/V player - Unix & Friends:  
 [SMPlayer⬛](https://www.smplayer.info/)
-
-TTS:  
-[Balabolka⬛](http://cross-plus-a.com/balabolka.htm),
-[Screen Reader⬛](http://jacquelin.potier.free.fr/screenreader/)
 
 ## Viewers
 

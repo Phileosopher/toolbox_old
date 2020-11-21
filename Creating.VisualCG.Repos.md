@@ -52,6 +52,9 @@
 [Scunthorpe Sans⬇️](https://vole.wtf/scunthorpe-sans/),
 [Use & Modify⬇️](http://usemodify.com/)
 
+## Fonts - Programming
+[Dev Fonts⬇️](https://devfonts.gafi.dev/)
+
 ## Icons
 
 [700+ CSS Icons⬇️](https://css.gg/),

@@ -10,6 +10,7 @@ Full games:
 [Amnesia: The Dark Descent(@Github)](https://github.com/FrictionalGames/AmnesiaTheDarkDescent),
 [Amnesia: A Machine For Pigs(@Github)](https://github.com/FrictionalGames/AmnesiaAMachineForPigs),
 [Command & Conquer/Red Alert(@Github)](https://github.com/electronicarts/CnC_Remastered_Collection),
+[Elite (for the BBC Micro)](https://www.bbcelite.com/),
 [VVVVVV(@Github)](https://github.com/TerryCavanagh/vvvvvv)
 
 ## Frameworks
@@ -36,6 +37,9 @@ Physics - 2D:
 Sprite downscaling:  
 [TexturePacker⬇️](https://www.codeandweb.com/texturepacker),
 [TexturePacker3D⬇️](https://www.codeandweb.com/texturepacker3d)
+
+TTS:  
+[Festival⬇️](http://www.cstr.ed.ac.uk/projects/festival/)
 
 ## Syntactic Sugar
 
@@ -67,6 +71,9 @@ Game engines:
 [Unreal Engine⬇️](https://www.unrealengine.com/),
 [Source SDK⬇️](https://developer.valvesoftware.com/wiki/SDK_Installation)
 
+Game engines:  
+[PlayCanvas⬇️](https://playcanvas.com/)
+
 Photo color filters:  
 [filters.css(CSS)](https://bansal.io/filters-css)
 
@@ -80,6 +87,14 @@ Computational heavy lifting:
 
 Search feature:  
 [OpenSearch(Python @Github)](http://www.opensearch.org/Home)
+
+TTS:  
+[eSpeak NG(@Github)](https://github.com/espeak-ng/espeak-ng/)
+
+## IDE Features - Git
+
+Multiple user/email switching:  
+[Git User Switch(JS @Github)](https://github.com/geongeorge/Git-User-Switch)
 
 ## Machine Learning
 

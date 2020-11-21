@@ -61,6 +61,10 @@ Resumés:
 Resumés - software engineers:  
 [gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
 
+Wiki creation:  
+[Fandom☁](https://www.fandom.com/),
+[Wiki.js⬇️](https://wiki.js.org/)
+
 ## Editing - Transcript
 
 Thesaurus/Dictionary:  
