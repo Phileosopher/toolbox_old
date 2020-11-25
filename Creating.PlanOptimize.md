@@ -11,8 +11,9 @@ Notebooks:
 [QOwnNotes☁⬛](https://www.qownnotes.org/)
 
 Mind mapping/outlining:  
-[mimind⬇️](https://mimind.cryptobees.com/),
-[Obsidian⬇️](https://obsidian.md/)
+[coggle☁](https://coggle.it/),
+[FreeMind⬇️](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+[TheBrain⬇️](https://www.thebrain.com/products/thebrain)
 
 Reference images/visual boards:  
 [Eagle⬇️](https://en.eagle.cool/),

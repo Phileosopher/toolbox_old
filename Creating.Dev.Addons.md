@@ -52,18 +52,28 @@ JS - Ruby-esque:
 JSON:  
 [Hjson⬇️](https://github.com/hjson/hjson-js)
 
-## Libraries/Engines - Visual
+## Front-End Libraries - Aesthetics
 
 Animations/SVGs:  
-[Anime.js(JS)](https://animejs.com/)
+[Anime.js(JS)](https://animejs.com/),
 [Textures.js(JS - D3 @Github)](https://brumm.af/shadows),
 [tween.js(JS @Github)](https://github.com/sole/tween.js)
 
-Aesthetics - Win98 UI:  
+Win98 UI:  
 [98.css(CSS)](https://jdan.github.io/98.css/)
+
+## Front-End Libraries - Elements
+
+Autocomplete/Dropdown/Combobox:  
+[downshift(JS React)](https://github.com/downshift-js/downshift)
 
 Document support (ODF):  
 [WebODF(JS)](https://webodf.org/)
+
+Photo color filters:  
+[filters.css(CSS)](https://bansal.io/filters-css)
+
+## Back-End Libraries - Engines
 
 Game engines:  
 [Unity⬇️](https://unity.com/),
@@ -71,32 +81,34 @@ Game engines:
 [Unreal Engine⬇️](https://www.unrealengine.com/),
 [Source SDK⬇️](https://developer.valvesoftware.com/wiki/SDK_Installation)
 
-Game engines:  
+Game engines - HTML5:  
 [PlayCanvas⬇️](https://playcanvas.com/)
 
-Photo color filters:  
-[filters.css(CSS)](https://bansal.io/filters-css)
+TTS:  
+[eSpeak NG(@Github)](https://github.com/espeak-ng/espeak-ng/)
 
-## Libraries/Engines - Back-End
+## Back-End Libraries - Links/Refs
 
 Color names:  
 [Meodai's Color Names(JS @Github)](https://github.com/meodai/color-names)
 
-Computational heavy lifting:  
-[Wolfram Engine⬇️](https://www.wolfram.com/engine/)
-
 Search feature:  
 [OpenSearch(Python @Github)](http://www.opensearch.org/Home)
 
-TTS:  
-[eSpeak NG(@Github)](https://github.com/espeak-ng/espeak-ng/)
+## Back-End Libraries - Computation
+
+Computational heavy lifting:  
+[Wolfram Engine⬇️](https://www.wolfram.com/engine/)
+
+OCR - Machine Learning:  
+[EasyOCR⬇️](https://github.com/JaidedAI/EasyOCR)
+
+## Converters/Runtimes
+
+Search feature:  
+[OpenSearch(Python @Github)](http://www.opensearch.org/Home)
 
 ## IDE Features - Git
 
 Multiple user/email switching:  
 [Git User Switch(JS @Github)](https://github.com/geongeorge/Git-User-Switch)
-
-## Machine Learning
-
-OCR:  
-[EasyOCR⬇️](https://github.com/JaidedAI/EasyOCR)
