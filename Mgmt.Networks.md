@@ -1,6 +1,6 @@
 # Managing: Networks
 
-## L1
+## L1 - Physical
 
 Mobile Network Test (for mobile):  
 [OpenSignal⬇️](https://www.opensignal.com/apps)
@@ -11,7 +11,7 @@ Cabled Providers:
 Cable/Port Diagnosis:  
 [5-in-1 network admin's cable*](http://www.ossmann.com/5-in-1.html)
 
-## L2
+## L2 - Data Link
 
 Protocol Analysis:  
 [Wireshark⬛](https://www.wireshark.org/)
@@ -22,7 +22,7 @@ MAC Lookup:
 WiFi:  
 [dot11Expert⬇️](https://kcsoftwares.com/?dot11expert)
 
-## L3
+## L3 - Network
 
 IP Lookup:  
 [WhatIsMyIPAddress☁](https://whatismyipaddress.com/),
@@ -40,55 +40,58 @@ DNS probe (i.e. dig online):
 Email header probe:  
 [Google's Messageheader☁](https://toolbox.googleapps.com/apps/messageheader/)
 
-## L4
+## L4 - Transport
 
 Probe:  
 [Nmap/Zenmap⬇️](https://nmap.org/)
 
-TCP/UDP Monitoring:  
+TCP/UDP monitoring:  
 [TCPView⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
-## L5-7
+## L5/6/7 - Session/Presentation/Application
 
 Telnet/SSH client:  
 [PuTTY⬛](https://putty.org/)
 
-Speed Test:  
+Speed test:  
 [SpeedTest☁](https://www.speedtest.net/)
 
-Persistent Connection Test:  
+Persistent connection test:  
 [Supple's keep-alive Validation SEO Tool☁](https://supple.com.au/tools/check-persistent-connection/)
 
-JavaScript Browser Test:  
+JavaScript browser test:  
 [Java Tester's JavaScript Tester☁](https://javatester.org/javascript.html)
 
-Remote Boot Management:  
+Remote boot management:  
 [DShutdown⬇️](http://dimio.altervista.org/eng/#DShutdown)
 
 ## Monitoring
 
-Site Uptime History:  
+Site uptime history:  
 [downdetector.com☁](https://downdetector.com/)
 
-Network Configuration Snapshots:  
+Network configuration snapshots:  
 [rConfig⬇️](https://rconfig.com/)
 
-Traffic Analysis:  
+Traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⬇️](https://oss.oetiker.ch/mrtg/)
 
-Data Transfer Analysis:  
+Data transfer analysis:  
 [bandwhich(Unix-like)⬇️](https://github.com/imsnif/bandwhich)
 
-Enterprise Monitoring:  
+Enterprise monitoring:  
 [openNMS⬇️](https://www.opennms.com/)
 
 ## LANs/VLANs
 
-File Synchronization:  
+File synchronization:  
 [FreeFileSync⬛](https://freefilesync.org/)
 
-IoT Server:  
+IoT server:  
 [Home Assistant⬇️](https://www.home-assistant.io/)
+
+File hosting:  
+[Nextcloud⬇️](https://nextcloud.com/)
 
 ## Documentation
 
