@@ -36,8 +36,11 @@ Photo Recovery:
 Undelete - JPGs:  
 [saintmarina's undelete(Github)](https://github.com/saintmarina/undelete_jpg)
 
-Webgrabber:  
+Website grabber:  
 [HTTrack Website Copier⬇️](https://www.httrack.com/)
+
+CalDAV/CardDAV (email's calendar/contacts):  
+[DAVx⁵⬇️](https://f-droid.org/packages/at.bitfire.davdroid/)
 
 ## Portable Computing
 

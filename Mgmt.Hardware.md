@@ -10,6 +10,7 @@ CPU:
 [CPU-Z⬛](https://www.cpuid.com/softwares/cpu-z.html)
 
 RAM:  
+[MemTest86⬛](https://www.memtest86.com/),
 [RAMMap⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 
 PCI Assets:  

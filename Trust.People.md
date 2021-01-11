@@ -29,7 +29,7 @@ Short-term notes:
 Short-term file sharing:  
 [Ge.tt☁](http://ge.tt/)
 
-Secure messaging:  
+Secure text messaging:  
 [Signal⬇️](https://signal.org/)
 
 Hashing/checksum:  
@@ -62,10 +62,13 @@ Image scrubbing:
 PDFs that look scanned:  
 [Scan Your PDF☁](https://www.scanyourpdf.com/)
 
-## Secure Data Storage
+## Secure Data Storage/Authentication
 
 Password management:  
 [KeePass⬛](https://keepass.info/)
+
+Two-factor authentication:  
+[Authy⬇️](https://authy.com/)
 
 Cloud storage:  
 [MEGA☁](https://mega.nz/)

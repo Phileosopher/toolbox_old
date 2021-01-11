@@ -15,3 +15,6 @@ Process automation:
 
 Localization/translation:  
 [Crowdin☁](https://crowdin.com/)
+
+Hosting:  
+[Fastly☁](https://www.fastly.com/)

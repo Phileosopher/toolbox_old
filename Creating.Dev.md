@@ -90,7 +90,7 @@ Front-End/In-Browser:
 General-purpose:  
 [Apache NetBeans⬇️](https://netbeans.org/),
 [GNU Emacs⬇️](https://www.gnu.org/software/emacs/),
-[vim⬇️](https://vim.org/),
+[vim⬛](https://vim.org/),
 [Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/),
 [VSCodium⬇️](https://vscodium.com/)
 
@@ -132,7 +132,7 @@ Barcodes:
 UUID/GUID:  
 [PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
 
-## Testing - Debugging
+## Testing/Debugging
 
 Linting - General:  
 [Github's Super Linter(Github)](https://github.com/github/super-linter)
@@ -143,5 +143,24 @@ Linting - CSS:
 Linting - JS:  
 [JSLint☁](https://jslint.com/)
 
+Debugging:  
+[GDB⬇️](https://www.gnu.org/software/gdb/)
+
+Bug tracking:  
+[Bugzilla⬇️](https://www.bugzilla.org/),
+[Mantis Bug Tracker⬇️](https://www.mantisbt.org/),
+[Redmine⬇️](https://www.redmine.org/),
+[The Trac Project⬇️](https://trac.edgewall.org/)
+
 Fuzzing:  
 [Microsoft OneFuzz(Github)](https://github.com/microsoft/onefuzz)
+
+Version control:  
+[Wikipedia's Free Version Control Software⬇️](https://en.wikipedia.org/wiki/Category:Free_version_control_software)
+
+## Finalizing
+
+Documentation:  
+[Doxygen⬇️](https://www.doxygen.nl/index.html),
+[mkd⬇️](https://eell.fr/),
+[Natural Docs⬇️](https://www.naturaldocs.org/)

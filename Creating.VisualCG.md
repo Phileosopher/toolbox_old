@@ -163,9 +163,10 @@ Infographics:
 [Infogram☁](https://infogram.com/),
 [Piktochart☁](https://piktochart.com/)
 
-Timelines:  
+Timelines and time series:  
+[PlotJuggler⬇️](https://github.com/facontidavide/PlotJuggler),
 [TimeGraphics☁](https://time.graphics/)
-  
+
 Word clouds:  
 [WordClouds.com☁](https://www.wordclouds.com/)
 

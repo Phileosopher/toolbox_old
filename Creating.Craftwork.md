@@ -59,3 +59,6 @@ Circuit simulator:
 EDA:  
 [Fritzing⬇️](https://fritzing.org/)
 [KiCad⬇️](https://www.kicad.org/)
+
+Smartphone robots:  
+[OpenBot⬇️](https://github.com/intel-isl/OpenBot)

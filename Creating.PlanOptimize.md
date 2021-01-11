@@ -13,7 +13,7 @@ Notebooks:
 Mind mapping/outlining:  
 [coggle☁](https://coggle.it/),
 [FreeMind⬇️](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
-[TheBrain⬇️](https://www.thebrain.com/products/thebrain)
+[Scapple⬇️](https://www.literatureandlatte.com/scapple/overview)
 
 Reference images/visual boards:  
 [Eagle⬇️](https://en.eagle.cool/),
