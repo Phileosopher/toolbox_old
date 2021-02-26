@@ -16,29 +16,26 @@ Microcopy prompts:
 Quotes:  
 [BrainyQuote*](https://www.brainyquote.com/)
 
-Tone Generator:  
+Tone generator:  
 [The Portent Tone of Voice Generator☁](https://www.portent.com/tools/tone-of-voice-generator)
+
+Titling:  
+[Portent's Content Idea Generator☁](https://www.portent.com/tools/title-maker/)
 
 ## Word Processing
 
-Text Editor:  
-[Atom⬇️](https://atom.io/),
-[Notepad++⬛](https://notepad-plus-plus.org/),
-[Vim⬛](https://www.vim.org/)
+Text editor:  
+[Notepad++⊞■](https://notepad-plus-plus.org/),
+[Vim⊞■⌘🐧∏](https://www.vim.org/)
   
-Word Processor:  
-[Google Docs☁](https://docs.google.com),
-[Microsoft Word Online☁](https://office.live.com/start/Word.aspx),
-[LibreOffice Writer⬛](https://www.libreoffice.org/)
-
-Technical Documentation:  
-[LaTeX⬇️](https://www.latex-project.org/),
-[SwiftLaTeX☁](https://www.swiftlatex.com)
+Word processor:  
+[Bear App⌘∐](https://bear.app)
+[LibreOffice Writer⊞■⌘🐧](https://www.libreoffice.org/)
 
 ## Reference
 
-Text Character Reference:  
-[BabelMap⬛](http://www.babelstone.co.uk/Software/BabelMap.html),
+Text character Reference:  
+[BabelMap⊞■](http://www.babelstone.co.uk/Software/BabelMap.html),
 [Copy Paste Character☁](https://www.copypastecharacter.com/),
 [TypeIt☁](https://www.typeit.org/)
 
@@ -48,10 +45,10 @@ Citations:
 [Citation Generator☁](https://www.citationgenerator.com/)
 
 Journaling:  
-[RedNotebook⬛](https://rednotebook.sourceforge.io/)
+[RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
 Mathematical Calculations:  
-[LibreOffice Math⬛](https://www.libreoffice.org/discover/math/)
+[LibreOffice Math⊞■⌘🐧](https://www.libreoffice.org/discover/math/)
 
 Resumés:  
 [Reactive Resume☁](https://rx-resume.web.app/),
@@ -61,21 +58,25 @@ Resumés:
 Resumés - software engineers:  
 [gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
 
+Technical documentation:  
+[LaTeX☁⊞⌘🐧](https://www.latex-project.org/),
+[SwiftLaTeX☁](https://www.swiftlatex.com)
+
 Wiki creation:  
-[Wikia.org☁](https://www.wikia.org/),
-[Wiki.js⬇️](https://wiki.js.org/)
+[Fandom☁](https://www.fandom.com/),
+[Wiki.js⊞⌘🐧∏∐](https://wiki.js.org/)
 
 ## Editing - Transcript
 
 Thesaurus/Dictionary:  
 [wordhippo☁](https://www.wordhippo.com/),
-[Artha⬛](http://artha.sourceforge.net/),
+[Artha⊞■🐧](http://artha.sourceforge.net/),
 [Online Etymology Dictionary☁](https://www.etymonline.com/)
   
 Grammar/Spelling/Style Check:  
 [After the Deadline☁](https://www.polishmywriting.com/),
-[Bullshit.js⬇️](https://mourner.github.io/bullshit.js/),
-[Grammarly⬇️](https://app.grammarly.com/),
+[Bullshit.js■⇉](https://mourner.github.io/bullshit.js/),
+[Grammarly⇉☁](https://app.grammarly.com/),
 [Hemingway App☁](http://www.hemingwayapp.com/),
 [Readable☁](https://app.readable.com/text/?demo)
 
@@ -93,20 +94,11 @@ OCR:
 
 PDF editor:  
 [PDFescape☁](https://www.pdfescape.com/windows/),
-[PDF-XChange Editor⬛](https://pdf-xchange.eu/pdf-xchange-editor/index.htm),
-[PDFTK Builder⬛](http://www.angusj.com/pdftkb/)
+[PDF-XChange Editor⊞■](https://pdf-xchange.eu/pdf-xchange-editor/index.htm),
+[PDFTK Builder⊞■](http://www.angusj.com/pdftkb/)
 
 EPUB editor:  
-[Sigil⬛](https://sigil-ebook.com/)
+[Sigil⊞■⌘🐧](https://sigil-ebook.com/)
 
-PDF/ebook Splitter/Joiner:  
-[FaxTool⬇️](https://sector-seven.com/software/faxtool)
-
-## Editing - Final
-
-Text Conversion:  
-[DOC to MD Converter☁](https://word2md.com/),
-[e-book/PDF conversion☁](https://www.epubconverter.com/)
-
-Titling:  
-[Portent's Content Idea Generator☁](https://www.portent.com/tools/title-maker/)
+PDF/TIFF Splitter/Joiner:  
+[FaxTool⊞■](https://sector-seven.com/software/faxtool)

@@ -29,7 +29,7 @@ Branded colors:
 Gradients:  
 [ColorBox by Lyft Design*](https://www.colorbox.io/), [Color Curves*](https://colorcurves.app/), [ColorKit*](https://colorkit.io/),
 [Grabient*](https://www.grabient.com/), [Gradient Hunt*](https://gradienthunt.com/), [Gradienta*](https://gradienta.io/), [Gradient by ShapeFactory*](https://gradient.shapefactory.co/), [Gradihunt*](https://gradihunt.com/),
-[IRA Design⬇️](https://iradesign.io/),
+[IRA Design*](https://iradesign.io/),
 [uiGradients*](https://uigradients.com/),
 [WebGradients*](https://webgradients.com/)
 
@@ -57,31 +57,31 @@ Testing:
 ## Photo Capture
 
 Screenshots:  
-[ShareX⬇️](https://getsharex.com/)
+[ShareX⊞■](https://getsharex.com/)
 
 Photo tweaking/filters:  
-[FotoSketcher⬛](https://fotosketcher.com/),
-[GIMP⬛](https://www.gimp.org/)
-[RawTherapee⬛](http://www.rawtherapee.com/)
+[FotoSketcher⊞■⌘](https://fotosketcher.com/),
+[GIMP⊞■⌘🐧](https://www.gimp.org/)
+[RawTherapee⊞■⌘🐧](http://www.rawtherapee.com/)
 
 Fix image blur:  
-[SmartDeblur](http://smartdeblur.net/)
+[SmartDeblur⊞⌘](http://smartdeblur.net/)
 
 ## File Conversions
 
 PDF/PS:  
-[Ghostscript⬛](https://www.ghostscript.com/)
+[Ghostscript⊞■🐧](https://www.ghostscript.com/)
 
 PDF to JPG:  
 [Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
 
 Images:  
-[ImageMagick⬇️](https://imagemagick.org/index.php)
+[ImageMagick⊞⌘🐧](https://imagemagick.org/index.php)
 
 Images - lossy:  
 [EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize),
-[Caesium☁](https://saerasoft.com/caesium/),
-[PngOptimizer⬛](https://psydk.org/pngoptimizer),
+[Caesium☁⊞](https://saerasoft.com/caesium/),
+[PngOptimizer⊞■🐧](https://psydk.org/pngoptimizer),
 [TinyPNG☁](https://tinypng.com/)
 
 ## Visual Calculators
@@ -92,29 +92,19 @@ PX to EM conversion:
 Typographical Golden Ratio calculator:  
 [Golden Ratio Typography Calculator☁](https://grtcalculator.com/)
 
-Typographical size calculator:  
-[Type Scale☁](https://type-scale.com/)
-
 ## Auto-Rendering
 
-Blob generator:  
-[z creative labs' Blobmaker☁](https://www.blobmaker.app/),
-[Blobs☁](https://blobs.app/)
-
 Chaotic functions:  
-[Fyre⬛](http://fyre.navi.cx/)
+[Fyre🐧](http://fyre.navi.cx/)
 
 Light generation:  
-[Hot Spot Studio⬛](https://www.rlvision.com/spots/about.php)
+[Hot Spot Studio⊞■](https://www.rlvision.com/spots/about.php)
 
 Live background generator:  
 [makebackground.io☁](https://makebackground.io/)
 
-Shadows:  
-[brumm.af's SmoothShadows☁](https://brumm.af/shadows)
-
-SVG waves:  
-[Get Waves☁](https://getwaves.io/)
+Text-to-handwriting:  
+[Calligrapher.ai☁](https://www.calligrapher.ai/)
 
 Triangle patterns:  
 [Trianglify.io☁](https://trianglify.io/)
@@ -125,21 +115,21 @@ Remove backgrounds from photos with people:
 ## 2D Rendering
 
 Animations:  
-[Blush☁⬇️(Figma/Sketch plugin)](https://blush.design/),
-[OpenToonz⬇️](https://opentoonz.github.io/e/),
-[Pencil2D Animation⬛](https://www.pencil2d.org/)
+[Blush(Figma/Sketch)☁⇉](https://blush.design/),
+[OpenToonz⊞⌘](https://opentoonz.github.io/e/),
+[Pencil2D Animation⊞■⌘🐧](https://www.pencil2d.org/)
 
 CAD:  
-[LibreCAD⬛](https://librecad.org/)
+[LibreCAD⊞■⌘🐧](https://librecad.org/)
 
 Drawing/painting:  
-[Krita⬛](https://krita.org/en/)
+[Krita⊞■⌘🐧](https://krita.org/en/)
 
 Font builder:  
-[FontForge⬛](https://fontforge.github.io/)
+[FontForge⊞■⌘🐧](https://fontforge.github.io/)
 
 Icons/cursors:  
-[GFIE Pro⬛](http://greenfishsoftware.org/)
+[GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
 
 Logo builder:  
 [Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),
@@ -152,7 +142,28 @@ Logo builder:
 Vector graphics/illustrations:  
 [Canva☁](https://www.canva.com/),
 [Icons8's Vector Creator☁](https://icons8.com/vector-creator),
-[Inkscape⬛](https://inkscape.org/)
+[Inkscape⊞■⌘🐧](https://inkscape.org/)
+
+## 3D Renders
+
+Graphics:  
+[Blender⊞■⌘🐧](https://www.blender.org/),
+[K-3D⊞■⌘](http://www.k-3d.org/)
+
+CAD:  
+[FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
+
+Human models:  
+[MakeHuman⊞⌘🐧](http://www.makehumancommunity.org/)
+
+Multitool:  
+[SketchUp☁](https://www.sketchup.com/)
+
+Videos:  
+[Source Filmmaker⊞](https://store.steampowered.com/app/1840/Source_Filmmaker/)
+
+Voxel art/path tracing renderer:  
+[MagicaVoxel⊞⌘](https://ephtracy.github.io/)
 
 ## Charts/Graphs
 
@@ -164,7 +175,7 @@ Infographics:
 [Piktochart☁](https://piktochart.com/)
 
 Timelines and time series:  
-[PlotJuggler⬇️](https://github.com/facontidavide/PlotJuggler),
+[PlotJuggler(Github)⊞🐧](https://github.com/facontidavide/PlotJuggler),
 [TimeGraphics☁](https://time.graphics/)
 
 Word clouds:  
@@ -175,7 +186,7 @@ Word clouds:
 Presentations:  
 [Google Slides☁](https://slides.google.com),
 [Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx),
-[LibreOffice Impress⬛](https://www.libreoffice.org/)
+[LibreOffice Impress⊞■⌘🐧](https://www.libreoffice.org/)
 
 Mockups:  
 [Animockup☁](https://animockup.com/),
@@ -184,34 +195,33 @@ Mockups:
 
 Desktop publishing:  
 [Microsoft Sway☁](https://sway.office.com),
-[Scribus⬛](https://www.scribus.net/)
+[Scribus⊞■⌘🐧](https://www.scribus.net/)
 
 Prototyping/wireframing:  
-[Facebook's Origami Studio⬇️](https://origami.design/),
-[Figma(has many plugins!)☁](https://www.figma.com/),
+[Figma☁∏∐](https://www.figma.com/),
 [InVision☁](https://www.invisionapp.com/),
 [Marvel☁](https://marvelapp.com/),
-[Pencil Project⬛](https://pencil.evolus.vn/)
+[Pencil Project⊞■⌘🐧](https://pencil.evolus.vn/)
 
 Wireframe kits:  
-[Contra Wireframe Kit⬇️](https://contrauikit.com/)
+[Contra Wireframe Kit⇉](https://contrauikit.com/)
 
 ## Reference
 
 Keyboard shortcuts:  
-[Shortcuts.design⬇️](https://shortcuts.design/)
+[Shortcuts.design*](https://shortcuts.design/)
 
 ## Visual Testing / Accessibility
 
 Colorblindness testing:  
 [Coblis - Color Blindness Simulator☁](https://www.color-blindness.com/coblis-color-blindness-simulator/),
-[Color Oracle⬇️](https://colororacle.org/),
+[Color Oracle⊞⌘🐧](https://colororacle.org/),
 [Who Can Use☁](https://whocanuse.com/)
 
 Color ratio:  
 [A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/),
 [ColorShark☁](https://colorshark.io/),
-[Colour Contrast Analyzer⬛](https://developer.paciellogroup.com/resources/contrastanalyser/),
+[Colour Contrast Analyzer⊞■⌘](https://developer.paciellogroup.com/resources/contrastanalyser/),
 [Contrast Checker☁](https://webaim.org/resources/contrastchecker/),
 [Hex Naw☁](https://hexnaw.com/)
 

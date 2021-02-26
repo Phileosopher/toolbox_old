@@ -3,28 +3,29 @@
 ## Real-Time
 
 Videoconferencing/screensharing/phone:  
-[Jitsi Meet☁⬇️](https://meet.jit.si/)
+[Jitsi Meet☁∏∐](https://meet.jit.si/)
 
 Webpage markups:  
-[Marker.to☁⬇️](http://marker.to/)
+[Marker.to⇉](http://marker.to/)
 
 Chat services:  
-[Rocket.Chat☁⬇️](https://rocket.chat/),
+[Rocket.Chat⊞🐧⌘∏∐](https://rocket.chat/),
 [tinychat☁](https://tinychat.com)
 
 Multichat:  
-[All-in-One Messenger⬇️](https://allinone.im/)
+[All-in-One Messenger⊞🐧⌘](https://allinone.im/)
 
 Video multicast:  
-[Restream☁](https://restream.io/)
+[Restream☁⇉](https://restream.io/)
 
 ## Sending/Receiving
 
 Email/calendar/contacts:  
-[Mozilla Thunderbird⬛](https://www.thunderbird.net/)
+[Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/)
 
 Link shortener:  
-[bitly☁](https://bitly.com/)
+[bitly☁](https://bitly.com/),
+[TinyURL☁](https://tinyurl.com)
 
 Large files:  
 [WeTransfer☁](https://wetransfer.com/)
@@ -34,12 +35,6 @@ Faxes:
 
 Drawn images:  
 [Witeboard☁](https://witeboard.com)
-
-Text-to-handwriting:  
-[Calligrapher.ai☁](https://www.calligrapher.ai/)
-
-Remote computer access:  
-[Remote Utilities⬇️](https://www.remoteutilities.com/)
 
 ## Social Media
 
@@ -51,7 +46,8 @@ Social media auto-posts:
 [Hootsuite☁](https://hootsuite.com/)
 
 Social media image posts:  
-[Pablo by Buffer☁](https://pablo.buffer.com/)
+[Pablo by Buffer☁](https://pablo.buffer.com/),
+[Remix by Buffer∏∐](https://buffer.com/remix)
 
 ## Social Media - Websites/Profiles
 
@@ -61,4 +57,4 @@ Social media image posts:
 ## IRL
 
 In-person connecting:  
-[Meetup☁](https://www.meetup.com/)
+[Meetup☁∏∐](https://www.meetup.com/)

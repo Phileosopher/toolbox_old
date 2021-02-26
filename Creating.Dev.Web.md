@@ -168,6 +168,9 @@ Uptime tracking:
 [Uptime Robot☁](https://uptimerobot.com/),
 [GotSiteMonitor.com☁](https://www.gotsitemonitor.com/)
 
+Persistent connection test:  
+[Supple's keep-alive Validation SEO Tool☁](https://supple.com.au/tools/check-persistent-connection/)
+
 SEO checker:  
 [BuzzSumo☁](https://app.buzzsumo.com/),
 [woorank☁](https://www.woorank.com/)

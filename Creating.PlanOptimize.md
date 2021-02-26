@@ -132,3 +132,11 @@ Book Publishing:
 
 Handwritten messages:  
 [Handwriting.io☁](https://handwriting.io/)
+
+## Universally Convenient Peripherals
+
+Secondary/gaming keypad (for faster macros)
+
+10-key (for small laptops when inputting data)
+
+USB extensions and hubs

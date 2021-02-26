@@ -3,14 +3,18 @@
 ## Impairment Aides
 
 Audio aides:  
-[NV Access⬛](https://www.nvaccess.org/)
+[Emacspeak🐧](http://emacspeak.sourceforge.net/),
+[NV Access⊞■](https://www.nvaccess.org/)
+
+Keyboard-less interfacing:  
+[Dasher⊞⌘](http://www.inference.org.uk/dasher/)
 
 TTS:  
-[Balabolka⬛](http://cross-plus-a.com/balabolka.htm),
-[Screen Reader⬛](http://jacquelin.potier.free.fr/screenreader/)
+[Balabolka⊞■](http://cross-plus-a.com/balabolka.htm),
+[Screen Reader⊞■](http://jacquelin.potier.free.fr/screenreader/)
 
 Magnifying glass:  
-[Virtual Magnifying Glass⬛](http://magnifier.sourceforge.net/)
+[Virtual Magnifying Glass⊞■🐧](http://magnifier.sourceforge.net/)
 
 ## RSS
 
@@ -20,11 +24,11 @@ Rss-to-email:
 ## Learning
 
 Memorization/flashcards:  
-[Mnemosyne⬛](https://mnemosyne-proj.org/),
-[Anki⬇️](https://apps.ankiweb.net/)
+[Mnemosyne⊞■⌘🐧∏](https://mnemosyne-proj.org/),
+[Anki⊞⌘🐧∏∐](https://apps.ankiweb.net/)
 
 Language:  
-[Duolingo☁](https://www.duolingo.com/)
+[Duolingo☁∏∐](https://www.duolingo.com/)
 
 ## News
 
@@ -34,55 +38,54 @@ News aggregation:
 ## Social Media
 
 Cross-platform influencer following:  
-[Fraidycat⬇️](https://fraidyc.at/)
+[Fraidycat⇉⊞⌘🐧](https://fraidyc.at/)
 
 Videos:  
 [YouTube☁](https://youtube.com),
-[NewPipe (for YouTube)⬇️](https://newpipe.schabi.org/)
+[Vimeo☁](https://vimeo.com/watch),
+[NewPipe (for YouTube)∏](https://newpipe.schabi.org/)
 
 Topical:  
-[Reddit☁](https://reddit.com)
+[Reddit☁∏∐](https://reddit.com)
 
 Image-based:  
-[Pinterest☁](https://pinterest.com)
+[Pinterest☁∏∐](https://pinterest.com)
 
 Creator-based:  
-[Behance☁](https://www.behance.net/),
-[Dribbble☁](https://dribbble.com/)
+[Behance☁∏](https://www.behance.net/),
+[Dribbble☁∏∐](https://dribbble.com/)
 
 ## Players
 
-A/V player - WinOS:  
-[VLC⬛](https://www.videolan.org/vlc/)
-
-A/V player - Unix & Friends:  
-[SMPlayer⬛](https://www.smplayer.info/)
+A/V player:  
+[VLC⊞■⌘🐧∏∐](https://www.videolan.org/vlc/),
+[SMPlayer⊞■🐧](https://www.smplayer.info/)
 
 ## Viewers
 
 DjVu:  
-[WinDjView/MacDjView⬛](https://windjview.sourceforge.io/)
+[WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
 
 Images:  
-[XnView⬛](https://www.xnview.com/),
-[IrfanView⬇️](https://www.irfanview.com/)
+[XnView⊞■⌘🐧](https://www.xnview.com/),
+[IrfanView⊞■](https://www.irfanview.com/)
 
 PDF/ebooks:  
-[Sumatra⬛](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
 ## Media libraries
 
 10-foot UI:  
-[Kodi⬛](https://kodi.tv/)
+[Kodi⊞■⌘🐧∏∐](https://kodi.tv/)
 
 Music:  
-[MusicBee⬛](https://getmusicbee.com/),
-[Quod Libet⬇️](https://quodlibet.readthedocs.io/)
+[MusicBee⊞■](https://getmusicbee.com/),
+[Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
 
 Ebooks:  
-[calibre⬛](https://calibre-ebook.com/)
+[calibre⊞■⌘🐧∏∐](https://calibre-ebook.com/)
 
 ## Specific consumption
 
 Torah/Bible:  
-[The SWORD Project⬇️](https://crosswire.org/sword/index.jsp)
+[The SWORD Project☁⊞■⌘🐧∏∐⇉](https://crosswire.org/sword/index.jsp)

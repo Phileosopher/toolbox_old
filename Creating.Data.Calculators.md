@@ -4,10 +4,10 @@
 
 Lightweight calculators:  
 [Calculator.net☁](https://www.calculator.net/) /
-[SpeedCrunch⬛](https://speedcrunch.org/)
+[SpeedCrunch⊞■⌘🐧](https://speedcrunch.org/)
 
 Heavy-duty calculating:  
-[Wolfram|Alpha☁](https://www.wolframalpha.com/)
+[Wolfram|Alpha☁∏∐](https://www.wolframalpha.com/)
 
 Step-by-step explanations:  
 [Mathway☁](https://www.mathway.com/) /
@@ -17,8 +17,8 @@ Step-by-step explanations:
 
 Measurement conversion:  
 [Online Conversion☁](http://www.onlineconversion.com/),
-[ConvertAll⬛](http://convertall.bellz.org/),
-[Converber⬛](http://www.xyntec.com/converber.htm)
+[ConvertAll⊞■🐧](http://convertall.bellz.org/),
+[Converber⊞■∐](http://www.xyntec.com/converber.htm)
 
 Size conversion (countries):  
 [The True Size Of...☁](https://thetruesize.com/)
@@ -26,7 +26,7 @@ Size conversion (countries):
 ## Generators
 
 Random number generator:  
-[RANDOM.ORG☁](https://www.random.org/)
+[RANDOM.ORG☁∏](https://www.random.org/)
 
 ## Accounting/Business Calculators
 

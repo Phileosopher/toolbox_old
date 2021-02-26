@@ -3,35 +3,35 @@
 ## Status/Benchmarking
 
 All-in-One:  
-[HWiNFO⬛](https://www.hwinfo.com/)
+[HWiNFO⊞■](https://www.hwinfo.com/)
 
-CPU:  
-[CPU-X(Linux)](https://x0rg.github.io/CPU-X/),
-[CPU-Z⬛](https://www.cpuid.com/softwares/cpu-z.html)
+CPU/motherboard:  
+[CPU-X🐧](https://x0rg.github.io/CPU-X/),
+[CPU-Z⊞■](https://www.cpuid.com/softwares/cpu-z.html)
 
 RAM:  
-[MemTest86⬛](https://www.memtest86.com/),
-[RAMMap⬛](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
+[MemTest86⊞■🐧](https://www.memtest86.com/),
+[RAMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 
-PCI Assets:  
-[PCI-Z⬛](https://www.pci-z.com/)
+PCI resources:  
+[PCI-Z⊞■](https://www.pci-z.com/)
 
 Graphics Card:  
-[GPU-Z⬛](https://www.techpowerup.com/gpuz/)
+[GPU-Z⊞■](https://www.techpowerup.com/gpuz/)
 
 HD:  
-[SSD-Z⬛](http://aezay.dk/aezay/ssdz/),
-[CrystalDiskMark⬛](https://crystalmark.info/en/software/crystaldiskmark/)
+[SSD-Z⊞■](http://aezay.dk/aezay/ssdz/),
+[CrystalDiskMark⊞■](https://crystalmark.info/en/software/crystaldiskmark/)
 
 Laptop Battery:  
-[BATExpert⬇️](https://kcsoftwares.com/?batexpert)
+[BATExpert⊞](https://kcsoftwares.com/?batexpert)
 
 ## Hardware Planning
 
-PC Builds:  
+PC builds:  
 [PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
 
-Hardware Upgrade:  
+Hardware upgrade:  
 [Crucial by Micron☁](https://www.crucial.com/)
 
 ## General-Purpose Tools
@@ -51,14 +51,6 @@ Plenty of anti-static mats, wrist straps, and cloths
 Protective gloves
 
 Headlamp
-
-## Universally Convenient Peripherals
-
-Secondary/gaming keypad (for faster macros)
-
-10-key (for small laptops when inputting data)
-
-USB extensions and hubs
 
 ## Hardware Diagnostics
 

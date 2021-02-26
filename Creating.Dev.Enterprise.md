@@ -18,3 +18,8 @@ Localization/translation:
 
 Hosting:  
 [Fastly☁](https://www.fastly.com/)
+
+## Monitoring
+
+Network monitoring:  
+[openNMS](https://www.opennms.com/)
