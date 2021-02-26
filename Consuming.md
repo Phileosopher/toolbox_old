@@ -7,7 +7,8 @@ Audio aides:
 [NV Access⊞■](https://www.nvaccess.org/)
 
 Keyboard-less interfacing:  
-[Dasher⊞⌘](http://www.inference.org.uk/dasher/)
+[Dasher⊞⌘](http://www.inference.org.uk/dasher/),
+[Talon⊞⌘🐧](https://talonvoice.com/)
 
 TTS:  
 [Balabolka⊞■](http://cross-plus-a.com/balabolka.htm),
@@ -16,10 +17,30 @@ TTS:
 Magnifying glass:  
 [Virtual Magnifying Glass⊞■🐧](http://magnifier.sourceforge.net/)
 
-## RSS
+## Downloading
+
+Download manager:  
+[Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/)
+
+HTTP media downloads:  
+[KeepVid☁](https://keepvid.com/)
+
+FTP client:  
+[FileZilla⊞■⌘🐧](https://filezilla-project.org/)
+
+## Feeds
+
+Podcast search engine:  
+[Listen Notes☁](https://www.listennotes.com/)
+
+RSS:  
+[QuiteRSS⊞■⌘🐧](https://quiterss.org/)
 
 Rss-to-email:  
 [Blogtrottr☁](https://blogtrottr.com)
+
+Torrents:  
+[qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/)
 
 ## Learning
 

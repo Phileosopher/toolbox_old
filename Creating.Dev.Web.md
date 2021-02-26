@@ -6,11 +6,11 @@ Webhost research:
 [WhoIsHostingThis☁](https://www.whoishostingthis.com/)
 
 Site structure:  
-[builtWith☁](https://builtwith.com/),
-[WhatRuns(browser plugin)](https://www.whatruns.com/)
+[builtWith☁⇉](https://builtwith.com/),
+[WhatRuns⇉](https://www.whatruns.com/)
 
 Dev learning:  
-[MDN web docs☁](https://developer.mozilla.org/en-US/)
+[MDN web docs*](https://developer.mozilla.org/en-US/)
 
 ## Domains
 
@@ -22,45 +22,29 @@ Domain registration:
 Free domains:  
 [Freenom☁](https://www.freenom.com)
 
-DNS checker:  
-[whatsmydns.net☁](https://www.whatsmydns.net/),
-[Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/)
-
 ## CMS (content management system)
 
-Bootstrap CSS themes:  
-[Bootswatch*](https://bootswatch.com/)
+Bootstrap CSS themes/templates:  
+[Bootswatch■](https://bootswatch.com/),
+[Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free)
 
-WordPress - boilerplate:  
-[Bedrock⬇️](https://roots.io/bedrock/)
-
-WordPress - templates/themes/plugins:  
-[Colorlib☁](https://colorlib.com/wp/templates/),
-[WordPress Plugins Library☁](https://wordpress.org/plugins/)
+WordPress templates/themes/plugins:  
+[Colorlib■⇉](https://colorlib.com/wp/templates/),
+[WordPress Plugins Library■⇉](https://wordpress.org/plugins/)
 
 ## Front-End / Visual Design
-
-Templates:  
-[Creative Tim's Free Templates⬇️](https://www.creative-tim.com/templates/free)
 
 Webfonts:  
 [FontSquirrel's Webfont Generator☁](https://www.fontsquirrel.com/tools/webfont-generator)
 
 Webfonts - in-browser comparison:  
-[Snapfont⬇️(Firefox plugin)](https://getsnapfont.com/)
-
-Landing page images:  
-[LandingStock⬇️](https://landingstock.com/)
+[Snapfont⇉](https://getsnapfont.com/)
 
 Favicons:  
 [favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
 [Real Favicon Generator☁](https://realfavicongenerator.net/),
 [SVG Favicon Maker☁](https://formito.com/tools/favicon),
-[Favicon Cheat Sheet (Github)*](http://github.com/audreyr/favicon-cheat-sheet)
-
-404 pages:  
-[404 Illustrations⬇️](https://error404.fun/),
-[Kapwing's 404 Illustrations⬇️](https://www.kapwing.com/404-illustrations)
+[Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
 
 Dark mode:  
 [Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
@@ -77,15 +61,12 @@ Browser elements:
 [Things you can do with a browser in 2020*](https://github.com/luruke/browser-2020)
 
 Search feature:  
-[Google Custom Search Engine☁](https://cse.google.com/cse/)
-
-Web forms:  
-[Google Forms☁](http://forms.google.com/)
+[DuckDuckGo Search Box☁](https://duckduckgo.com/search_box)
 
 ## Testing: Functionality
 
 Website debugging:  
-[Telerik's Fiddler⬇️](https://www.telerik.com/fiddler),
+[Telerik's Fiddler⊞⌘🐧](https://www.telerik.com/fiddler),
 [web.dev☁](https://web.dev/)
 
 Text encoding/transcoding:  
@@ -94,9 +75,6 @@ Text encoding/transcoding:
 Dead link check:  
 [dead link checker☁](https://www.deadlinkchecker.com/),
 [W3C Link Checker☁](https://validator.w3.org/checklink)
-
-On-the-ground testing:  
-[Modernizr☁](https://modernizr.com/)
 
 Validation - HTML:  
 [W3C Markup Validation Service☁](https://validator.w3.org/)
@@ -142,7 +120,7 @@ Google's cache test:
 [Google Cache Checker☁](https://www.webnots.com/seo-tools/google-cache-checker)
 
 HTTP testing:  
-[WBox⬇️](http://www.hping.org/wbox/)
+[WBox🐧](http://www.hping.org/wbox/)
 
 Site speed test:  
 [GTmetrix☁](https://gtmetrix.com),
@@ -158,7 +136,7 @@ DNS cache purge:
 
 Image compression:  
 [PunyPNG☁](http://punypng.com/),
-[PNGGauntlet⬛](https://pnggauntlet.com/)
+[PNGGauntlet⊞⌘🐧](https://pnggauntlet.com/)
 
 HTTP headers:  
 [REDbot☁](https://redbot.org/),
@@ -205,6 +183,4 @@ SERP (search engine rsults page) preview:
 
 Website Analytics:  
 [Clicky☁](https://clicky.com/),
-[Facebook Analytics☁](https://www.facebook.com/analytics/),
-[Google Analytics☁](https://analytics.google.com/),
 [Statcounter☁](https://statcounter.com/)

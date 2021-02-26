@@ -38,7 +38,7 @@ For brevity's sake, I'm mostly glossing over a few groups:
 
 A. Are you simply consuming things?
 
-* [Consuming.md](https://github.com/PhilosAccounting/toolbox/blob/master/consuming.md)
+* [Consuming.md](https://github.com/PhilosAccounting/toolbox/blob/master/Consuming.md)
 
 B. Will you be directly communicating with someone?
 
@@ -76,16 +76,16 @@ E. Are you working with datasets or raw information?
 
 1. Do you need to broadly calculate something?
    * [Creating.Data.Calculators.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Calculators.md)
-2. Are you gathering the information online?
+2. Are you looking for specific information?
    * [Creating.Data.Gather.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Gather.md)
 3. Are you using machine learning or heavy-duty data-mining?
    * [Creating.Data.ML.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.ML.md)
-4. Are you cleaning it up?
+4. Are you cleaning up data?
    * [Creating.Data.Cleaning.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Data.Cleaning.md)
 
 F. Are you actually *making* something new?
 
-1. Can you physically touch it or does it simulate reality (such as a 3D model)?
+1. Can you physically touch it or does it simulate reality (such as a 3D physics model)?
    * [Creating.Craftwork.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Craftwork.md)
 2. Will you be recording something or editing video?
    * [Creating.PerformEdit.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.PerformEdit.md)
@@ -96,7 +96,7 @@ F. Are you actually *making* something new?
 4. Will you be making or tweaking visual elements or CG on a computer screen?
    * [Creating.VisualCG.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.md)
    * Do you need existing visual elements?
-      * [Creating.VisualCG.Repos.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Repos.md)
+      * [Creating.VisualCG.Repos.md*](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Repos.md)
    * Will you likely use code to make visuals?
       * [Creating.VisualCG.Dev.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.VisualCG.Dev.md)
 5. Are you developing software or will use code?
@@ -112,15 +112,14 @@ F. Are you actually *making* something new?
    * Is it something large-scale or *really* ambitious?
       * [Creating.Dev.Enterprise.md](https://github.com/PhilosAccounting/toolbox/blob/master/Creating.Dev.Enterprise.md)
 
-To demarcate further:
+To demarcate further what it runs on, out-of-the-box:
 
-* ☁ for browser-based apps
-* ⇉ for a browser/software plugin or extension
+* _*_ if it's something to copy-paste or a reference sheet.
+* ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
 * Desktop: ⊞ for Windows, ⌘ for Mac OS X, 🐧 for Linux and Friends.
 * Mobile: ∏ for Android, ∐ for iOS.
-* _*_ if it's something to copy-paste or a reference sheet.
 * □ for non-UI CLI-based tools.
-* ■ for portable Windows apps (many through [PortableApps.com](https://portableapps.com/)) or standalone files.
+* ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 
 If you like what you see, feel free to contribute or fork.
 

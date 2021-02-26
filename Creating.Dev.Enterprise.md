@@ -3,13 +3,13 @@
 ## In-House
 
 LMS (learning management system):  
-[ATutor⬇️](https://atutor.github.io/atutor/index.html),
-[FlightPath⬇️](https://getflightpath.com/),
-[Moodle⬇️](https://moodle.org/),
-[Omeka⬇️](https://omeka.org/)
+[ATutor⊞🐧](https://atutor.github.io/atutor/index.html),
+[FlightPath⊞🐧](https://getflightpath.com/),
+[Moodle🐧](https://moodle.org/),
+[Omeka🐧](https://omeka.org/)
 
 Process automation:  
-[Bonitasoft⬇️](https://www.bonitasoft.com/)
+[Bonitasoft⊞⌘🐧](https://www.bonitasoft.com/)
 
 ## Outsourcing
 
@@ -18,8 +18,3 @@ Localization/translation:
 
 Hosting:  
 [Fastly☁](https://www.fastly.com/)
-
-## Monitoring
-
-Network monitoring:  
-[openNMS](https://www.opennms.com/)

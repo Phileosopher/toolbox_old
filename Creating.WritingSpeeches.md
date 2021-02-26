@@ -1,6 +1,6 @@
 # Creating: Writing/Speeches
 
-## Inspiration
+## Inspiration - Ideas
 
 Generated:  
 [Masterpiece Generator☁](https://www.plot-generator.org.uk/),
@@ -21,6 +21,22 @@ Tone generator:
 
 Titling:  
 [Portent's Content Idea Generator☁](https://www.portent.com/tools/title-maker/)
+
+## Inspiration - Content
+
+Historical word usage:  
+[Google Books Ngram Viewer☁](https://books.google.com/ngrams),
+[Online Etymology Dictionary☁](https://www.etymonline.com/)
+
+Thesaurus/Dictionary:  
+[wordhippo☁](https://www.wordhippo.com/),
+[Artha⊞■🐧](http://artha.sourceforge.net/),
+
+Translation:  
+[Google Translate☁](https://translate.google.com/)
+
+Word pronunciation:  
+[YouGlish☁](https://youglish.com/)
 
 ## Word Processing
 
@@ -68,11 +84,6 @@ Wiki creation:
 
 ## Editing - Transcript
 
-Thesaurus/Dictionary:  
-[wordhippo☁](https://www.wordhippo.com/),
-[Artha⊞■🐧](http://artha.sourceforge.net/),
-[Online Etymology Dictionary☁](https://www.etymonline.com/)
-  
 Grammar/Spelling/Style Check:  
 [After the Deadline☁](https://www.polishmywriting.com/),
 [Bullshit.js■⇉](https://mourner.github.io/bullshit.js/),

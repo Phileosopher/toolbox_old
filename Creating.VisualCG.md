@@ -1,4 +1,20 @@
-# Creating: Visual Design/CG
+# Creating: Visual/CG
+
+## Color Search
+
+Color search (by associated object):  
+[Picular☁](https://picular.co/)
+
+Color search (by color name):  
+[Color-Names☁](https://meodai.github.io/color-names/)
+
+Color extraction from an image:  
+[Adobe Color☁](https://color.adobe.com),
+[Color Picker online☁](https://image-color.com/),
+[Tineye's Color extraction☁](https://labs.tineye.com/color/)
+
+Object search (by color):  
+[TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
 
 ## Inspiration
 
@@ -37,6 +53,13 @@ Design inspiration:
 [UI Design Daily*](https://uidesigndaily.com/)
 
 ## Inspiration - Fonts
+
+Font search:  
+[Fontspring Matcherator☁](https://www.fontspring.com/matcherator),
+[Font Squirrel's Font Identifier☁](https://www.fontsquirrel.com/matcherator)
+
+Font search (from a file):  
+[FontDrop!☁](https://fontdrop.info/)
 
 Formatting:  
 [Archetype☁](https://archetypeapp.com)

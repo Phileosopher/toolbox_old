@@ -6,37 +6,37 @@ Quick notes/sporadic:
 [notes.io☁](http://notes.io/)
 
 Notebooks:  
-[OneNote️☁⬇️](https://www.onenote.com/),
-[Evernote☁⬇️](https://evernote.com/),
-[QOwnNotes☁⬛](https://www.qownnotes.org/)
+[Evernote☁∏∐⇉](https://evernote.com/),
+[QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/)
 
 Mind mapping/outlining:  
 [coggle☁](https://coggle.it/),
-[FreeMind⬇️](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
-[Scapple⬇️](https://www.literatureandlatte.com/scapple/overview)
+[FreeMind⊞⌘🐧](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+[Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview)
 
 Reference images/visual boards:  
-[Eagle⬇️](https://en.eagle.cool/),
-[Milanote⬇️](https://milanote.com/)
+[Eagle⊞⌘](https://en.eagle.cool/),
+[Milanote⊞⌘∏∐⇉](https://milanote.com/)
 
 Hierarchical spreadsheets:  
-[TreeSheets⬇️](http://strlen.com/treesheets/)
+[TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
 
 ## Lists/Projects
 
 To do lists:  
-[Todoist☁⬇️](https://todoist.com/)
+[Todoist☁⊞⌘🐧∏∐⇉](https://todoist.com/)
 
 Kanban boards:  
-[Trello☁⬇️](https://trello.com/)
+[Trello☁⊞⌘∏∐⇉](https://trello.com/)
 
 Grocery management:  
-[grocy☁⬇️](https://grocy.info/)
+[grocy☁⊞∏∐](https://grocy.info/)
 
 ## Time Optimization
 
 Time Tracking:  
-[ProcrastiTracker⬇️](http://strlen.com/procrastitracker/)
+[ProcrastiTracker⊞](http://strlen.com/procrastitracker/),
+[Toggl Track☁](https://toggl.com/)
 
 Gantt Charts:  
 [TeamGantt☁](https://www.teamgantt.com/)
@@ -48,37 +48,37 @@ Built-in:
 [Browser Shortcuts*](https://stucky.tech/toolbox/b),
 [MS Office Shortcuts*](https://stucky.tech/toolbox/o)
 
-DIY shortcuts:  
-[AutoHotkey(keyboard shortcut macros)⬇️](https://www.autohotkey.com/),
-[TinyTask(macros)⬛](https://www.tinytask.net/)
+Keyboard macros:  
+[AutoHotkey⊞](https://www.autohotkey.com/),
+[TinyTask⊞■](https://thetinytask.com/)
 
 Extra keypad:  
-[Razer Tartarus(buy)](https://www.razer.com/gaming-keypads/razer-tartarus-v2/RZ07-02270100-R3M1)
+[Razer Tartarus(buy)](https://www.razer.com/search/tartarus)
 
 Facial movement tracking:  
-[Movement Tracking(Github))⬇️](https://github.com/surya-veer/movement-tracking),
+[Movement Tracking(Github)⊞■⌘🐧](https://github.com/surya-veer/movement-tracking),
 
 NumPad shortcuts:  
-[ControlPad⬛](https://sector-seven.com/software/controlpad)
+[ControlPad⊞■](https://sector-seven.com/software/controlpad)
 
 Keys to gamepad:  
-[AntiMicro⬛](https://github.com/AntiMicro/antimicro),
+[AntiMicro⊞■🐧](https://github.com/AntiMicro/antimicro),
 
 Text substitution:  
-[Texter⬛](https://texter.en.softonic.com/)
+[Texter⊞■](https://texter.en.softonic.com/)
 
 ## OS Optimization
 
 Clipboard Manager:  
-[ClipboardFusion⬇️](https://www.clipboardfusion.com/),
-[Ditto⬛](https://ditto-cp.sourceforge.io/)
+[ClipboardFusion⊞](https://www.clipboardfusion.com/),
+[Ditto⊞■](https://ditto-cp.sourceforge.io/)
 
 Folder Navigation:  
-[Double Commander⬇️](https://doublecmd.sourceforge.io/),
-[FreeCommander⬛](https://freecommander.com/en/summary/)
+[Double Commander⊞⌘🐧](https://doublecmd.sourceforge.io/),
+[FreeCommander⊞■](https://freecommander.com/en/summary/)
 
 Virtual Desktops (for WinOS):  
-[VirtuaWin⬛](https://virtuawin.sourceforge.io/)
+[VirtuaWin⊞■](https://virtuawin.sourceforge.io/)
 
 ## Automation
 
@@ -96,13 +96,13 @@ Timer:
 [Online Timer☁](http://www.timer-tab.com/)
 
 Pomodoro timer:  
-[YAPA 2⬇️](https://github.com/YetAnotherPomodoroApp/YAPA-2)
+[YAPA 2⊞■](https://github.com/YetAnotherPomodoroApp/YAPA-2)
 
 Repetitive strain timer:  
-[Workrave⬛](http://www.workrave.org/)
+[Workrave⊞■⌘🐧](http://www.workrave.org/)
 
 Ambient noise:  
-[Noisli☁⬇️](https://www.noisli.com/),
+[Noisli☁∏∐⇉](https://www.noisli.com/),
 [generative.fm☁](https://generative.fm/)
 
 Binaural beats:  
@@ -111,7 +111,6 @@ Binaural beats:
 ## Delegating
 
 Freelancers:  
-[Amazon Mechanical Turk☁](https://www.mturk.com/)
 [Fiverr☁](https://www.fiverr.com/),
 [Thumbtack☁](https://www.thumbtack.com/),
 [Upwork☁](https://www.upwork.com/)

@@ -17,30 +17,30 @@ Full games:
 ## Frameworks
 
 All-web apps:  
-[Electron⬇️](https://www.electronjs.org/),
-[NW.js⬇️](https://nwjs.io/),
+[Electron](https://www.electronjs.org/),
+[NW.js](https://nwjs.io/),
 
 CSS - low-level:  
 [Tailwind CSS](https://tailwindcss.com/)
 
 Dynamic lighting/visuals:  
-[SpriteIlluminator⬇️](https://www.codeandweb.com/spriteilluminator)
+[SpriteIlluminator](https://www.codeandweb.com/spriteilluminator)
 
 Flexbox:  
-[Bulma⬇️](https://bulma.io/)
+[Bulma](https://bulma.io/)
 
 PHP - design-focused:  
-[Laravel⬇️](https://laravel.com/)
+[Laravel](https://laravel.com/)
 
 Physics - 2D:  
-[PhysicsEditor⬇️](https://www.codeandweb.com/physicseditor)
+[PhysicsEditor](https://www.codeandweb.com/physicseditor)
 
 Sprite downscaling:  
-[TexturePacker⬇️](https://www.codeandweb.com/texturepacker),
-[TexturePacker3D⬇️](https://www.codeandweb.com/texturepacker3d)
+[TexturePacker](https://www.codeandweb.com/texturepacker),
+[TexturePacker3D](https://www.codeandweb.com/texturepacker3d)
 
 TTS:  
-[Festival⬇️](http://www.cstr.ed.ac.uk/projects/festival/)
+[Festival](http://www.cstr.ed.ac.uk/projects/festival/)
 
 ## Syntactic Sugar
 
@@ -48,10 +48,10 @@ JS:
 [Sugar⬇️](https://sugarjs.com/)
 
 JS - Ruby-esque:  
-[CoffeeScript⬇️](https://coffeescript.org/)
+[CoffeeScript](https://coffeescript.org/)
 
 JSON:  
-[Hjson⬇️](https://github.com/hjson/hjson-js)
+[Hjson](https://github.com/hjson/hjson-js)
 
 ## Front-End Libraries - Aesthetics
 
@@ -77,13 +77,13 @@ Photo color filters:
 ## Back-End Libraries - Engines
 
 Game engines:  
-[Unity⬇️](https://unity.com/),
-[Godot Engine⬇️](https://godotengine.org/),
-[Unreal Engine⬇️](https://www.unrealengine.com/),
-[Source SDK⬇️](https://developer.valvesoftware.com/wiki/SDK_Installation)
+[Unity](https://unity.com/),
+[Godot Engine](https://godotengine.org/),
+[Unreal Engine](https://www.unrealengine.com/),
+[Source SDK](https://developer.valvesoftware.com/wiki/SDK_Installation)
 
 Game engines - HTML5:  
-[PlayCanvas⬇️](https://playcanvas.com/)
+[PlayCanvas](https://playcanvas.com/)
 
 TTS:  
 [eSpeak NG(@Github)](https://github.com/espeak-ng/espeak-ng/)
@@ -99,10 +99,10 @@ Search feature:
 ## Back-End Libraries - Computation
 
 Computational heavy lifting:  
-[Wolfram Engine⬇️](https://www.wolfram.com/engine/)
+[Wolfram Engine](https://www.wolfram.com/engine/)
 
 OCR - Machine Learning:  
-[EasyOCR⬇️](https://github.com/JaidedAI/EasyOCR)
+[EasyOCR](https://github.com/JaidedAI/EasyOCR)
 
 ## Converters/Runtimes
 

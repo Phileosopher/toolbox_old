@@ -38,6 +38,9 @@ tracert/ping GUI:
 Network discovery:  
 [Nmap/Zenmap⊞⌘🐧□](https://nmap.org/)
 
+Network discovery - wireless networks:  
+[WiGLE☁](https://wigle.net/)
+
 IoT server:  
 [Home Assistant⊞⌘🐧∏∐](https://www.home-assistant.io/)
 
@@ -46,9 +49,14 @@ IoT server:
 DNS probe:  
 [Dnsutils🐧](https://packages.debian.org/jessie/dnsutils)
 [Google's Dig☁](https://toolbox.googleapps.com/apps/dig/)
+[whatsmydns.net☁](https://www.whatsmydns.net/),
+[Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/)
 
 Speed test:  
 [SpeedTest☁](https://www.speedtest.net/)
+
+Website status:  
+[Down For Everyone Or Just Me☁](https://downforeveryoneorjustme.com/)
 
 Site uptime history:  
 [downdetector.com☁](https://downdetector.com/)

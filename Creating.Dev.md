@@ -6,7 +6,7 @@ Possible projects:
 [Mega Projects List*](https://github.com/karan/Projects/)
 
 Pseudocode:  
-[Graphviz⬇️](https://www.graphviz.org/)
+[Graphviz⊞⌘🐧](https://www.graphviz.org/)
 
 CSS improvements:  
 [CSS-Tricks*](https://css-tricks.com/)
@@ -17,15 +17,15 @@ Tutorials:
 ## General-Purpose
 
 Browser:  
-[Firefox Quantum: Developer Edition⬛](https://www.mozilla.org/en-US/firefox/developer/)
+[Firefox Developer Edition⊞■⌘🐧∏∐](https://www.mozilla.org/en-US/firefox/developer/)
 
 Version Control:  
-[Bitbucket⬛](https://bitbucket.org/),
-[Git⬛](https://git-scm.com/),
-[Github⬛](https://github.com/)
+[Bitbucket⊞🐧](https://bitbucket.org/),
+[Git⊞■⌘🐧](https://git-scm.com/),
+[Github☁](https://github.com/)
 
 Git GUI:  
-[Sourcetree⬇️](https://www.sourcetreeapp.com/)
+[Sourcetree⊞⌘](https://www.sourcetreeapp.com/)
 
 ## Research
 
@@ -41,15 +41,14 @@ GitHub:
 ## Quick-Reference
 
 AWS:  
-[Amazon Web Services (explained each on one line)☁](https://adayinthelifeof.nl/2020/05/20/aws.html)
+[Amazon Web Services (explained on one line each)*](https://adayinthelifeof.nl/2020/05/20/aws.html)
 
 Spatial/pixel dimensions:  
 [Dimensions.com☁](https://www.dimensions.com/),
 [DPI love☁](https://dpi.lv/),
-[Material Design's Device Metrics☁](https://material.io/tools/devices/)
 
 UX rules:  
-[Laws of UX☁](https://lawsofux.com/)
+[Laws of UX*](https://lawsofux.com/)
 
 ## Environment - Cheap/Free Hosting
 
@@ -73,14 +72,6 @@ Static hosting:
 Decentralized storage:  
 [Tardigrade☁](https://tardigrade.io/)
 
-## Environment - Tech Stack
-
-Application stack:  
-[Parse⬇️](https://parseplatform.org/)
-
-LAMP server variants:  
-[XAMPP⬇️](https://www.apachefriends.org/index.html)
-
 ## Environment - IDEs
 
 Front-End/In-Browser:  
@@ -88,54 +79,39 @@ Front-End/In-Browser:
 [repl.it☁](https://repl.it/)
 
 General-purpose:  
-[Apache NetBeans⬇️](https://netbeans.org/),
-[GNU Emacs⬇️](https://www.gnu.org/software/emacs/),
-[vim⬛](https://vim.org/),
-[Microsoft Visual Studio⬇️](https://visualstudio.microsoft.com/),
-[VSCodium⬇️](https://vscodium.com/)
+[Apache NetBeans⊞⌘🐧](https://netbeans.org/),
+[GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/),
+[vim⊞■⌘🐧](https://www.vim.org/),
+[Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
+[VSCodium⊞⌘🐧](https://vscodium.com/)
 
 ## Sugar Bits
 
 DuckDuckGo:  
-[DuckDuckGo !bang operators☁](https://mosermichael.github.io/duckduckbang/html/main.html)
+[DuckDuckGo !bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)
 
 ## APIs
 
 API Cheatsheets:  
 [OverAPI.com*](http://overapi.com/)
 
-Automated task agents (i.e., IFTTT/Zapier w/ code):  
-[Huginn(Github)](https://github.com/huginn/huginn),
-[n8n.io☁](https://n8n.io)
-
 Public-access APIs:  
 [Public APIs☁](https://public-apis.xyz/)
-
-Package tracking:  
-[Package Place⬇️](https://package.place/)
-
-## Edge Cases
-
-TTS:  
-[Talon⬇️](https://talonvoice.com/)
 
 ## Decompilers
 
 .NET to C#:  
-[JetBrains' dotPeek⬇️](https://www.jetbrains.com/decompiler/)
+[JetBrains' dotPeek⊞](https://www.jetbrains.com/decompiler/)
 
 ## Generating ID Codes
 
 Barcodes:  
-[Zint Barcode Generator⬛](https://sourceforge.net/projects/zint/)
+[Zint Barcode Generator⊞■](https://sourceforge.net/projects/zint/)
 
 UUID/GUID:  
-[PortableApps.com's UUID-GUID Generator⬛](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
+[PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
 
 ## Testing/Debugging
-
-Linting - General:  
-[Github's Super Linter(Github)](https://github.com/github/super-linter)
 
 Linting - CSS:  
 [CSS Lint☁](http://csslint.net/)
@@ -143,24 +119,15 @@ Linting - CSS:
 Linting - JS:  
 [JSLint☁](https://jslint.com/)
 
-Debugging:  
-[GDB⬇️](https://www.gnu.org/software/gdb/)
-
 Bug tracking:  
-[Bugzilla⬇️](https://www.bugzilla.org/),
-[Mantis Bug Tracker⬇️](https://www.mantisbt.org/),
-[Redmine⬇️](https://www.redmine.org/),
-[The Trac Project⬇️](https://trac.edgewall.org/)
-
-Fuzzing:  
-[Microsoft OneFuzz(Github)](https://github.com/microsoft/onefuzz)
-
-Version control:  
-[Wikipedia's Free Version Control Software⬇️](https://en.wikipedia.org/wiki/Category:Free_version_control_software)
+[Bugzilla🐧](https://www.bugzilla.org/),
+[Mantis Bug Tracker🐧](https://www.mantisbt.org/),
+[Redmine⊞🐧](https://www.redmine.org/),
+[The Trac Project⊞🐧](https://trac.edgewall.org/)
 
 ## Finalizing
 
 Documentation:  
-[Doxygen⬇️](https://www.doxygen.nl/index.html),
-[mkd⬇️](https://eell.fr/),
-[Natural Docs⬇️](https://www.naturaldocs.org/)
+[Doxygen⊞🐧](https://www.doxygen.nl/index.html),
+[mkd⊞🐧](https://eell.fr/),
+[Natural Docs⊞■](https://www.naturaldocs.org/)

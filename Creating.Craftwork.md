@@ -23,6 +23,9 @@ Home design:
 [Easyhome Homestyler☁](https://www.homestyler.com),
 [Sweet Home 3D⊞⌘🐧](http://www.sweethome3d.com/)
 
+Industrial/tech parts:  
+[Octopart☁](https://octopart.com/)
+
 ## Spatial Dimensions
 
 Paper sizes:  
