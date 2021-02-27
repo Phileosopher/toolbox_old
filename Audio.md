@@ -1,4 +1,4 @@
-# Creating: A/V & Performing
+# Audio
 
 ## Practicing
 
@@ -21,11 +21,6 @@ Recording/mixing audio:
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [Ardour⊞⌘🐧](https://ardour.org/)
 
-Recording/streaming video:  
-[OBS Studio⊞■⌘🐧](https://obsproject.com/),
-[Streamlabs OBS⊞■](https://streamlabs.com/streamlabs-obs),
-[VirtualDub⊞■](https://sourceforge.net/projects/virtualdub/)
-
 Drum accompaniment:  
 [AutoDrum⊞■](https://openmidiproject.osdn.jp/AutoDrum_en.html)
 
@@ -33,12 +28,8 @@ DJing:
 [Serato DJ Lite⊞■](https://serato.com/dj/lite),
 [Mixxx⊞■⌘🐧](https://www.mixxx.org/)
 
-Church events:  
-[OpenLP⊞⌘🐧](https://openlp.org/)
-
 ## Audio Editing
 
-General:  
 [AudioMass☁](https://audiomass.co/),
 [WaveShop⊞■](http://waveshop.sourceforge.net/)
 
@@ -72,28 +63,3 @@ Metadata:
 
 Metadata - audiobooks:  
 [Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)
-
-## Video Editing
-
-General:  
-[Story Creator☁](https://storycreatorapp.com/),
-[Kdenlive⊞■⌘🐧](https://kdenlive.org/),
-[DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/)
-⊞■⌘🐧
-Remove video background:  
-[Unscreen☁](https://www.unscreen.com/)
-
-Convert video:  
-[HandBrake⊞⌘🐧](https://handbrake.fr/),
-[TEncoder Video Converter⊞■](https://www.fosshub.com/TAudioConverter.html)
-
-Convert video to GIF:  
-[EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif)
-
-## Video Editing - Finalizing
-
-Ken Burns effect:  
-[PhotoFilmStrip⊞■🐧](https://www.photofilmstrip.org/en/)
-
-Playback issues:  
-[VideoInspector⊞](https://kcsoftwares.com/?vtb)

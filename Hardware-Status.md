@@ -1,6 +1,6 @@
-# Managing: Hardware
+# Hardware: Status
 
-## Status/Benchmarking
+## Benchmarking/Testing
 
 All-in-One:  
 [HWiNFO⊞■](https://www.hwinfo.com/)
@@ -26,7 +26,7 @@ HD:
 Laptop Battery:  
 [BATExpert⊞](https://kcsoftwares.com/?batexpert)
 
-## Hardware Planning
+## Planning
 
 PC builds:  
 [PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
@@ -34,25 +34,7 @@ PC builds:
 Hardware upgrade:  
 [Crucial by Micron☁](https://www.crucial.com/)
 
-## General-Purpose Tools
-
-Leatherman/Victorinox multitool
-
-Hammer
-
-Screwdrivers, various sizes
-
-Standard and needlenose pliers
-
-Utility knife
-
-Plenty of anti-static mats, wrist straps, and cloths
-
-Protective gloves
-
-Headlamp
-
-## Hardware Diagnostics
+## Diagnostic Tools
 
 USB drive(s) loaded with a decent version of Linux and/or a plethora of portable apps
 
@@ -65,35 +47,3 @@ POST card
 Loopback plugs
 
 Multimeter
-
-## Diagnosing Connections
-
-Toner kit
-
-Cable tester(s)
-
-Wireless analyzer
-
-USB NIC
-
-USB/ethernet, Lightning/ethernet, and USB/serial adapters
-
-Yost cable (Serial/RJ45)
-
-PoE cable
-
-## Running/Recabling
-
-Cable strippers, crimpers, and electrician's scissors
-
-Extra RJ-45 cable/tips/boots
-
-Extra SFPs, especially a multi-mode LC
-
-Keystone jacks and wall plates
-
-Punchdown tools
-
-Fishing rods
-
-Drywall saw

@@ -1,6 +1,6 @@
-# Creating: Visual Design/CG - Repositories
+# Forage Zones: Static Visual Elements
 
-## Multi-element forage zones
+## Multi-element
 
 [365psd](https://365psd.com/),
 [AllTheFreeStock](https://allthefreestock.com/), [App Sources](http://www.sketchappsources.com/),

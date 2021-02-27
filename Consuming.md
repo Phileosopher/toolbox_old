@@ -1,22 +1,5 @@
 # Consuming
 
-## Impairment Aides
-
-Audio aides:  
-[Emacspeak🐧](http://emacspeak.sourceforge.net/),
-[NV Access⊞■](https://www.nvaccess.org/)
-
-Keyboard-less interfacing:  
-[Dasher⊞⌘](http://www.inference.org.uk/dasher/),
-[Talon⊞⌘🐧](https://talonvoice.com/)
-
-TTS:  
-[Balabolka⊞■](http://cross-plus-a.com/balabolka.htm),
-[Screen Reader⊞■](http://jacquelin.potier.free.fr/screenreader/)
-
-Magnifying glass:  
-[Virtual Magnifying Glass⊞■🐧](http://magnifier.sourceforge.net/)
-
 ## Downloading
 
 Download manager:  
@@ -27,6 +10,9 @@ HTTP media downloads:
 
 FTP client:  
 [FileZilla⊞■⌘🐧](https://filezilla-project.org/)
+
+Torrents:  
+[qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/)
 
 ## Feeds
 
@@ -39,8 +25,8 @@ RSS:
 Rss-to-email:  
 [Blogtrottr☁](https://blogtrottr.com)
 
-Torrents:  
-[qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/)
+News aggregation:  
+[[INSIDE]☁](https://inside.com/)
 
 ## Learning
 
@@ -50,11 +36,6 @@ Memorization/flashcards:
 
 Language:  
 [Duolingo☁∏∐](https://www.duolingo.com/)
-
-## News
-
-News aggregation:  
-[[INSIDE]☁](https://inside.com/)
 
 ## Social Media
 
@@ -66,6 +47,9 @@ Videos:
 [Vimeo☁](https://vimeo.com/watch),
 [NewPipe (for YouTube)∏](https://newpipe.schabi.org/)
 
+Multi-user management:  
+[TweetDeck☁](https://tweetdeck.twitter.com/)
+
 Topical:  
 [Reddit☁∏∐](https://reddit.com)
 
@@ -76,13 +60,16 @@ Creator-based:
 [Behance☁∏](https://www.behance.net/),
 [Dribbble☁∏∐](https://dribbble.com/)
 
-## Players
+## Media Players
 
 A/V player:  
 [VLC⊞■⌘🐧∏∐](https://www.videolan.org/vlc/),
 [SMPlayer⊞■🐧](https://www.smplayer.info/)
 
-## Viewers
+Video playback issues:  
+[VideoInspector⊞](https://kcsoftwares.com/?vtb)
+
+## Media Viewers
 
 DjVu:  
 [WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
@@ -94,7 +81,7 @@ Images:
 PDF/ebooks:  
 [Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
-## Media libraries
+## Media Libraries
 
 10-foot UI:  
 [Kodi⊞■⌘🐧∏∐](https://kodi.tv/)
@@ -106,7 +93,7 @@ Music:
 Ebooks:  
 [calibre⊞■⌘🐧∏∐](https://calibre-ebook.com/)
 
-## Specific consumption
+## Specific Content
 
 Torah/Bible:  
 [The SWORD Project☁⊞■⌘🐧∏∐⇉](https://crosswire.org/sword/index.jsp)

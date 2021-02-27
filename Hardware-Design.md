@@ -1,6 +1,11 @@
-# Creating: Crafts
+# Hardware: Design
 
-## Experimentation/Predictions
+## Inspiration
+
+General design:  
+[Sharpen for STEM☁](https://sharpen.design/stem)
+
+## Simulations
 
 Mechanical experimentation:  
 [MockMechanics⊞■](https://mockmechanics.com/)
@@ -14,7 +19,14 @@ Simulations:
 Flight simulation:  
 [FlightGear⊞⌘🐧](https://www.flightgear.org/)
 
-## Physical Design
+Circuit simulator:  
+[Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html)
+
+Electronics design:  
+[Fritzing⊞⌘🐧](https://fritzing.org/)
+[KiCad⊞⌘🐧](https://www.kicad.org/)
+
+## Physical Objects
 
 CAD:  
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
@@ -25,22 +37,6 @@ Home design:
 
 Industrial/tech parts:  
 [Octopart☁](https://octopart.com/)
-
-## Spatial Dimensions
-
-Paper sizes:  
-[PaperSizes*](https://papersizes.io/)
-
-## Electrical
-
-Circuit simulator:  
-[Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html)
-
-## Electronic
-
-Electronics design:  
-[Fritzing⊞⌘🐧](https://fritzing.org/)
-[KiCad⊞⌘🐧](https://www.kicad.org/)
 
 Smartphone robots:  
 [OpenBot∏∐](https://www.openbot.org/)

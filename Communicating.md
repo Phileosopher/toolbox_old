@@ -36,16 +36,13 @@ Faxes:
 Drawn images:  
 [Witeboard☁](https://witeboard.com)
 
-## Social Media
+## Social Media Posts
 
-Social media skimming:  
-[TweetDeck☁](https://tweetdeck.twitter.com/)
-
-Social media auto-posts:  
+Auto-posts:  
 [Buffer☁](https://buffer.com/),
 [Hootsuite☁](https://hootsuite.com/)
 
-Social media image posts:  
+Image posts:  
 [Pablo by Buffer☁](https://pablo.buffer.com/),
 [Remix by Buffer∏∐](https://buffer.com/remix)
 
@@ -56,5 +53,4 @@ Social media image posts:
 
 ## IRL
 
-In-person connecting:  
 [Meetup☁∏∐](https://www.meetup.com/)

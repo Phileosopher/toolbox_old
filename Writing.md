@@ -1,4 +1,4 @@
-# Creating: Writing/Speeches
+# Writing/Speeches
 
 ## Inspiration - Ideas
 
@@ -63,9 +63,6 @@ Citations:
 Journaling:  
 [RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
-Mathematical Calculations:  
-[LibreOffice Math⊞■⌘🐧](https://www.libreoffice.org/discover/math/)
-
 Resumés:  
 [Reactive Resume☁](https://rx-resume.web.app/),
 [Resumake☁](https://resumake.io/),
@@ -73,10 +70,6 @@ Resumés:
 
 Resumés - software engineers:  
 [gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
-
-Technical documentation:  
-[LaTeX☁⊞⌘🐧](https://www.latex-project.org/),
-[SwiftLaTeX☁](https://www.swiftlatex.com)
 
 Wiki creation:  
 [Fandom☁](https://www.fandom.com/),

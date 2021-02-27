@@ -1,5 +1,16 @@
 # Creating: Planning/Optimization - Business
 
+## Business Calculators
+
+Startup profitability calculator:  
+[Startup Growth Calculator☁](http://growth.tlb.org/#)
+
+Stock option outcome calculator:  
+[TLDR Stock Options☁](https://tldroptions.io/)
+
+Marketing ROI calculator:  
+[Fractl Content ROI Calculator☁](http://frac.tl/content-roi-calc/)
+
 ## Microfinance/POS
 
 POS:  
@@ -46,3 +57,10 @@ Market surveys:
 [Survey Maker☁](https://www.survey-maker.com/),
 [SurveyMonkey☁](https://www.surveymonkey.com/),
 [Survey Planet☁](https://surveyplanet.com/)
+
+## LMS (learning management system)
+
+[ATutor⊞🐧](https://atutor.github.io/atutor/index.html),
+[FlightPath⊞🐧](https://getflightpath.com/),
+[Moodle🐧](https://moodle.org/),
+[Omeka🐧](https://omeka.org/)

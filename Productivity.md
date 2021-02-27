@@ -1,4 +1,4 @@
-# Creating: Planning/Optimization
+# Productivity
 
 ## Note-Taking
 
@@ -67,24 +67,30 @@ Keys to gamepad:
 Text substitution:  
 [Texter⊞■](https://texter.en.softonic.com/)
 
+Design-specific shortcuts:  
+[Shortcuts.design*](https://shortcuts.design/)
+
 ## OS Optimization
 
-Clipboard Manager:  
+Clipboard manager:  
 [ClipboardFusion⊞](https://www.clipboardfusion.com/),
 [Ditto⊞■](https://ditto-cp.sourceforge.io/)
 
-Folder Navigation:  
+Folder navigation:  
 [Double Commander⊞⌘🐧](https://doublecmd.sourceforge.io/),
 [FreeCommander⊞■](https://freecommander.com/en/summary/)
 
-Virtual Desktops (for WinOS):  
+Virtual desktops:  
 [VirtuaWin⊞■](https://virtuawin.sourceforge.io/)
 
 ## Automation
 
-Service Synchronization:  
+Service synchronization:  
 [IFTTT☁](https://ifttt.com),
 [Zapier☁](https://zapier.com/)
+
+Service synchronization - enterprise:  
+[Bonitasoft⊞⌘🐧](https://www.bonitasoft.com/)
 
 Tech support callback:  
 [GetHuman☁](https://gethuman.com/),
@@ -108,31 +114,7 @@ Ambient noise:
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)
 
-## Delegating
-
-Freelancers:  
-[Fiverr☁](https://www.fiverr.com/),
-[Thumbtack☁](https://www.thumbtack.com/),
-[Upwork☁](https://www.upwork.com/)
-
-Freelancers - developers/designers:  
-[Flexiple☁](https://flexiple.com/)
-
-## Delegating - Writing
-
-Copywriting:  
-[Copify UK☁](https://uk.copify.com/)
-
-Localization:  
-[Crowdin☁](https://crowdin.com/)
-
-Book Publishing:  
-[Draft2Digital☁](https://draft2digital.com/)
-
-Handwritten messages:  
-[Handwriting.io☁](https://handwriting.io/)
-
-## Universally Convenient Peripherals
+## Ideal Peripherals
 
 Secondary/gaming keypad (for faster macros)
 

@@ -1,27 +1,22 @@
-# Managing: Files/OS
+# Hardware: Files/OS
 
-## System Updates
+## File Search
 
-Software Update:  
-[Ninite⊞](https://ninite.com/),
-[SUMo⊞](https://kcsoftwares.com/?sumo)
+Files/Programs:  
+[Listary⊞■](https://www.listary.com/),
+[voidtools' Everything⊞■](https://www.voidtools.com/)
 
-Driver Update:  
-[DUMo⊞](https://kcsoftwares.com/?dumo)
+Duplicate Files:  
+[Auslogics Duplicate File Finder⊞■](https://www.auslogics.com/en/software/duplicate-file-finder/),
+[dupeGuru⊞⌘🐧](https://dupeguru.voltaicideas.net/)
 
-## Cleanup
+Shortcuts:  
+[Shortcuts Search And Replace⊞■](http://jacquelin.potier.free.fr/ShortcutsSearchAndReplace/)
 
-PC junk:  
-[CCleaner⊞■](https://www.ccleaner.com/) (with [CCEnhancer](https://singularlabs.com/software/ccenhancer/)),
-[System Ninja⊞](https://singularlabs.com/software/system-ninja/)
+Removable media:  
+[Virtual Volumes View⊞■⌘🐧](http://vvvapp.sourceforge.net/)
 
-Empty file directories:  
-[RmEDir⊞■□](http://www.pazera-software.com/products/rmedir/)
-
-SQLite databases (Firefox, Chrome, et al):  
-[SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
-
-## General File Manipulation
+## Modifying Files
 
 File Splitting:  
 [KFK⊞■](https://kcsoftwares.com/?kfk)
@@ -43,7 +38,7 @@ File conversion - text:
 ISO Mounting:  
 [WinCDEmu⊞■](http://wincdemu.sysprogs.org/)
 
-## Batch File Management
+## Modifying Files - Batches
 
 Renaming:  
 [Ant Renamer️⊞■](https://www.antp.be/software/renamer)
@@ -56,22 +51,6 @@ Merging:
 
 Archive/Extract:  
 [PeaZip⊞■🐧](https://www.peazip.org/)
-
-## File Search
-
-Files/Programs:  
-[Listary⊞■](https://www.listary.com/),
-[voidtools' Everything⊞■](https://www.voidtools.com/)
-
-Duplicate Files:  
-[Auslogics Duplicate File Finder⊞■](https://www.auslogics.com/en/software/duplicate-file-finder/),
-[dupeGuru⊞⌘🐧](https://dupeguru.voltaicideas.net/)
-
-Shortcuts:  
-[Shortcuts Search And Replace⊞■](http://jacquelin.potier.free.fr/ShortcutsSearchAndReplace/)
-
-Removable media:  
-[Virtual Volumes View⊞■⌘🐧](http://vvvapp.sourceforge.net/)
 
 ## File Analysis - Individual
 
@@ -107,19 +86,10 @@ Resource use:
 Memory use:  
 [VMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 
-## Windows-Specific
+## Cleanup
 
-Registry:  
-[RegAlyzer⊞■](https://www.safer-networking.org/products/regalyzer/)
-
-Registry comparison:  
-[WhatChanged⊞■](https://portableapps.com/apps/utilities/whatchanged-portable)
-
-PE format file (.exe, .dll, .ocx, .bpl, et al) analysis:  
-[PEInfo⊞■](http://www.pazera-software.com/products/peinfo/)
-
-Window analysis:  
-[WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
+SQLite databases (Firefox, Chrome, et al):  
+[SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
 
 ## Virtualization/VMs
 
@@ -136,3 +106,39 @@ Linux simulator:
 
 VM manager:  
 [Virtual Machine Manager🐧□](https://virt-manager.org/)
+
+## Backup/Recovery
+
+File synchronization:  
+[FreeFileSync⊞⌘🐧](https://freefilesync.org/)
+
+HD:
+[Recuva⊞■](https://www.ccleaner.com/recuva),
+[TestDisk⊞⌘🐧](https://www.cgsecurity.org/wiki/TestDisk)
+
+CD/DVD:
+[Clonezilla⊞⌘🐧∏∐](https://clonezilla.org/)
+
+MBR Management:  
+[HDHacker⊞■](http://dimio.altervista.org/eng/#HDHacker)
+
+Photo Recovery:  
+[PhotoRec⊞⌘🐧](https://www.cgsecurity.org/wiki/PhotoRec)
+
+Undelete - JPGs:  
+[saintmarina's undelete(Github)🐧□](https://github.com/saintmarina/undelete_jpg)
+
+Website grabber:  
+[HTTrack Website Copier⊞⌘🐧∏](https://www.httrack.com/)
+
+CalDAV/CardDAV (email's calendar/contacts):  
+[DAVx⁵∏](https://f-droid.org/packages/at.bitfire.davdroid/)
+
+## Portable Computing
+
+Portable Apps:  
+[PortableApps.com⊞■](https://portableapps.com/)
+
+Portable OS:  
+[UNetbootin⊞■⌘🐧](https://unetbootin.github.io/),
+[Rufus⊞■](https://rufus.ie/)
