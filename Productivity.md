@@ -27,6 +27,10 @@ Hierarchical spreadsheets:
 To do lists:  
 [Todoist☁⊞⌘🐧∏∐⇉](https://todoist.com/)
 
+Flowcharts:  
+[diagrams.net☁⊞⌘🐧](https://www.diagrams.net/),
+[Lucidchart☁](https://www.lucidchart.com/)
+
 Kanban boards:  
 [Trello☁⊞⌘∏∐⇉](https://trello.com/)
 

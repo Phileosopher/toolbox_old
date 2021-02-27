@@ -14,3 +14,7 @@ Spreadsheets:
 
 Approximate Spreadsheets:  
 [Guesstimate☁](https://www.getguesstimate.com/)
+
+## Visualizations
+
+[Paraview⊞⌘🐧](https://www.paraview.org/)

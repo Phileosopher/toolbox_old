@@ -61,6 +61,9 @@ Video:
 
 ## Auto-Rendering
 
+Image upscaling:  
+[Icons8's AI Image Upscaler☁](https://icons8.com/upscaler/)
+
 Chaotic functions:  
 [Fyre🐧](http://fyre.navi.cx/)
 
