@@ -11,8 +11,9 @@ Notebooks:
 
 Mind mapping/outlining:  
 [coggle☁](https://coggle.it/),
-[FreeMind⊞⌘🐧](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
-[Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview)
+[FreeMind⊞⌘🐧](http://freemind.sourceforge.net/wiki/index.php/Main_Page),
+[Minder🐧](https://github.com/phase1geo/Minder),
+[Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview),
 
 Reference images/visual boards:  
 [Eagle⊞⌘](https://en.eagle.cool/),
