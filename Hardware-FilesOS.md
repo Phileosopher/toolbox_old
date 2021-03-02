@@ -18,39 +18,28 @@ Removable media:
 
 ## Modifying Files
 
-File Splitting:  
-[KFK⊞■](https://kcsoftwares.com/?kfk)
-
-General file conversion:  
+File conversion:  
 [Convertio☁](https://convertio.co/)
 [Online-Convert.com☁](https://www.online-convert.com/)
-
-File conversion - documents:  
-[Pandoc⊞⌘🐧□](https://pandoc.org/)
-
-File conversion - audio/video:  
-[FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
-
-File conversion - text:  
-[DOC to MD Converter☁](https://word2md.com/),
-[Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/)
 
 ISO Mounting:  
 [WinCDEmu⊞■](http://wincdemu.sysprogs.org/)
 
-## Modifying Files - Batches
-
-Renaming:  
+Batch renaming:  
 [Ant Renamer️⊞■](https://www.antp.be/software/renamer)
 
-Copying:  
+Batch copying:  
 [FastCopy⊞■](https://fastcopy.jp/en/)
 
-Merging:  
+Batch merging:  
 [WinMerge⊞■](https://winmerge.org/)
 
-Archive/Extract:  
+File compression:  
+[7-Zip⊞](https://www.7-zip.org/)
 [PeaZip⊞■🐧](https://www.peazip.org/)
+
+File Splitting:  
+[KFK⊞■](https://kcsoftwares.com/?kfk)
 
 ## File Analysis - Individual
 
@@ -68,9 +57,6 @@ Metadata analysis:
 
 Comparisons:  
 [Meld⊞■🐧∏](https://meldmerge.org/),
-
-Comparisons - images:  
-[DiffImg⊞■](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Viewers/DiffImg.shtml)
 
 Disk usage:  
 [NCurses🐧□](https://dev.yorhel.nl/ncdu),
@@ -109,33 +95,6 @@ VM manager:
 
 Split peripheral use on same device:  
 [Universal Split Screen⊞](https://universalsplitscreen.github.io/)
-
-## Backup/Recovery
-
-File synchronization:  
-[FreeFileSync⊞⌘🐧](https://freefilesync.org/)
-
-HD:
-[Recuva⊞■](https://www.ccleaner.com/recuva),
-[TestDisk⊞⌘🐧](https://www.cgsecurity.org/wiki/TestDisk)
-
-CD/DVD:
-[Clonezilla⊞⌘🐧∏∐](https://clonezilla.org/)
-
-MBR Management:  
-[HDHacker⊞■](http://dimio.altervista.org/eng/#HDHacker)
-
-Photo Recovery:  
-[PhotoRec⊞⌘🐧](https://www.cgsecurity.org/wiki/PhotoRec)
-
-Undelete - JPGs:  
-[saintmarina's undelete(Github)🐧□](https://github.com/saintmarina/undelete_jpg)
-
-Website grabber:  
-[HTTrack Website Copier⊞⌘🐧∏](https://www.httrack.com/)
-
-CalDAV/CardDAV (email's calendar/contacts):  
-[DAVx⁵∏](https://f-droid.org/packages/at.bitfire.davdroid/)
 
 ## Portable Computing
 

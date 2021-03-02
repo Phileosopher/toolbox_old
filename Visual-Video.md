@@ -8,6 +8,9 @@ Recording/streaming video:
 Church events:  
 [OpenLP⊞⌘🐧](https://openlp.org/)
 
+File conversion/recordi:  
+[FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
+
 ## Auto-Rendering - Video
 
 Ken Burns effect:  

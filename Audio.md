@@ -1,5 +1,8 @@
 # Audio
 
+File conversion/recording:  
+[FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
+
 ## Practicing
 
 Sheet music notation:  
@@ -73,4 +76,5 @@ Metadata - audiobooks:
 ## Code Libraries/Frameworks/Engines
 
 TTS:  
-[eSpeak NG□](https://github.com/espeak-ng/espeak-ng/)
+[eSpeak NG□](https://github.com/espeak-ng/espeak-ng/),
+[Festival](http://www.cstr.ed.ac.uk/projects/festival/)

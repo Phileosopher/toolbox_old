@@ -6,6 +6,9 @@ Google's advanced search operators:
 [ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/),
 [Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
 
+DuckDuckGo's !bang operators:  
+[DuckDuckGo !bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)
+
 Search by image:  
 [Google's Reverse Image Search(camera icon)☁](https://images.google.com/)
 

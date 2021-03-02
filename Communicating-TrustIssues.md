@@ -32,6 +32,9 @@ Sending corrupted files:
 PDFs that look scanned:  
 [Scan Your PDF☁](https://www.scanyourpdf.com/)
 
+PDFs that look signed:  
+[falsisign](https://gitlab.com/edouardklein/falsisign)
+
 ## Receiving
 
 Email headers:  

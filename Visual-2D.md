@@ -22,12 +22,18 @@ Paper sizes:
 
 [Sharpen☁](https://sharpen.design/)
 
+CSS improvements:  
+[CSS-Tricks*](https://css-tricks.com/)
+
 ## Rendering
 
 Animations:  
 [Blush(Figma/Sketch)☁⇉](https://blush.design/),
 [OpenToonz⊞⌘](https://opentoonz.github.io/e/),
 [Pencil2D Animation⊞■⌘🐧](https://www.pencil2d.org/)
+
+Barcodes:  
+[Zint Barcode Generator⊞■](https://sourceforge.net/projects/zint/)
 
 CAD:  
 [LibreCAD⊞■⌘🐧](https://librecad.org/)
@@ -147,6 +153,28 @@ Convert video:
 Convert video to GIF:  
 [EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif)
 
+## Code Libraries
+
+Win98 UI:  
+[98.css](https://jdan.github.io/98.css/)
+
+Animations/SVGs:  
+[anime.js](https://animejs.com/),
+[tween.js](https://github.com/sole/tween.js)
+
+## Code Frameworks/Engines
+
+2D Physics:  
+[PhysicsEditor](https://www.codeandweb.com/physicseditor)
+
+## Optimization
+
+Sprite downscaling:  
+[TexturePacker](https://www.codeandweb.com/texturepacker)
+
 ## Validation
 
 [Checklist Design*](https://www.checklist.design/)
+
+Image comparison:  
+[DiffImg⊞■](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Viewers/DiffImg.shtml)

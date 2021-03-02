@@ -30,6 +30,11 @@ Voxel art/path tracing renderer:
 Wireframe kits:  
 [Contra Wireframe Kit⇉](https://contrauikit.com/)
 
+## Optimization
+
+Sprite downscaling:  
+[TexturePacker3D](https://www.codeandweb.com/texturepacker3d)
+
 ## Validation
 
 3D asset validation (.glb files):  

@@ -17,3 +17,10 @@ EPUB editor:
 
 PDF/TIFF Splitter/Joiner:  
 [FaxTool⊞■](https://sector-seven.com/software/faxtool)
+
+File conversion:  
+[DOC to MD Converter☁](https://word2md.com/),
+[Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/)
+
+Document conversion:  
+[Pandoc⊞⌘🐧□](https://pandoc.org/)

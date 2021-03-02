@@ -2,7 +2,7 @@
 
 [Firefox Developer Edition⊞■⌘🐧∏∐](https://www.mozilla.org/en-US/firefox/developer/)
 
-## Visual Elements/Styles
+## Visual Styles
 
 Annotation styling:  
 [RoughNotation](https://roughnotation.com/)
@@ -16,11 +16,19 @@ Favicons:
 [SVG Favicon Maker☁](https://formito.com/tools/favicon),
 [Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
 
+## Code Frameworks
+
+CSS:  
+[Tailwind CSS](https://tailwindcss.com/)
+
 ## Visual Features
+
+Autocomplete/Dropdown/Combobox:  
+[downshift](https://github.com/downshift-js/downshift)
 
 Search feature:  
 [DuckDuckGo Search Box☁](https://duckduckgo.com/search_box),
-[OpenSearch](http://www.opensearch.org/Home)
+[OpenSearch](https://github.com/dewitt/opensearch)
 
 Visual site map designer:  
 [Octopus.do☁](https://octopus.do/)

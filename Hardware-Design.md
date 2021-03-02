@@ -1,9 +1,15 @@
 # Hardware: Design
 
+Design principles:  
+[Design Principles*](https://principles.design/)
+
 ## Inspiration
 
 General design:  
 [Sharpen for STEM☁](https://sharpen.design/stem)
+
+Spatial dimensions:  
+[Dimensions.com☁](https://www.dimensions.com/)
 
 ## Simulations
 
@@ -26,7 +32,7 @@ Electronics design:
 [Fritzing⊞⌘🐧](https://fritzing.org/)
 [KiCad⊞⌘🐧](https://www.kicad.org/)
 
-## Physical Objects
+## Design Software
 
 CAD:  
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)

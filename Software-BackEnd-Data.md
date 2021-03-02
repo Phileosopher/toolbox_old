@@ -22,6 +22,10 @@ Spreadsheets:
 Approximate Spreadsheets:  
 [Guesstimate☁](https://www.getguesstimate.com/)
 
-## Visualizations
+## Data Visualizations
 
+[Graphviz⊞⌘🐧](https://www.graphviz.org/),
 [Paraview⊞⌘🐧](https://www.paraview.org/)
+
+SVG patterns:  
+[Textures.js](https://riccardoscalco.it/textures/)

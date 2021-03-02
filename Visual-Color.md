@@ -52,6 +52,14 @@ Design inspiration:
 Color names:  
 [Meodai's Color Names](https://github.com/meodai/color-names)
 
+Photo color filters:  
+[filters.css(CSS)](https://bansal.io/filters-css)
+
+## Lighting
+
+Dynamic lighting/visuals for sprites:  
+[SpriteIlluminator](https://www.codeandweb.com/spriteilluminator)
+
 ## Testing
 
 Colorblindness testing:  

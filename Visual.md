@@ -6,4 +6,4 @@ UX rules:
 ## Rendering
 
 Graphics:  
-[Blender⊞■⌘🐧](https://www.blender.org/),
+[Blender⊞■⌘🐧](https://www.blender.org/)

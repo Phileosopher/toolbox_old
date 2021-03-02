@@ -36,6 +36,9 @@ Hardware upgrade:
 
 ## Diagnostic Tools
 
+UUID/GUID generator:  
+[PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
+
 USB drive(s) loaded with a decent version of Linux and/or a plethora of portable apps
 
 Wired USB keyboard (less trouble to setup)
