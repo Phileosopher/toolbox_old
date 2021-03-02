@@ -21,6 +21,14 @@ Measurement conversion:
 Country size conversion:  
 [The True Size Of...☁](https://thetruesize.com/)
 
+## Exercise
+
+Running comparison calculator:  
+[Running Level☁](https://runninglevel.com/)
+
+Weightlifting comparison calculator:  
+[Strength Level☁](https://strengthlevel.com/)
+
 ## Generators
 
 Random number generator:  
@@ -28,8 +36,8 @@ Random number generator:
 
 ## Other
 
-Renting vs. Buying calculator:  
-[NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
-
 Book reading estimation:  
 [How Long to Read☁](https://www.howlongtoread.com/)
+
+Renting vs. Buying calculator:  
+[NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)

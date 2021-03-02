@@ -1,5 +1,11 @@
 # Communicating: Trust Issues
 
+## General Issues
+
+Deepfake detection:  
+[Amber∐](https://ambervideo.co/),
+[Sensity☁](https://platform.sensity.ai/deepfake-detection)
+
 ## Messaging
 
 Short-term notes:  

@@ -3,7 +3,6 @@
 ## Rendering
 
 Graphics:  
-[Blender⊞■⌘🐧](https://www.blender.org/),
 [K-3D⊞■⌘](http://www.k-3d.org/)
 
 CAD:  

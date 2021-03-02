@@ -36,6 +36,7 @@
 
 [Barnes Collection Online](https://collection.barnesfoundation.org/),
 [Public Domain Pictures](https://www.publicdomainpictures.net/),
+[Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio),
 [Van Gogh Museum Collection](https://www.vangoghmuseum.nl/en/collection)
 
 ## Stock photos - Web Images
@@ -111,5 +112,5 @@ Landing pages:
 [Manuela Langella's Retroooo Folks!](https://www.manuelalangella.com/retroooo-folks/), [ManyPixels' Illustration Gallery](https://www.manypixels.co/gallery/),
 [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/),
 [Paaatterns!](https://products.ls.graphics/paaatterns/), [pixeltrue's Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations),
-[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [sketchvalley](https://sketchvalley.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://lab.streamlineicons.com/),
+[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [sketchvalley](https://sketchvalley.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://lab.streamlineicons.com/), [SVG Repo](https://www.svgrepo.com),
 [unDraw](https://undraw.co/illustrations), [useAnimations](https://useanimations.com/)

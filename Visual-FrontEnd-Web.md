@@ -1,4 +1,11 @@
-# Visual Design: FWeb-Specific
+# Visual Design: Web-Specific
+
+[Firefox Developer Edition⊞■⌘🐧∏∐](https://www.mozilla.org/en-US/firefox/developer/)
+
+## Visual Elements/Styles
+
+Annotation styling:  
+[RoughNotation](https://roughnotation.com/)
 
 Dark mode:  
 [Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
@@ -9,11 +16,14 @@ Favicons:
 [SVG Favicon Maker☁](https://formito.com/tools/favicon),
 [Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
 
-Visual site map designer:  
-[Octopus.do☁](https://octopus.do/)
+## Visual Features
 
 Search feature:  
-[DuckDuckGo Search Box☁](https://duckduckgo.com/search_box)
+[DuckDuckGo Search Box☁](https://duckduckgo.com/search_box),
+[OpenSearch](http://www.opensearch.org/Home)
+
+Visual site map designer:  
+[Octopus.do☁](https://octopus.do/)
 
 ## Testing - Functionality
 

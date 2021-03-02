@@ -107,6 +107,9 @@ Linux simulator:
 VM manager:  
 [Virtual Machine Manager🐧□](https://virt-manager.org/)
 
+Split peripheral use on same device:  
+[Universal Split Screen⊞](https://universalsplitscreen.github.io/)
+
 ## Backup/Recovery
 
 File synchronization:  

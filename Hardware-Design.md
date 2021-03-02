@@ -38,5 +38,8 @@ Home design:
 Industrial/tech parts:  
 [Octopart☁](https://octopart.com/)
 
+CPUs:  
+[SkyWater PDK](https://skywater-pdk.readthedocs.io/en/latest/)
+
 Smartphone robots:  
 [OpenBot∏∐](https://www.openbot.org/)

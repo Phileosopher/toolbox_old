@@ -1,5 +1,10 @@
 # Productivity
 
+## All-In-One
+
+[Notion⊞⌘☁⇉∏∐](https://www.notion.so/),
+[Slack☁](https://slack.com/)
+
 ## Note-Taking
 
 Quick notes/sporadic:  

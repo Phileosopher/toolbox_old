@@ -36,21 +36,6 @@ Faxes:
 Drawn images:  
 [Witeboard☁](https://witeboard.com)
 
-## Social Media Posts
-
-Auto-posts:  
-[Buffer☁](https://buffer.com/),
-[Hootsuite☁](https://hootsuite.com/)
-
-Image posts:  
-[Pablo by Buffer☁](https://pablo.buffer.com/),
-[Remix by Buffer∏∐](https://buffer.com/remix)
-
-## Social Media - Websites/Profiles
-
-[about.me☁](https://about.me),
-[The Creative Passport☁](https://www.creativepassport.net/)
-
 ## IRL
 
 [Meetup☁∏∐](https://www.meetup.com/)

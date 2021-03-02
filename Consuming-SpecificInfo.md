@@ -58,11 +58,3 @@ Similar websites:
 Alternative software:  
 [AlternativeTo☁](https://alternativeto.net/),
 [Capterra☁](https://www.capterra.com/)
-
-## Other Specific
-
-Charities/NPOs:  
-[Charity Navigator☁](https://www.charitynavigator.org/)
-
-Investing:  
-[investorjunkie☁](https://investorjunkie.com/)

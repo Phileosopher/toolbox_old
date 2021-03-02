@@ -47,6 +47,11 @@ Gradients:
 Design inspiration:  
 [UI Design Daily*](https://uidesigndaily.com/)
 
+## Code Libraries
+
+Color names:  
+[Meodai's Color Names](https://github.com/meodai/color-names)
+
 ## Testing
 
 Colorblindness testing:  

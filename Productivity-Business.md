@@ -17,40 +17,43 @@ POS:
 [Cyclos⊞🐧](https://www.cyclos.org/),
 [Apache Fineract⊞🐧](https://github.com/apache/fineract)
 
-## ERP/CRM
+## Fundraising
 
-ERP/CRM - resource/people balance:  
+Crowdfunding:  
+[GoFundMe☁](https://www.gofundme.com/),
+[Indiegogo☁](https://www.indiegogo.com/)
+
+Crowdfunding - entrepreneurship:  
+[Indiegogo for Entrepreneurs☁](https://entrepreneur.indiegogo.com/),
+[SeedInvest☁](https://www.seedinvest.com/),
+[StartEngine☁](https://www.startengine.com/)
+
+Crowdfunding - Christian/NPO:  
+[GiveSendGo☁](https://www.givesendgo.com/),
+[Mightycause☁](https://www.mightycause.com/)
+
+Crowdfunding - creatives:  
+[Patreon☁](https://www.patreon.com/)
+
+## Accounting/ERP/CRM
+
+ERP/CRM:  
 [Dolibarr⊞🐧](https://www.dolibarr.org/),
 [iDempiere⊞🐧](https://www.idempiere.org/),
 [inoERP⊞🐧](http://www.inoideas.org/),
 [metasfresh🐧](https://metasfresh.com/en)
 
-Accounting/ERP software - resource-based:  
+Accounting/ERP software:  
 [GnuCash⊞■⌘🐧](https://www.gnucash.org/),
 [KMyMoney⊞⌘🐧](https://kmymoney.org/),
 [LedgerSMB🐧](https://ledgersmb.org/),
 [SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
 
-## Marketing
+## Marketing Back-End
 
 CRM:  
-[CiviCRM⊞🐧](https://civicrm.org/)
-
-Social media listening:  
-[Notify☁](https://notify.ly/),
-[Mention☁](https://mention.com/)
-
-Popular retail trends:  
-[Google's Rising Retail Categories☁](https://www.thinkwithgoogle.com/feature/category-trends/),
-[Google Shopping Insights☁](https://shopping.thinkwithgoogle.com/)
-
-The first tweet of something:  
-[First Tweet☁](http://ctrlq.org/first/)
-
-Influencer search:  
-[Anewstip☁](https://anewstip.com/),
-[NinjaOutreach☁](https://ninjaoutreach.com/),
-[Google Trends☁](https://trends.google.com/),
+[CiviCRM⊞🐧](https://civicrm.org/),
+[Monica☁](https://github.com/monicahq/monica)
 
 Market surveys:  
 [Google Forms☁](https://www.google.com/forms/about/),
@@ -58,9 +61,19 @@ Market surveys:
 [SurveyMonkey☁](https://www.surveymonkey.com/),
 [Survey Planet☁](https://surveyplanet.com/)
 
-## LMS (learning management system)
+Niche branding:  
+[ExpertFile](https://expertfile.com/)
 
-[ATutor⊞🐧](https://atutor.github.io/atutor/index.html),
-[FlightPath⊞🐧](https://getflightpath.com/),
-[Moodle🐧](https://moodle.org/),
-[Omeka🐧](https://omeka.org/)
+## Financial Planning/Investing
+
+Positions:  
+[Personal Capital☁](https://www.personalcapital.com/)
+
+Charities/NPOs:  
+[Charity Navigator☁](https://www.charitynavigator.org/)
+
+Debt management:  
+[Debt-Dash☁](https://www.debt-dash.io/)
+
+Investing:  
+[investorjunkie☁](https://investorjunkie.com/)

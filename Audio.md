@@ -6,6 +6,9 @@ Sheet music notation:
 [Noteflight☁](https://www.noteflight.com/),
 [MuseScore⊞⌘🐧](https://musescore.org/)
 
+Sheet music search:  
+[IMSLP☁](https://imslp.org/wiki/Main_Page)
+
 Singing training:  
 [Solfege⊞■](https://portableapps.com/apps/education/solfege-portable)
 
@@ -14,7 +17,7 @@ Singing training:
 Tone generation:  
 [Online Tone Generator☁](https://www.szynalski.com/tone-generator/)
 
-## Live-Action Performance
+## Performing
 
 Recording/mixing audio:  
 [Audacity⊞■⌘🐧](https://www.audacityteam.org/),
@@ -27,6 +30,9 @@ Drum accompaniment:
 DJing:  
 [Serato DJ Lite⊞■](https://serato.com/dj/lite),
 [Mixxx⊞■⌘🐧](https://www.mixxx.org/)
+
+Synthesizer:  
+[Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html#down)
 
 ## Audio Editing
 
@@ -63,3 +69,8 @@ Metadata:
 
 Metadata - audiobooks:  
 [Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)
+
+## Code Libraries/Frameworks/Engines
+
+TTS:  
+[eSpeak NG□](https://github.com/espeak-ng/espeak-ng/)
