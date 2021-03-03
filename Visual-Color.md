@@ -53,7 +53,7 @@ Color names:
 [Meodai's Color Names](https://github.com/meodai/color-names)
 
 Photo color filters:  
-[filters.css(CSS)](https://bansal.io/filters-css)
+[filters.css](https://bansal.io/filters-css)
 
 ## Lighting
 

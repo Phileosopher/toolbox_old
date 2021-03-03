@@ -8,7 +8,7 @@ Recording/streaming video:
 Church events:  
 [OpenLP⊞⌘🐧](https://openlp.org/)
 
-File conversion/recordi:  
+File conversion/recording:  
 [FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
 
 ## Auto-Rendering - Video

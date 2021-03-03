@@ -22,7 +22,7 @@ Podcast search engine:
 RSS:  
 [QuiteRSS⊞■⌘🐧](https://quiterss.org/)
 
-Rss-to-email:  
+RSS-to-email:  
 [Blogtrottr☁](https://blogtrottr.com)
 
 News aggregation:  

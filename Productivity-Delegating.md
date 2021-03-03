@@ -22,8 +22,8 @@ Middle East:
 
 ## Expert Opinions
 
-[Cision's ProfNet☁](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx)
-[Coursera's Expert Network☁](https://experts.coursera.org/),
+[Cision's ProfNet☁](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
+[Coursera's Expert Network☁](https://experts.coursera.org/)
 
 ## Software Development
 

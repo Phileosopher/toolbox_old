@@ -1,5 +1,12 @@
 # Visual Design: 2D
 
+## Inspiration
+
+[Sharpen☁](https://sharpen.design/)
+
+CSS improvements:  
+[CSS-Tricks*](https://css-tricks.com/)
+
 ## Photo Capture
 
 Screenshots:  
@@ -17,13 +24,6 @@ Fix image blur:
 
 Paper sizes:  
 [PaperSizes*](https://papersizes.io/)
-
-## Inspiration
-
-[Sharpen☁](https://sharpen.design/)
-
-CSS improvements:  
-[CSS-Tricks*](https://css-tricks.com/)
 
 ## Rendering
 

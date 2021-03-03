@@ -1,14 +1,18 @@
 # Software: Back-End Development - Web-Specific
 
+## Visual Elements
+
+[Bootstrap](https://getbootstrap.com/) CSS themes/templates:  
+[Bootswatch■](https://bootswatch.com/),
+[Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free),
+[Bootstrap 4 Cheat Sheet*](https://hackerthemes.com/bootstrap-cheatsheet/)
+
 ## CMS (content management system)
 
-Bootstrap CSS themes/templates:  
-[Bootswatch■](https://bootswatch.com/),
-[Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free)
-
-WordPress templates/themes/plugins:  
+[WordPress](https://wordpress.org/) templates/themes/plugins:  
 [Colorlib■⇉](https://colorlib.com/wp/templates/),
-[WordPress Plugins Library■⇉](https://wordpress.org/plugins/)
+[WordPress Plugins Library■⇉](https://wordpress.org/plugins/),
+[UnderStrap (Bootstrap+WordPress)](https://understrap.com/)
 
 ## Domains
 
