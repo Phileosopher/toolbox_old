@@ -5,6 +5,13 @@
 Download manager:  
 [Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/)
 
+Download manager - YouTube:  
+[youtube-dl⊞🐧](https://youtube-dl.org/),
+[dl-plus(drop-in extension of youtube-dl)](https://github.com/un-def/dl-plus)
+
+Download manager - image galleries:  
+[gallery-dl](https://github.com/mikf/gallery-dl)
+
 HTTP media downloads:  
 [KeepVid☁](https://keepvid.com/)
 
@@ -69,6 +76,9 @@ Music:
 
 Ebooks:  
 [calibre⊞■⌘🐧∏∐](https://calibre-ebook.com/)
+
+Decentralized music server:  
+[Funkwhale](https://funkwhale.audio/)
 
 ## Specific Content
 

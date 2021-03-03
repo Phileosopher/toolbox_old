@@ -1,11 +1,4 @@
-# Software: Back-End Development - Web-Specific
-
-## Visual Elements
-
-[Bootstrap](https://getbootstrap.com/) CSS themes/templates:  
-[Bootswatch■](https://bootswatch.com/),
-[Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free),
-[Bootstrap 4 Cheat Sheet*](https://hackerthemes.com/bootstrap-cheatsheet/)
+# Software: Development - Web-Specific
 
 ## CMS (content management system)
 
@@ -23,6 +16,12 @@ Domain registration:
 
 Free domains:  
 [Freenom☁](https://www.freenom.com)
+
+## Publishing
+
+Newsletter:  
+[Buttondown☁](https://buttondown.email/)
+[MailPoet⇉](https://www.mailpoet.com/)
 
 ## Testing - Speed
 

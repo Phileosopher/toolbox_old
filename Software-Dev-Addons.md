@@ -1,4 +1,4 @@
-# Software: Back-End Development - Addons
+# Software: Development - Addons
 
 Computational heavy lifting:  
 [Wolfram Engine](https://www.wolfram.com/engine/)

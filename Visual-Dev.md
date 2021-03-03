@@ -1,4 +1,4 @@
-# Front-End Development
+# Visual Design: Development
 
 IDEs:  
 [CodePen☁](https://codepen.io/),
@@ -6,25 +6,6 @@ IDEs:
 
 Pixel dimensions:  
 [DPI love☁](https://dpi.lv/)
-
-## Libraries
-
-Document support (ODF):  
-[WebODF](https://webodf.org/)
-
-## Code Frameworks/Engines
-
-[Electron](https://www.electronjs.org/),
-[NW.js](https://nwjs.io/)
-
-Flexbox:  
-[Bulma](https://bulma.io/)
-
-PHP:  
-[Laravel](https://laravel.com/)
-
-Game engines - HTML5:  
-[PlayCanvas](https://playcanvas.com/)
 
 ## Syntactic Sugar
 

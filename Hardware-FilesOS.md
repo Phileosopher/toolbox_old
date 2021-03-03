@@ -2,6 +2,9 @@
 
 ## File Search
 
+Text in files:  
+[rga(ripgrep-all)□](https://github.com/phiresky/ripgrep-all)
+
 Files/Programs:  
 [Listary⊞■](https://www.listary.com/),
 [voidtools' Everything⊞■](https://www.voidtools.com/)

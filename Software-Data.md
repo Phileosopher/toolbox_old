@@ -1,9 +1,10 @@
-# Software: Back-End Development - Data Management
+# Software: Data Management
 
 ## Gathering
 
 Datasets:  
-[Google Dataset Search☁](https://toolbox.google.com/datasetsearch)
+[Dedolist](https://dedolist.com/),
+[Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 Protein sequencing (e.g., DNA):  
 [UNCALLED(Python)](https://github.com/skovaka/UNCALLED)
@@ -22,10 +23,7 @@ Spreadsheets:
 Approximate Spreadsheets:  
 [Guesstimate☁](https://www.getguesstimate.com/)
 
-## Data Visualizations
+## Rendering
 
-[Graphviz⊞⌘🐧](https://www.graphviz.org/),
-[Paraview⊞⌘🐧](https://www.paraview.org/)
-
-SVG patterns:  
-[Textures.js](https://riccardoscalco.it/textures/)
+Barcodes:  
+[Zint Barcode Generator⊞■](https://sourceforge.net/projects/zint/)

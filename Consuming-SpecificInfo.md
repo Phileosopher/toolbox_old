@@ -14,6 +14,9 @@ Search by image:
 
 ## Location-Based
 
+Weather:  
+[Weather Underground☁](https://www.wunderground.com/)
+
 Device location tag:  
 [Where Am I☁](https://ctrlq.org/maps/where/)
 
@@ -61,3 +64,8 @@ Similar websites:
 Alternative software:  
 [AlternativeTo☁](https://alternativeto.net/),
 [Capterra☁](https://www.capterra.com/)
+
+## Other
+
+Textbook answers:  
+[Slader☁](https://www.slader.com/)

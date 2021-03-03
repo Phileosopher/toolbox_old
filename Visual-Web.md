@@ -10,16 +10,20 @@ Annotation styling:
 Dark mode:  
 [Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
 
-Favicons:  
-[favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
-[Real Favicon Generator☁](https://realfavicongenerator.net/),
-[SVG Favicon Maker☁](https://formito.com/tools/favicon),
-[Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
-
 ## Code Frameworks
 
 CSS:  
 [Tailwind CSS](https://tailwindcss.com/)
+
+## CSS Themes
+
+[Bootstrap](https://getbootstrap.com/) CSS themes/templates:  
+[Bootswatch■](https://bootswatch.com/),
+[Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free),
+[Bootstrap 4 Cheat Sheet*](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+Automatic theme generation:  
+[Bootstrap Magic☁](https://pikock.github.io/bootstrap-magic/)
 
 ## Visual Features
 

@@ -6,6 +6,12 @@ Deepfake detection:
 [Amber∐](https://ambervideo.co/),
 [Sensity☁](https://platform.sensity.ai/deepfake-detection)
 
+Machine-learning-generated photos:  
+[This Person Does Not Exist☁](https://thispersondoesnotexist.com/)
+
+Machine-learning-generated resume:  
+[This resume does not exist☁](https://thisresumedoesnotexist.com)
+
 ## Messaging
 
 Short-term notes:  

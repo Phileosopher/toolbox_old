@@ -56,10 +56,11 @@ CRM:
 [Monica☁](https://github.com/monicahq/monica)
 
 Market surveys:  
-[Google Forms☁](https://www.google.com/forms/about/),
+[OpinionX](https://www.opinionx.co/),
 [Survey Maker☁](https://www.survey-maker.com/),
 [SurveyMonkey☁](https://www.surveymonkey.com/),
-[Survey Planet☁](https://surveyplanet.com/)
+[Survey Planet☁](https://surveyplanet.com/),
+[Zoho Survey](https://www.zoho.com/survey/)
 
 Niche branding:  
 [ExpertFile](https://expertfile.com/)

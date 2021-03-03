@@ -86,6 +86,9 @@ Landing pages:
 [Unicons by iconscout](https://iconscout.com/unicons), [UXWing](https://uxwing.com/),
 [vivid.js](https://webkul.github.io/vivid/)
 
+Low-memory icons:  
+[SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
+
 ## Mockup templates
 
 [Facebook Design's Devices](https://facebook.design/devices),

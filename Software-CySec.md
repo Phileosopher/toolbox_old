@@ -50,29 +50,43 @@ Distributed file encryption (requires several copies to decrypt):
 Remove old Java versions:  
 [Java Uninstall Tool⊞](https://java.com/en/download/uninstalltool.jsp)
 
-## Backup/Recovery
+## Backup
 
 File synchronization:  
 [FreeFileSync⊞⌘🐧](https://freefilesync.org/)
 
-HD:
-[Recuva⊞■](https://www.ccleaner.com/recuva),
-[TestDisk⊞⌘🐧](https://www.cgsecurity.org/wiki/TestDisk)
-
 CD/DVD:
 [Clonezilla⊞⌘🐧∏∐](https://clonezilla.org/)
 
-MBR Management:  
-[HDHacker⊞■](http://dimio.altervista.org/eng/#HDHacker)
-
-Photo Recovery:  
-[PhotoRec⊞⌘🐧](https://www.cgsecurity.org/wiki/PhotoRec)
-
-Undelete - JPGs:  
-[saintmarina's undelete(Github)🐧□](https://github.com/saintmarina/undelete_jpg)
-
-Website grabber:  
+Websites:  
 [HTTrack Website Copier⊞⌘🐧∏](https://www.httrack.com/)
 
 CalDAV/CardDAV (email's calendar/contacts):  
 [DAVx⁵∏](https://f-droid.org/packages/at.bitfire.davdroid/)
+
+## Recovery/Forensics
+
+General analysis/recovery:  
+[The Sleuth Kit⊞⌘🐧](https://github.com/sleuthkit/sleuthkit)
+
+Hard drive - undelete files:
+[Foremost🐧](http://foremost.sourceforge.net/),
+[Recuva⊞■](https://www.ccleaner.com/recuva)
+
+Photo recovery:  
+[PhotoRec⊞⌘🐧](https://www.cgsecurity.org/wiki/PhotoRec)
+
+Photo recovery - JPGs:  
+[saintmarina's undelete🐧□](https://github.com/saintmarina/undelete_jpg)
+
+Hard drive - rebuild after faulty software:  
+[TestDisk⊞⌘🐧](https://www.cgsecurity.org/wiki/TestDisk)
+
+Hard drive - MBR:  
+[HDHacker⊞■](http://dimio.altervista.org/eng/#HDHacker)
+
+DVDs:  
+[dvdisaster🐧](https://github.com/speed47/dvdisaster)
+
+Reconstruction of events - UNIX-like system:  
+[The Coroner's Toolkit](http://www.porcupine.org/forensics/tct.html)

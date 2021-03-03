@@ -1,4 +1,4 @@
-# Software Development - Back-End
+# Software: Development
 
 Possible projects:  
 [Mega Projects List*](https://github.com/karan/Projects/)
