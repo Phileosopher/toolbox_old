@@ -63,7 +63,8 @@ Ads opt-out:
 [Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/)
 
 Search engine:  
-[Qwant☁](https://www.qwant.com/)
+[Qwant☁](https://www.qwant.com/),
+[searx☁](https://searx.space/)
 
 Google-specific:  
 [No More Google☁](https://nomoregoogle.com/)
@@ -71,7 +72,7 @@ Google-specific:
 ## Against Governments
 
 Image scrubbing:  
-[Image Scrubber (Github)☁](https://everestpipkin.github.io/image-scrubber/)
+[Image Scrubber☁](https://everestpipkin.github.io/image-scrubber/)
 
 Photo IDs:  
 [IDPhotoStudio⊞■](https://kcsoftwares.com/?idps)
