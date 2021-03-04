@@ -32,6 +32,19 @@ For brevity's sake, I'm mostly glossing over a few groups:
 * Paid tools, at least when I have to pause to consider my budget.
 * Most courses and courseware, since the means of accomplishing many things in a computer are *constantly* changing technology fashions.
 
+I've broken everything into malleable groupings, since there are *many* things that someone could use a computer for, and people are constantly adding new things. These groupings have a philosophical basis in their designed *final* purpose:
+
+* Consuming: to digest, ingest, percolate, understand, skim, learn, without any creative goals in mind
+* Foraging: to acquire others' creative works
+* Calculators: to create a simple, usually numerical solution
+* Communicating: to communicate with other people, directly or indirectly
+* Hardware: to make or manage physical things, which include computer information on the OS level
+* Software: to broadly make or manage conceptual things
+* Visual: to visually design or adapt things which contain some intended aesthetic
+* Audio: to create or manipulate sound for some intended aesthetic
+* Text: to create or manipulate language for some intended aesthetic
+* Productivity: to broadly streamline doing any of the above
+
 ## What it needs, out-of-the-box
 
 * _*_ if it's something to copy-paste or a reference sheet.

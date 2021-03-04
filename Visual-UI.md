@@ -51,6 +51,9 @@ CSS:
 PHP:  
 [Laravel](https://laravel.com/)
 
+GPU API:  
+[Vulkan](https://www.khronos.org/vulkan/)
+
 Game engine - HTML5:  
 [PlayCanvas](https://playcanvas.com/)
 

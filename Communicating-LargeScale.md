@@ -25,6 +25,9 @@ Cross-platform influencer following:
 
 ## Social Media Posts
 
+Website share links:  
+[Free Share Link Generator☁](https://www.websiteplanet.com/webtools/sharelink/)
+
 Auto-posts:  
 [Buffer☁](https://buffer.com/),
 [Hootsuite☁](https://hootsuite.com/)

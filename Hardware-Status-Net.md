@@ -58,7 +58,8 @@ Speed test:
 
 Site status:  
 [Down For Everyone Or Just Me☁](https://downforeveryoneorjustme.com/),
-[downdetector.com☁](https://downdetector.com/)
+[downdetector.com☁](https://downdetector.com/),
+[Website Down or Not?☁](https://www.websiteplanet.com/webtools/down-or-not/)
 
 Site probe:  
 [builtWith☁⇉](https://builtwith.com/),

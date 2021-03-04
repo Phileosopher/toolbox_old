@@ -1,4 +1,4 @@
-# Consuming: Specific Information
+# Foraging: Specific Information
 
 ## General
 

@@ -44,6 +44,9 @@ Memorization/flashcards:
 Language:  
 [Duolingo☁∏∐](https://www.duolingo.com/)
 
+Distraction-free coding videos:  
+[CodeOnVideo☁](https://codeonvideo.com/)
+
 ## Media Players
 
 A/V player:  

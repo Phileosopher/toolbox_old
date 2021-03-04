@@ -18,7 +18,9 @@ Short-term notes:
 [privnote☁](https://privnote.com/)
 
 Secure text messaging:  
-[Signal⊞⌘🐧∏∐](https://signal.org/)
+[matrix⊞⌘🐧∏∐](https://matrix.org/)
+[Signal⊞⌘🐧∏∐](https://signal.org/),
+[Telegram⊞⌘🐧∏∐](https://telegram.org/)
 
 Secure email:  
 [ProtonMail☁](https://protonmail.com/),

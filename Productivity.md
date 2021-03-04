@@ -106,6 +106,9 @@ Tech support callback:
 [GetHuman☁](https://gethuman.com/),
 [FastCustomer☁](http://www.fastcustomer.com/)
 
+Open multiple URLs:  
+[Multiple URL Opener☁](https://www.websiteplanet.com/webtools/multiple-url/)
+
 ## Focus
 
 Timer:  

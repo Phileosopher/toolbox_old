@@ -3,18 +3,25 @@
 ## Freelancers
 
 [Fiverr☁](https://www.fiverr.com/),
-[Guru☁](https://www.guru.com/)
+[Guru☁](https://www.guru.com/),
+[Side Hustle Stack☁](https://sidehustlestack.co),
 [Thumbtack☁](https://www.thumbtack.com/),
 [Upwork☁](https://www.upwork.com/)
 
+Entire teams at once:  
+[Huddle☁](https://www.huddle.works/)
+
 Internationally:  
-[ontop](https://www.ontop.ai/)
+[ontop☁](https://www.ontop.ai/)
 
 Africa:  
 [Andela☁](https://andela.com/)
 
 Middle East:  
 [Manara☁](https://www.manara.tech/)
+
+Payment in cryptocurrency:  
+[laborX☁](https://laborx.com/)
 
 ## Creatives
 
@@ -30,6 +37,9 @@ Middle East:
 [Pesto☁](https://pesto.tech/),
 [Turing☁](https://turing.com/),
 [YouTeam☁](https://youteam.io/)
+
+Shopify-specific:  
+[Storetasker](https://www.storetasker.com/)
 
 ## Writing
 

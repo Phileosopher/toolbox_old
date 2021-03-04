@@ -1,5 +1,10 @@
 # Creating: Planning/Optimization - Business
 
+## Small-Scale All-In-One
+
+[Bonsai](https://www.hellobonsai.com/),
+[FloTask](https://flotask.webflow.io/)
+
 ## Business Calculators
 
 Startup profitability calculator:  
@@ -13,9 +18,20 @@ Marketing ROI calculator:
 
 ## Microfinance/POS
 
+POS all-in-one:  
+[Square☁∏∐](https://squareup.com/)
+
 POS:  
 [Cyclos⊞🐧](https://www.cyclos.org/),
 [Apache Fineract⊞🐧](https://github.com/apache/fineract)
+
+Expense/time tracking and invoice:  
+[AND.CO](https://www.and.co/),
+[Invoice Ninja](https://www.invoiceninja.com/)
+[Zoho Invoice](https://www.zoho.com/invoice/)
+
+Invoices - Bitcoin-based:  
+[Zaprite☁](https://zaprite.com/)
 
 ## Fundraising
 
@@ -36,6 +52,9 @@ Crowdfunding - creatives:
 [Patreon☁](https://www.patreon.com/)
 
 ## Accounting/ERP/CRM
+
+Accounting all-in-one:  
+[Wave Financial☁](https://www.waveapps.com)
 
 ERP/CRM:  
 [Dolibarr⊞🐧](https://www.dolibarr.org/),
