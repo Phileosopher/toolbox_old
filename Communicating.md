@@ -27,6 +27,9 @@ Link shortener:
 [bitly☁](https://bitly.com/),
 [TinyURL☁](https://tinyurl.com)
 
+Quick files (WebRTC):  
+[WEBWORMHOLE☁](https://webwormhole.io/)
+
 Large files:  
 [WeTransfer☁](https://wetransfer.com/)
 
@@ -39,3 +42,5 @@ Drawn images:
 ## IRL
 
 [Meetup☁∏∐](https://www.meetup.com/)
+
+[Naming Babies☁](https://deckofnames.com/)

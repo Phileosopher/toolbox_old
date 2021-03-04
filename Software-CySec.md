@@ -50,7 +50,7 @@ Distributed file encryption (requires several copies to decrypt):
 Remove old Java versions:  
 [Java Uninstall Tool⊞](https://java.com/en/download/uninstalltool.jsp)
 
-## Backup
+## Backup/Sync
 
 File synchronization:  
 [FreeFileSync⊞⌘🐧](https://freefilesync.org/)
@@ -62,7 +62,8 @@ Websites:
 [HTTrack Website Copier⊞⌘🐧∏](https://www.httrack.com/)
 
 CalDAV/CardDAV (email's calendar/contacts):  
-[DAVx⁵∏](https://f-droid.org/packages/at.bitfire.davdroid/)
+[DAVx⁵∏](https://f-droid.org/packages/at.bitfire.davdroid/),
+[TbSync⇉](https://addons.thunderbird.net/en-us/thunderbird/addon/tbsync/)
 
 ## Recovery/Forensics
 
