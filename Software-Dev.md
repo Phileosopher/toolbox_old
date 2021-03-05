@@ -43,7 +43,20 @@ Public-access APIs:
 .NET to C#:  
 [JetBrains' dotPeek⊞](https://www.jetbrains.com/decompiler/)
 
-## Debugging
+## Automatic Debugging
+
+Dynamic checking - C:  
+[Checked C](https://github.com/Microsoft/checkedc)
+
+## Testing
+
+UUID/GUID generator:  
+[PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
+
+Unix-like terminal:  
+[fastmac (via Github Actions)](https://github.com/fastai/fastmac/)
+
+## Manual Debugging
 
 Dev advice:  
 [Stack Overflow☁](https://stackoverflow.com/)

@@ -53,13 +53,13 @@ Specific file information:
 [FileAlyzer⊞■](https://www.safer-networking.org/products/filealyzer/)
 
 Metadata analysis:  
-[MediaInfo⊞■⌘🐧∏∐](https://mediaarea.net/en/MediaInfo),
+[MediaInfo⊞■⌘🐧🍎🤖](https://mediaarea.net/en/MediaInfo),
 [Get-Metadata.com☁](https://www.get-metadata.com/)
 
 ## File Analysis - Multiple
 
 Comparisons:  
-[Meld⊞■🐧∏](https://meldmerge.org/),
+[Meld⊞■🐧🤖](https://meldmerge.org/),
 
 Disk usage:  
 [NCurses🐧□](https://dev.yorhel.nl/ncdu),
@@ -80,21 +80,38 @@ Memory use:
 SQLite databases (Firefox, Chrome, et al):  
 [SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
 
-## Virtualization/VMs
+## Cross-Platform - Virtualization
 
 General-purpose VMs:  
 [VirtualBox⊞⌘🐧](https://www.virtualbox.org/),
 [VMware Workstation Player⊞🐧](https://www.vmware.com/products/workstation-player.html)
 
-Game console VMs:  
-[OpenEmu⌘](https://openemu.org/)
-[RetroArch⊞🐧∏](https://www.retroarch.com/)
-
-Linux simulator:  
-[Cygwin⊞](https://www.cygwin.com/)
-
 VM manager:  
 [Virtual Machine Manager🐧□](https://virt-manager.org/)
+
+## Cross-Platform - Specific Platforms
+
+Linux:  
+[Cygwin⊞](https://www.cygwin.com/)
+
+Windows:  
+[Wine🐧](https://www.winehq.org/)
+
+Mac:  
+[Darling🐧](https://www.darlinghq.org/)
+
+Android:  
+[Anbox🐧⌘](https://anbox.io/)
+
+MS-DOS:  
+[DOSBox⊞■🐧](https://www.dosbox.com/)
+
+Video game consoles:  
+[OpenEmu⌘](https://openemu.org/)
+[RetroArch⊞🐧🤖](https://www.retroarch.com/)
+
+Video arcade games:  
+[MAME⊞⌘🐧](https://www.mamedev.org/)
 
 Split peripheral use on same device:  
 [Universal Split Screen⊞](https://universalsplitscreen.github.io/)
@@ -107,3 +124,6 @@ Portable Apps:
 Portable OS:  
 [UNetbootin⊞■⌘🐧](https://unetbootin.github.io/),
 [Rufus⊞■](https://rufus.ie/)
+
+Mouse jiggler (keep screensaver/sleep from activating):  
+[ScreenSaver Mouse Jiggler (needs an Arduino)](https://github.com/nshadov/screensaver-mouse-jiggler)

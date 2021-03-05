@@ -3,13 +3,13 @@
 ## Real-Time
 
 Videoconferencing/screensharing/phone:  
-[Jitsi Meet☁∏∐](https://meet.jit.si/)
+[Jitsi Meet☁🍎🤖](https://meet.jit.si/)
 
 Webpage markups:  
 [Marker.to⇉](http://marker.to/)
 
 Chat services:  
-[Rocket.Chat⊞🐧⌘∏∐](https://rocket.chat/),
+[Rocket.Chat⊞🐧⌘🍎🤖](https://rocket.chat/),
 [tinychat☁](https://tinychat.com)
 
 Multichat:  
@@ -41,6 +41,6 @@ Drawn images:
 
 ## IRL
 
-[Meetup☁∏∐](https://www.meetup.com/)
+[Meetup☁🍎🤖](https://www.meetup.com/)
 
 [Naming Babies☁](https://deckofnames.com/)

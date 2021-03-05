@@ -1,6 +1,6 @@
 # Visual Design: Web-Specific
 
-[Firefox Developer Edition⊞■⌘🐧∏∐](https://www.mozilla.org/en-US/firefox/developer/)
+[Firefox Developer Edition⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/developer/)
 
 ## Visual Styles
 

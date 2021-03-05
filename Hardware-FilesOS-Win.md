@@ -1,10 +1,19 @@
 # Hardware: Files/OS - Windows-Specific
 
+Power tools:  
+[Windows Sysinternals⊞■](https://docs.microsoft.com/en-us/sysinternals/)
+
+## Analysis
+
 PE format file analysis (.exe, .dll, .ocx, .bpl, et al):  
 [PEInfo⊞■](http://www.pazera-software.com/products/peinfo/)
 
 Window analysis:  
 [WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
+
+## Internet Issues
+
+[Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
 
 ## Registry
 

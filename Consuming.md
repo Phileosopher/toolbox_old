@@ -38,19 +38,22 @@ News aggregation:
 ## Learning
 
 Memorization/flashcards:  
-[Mnemosyne⊞■⌘🐧∏](https://mnemosyne-proj.org/),
-[Anki⊞⌘🐧∏∐](https://apps.ankiweb.net/)
+[Mnemosyne⊞■⌘🐧🤖](https://mnemosyne-proj.org/),
+[Anki⊞⌘🐧🍎🤖](https://apps.ankiweb.net/)
 
 Language:  
-[Duolingo☁∏∐](https://www.duolingo.com/)
+[Duolingo☁🍎🤖](https://www.duolingo.com/)
 
 Distraction-free coding videos:  
 [CodeOnVideo☁](https://codeonvideo.com/)
 
+Machine learning research papers:  
+[OpenReview☁](https://openreview.net/)
+
 ## Media Players
 
 A/V player:  
-[VLC⊞■⌘🐧∏∐](https://www.videolan.org/vlc/),
+[VLC⊞■⌘🐧🍎🤖](https://www.videolan.org/vlc/),
 [SMPlayer⊞■🐧](https://www.smplayer.info/)
 
 Video playback issues:  
@@ -71,14 +74,14 @@ PDF/ebooks:
 ## Media Libraries
 
 10-foot UI:  
-[Kodi⊞■⌘🐧∏∐](https://kodi.tv/)
+[Kodi⊞■⌘🐧🍎🤖](https://kodi.tv/)
 
 Music:  
 [MusicBee⊞■](https://getmusicbee.com/),
 [Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
 
 Ebooks:  
-[calibre⊞■⌘🐧∏∐](https://calibre-ebook.com/)
+[calibre⊞■⌘🐧🍎🤖](https://calibre-ebook.com/)
 
 Decentralized music server:  
 [Funkwhale](https://funkwhale.audio/)
@@ -89,4 +92,4 @@ Language translation:
 [DeepL☁](https://www.deepl.com/translator)
 
 Torah/Bible:  
-[The SWORD Project☁⊞■⌘🐧∏∐⇉](https://crosswire.org/sword/index.jsp)
+[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)

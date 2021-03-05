@@ -2,7 +2,7 @@
 
 ## All-In-One
 
-[Notion⊞⌘☁⇉∏∐](https://www.notion.so/),
+[Notion⊞⌘☁🍎🤖⇉](https://www.notion.so/),
 [Slack☁](https://slack.com/)
 
 ## Note-Taking
@@ -11,7 +11,7 @@ Quick notes/sporadic:
 [notes.io☁](http://notes.io/)
 
 Notebooks:  
-[Evernote☁∏∐⇉](https://evernote.com/),
+[Evernote☁🍎🤖⇉](https://evernote.com/),
 [QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/)
 
 Mind mapping/outlining:  
@@ -22,7 +22,7 @@ Mind mapping/outlining:
 
 Reference images/visual boards:  
 [Eagle⊞⌘](https://en.eagle.cool/),
-[Milanote⊞⌘∏∐⇉](https://milanote.com/)
+[Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
 
 Hierarchical spreadsheets:  
 [TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
@@ -30,17 +30,17 @@ Hierarchical spreadsheets:
 ## Lists/Projects
 
 To do lists:  
-[Todoist☁⊞⌘🐧∏∐⇉](https://todoist.com/)
+[Todoist☁⊞⌘🐧🍎🤖⇉](https://todoist.com/)
 
 Flowcharts:  
 [diagrams.net☁⊞⌘🐧](https://www.diagrams.net/),
 [Lucidchart☁](https://www.lucidchart.com/)
 
 Kanban boards:  
-[Trello☁⊞⌘∏∐⇉](https://trello.com/)
+[Trello☁⊞⌘🍎🤖⇉](https://trello.com/)
 
 Grocery management:  
-[grocy☁⊞∏∐](https://grocy.info/)
+[grocy☁⊞🍎🤖](https://grocy.info/)
 
 ## Time Optimization
 
@@ -121,11 +121,18 @@ Repetitive strain timer:
 [Workrave⊞■⌘🐧](http://www.workrave.org/)
 
 Ambient noise:  
-[Noisli☁∏∐⇉](https://www.noisli.com/),
+[Noisli☁🍎🤖⇉](https://www.noisli.com/),
 [generative.fm☁](https://generative.fm/)
 
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)
+
+App blocking:  
+[Cold Turkey⊞⌘](https://getcoldturkey.com/),
+[Cold Turkey Micromanager⊞](https://getcoldturkey.com/micromanager/)
+
+Mouse jiggler (keep screensaver/sleep from activating):  
+[Mouse Jiggler⊞](https://mouse-jiggler.en.lo4d.com/windows)
 
 ## Ideal Peripherals
 

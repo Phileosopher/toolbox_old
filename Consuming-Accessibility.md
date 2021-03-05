@@ -16,7 +16,7 @@ Audio aides:
 [NV Access⊞■](https://www.nvaccess.org/)
 
 Human guides:  
-[Be My Eyes∏∐](https://www.bemyeyes.com/)
+[Be My Eyes🍎🤖](https://www.bemyeyes.com/)
 
 ## Hearing-Impaired
 

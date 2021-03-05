@@ -18,9 +18,6 @@ Marketing ROI calculator:
 
 ## Microfinance/POS
 
-POS all-in-one:  
-[Square☁∏∐](https://squareup.com/)
-
 POS:  
 [Cyclos⊞🐧](https://www.cyclos.org/),
 [Apache Fineract⊞🐧](https://github.com/apache/fineract)
@@ -86,11 +83,11 @@ Niche branding:
 
 ## Financial Planning/Investing
 
+Market terminal:  
+[GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal)
+
 Positions:  
 [Personal Capital☁](https://www.personalcapital.com/)
-
-Charities/NPOs:  
-[Charity Navigator☁](https://www.charitynavigator.org/)
 
 Debt management:  
 [Debt-Dash☁](https://www.debt-dash.io/)

@@ -3,7 +3,7 @@
 ## General Issues
 
 Deepfake detection:  
-[Amber∐](https://ambervideo.co/),
+[Amber🍎](https://ambervideo.co/),
 [Sensity☁](https://platform.sensity.ai/deepfake-detection)
 
 Machine-learning-generated photos:  
@@ -12,15 +12,18 @@ Machine-learning-generated photos:
 Machine-learning-generated resume:  
 [This resume does not exist☁](https://thisresumedoesnotexist.com)
 
+Private web hosting:  
+[Haven](https://havenweb.org/)
+
 ## Messaging
 
 Short-term notes:  
 [privnote☁](https://privnote.com/)
 
 Secure text messaging:  
-[matrix⊞⌘🐧∏∐](https://matrix.org/)
-[Signal⊞⌘🐧∏∐](https://signal.org/),
-[Telegram⊞⌘🐧∏∐](https://telegram.org/)
+[matrix⊞⌘🐧🍎🤖](https://matrix.org/)
+[Signal⊞⌘🐧🍎🤖](https://signal.org/),
+[Telegram⊞⌘🐧🍎🤖](https://telegram.org/)
 
 Secure email:  
 [ProtonMail☁](https://protonmail.com/),
@@ -43,7 +46,7 @@ PDFs that look scanned:
 PDFs that look signed:  
 [falsisign](https://gitlab.com/edouardklein/falsisign)
 
-## Receiving
+## Receiving/Investigating
 
 Email headers:  
 [Google's Messageheader☁](https://toolbox.googleapps.com/apps/messageheader/)
@@ -57,30 +60,10 @@ Website verification:
 [URLVoid☁](https://www.urlvoid.com/),
 [Web of Trust](https://mywot.com/)
 
+Google email inspection:  
+[GHunt](https://github.com/mxrch/GHunt)
+
 ## Traveling
 
 Friend followup service:  
 [Kitestring☁](https://www.kitestring.io/)
-
-## Against Private Corporations
-
-Account deleter:  
-[Account Killer☁](https://www.accountkiller.com/en/popular)
-
-Ads opt-out:  
-[Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/)
-
-Search engine:  
-[Qwant☁](https://www.qwant.com/),
-[searx☁](https://searx.space/)
-
-Google-specific:  
-[No More Google☁](https://nomoregoogle.com/)
-
-## Against Governments
-
-Image scrubbing:  
-[Image Scrubber☁](https://everestpipkin.github.io/image-scrubber/)
-
-Photo IDs:  
-[IDPhotoStudio⊞■](https://kcsoftwares.com/?idps)

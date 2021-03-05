@@ -42,18 +42,22 @@ Word pronunciation:
 
 Text editor:  
 [Notepad++⊞■](https://notepad-plus-plus.org/),
-[Vim⊞■⌘🐧∏](https://www.vim.org/)
+[Vim⊞■⌘🐧🤖](https://www.vim.org/)
   
 Word processor:  
-[Bear App⌘∐](https://bear.app)
+[Bear App⌘🍎](https://bear.app)
 [LibreOffice Writer⊞■⌘🐧](https://www.libreoffice.org/)
+
+Distraction-free writing:  
+[Cold Turkey Writer⊞](https://getcoldturkey.com/writer/)
 
 ## Reference
 
 Text character Reference:  
 [BabelMap⊞■](http://www.babelstone.co.uk/Software/BabelMap.html),
 [Copy Paste Character☁](https://www.copypastecharacter.com/),
-[TypeIt☁](https://www.typeit.org/)
+[TypeIt☁](https://www.typeit.org/),
+[Unicode Character Table☁](https://unicode-table.com)
 
 ## Specific Needs
 
@@ -73,7 +77,7 @@ Resumés - software engineers:
 
 Wiki creation:  
 [Fandom☁](https://www.fandom.com/),
-[Wiki.js⊞⌘🐧∏∐](https://wiki.js.org/)
+[Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/)
 
 ## Editing - Transcript
 

@@ -33,6 +33,9 @@ Remove backgrounds:
 [remove bg☁](https://www.remove.bg/),
 [SocialBook's Background Remover☁](https://socialbook.io/remove-background)
 
+Recover text from pixelized images:  
+[Depix](https://github.com/beurtschipper/Depix)
+
 ## Image Optimization
 
 Optimize images:  

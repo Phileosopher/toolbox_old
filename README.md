@@ -45,13 +45,18 @@ I've broken everything into malleable groupings, since there are *many* things t
 * Text: to create or manipulate language for some intended aesthetic
 * Productivity: to broadly streamline doing any of the above
 
-## What it needs, out-of-the-box
+## What it needs
 
 * _*_ if it's something to copy-paste or a reference sheet.
 * ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
 * Desktop: ⊞ for Windows, ⌘ for Mac OS X, 🐧 for Linux and Friends.
-* Mobile: ∏ for Android, ∐ for iOS.
+* Mobile: 🤖 for Android, 🍎 for iOS.
 * □ for non-UI CLI-based tools.
 * ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
+
+These are volatile out-of-the-box estimations for several reasons:
+
+* If the specs are high enough (and they usually are), you can make any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows XP VM.
+* Developers keep making new things for new technologies, so in ten years everyone might have BlahBlahOS where everything runs on it and these won't matter.
 
 If you like what you see, feel free to contact, contribute, fork, or visit [my website](https://stucky.tech) for other useful things.

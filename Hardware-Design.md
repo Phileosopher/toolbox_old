@@ -17,7 +17,7 @@ Mechanical experimentation:
 [MockMechanics⊞■](https://mockmechanics.com/)
 
 Physics models:  
-[Algodoo⊞⌘∐](http://www.algodoo.com/)
+[Algodoo⊞⌘🍎](http://www.algodoo.com/)
 
 Simulations:  
 [SimPy(Python)⇉🐧](https://pypi.org/project/simpy/)
@@ -48,4 +48,4 @@ CPUs:
 [SkyWater PDK](https://skywater-pdk.readthedocs.io/en/latest/)
 
 Smartphone robots:  
-[OpenBot∏∐](https://www.openbot.org/)
+[OpenBot🍎🤖](https://www.openbot.org/)
