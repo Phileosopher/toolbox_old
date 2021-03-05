@@ -28,11 +28,8 @@ File conversion/recording:
 Ken Burns effect:  
 [PhotoFilmStrip⊞■🐧](https://www.photofilmstrip.org/en/)
 
-Remove background from videos with people:  
+Remove backgrounds:  
 [Unscreen☁](https://www.unscreen.com/)
-
-Remove backgrounds from photos with people:  
-[SocialBook's Background Remover☁](https://socialbook.io/remove-background)
 
 ## File Conversions
 

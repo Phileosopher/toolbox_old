@@ -34,7 +34,7 @@ For brevity's sake, I'm mostly glossing over a few groups:
 
 I've broken everything into malleable groupings, since there are *many* things that someone could use a computer for, and people are constantly adding new things. These groupings have a philosophical basis in their designed *final* purpose:
 
-* Consuming: to digest, ingest, percolate, understand, skim, learn, without any creative goals in mind
+* Consuming: to experience others' created works without any creative goals in mind
 * Foraging: to acquire others' creative works
 * Calculators: to create a simple, usually numerical solution
 * Communicating: to communicate with other people, directly or indirectly

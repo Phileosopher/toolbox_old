@@ -1,4 +1,4 @@
-# Hardware: Status - Networks
+# Hardware: Networks
 
 ## L1 Physical
 
@@ -10,6 +10,34 @@ Cabled Providers:
 
 Cable/Port Diagnosis:  
 [5-in-1 network admin's cable*](http://www.ossmann.com/5-in-1.html)
+
+Toner kit
+
+Cable tester(s)
+
+Wireless analyzer
+
+USB/ethernet, Lightning/ethernet, and USB/serial adapters
+
+Yost cable (Serial/RJ45)
+
+PoE cable
+
+## L1 Physical - Running/Recabling Tools
+
+Cable strippers, crimpers, and electrician's scissors
+
+Extra RJ-45 cable/tips/boots
+
+Extra SFPs, especially a multi-mode LC
+
+Keystone jacks and wall plates
+
+Punchdown tools
+
+Fishing rods
+
+Drywall saw
 
 ## L2 Data Link
 
@@ -43,6 +71,8 @@ Network discovery - wireless networks:
 
 IoT server:  
 [Home Assistant⊞⌘🐧∏∐](https://www.home-assistant.io/)
+
+USB NIC
 
 ## L3 Network: Internet
 
@@ -100,35 +130,3 @@ Remote boot management:
 Remote computer access:  
 [AnyDesk⊞⌘🐧∏∐](https://anydesk.com/),
 [Remote Utilities⊞⌘🐧∏∐](https://www.remoteutilities.com/)
-
-## Diagnostic Hardware
-
-Toner kit
-
-Cable tester(s)
-
-Wireless analyzer
-
-USB NIC
-
-USB/ethernet, Lightning/ethernet, and USB/serial adapters
-
-Yost cable (Serial/RJ45)
-
-PoE cable
-
-## Running/Recabling Tools
-
-Cable strippers, crimpers, and electrician's scissors
-
-Extra RJ-45 cable/tips/boots
-
-Extra SFPs, especially a multi-mode LC
-
-Keystone jacks and wall plates
-
-Punchdown tools
-
-Fishing rods
-
-Drywall saw

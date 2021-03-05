@@ -1,4 +1,4 @@
-# Software: Data Management
+# Software: Database Management
 
 ## Prepping
 
@@ -13,6 +13,10 @@ Spreadsheets:
 
 Approximate Spreadsheets:  
 [Guesstimate☁](https://www.getguesstimate.com/)
+
+## Artificial Intelligence
+
+[OpenCog](https://opencog.org/)
 
 ## Rendering
 

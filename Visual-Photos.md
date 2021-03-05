@@ -5,7 +5,17 @@
 Screenshots:  
 [ShareX⊞■](https://getsharex.com/)
 
-## Auto-Rendering
+## Image Analysis
+
+[Image Processing Lab⊞](http://www.aforgenet.com/projects/iplab/)
+
+## Tweaking/Filters
+
+[FotoSketcher⊞■⌘](https://fotosketcher.com/),
+[GIMP⊞■⌘🐧](https://www.gimp.org/)
+[RawTherapee⊞■⌘🐧](http://www.rawtherapee.com/)
+
+## Auto-Tweaking/Filters
 
 Image upscaling:  
 [Icons8's AI Image Upscaler☁](https://icons8.com/upscaler/)
@@ -16,14 +26,12 @@ Histograms of chaotic functions:
 Light generation:  
 [Hot Spot Studio⊞■](https://www.rlvision.com/spots/about.php)
 
-## Tweaking/Filters
-
-[FotoSketcher⊞■⌘](https://fotosketcher.com/),
-[GIMP⊞■⌘🐧](https://www.gimp.org/)
-[RawTherapee⊞■⌘🐧](http://www.rawtherapee.com/)
-
 Fix image blur:  
 [SmartDeblur⊞⌘](http://smartdeblur.net/)
+
+Remove backgrounds:  
+[remove bg☁](https://www.remove.bg/),
+[SocialBook's Background Remover☁](https://socialbook.io/remove-background)
 
 ## Image Optimization
 
