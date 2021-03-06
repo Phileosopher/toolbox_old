@@ -14,9 +14,9 @@ With the web, most people will get a specific app, use it, then promptly forget 
 
 I'm fairly certain many developers reinvent the wheel because they don't realize that someone already made that thing.
 
-Naturally, there are limits to this. Refactoring is complicated, and it's often hard to find *precisely* what you want.
+Naturally, there are limits to this. Refactoring is complicated, and it's often hard to find *precisely* what you want. Plus, sometimes it's *fun* to reinvent the wheel.
 
-But, on the whole, if I need something to stretch audio or batch-compare files, my largest mental hurdle is knowing something like it exists. I imagine this is a universal human thing beyond myself.
+But, on the whole, if I need something to stretch audio or batch-compare files, my largest mental hurdle is knowing something like it exists. Even if something gets replaced, put behind a paywall, merged into something else, or just plain forgotten, the free market of idea-based creation will prevail.
 
 ## 3. Future Convenience
 

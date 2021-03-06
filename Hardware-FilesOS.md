@@ -62,6 +62,7 @@ Comparisons:
 [Meld⊞■🐧🤖](https://meldmerge.org/),
 
 Disk usage:  
+[Baobab🐧](http://www.marzocca.net/linux/baobab/)
 [NCurses🐧□](https://dev.yorhel.nl/ncdu),
 [WinDirStat⊞■](https://windirstat.net/),
 [WizTree⊞■](https://wiztreefree.com/)
