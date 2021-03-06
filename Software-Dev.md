@@ -79,6 +79,9 @@ Version Control:
 
 ## Versioning - Git
 
+.gitignore templates (to ignore during updates):  
+[gitignore](https://github.com/github/gitignore/)
+
 GUI:  
 [Sourcetree⊞⌘](https://www.sourcetreeapp.com/)
 
