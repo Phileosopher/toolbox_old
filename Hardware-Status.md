@@ -13,6 +13,9 @@ RAM:
 [MemTest86⊞■🐧](https://www.memtest86.com/),
 [RAMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 
+Memory latency:  
+[Intel Memory Latency Checker⊞■🐧](https://software.intel.com/content/www/us/en/develop/articles/intelr-memory-latency-checker.html)
+
 PCI resources:  
 [PCI-Z⊞■](https://www.pci-z.com/)
 

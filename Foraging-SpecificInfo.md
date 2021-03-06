@@ -44,7 +44,7 @@ Packages:
 Rewards points:  
 [Award Wallet☁](https://awardwallet.com/)
 
-## Science
+## STEM
 
 Papers/data:  
 [Sci-Hub☁](https://sci-hub.se/),
@@ -52,6 +52,9 @@ Papers/data:
 
 Astronomy:  
 [Stellarium Web☁](https://stellarium-web.org/)
+
+Math reference:  
+[Wumbo☁](https://wumbo.net/)
 
 Nutrition/supplements:  
 [Examine.com☁](https://examine.com/)

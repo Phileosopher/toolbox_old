@@ -35,6 +35,9 @@ RSS-to-email:
 News aggregation:  
 [[INSIDE]☁](https://inside.com/)
 
+Bookmarks emailed to inbox:  
+[Link Drop☁](https://www.linkdrop.co/)
+
 ## Learning
 
 Memorization/flashcards:  
@@ -82,6 +85,9 @@ Music:
 
 Ebooks:  
 [calibre⊞■⌘🐧🍎🤖](https://calibre-ebook.com/)
+
+Internet bookmarks:  
+[Every bookmark manager ever made*](https://bookmarkos.com/every-bookmark-manager-ever-made)
 
 Decentralized music server:  
 [Funkwhale](https://funkwhale.audio/)

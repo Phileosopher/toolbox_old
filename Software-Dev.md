@@ -3,6 +3,9 @@
 Possible projects:  
 [Mega Projects List*](https://github.com/karan/Projects/)
 
+Open-source licenses:  
+[Choose a License*](https://choosealicense.com/)
+
 IDEs:  
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),
 [GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/),
