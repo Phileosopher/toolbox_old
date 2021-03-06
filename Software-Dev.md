@@ -77,8 +77,13 @@ Version Control:
 [Git⊞■⌘🐧](https://git-scm.com/),
 [Github☁](https://github.com/)
 
-Git - GUI:  
+## Versioning - Git
+
+GUI:  
 [Sourcetree⊞⌘](https://www.sourcetreeapp.com/)
 
-Git - multiple users/emails:  
+Multiple users/emails:  
 [Git User Switch](https://github.com/geongeorge/Git-User-Switch)
+
+Large file storage:  
+[Git Large File Storage](https://git-lfs.github.com/)
