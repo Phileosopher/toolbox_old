@@ -1,6 +1,9 @@
 # Software: Development - Web-Specific
 
-## CMS (content management system)
+## Site Engine/CMS
+
+Static sites:  
+[Zola](https://www.getzola.org/)
 
 [WordPress](https://wordpress.org/) templates/themes/plugins:  
 [Colorlib■⇉](https://colorlib.com/wp/templates/),

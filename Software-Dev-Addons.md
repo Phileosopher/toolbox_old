@@ -5,6 +5,9 @@ Computational heavy lifting:
 
 ## Libraries
 
+User-controlled data:  
+[Zero Data App](https://0data.app/)
+
 ## Frameworks
 
 ## Engines

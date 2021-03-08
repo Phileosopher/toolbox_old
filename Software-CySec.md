@@ -100,6 +100,9 @@ Antivirus software:
 [ClamAV⊞⌘🐧□](https://www.clamav.net/)
 [ClamWin⊞■](http://www.clamwin.com/)
 
+APK scan:  
+[APKLeaks□](https://github.com/dwisiswant0/apkleaks)
+
 ## Authentication
 
 Password management:  
