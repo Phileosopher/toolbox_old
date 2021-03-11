@@ -94,3 +94,6 @@ Debt management:
 
 Investing:  
 [investorjunkie☁](https://investorjunkie.com/)
+
+Investing - VC firms:  
+[Open VC☁](https://www.openvc.app/)
