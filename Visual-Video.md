@@ -38,4 +38,5 @@ Convert video:
 [TEncoder Video Converter⊞■](https://www.fosshub.com/TAudioConverter.html)
 
 Convert video to GIF:  
-[EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif)
+[EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif),
+[GIFRun☁](https://gifrun.com/)

@@ -53,10 +53,23 @@ I've broken everything into malleable groupings, since there are *many* things t
 * Mobile: 🤖 for Android, 🍎 for iOS.
 * □ for non-UI CLI-based tools.
 * ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
+* 🐍 if it runs in Python
 
 These are volatile out-of-the-box estimations for several reasons:
 
 * If the specs are high enough (and they usually are), you can make any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows XP VM.
 * Developers keep making new things for new technologies, so in ten years everyone might have BlahBlahOS where everything runs on it and these won't matter.
 
-If you like what you see, feel free to contact, contribute, fork, or visit [my website](https://stucky.tech) for other useful things.
+## What I'm looking for
+
+Please feel free to pull request if you have anything I've missed. Or, if tech's not your thing, contact me via "greg at stucky dot tech":
+
+1. Things that are obsolete, along with a better replacement.
+2. Additional clarification of relevant necessary platforms/languages the tool needs.
+3. Any classes or sub-classes of tool I may have missed.
+
+Also, right now I'm *really* looking for the following:
+
+* Free or affordable access to technology standards (e.g., ISO 9000)
+  
+If you like what you see, feel free to fork, or visit [my website](https://stucky.tech) for other useful things.

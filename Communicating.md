@@ -5,6 +5,9 @@
 Videoconferencing/screensharing/phone:  
 [Jitsi Meet☁🍎🤖](https://meet.jit.si/)
 
+Videoconferencing with facial tracking:  
+[Around](https://www.around.co/)
+
 Webpage markups:  
 [Marker.to⇉](http://marker.to/)
 

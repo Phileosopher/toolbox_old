@@ -8,6 +8,9 @@
 Machine learning OCR:  
 [EasyOCR□](https://github.com/JaidedAI/EasyOCR)
 
+Convert image numbers to CSV:  
+[image2csv🐍](https://github.com/artperrin/image2csv)
+
 ## PDF/ebook Editing
 
 Editor:  
