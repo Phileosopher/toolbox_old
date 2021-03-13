@@ -26,7 +26,8 @@ Flight simulation:
 [FlightGear⊞⌘🐧](https://www.flightgear.org/)
 
 Circuit simulator:  
-[Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html)
+[Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html),
+[CircuitLab☁](https://www.circuitlab.com/)
 
 Electronics design:  
 [Fritzing⊞⌘🐧](https://fritzing.org/)

@@ -3,7 +3,11 @@
 ## Benchmarking/Testing
 
 All-in-One:  
-[HWiNFO⊞■](https://www.hwinfo.com/)
+[HWiNFO⊞■](https://www.hwinfo.com/),
+[Open Hardware Monitor⊞](https://openhardwaremonitor.org/)
+
+Temperature:  
+[lm-sensors□](https://github.com/lm-sensors/lm-sensors)
 
 CPU/motherboard:  
 [CPU-X🐧](https://x0rg.github.io/CPU-X/),
