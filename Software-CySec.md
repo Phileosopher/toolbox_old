@@ -41,6 +41,9 @@ Scam reporting - UK:
 Scam reporting - Australia:  
 [ACCC Where to get help☁](https://www.scamwatch.gov.au/get-help/where-to-get-help#report-scams-to-the-authorities)
 
+Anti-Apple - bootloader:  
+[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+
 Anti-Apple - app store:  
 [AltStore🍎](https://github.com/rileytestut/AltStore),
 [AppPure🍎](https://iphone.apkpure.com/)

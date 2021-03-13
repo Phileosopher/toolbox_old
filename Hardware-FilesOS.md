@@ -90,6 +90,9 @@ General-purpose VMs:
 VM manager:  
 [Virtual Machine Manager🐧□](https://virt-manager.org/)
 
+Macs:  
+[Docker-OSX(Docker)](https://github.com/sickcodes/Docker-OSX)
+
 ## Cross-Platform - Specific Platforms
 
 Linux:  
@@ -99,7 +102,8 @@ Windows:
 [Wine🐧](https://www.winehq.org/)
 
 Mac:  
-[Darling🐧](https://www.darlinghq.org/)
+[Darling🐧](https://www.darlinghq.org/),
+[OSX-KVM🐧](https://github.com/kholia/OSX-KVM)
 
 Android:  
 [Anbox🐧⌘](https://anbox.io/)

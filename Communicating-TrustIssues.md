@@ -17,6 +17,9 @@ Private web hosting:
 
 ## Messaging
 
+General sensitive information:  
+[Bitwarden Send⊞⌘🐧🍎🤖](https://bitwarden.com/products/send/)
+
 Short-term notes:  
 [privnote☁](https://privnote.com/)
 
