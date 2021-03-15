@@ -36,3 +36,7 @@ PDF to JPG:
 [Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
 
 [DOC to MD Converter☁](https://word2md.com/),
+
+## Documentation Generation
+
+[pdoc (Python)](https://pdoc.dev/)

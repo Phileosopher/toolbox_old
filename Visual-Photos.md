@@ -3,6 +3,7 @@
 ## Capture
 
 Screenshots:  
+[Flameshot⊞⌘🐧□](https://flameshot.org/)
 [ShareX⊞■](https://getsharex.com/)
 
 ## Image Analysis

@@ -10,6 +10,9 @@ Annotation styling:
 Dark mode:  
 [Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
 
+Frosted glass aesthetic:  
+[Glassmorphism☁](https://glassmorphism.com/)
+
 ## Frameworks/Engines
 
 CSS:  

@@ -130,5 +130,8 @@ Portable OS:
 [UNetbootin⊞■⌘🐧](https://unetbootin.github.io/),
 [Rufus⊞■](https://rufus.ie/)
 
+Portable USB/CD drive (from a phone's storage):  
+[DriveDroid🤖](https://www.drivedroid.io/)
+
 Mouse jiggler (keep screensaver/sleep from activating):  
 [ScreenSaver Mouse Jiggler (needs an Arduino)](https://github.com/nshadov/screensaver-mouse-jiggler)

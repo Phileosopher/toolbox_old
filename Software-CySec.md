@@ -110,7 +110,8 @@ APK scan:
 
 Password management:  
 [KeePass(and variants)⊞■⌘🐧🍎🤖⇉](https://keepass.info/),
-[KeePass' HIBP Offline Check⇉](https://github.com/mihaifm/HIBPOfflineCheck)
+[KeePass' HIBP Offline Check⇉](https://github.com/mihaifm/HIBPOfflineCheck),
+[PasswordSafe⊞⌘🐧🍎🤖](https://www.pwsafe.org/)
 
 Two-factor authentication:  
 [Authy🍎🤖](https://authy.com/)

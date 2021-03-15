@@ -1,6 +1,5 @@
 # Text: Writing/Speeches - Technical
 
-Technical documentation:  
 [LaTeX☁⊞⌘🐧](https://www.latex-project.org/),
 [SwiftLaTeX☁](https://www.swiftlatex.com)
 
@@ -13,6 +12,9 @@ Source code:
 [Natural Docs⊞■](https://www.naturaldocs.org/)
 
 ## Network Documentation
+
+Markdown files:  
+[Remarkable⊞🐧](https://remarkableapp.github.io/index.html)
 
 Network diagrams:  
 [GNS3⊞⌘🐧](https://gns3.com/)

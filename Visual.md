@@ -58,7 +58,7 @@ App icons:
 Graphics:  
 [K-3D⊞■⌘](http://www.k-3d.org/)
 
-CAD:  
+Parametric modeling:  
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
 
 Human models:  
@@ -95,27 +95,6 @@ Desktop publishing:
 
 Wireframe kits:  
 [Contra Wireframe Kit⇉](https://contrauikit.com/)
-
-## Auto-Rendered Elements
-
-Blob generator:  
-[z creative labs' Blobmaker☁](https://www.blobmaker.app/),
-[Blobs☁](https://blobs.app/)
-
-Live background generator:  
-[makebackground.io☁](https://makebackground.io/)
-
-Shadows:  
-[brumm.af's SmoothShadows☁](https://brumm.af/shadows)
-
-SVG waves:  
-[Get Waves☁](https://getwaves.io/)
-
-Text-to-handwriting:  
-[Calligrapher.ai☁](https://www.calligrapher.ai/)
-
-Triangle patterns:  
-[Trianglify.io☁](https://trianglify.io/)
 
 ## Validation
 

@@ -29,8 +29,24 @@ Payment in cryptocurrency:
 
 ## Expert Opinions
 
+College professors:  
 [Cision's ProfNet☁](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
-[Coursera's Expert Network☁](https://experts.coursera.org/)
+[Coursera's Expert Network☁](https://experts.coursera.org/),
+[Expertise Finder☁](https://expertisefinder.com/)
+
+Self-help advice:  
+[Self-Growth.com's Expert Search☁](https://www.selfgrowth.com/experts.html)
+
+Journalism-related:  
+[Cision's Help A Reporter☁](https://www.helpareporter.com/)
+
+Financial advice:  
+[NAPFA's Newsroom☁](https://www.napfa.org/newsroom)
+
+Expert witnesses:  
+[Expert Institute☁](https://www.expertinstitute.com/)
+[ForensisGroup☁](https://www.forensisgroup.com/)
+[JurisPro Expert Witness Directory☁](https://www.jurispro.com/)
 
 ## Software Development
 

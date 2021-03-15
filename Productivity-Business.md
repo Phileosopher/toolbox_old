@@ -97,3 +97,8 @@ Investing:
 
 Investing - VC firms:  
 [Open VC☁](https://www.openvc.app/)
+
+## Financial Planning/Investing - Consumer Goods
+
+Product comparison charts:  
+[Product Chart☁](https://www.productchart.com/)
