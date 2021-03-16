@@ -55,6 +55,9 @@ Email headers:
 [Google's Messageheader☁](https://toolbox.googleapps.com/apps/messageheader/)
 [WhatIsMyIPAddress' Trace Email☁](https://whatismyipaddress.com/trace-email)
 
+Google email inspection:  
+[GHunt](https://github.com/mxrch/GHunt)
+
 Short link scan:  
 [CheckShortURL☁](https://checkshorturl.com/)
 
@@ -63,8 +66,8 @@ Website verification:
 [URLVoid☁](https://www.urlvoid.com/),
 [Web of Trust](https://mywot.com/)
 
-Google email inspection:  
-[GHunt](https://github.com/mxrch/GHunt)
+Phone number (via site crawling):  
+[Ampare Phone Number Crawler🐧](https://snapcraft.io/amparephonenumbercrawler)
 
 ## Traveling
 

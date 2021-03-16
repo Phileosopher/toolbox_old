@@ -1,14 +1,21 @@
-# Visual: Auto-Rendered Elements
+# Visual: UI - Auto-Rendered
 
-Blob generator:  
+## Auto-Styling
+
+Dark mode:  
+[Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
+
+## Elements
+
+Annotation styling:  
+[RoughNotation](https://roughnotation.com/)
+
+Blobs:  
 [z creative labs' Blobmaker☁](https://www.blobmaker.app/),
 [Blobs☁](https://blobs.app/)
 
-Live background generator:  
+Live backgrounds:  
 [makebackground.io☁](https://makebackground.io/)
-
-Shadows:  
-[brumm.af's SmoothShadows☁](https://brumm.af/shadows)
 
 SVG waves:  
 [Get Waves☁](https://getwaves.io/)
@@ -18,6 +25,14 @@ Text-to-handwriting:
 
 Triangle patterns:  
 [Trianglify.io☁](https://trianglify.io/)
+
+## Effects
+
+Shadows:  
+[brumm.af's SmoothShadows☁](https://brumm.af/shadows)
+
+Frosted glass aesthetic:  
+[Glassmorphism☁](https://glassmorphism.com/)
 
 ## 3D Elements
 

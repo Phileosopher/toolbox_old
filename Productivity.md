@@ -27,6 +27,9 @@ Reference images/visual boards:
 Hierarchical spreadsheets:  
 [TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
 
+Save open web browser tabs:  
+[tabs2txt⇉](https://addons.mozilla.org/en-US/firefox/addon/tabs2txt/?src=search)
+
 ## Lists/Projects
 
 To do lists:  

@@ -38,6 +38,9 @@ News aggregation:
 Bookmarks emailed to inbox:  
 [Link Drop☁](https://www.linkdrop.co/)
 
+Site status (for when any code on the site itself changes):  
+[Follow That Page☁](https://www.followthatpage.com/)
+
 ## Learning
 
 Memorization/flashcards:  

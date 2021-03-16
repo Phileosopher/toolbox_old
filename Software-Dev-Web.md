@@ -78,6 +78,14 @@ SEO checker - Facebook:
 
 ## SEO - Linking
 
+Link check - dead links:  
+[dead link checker☁](https://www.deadlinkchecker.com/),
+[W3C Link Checker☁](https://validator.w3.org/checklink)
+
+Link check - *all* outbound links:  
+[outbound-link-checker□](https://github.com/ashishb/outbound-link-checker),
+[Screaming Frog SEO Spider⊞⌘🐧](https://www.screamingfrog.co.uk/seo-spider/)
+
 Google business review link generator:  
 [Supple's Business Review Link Generator☁](https://supple.com.au/tools/google-review-link-generator/)
 

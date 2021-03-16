@@ -17,3 +17,18 @@ Plenty of anti-static mats, wrist straps, and cloths
 Protective gloves
 
 Headlamp
+
+## Repurposing Hardware
+
+Computer monitors:  
+[How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
+
+## Trust Issues
+
+Laptop/tablet:  
+[PINEBOOK Pro](https://www.pine64.org/pinebook-pro/),
+[PINETAB](https://www.pine64.org/pinetab/)
+
+Phone:  
+[PINEPHONE](https://www.pine64.org/pinephone/),
+[Purism's Librem](https://puri.sm/products/librem-5/)

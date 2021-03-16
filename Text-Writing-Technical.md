@@ -13,9 +13,6 @@ Source code:
 
 ## Network Documentation
 
-Markdown files:  
-[Remarkable⊞🐧](https://remarkableapp.github.io/index.html)
-
 Network diagrams:  
 [GNS3⊞⌘🐧](https://gns3.com/)
 

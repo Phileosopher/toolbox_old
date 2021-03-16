@@ -1,17 +1,6 @@
-# Visual Design: Web-Specific
+# Visual Design: Development - Web-Specific
 
 [Firefox Developer Edition⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/developer/)
-
-## Visual Styles
-
-Annotation styling:  
-[RoughNotation](https://roughnotation.com/)
-
-Dark mode:  
-[Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
-
-Frosted glass aesthetic:  
-[Glassmorphism☁](https://glassmorphism.com/)
 
 ## Frameworks/Engines
 
@@ -20,7 +9,6 @@ CSS:
 
 Game engine:  
 [Taro(JS)](https://www.echou.xyz/taro/)
-
 
 ## CSS Themes
 
@@ -32,27 +20,11 @@ Game engine:
 Automatic theme generation:  
 [Bootstrap Magic☁](https://pikock.github.io/bootstrap-magic/)
 
-## Visual Features
-
-Autocomplete/Dropdown/Combobox:  
-[downshift](https://github.com/downshift-js/downshift)
-
-Search feature:  
-[DuckDuckGo Search Box☁](https://duckduckgo.com/search_box),
-[OpenSearch](https://github.com/dewitt/opensearch)
-
-Visual site map designer:  
-[Octopus.do☁](https://octopus.do/)
-
 ## Testing - Functionality
 
 Debugging:  
 [Telerik's Fiddler⊞⌘🐧](https://www.telerik.com/fiddler),
 [web.dev☁](https://web.dev/)
-
-Dead link check:  
-[dead link checker☁](https://www.deadlinkchecker.com/),
-[W3C Link Checker☁](https://validator.w3.org/checklink)
 
 Validation - HTML:  
 [W3C Markup Validation Service☁](https://validator.w3.org/)
