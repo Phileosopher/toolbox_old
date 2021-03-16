@@ -30,23 +30,25 @@ Expense/time tracking and invoice:
 Invoices - Bitcoin-based:  
 [Zaprite☁](https://zaprite.com/)
 
-## Fundraising
-
-Crowdfunding:  
+## Crowdfunding
+  
 [GoFundMe☁](https://www.gofundme.com/),
 [Indiegogo☁](https://www.indiegogo.com/)
 
-Crowdfunding - entrepreneurship:  
+Entrepreneurship:  
 [Indiegogo for Entrepreneurs☁](https://entrepreneur.indiegogo.com/),
 [SeedInvest☁](https://www.seedinvest.com/),
 [StartEngine☁](https://www.startengine.com/)
 
-Crowdfunding - Christian/NPO:  
+Christian/NPO:  
 [GiveSendGo☁](https://www.givesendgo.com/),
 [Mightycause☁](https://www.mightycause.com/)
 
-Crowdfunding - creatives:  
+Creatives:  
 [Patreon☁](https://www.patreon.com/)
+
+Games:  
+[fig.co☁](https://www.fig.co/)
 
 ## Accounting/ERP/CRM
 
