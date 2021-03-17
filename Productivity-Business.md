@@ -71,6 +71,7 @@ Accounting/ERP software:
 
 CRM:  
 [CiviCRM⊞🐧](https://civicrm.org/),
+[Dex☁🍎🤖](https://getdex.com/),
 [Monica☁](https://github.com/monicahq/monica)
 
 Market surveys:  

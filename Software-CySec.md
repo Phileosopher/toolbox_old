@@ -20,6 +20,9 @@ Browser content blocking:
 Email breach search:  
 [have i been pwned?☁](https://haveibeenpwned.com/)
 
+SMS breach notifications:  
+[Okey Monitor☁](https://okeymonitor.com/)
+
 ## Virus Scans
 
 Malware scan:  
@@ -98,11 +101,3 @@ DVDs:
 
 Reconstruction of events - UNIX-like system:  
 [The Coroner's Toolkit](http://www.porcupine.org/forensics/tct.html)
-
-## PenTesting
-
-Default credentials:  
-[DefaultCreds cheat sheet*](https://github.com/ihebski/DefaultCreds-cheat-sheet)
-
-Decryption:  
-[Ciphey](https://github.com/Ciphey/Ciphey)

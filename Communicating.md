@@ -8,6 +8,9 @@ Videoconferencing/screensharing/phone:
 Videoconferencing with facial tracking:  
 [Around](https://www.around.co/)
 
+Video messaging:  
+[Loom☁⊞🍎](https://www.loom.com/)
+
 Webpage markups:  
 [Marker.to⇉](http://marker.to/)
 
