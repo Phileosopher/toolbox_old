@@ -1,5 +1,27 @@
 # Communicating: Large-Scale
 
+Video multicast:  
+[Restream☁⇉](https://restream.io/)
+
+## Posting
+
+Website share links:  
+[Free Share Link Generator☁](https://www.websiteplanet.com/webtools/sharelink/)
+
+Auto-posts:  
+[Buffer☁](https://buffer.com/),
+[Hootsuite☁](https://hootsuite.com/)
+
+Image posts:  
+[Pablo by Buffer☁](https://pablo.buffer.com/),
+[Remix by Buffer🍎🤖](https://buffer.com/remix)
+
+## Websites/Profiles
+
+[about.me☁](https://about.me),
+[The Creative Passport☁](https://www.creativepassport.net/),
+[urspace☁](https://urspace.io/)
+
 ## Marketing Front-End
 
 Brand capture:  

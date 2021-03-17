@@ -1,5 +1,9 @@
 # Communicating
 
+Link shortener:  
+[bitly☁](https://bitly.com/),
+[TinyURL☁](https://tinyurl.com)
+
 ## Real-Time
 
 Videoconferencing/screensharing/phone:  
@@ -8,30 +12,26 @@ Videoconferencing/screensharing/phone:
 Videoconferencing with facial tracking:  
 [Around](https://www.around.co/)
 
-Video messaging:  
-[Loom☁⊞🍎](https://www.loom.com/)
-
 Webpage markups:  
 [Marker.to⇉](http://marker.to/)
 
-Chat services:  
+## Real-Time - Chat
+
 [Rocket.Chat⊞🐧⌘🍎🤖](https://rocket.chat/),
 [tinychat☁](https://tinychat.com)
 
-Multichat:  
-[All-in-One Messenger⊞🐧⌘](https://allinone.im/)
-
-Video multicast:  
-[Restream☁⇉](https://restream.io/)
+Chat services - all-in-one:  
+[All-in-One Messenger⊞🐧⌘](https://allinone.im/),
+[Beeper⊞🐧⌘](https://www.beeper.com/)
+[Pidgin⊞🐧⌘](https://www.pidgin.im/)
 
 ## Sending/Receiving
 
+Video messaging:  
+[Loom☁⊞🍎](https://www.loom.com/)
+
 Email/calendar/contacts:  
 [Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/)
-
-Link shortener:  
-[bitly☁](https://bitly.com/),
-[TinyURL☁](https://tinyurl.com)
 
 Quick files (WebRTC):  
 [WEBWORMHOLE☁](https://webwormhole.io/)

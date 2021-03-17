@@ -14,6 +14,7 @@ Shut down when unplugging USB device:
 Automated legal services:  
 [DoNotPay](https://donotpay.com/)
 
+Post-it note/sticker over built-in camera
 ## Against Private Organizations
 
 Account deleter:  

@@ -39,6 +39,11 @@
 [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio),
 [Van Gogh Museum Collection](https://www.vangoghmuseum.nl/en/collection)
 
+## Stock Photos - Maps
+
+[Dave Rumsey Historical Map Collection](https://www.davidrumsey.com/),
+[George II Topographical Collection](https://www.flickr.com/photos/tags/georgeiiitopographicalcollection)
+
 ## Stock photos - Web Images
 
 Landing pages:

@@ -21,13 +21,18 @@ FTP client:
 Torrents:  
 [qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/)
 
+Torrents - streaming:  
+[Popcorn Time⊞⌘🐧🤖](https://popcorntime.app/)
+
 ## Feeds
 
 Podcast search engine:  
 [Listen Notes☁](https://www.listennotes.com/)
 
 RSS:  
-[QuiteRSS⊞■⌘🐧](https://quiterss.org/)
+[NetNewsWire⌘🍎](https://netnewswire.com/),
+[QuiteRSS⊞■⌘🐧](https://quiterss.org/),
+[RSSOwl⊞⌘🐧](https://www.rssowl.org/)
 
 RSS-to-email:  
 [Blogtrottr☁](https://blogtrottr.com)

@@ -112,6 +112,9 @@ Tech support callback:
 Open multiple URLs:  
 [Multiple URL Opener☁](https://www.websiteplanet.com/webtools/multiple-url/)
 
+Frequently used information:  
+[Clipboard PRO🍎](https://clipboardpro.app/)
+
 ## Focus
 
 Timer:  

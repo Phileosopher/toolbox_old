@@ -65,6 +65,7 @@ Citations:
 [Citation Generator☁](https://www.citationgenerator.com/)
 
 Journaling:  
+[Ponder⇉](https://getponder.app/)
 [RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
 Resumés:  
@@ -93,3 +94,8 @@ Counting:
 [WordCounter.net's Character Counter☁](https://wordcounter.net/character-count),
 [WordCounter.net's Website Page Word Counter☁](https://wordcounter.net/website-word-count),
 [WordCounter.net's Words Per Page☁](https://wordcounter.net/words-per-page)
+
+## Editing - Formatting
+
+Spreasheet to HTML table:  
+[TABLEIZER!☁](https://www.tableizer.journalistopia.com/)

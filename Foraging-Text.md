@@ -11,6 +11,7 @@ Publications generally excluded from American mainstream media:
 [1001 Free Fonts](https://www.1001freefonts.com/),
 [Abstract Fonts](http://www.abstractfonts.com/),
 [Befonts](https://befonts.com/),
+[comic-shanns](https://github.com/shannpersand/comic-shanns), [Comic Mono](https://dtinth.github.io/comic-mono-font/),
 [DaFont](https://www.dafont.com/),
 [Fontget](https://www.fontget.com/), [FontSpace](https://www.fontspace.com/), [Font Squirrel](https://www.fontsquirrel.com/), [Fontfabric's Free Fonts](https://www.fontfabric.com/free-fonts/),
 [Google Fonts](https://fonts.google.com/),
