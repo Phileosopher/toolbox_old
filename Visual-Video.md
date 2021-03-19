@@ -31,6 +31,9 @@ Ken Burns effect:
 Remove backgrounds:  
 [Unscreen☁](https://www.unscreen.com/)
 
+Math animations:  
+[Manim⊞🐧](https://3b1b.github.io/manim/index.html)
+
 ## File Conversions
 
 Convert video:  

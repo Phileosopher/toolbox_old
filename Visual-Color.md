@@ -32,6 +32,9 @@ Palettes:
 [Material Design Color Palette Generator*](https://www.materialpalette.com/), [Material Design's Color Tool*](https://material.io/resources/color/),
 [Palettable*](https://www.palettable.io), [Palette List*](https://www.palettelist.com/), [Paletton*](https://paletton.com/), [Pigment by ShapeFactory☁](https://pigment.shapefactory.co/)
 
+Palette - sorted:  
+[Sorted CSS Colors](https://enes.in/sorted-colors/)
+
 Branded colors:  
 [Brand Palettes*](https://brandpalettes.com/all-brands/), [BrandColors*](https://brandcolors.net/),
 [Instant Logo Search☁](http://instantlogosearch.com/),
