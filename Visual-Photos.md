@@ -10,6 +10,20 @@ Screenshots:
 
 [Image Processing Lab⊞](http://www.aforgenet.com/projects/iplab/)
 
+## OCR (Optical Character Recognition)
+
+[Online OCR☁](https://www.onlineocr.net/),
+[Free Online OCR☁](https://www.newocr.com/)
+
+Screenshots:  
+[Screenshot Hero🍎](https://asadmemon.com/projects/screenshothero/)
+
+Machine learning OCR:  
+[EasyOCR□](https://github.com/JaidedAI/EasyOCR)
+
+Convert image numbers to CSV:  
+[image2csv🐍](https://github.com/artperrin/image2csv)
+
 ## Tweaking/Filters
 
 [FotoSketcher⊞■⌘](https://fotosketcher.com/),

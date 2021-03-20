@@ -3,8 +3,13 @@
 ## Charts/Graphs
 
 Diagrams:  
-[yEd Live☁](https://www.yworks.com/yed-live/)
-  
+[PlantUML□](https://plantuml.com/),
+[SimpleDiagrams☁](https://www.simplediagrams.com/),
+[yEd Live⊞⌘🐧☁](https://www.yworks.com/products/yed)
+
+Graphs:  
+[Graphviz⊞⌘🐧](https://graphviz.org/)
+
 Infographics:  
 [Infogram☁](https://infogram.com/),
 [Piktochart☁](https://piktochart.com/)

@@ -1,16 +1,4 @@
 # Text: Manipulation
-
-## OCR (Optical Character Recognition)
-
-[Online OCR☁](https://www.onlineocr.net/),
-[Free Online OCR☁](https://www.newocr.com/)
-
-Machine learning OCR:  
-[EasyOCR□](https://github.com/JaidedAI/EasyOCR)
-
-Convert image numbers to CSV:  
-[image2csv🐍](https://github.com/artperrin/image2csv)
-
 ## PDF/ebook Editing
 
 Editor:  

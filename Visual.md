@@ -34,8 +34,12 @@ Logo builder:
 [Shopify's Hatchful☁](https://hatchful.shopify.com/),
 [Squarespace's Free Logo Maker☁](https://www.squarespace.com/logo)
 
+PDF elements:  
+[Ipe⊞⌘🐧](http://ipe.otfried.org/)
+
 Vector graphics/illustrations:  
 [Canva☁](https://www.canva.com/),
+[Gravit Designer⊞⌘🐧](https://www.designer.io/en/),
 [Icons8's Vector Creator☁](https://icons8.com/vector-creator),
 [Inkscape⊞■⌘🐧](https://inkscape.org/)
 
