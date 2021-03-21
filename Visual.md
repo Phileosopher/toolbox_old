@@ -32,16 +32,13 @@ Graphics:
 Icons/cursors:  
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
 
-Logo builder:  
+Logos:  
 [Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),
 [Logo by ShapeFactory☁](https://logo.shapefactory.co/),
 [LogoHub☁](https://logohub.io/),
 [Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/app/new),
 [Shopify's Hatchful☁](https://hatchful.shopify.com/),
 [Squarespace's Free Logo Maker☁](https://www.squarespace.com/logo)
-
-PDF elements:  
-[Ipe⊞⌘🐧](http://ipe.otfried.org/)
 
 Vector graphics/illustrations:  
 [Adobe Illustrator CS Scripts⇉](http://shspage.com/aijs/en/)
@@ -58,14 +55,22 @@ Graphics:
 Parametric modeling:  
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
 
-Human models:  
-[MakeHuman⊞⌘🐧](http://www.makehumancommunity.org/)
-
 Multitool:  
 [SketchUp☁](https://www.sketchup.com/)
 
 Voxel art/path tracing renderer:  
 [MagicaVoxel⊞⌘](https://ephtracy.github.io/)
+
+## Design Interfaces - Very Specific
+
+Human models:  
+[MakeHuman⊞⌘🐧](http://www.makehumancommunity.org/)
+
+PDF elements:  
+[Ipe⊞⌘🐧](http://ipe.otfried.org/)
+
+XKCD-style Comics:  
+[Comix I/O☁](http://cmx.io/)
 
 ## Multimedia
 

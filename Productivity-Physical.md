@@ -5,6 +5,9 @@
 Grocery management:  
 [grocy☁⊞🍎🤖](https://grocy.info/)
 
+Produce in season:  
+[HarvestSignal☁](https://harvestsignal.com/)
+
 Recipes:  
 [Allrecipes*](https://www.allrecipes.com/)
 

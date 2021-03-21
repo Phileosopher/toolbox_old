@@ -9,6 +9,9 @@ Search engine:
 Overlooked web searches:  
 [Million Short☁](https://millionshort.com/)
 
+Blacklist specific websites from web search:  
+[Wiper⇉](https://github.com/davidahmed/wiper)
+
 ## Websites
 
 Block scripts/ads:  

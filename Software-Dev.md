@@ -53,4 +53,5 @@ Dynamic checking - C:
 
 ## Automatic Code Completion
 
-[Kite](https://www.kite.com/)
+[Kite](https://www.kite.com/),
+[Tabnine](https://www.tabnine.com/)

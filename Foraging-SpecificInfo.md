@@ -35,6 +35,9 @@ Cost of living:
 Nuclear detonations:  
 [NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)
 
+Visa-based travel restrictions:  
+[Visa List☁](https://visalist.io/)
+
 ## Personally Relevant Information
 
 Flights:  

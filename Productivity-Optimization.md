@@ -17,6 +17,10 @@ Small calendar:
 
 Work-life balance:  
 [Day Grid Balancer*](https://davidseah.com/node/the-day-grid-balancer/)
+
+Procrastination diagnosis:  
+[Why do I procrastinate?](https://whydoiprocrastinate.com/)
+
 ## Focus
 
 Timer:  
