@@ -7,14 +7,37 @@
 [Slack☁](https://slack.com/),
 [Zenkit☁](https://zenkit.com)
 
-## Note-Taking
+Kanban boards:  
+[Trello☁⊞⌘🍎🤖⇉](https://trello.com/)
+
+## Idea-Gathering
+
+Flowcharts:  
+[diagrams.net☁⊞⌘🐧](https://www.diagrams.net/),
+[Lucidchart☁](https://www.lucidchart.com/)
+
+Reference images/visual boards:  
+[Eagle⊞⌘](https://en.eagle.cool/),
+[Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
+
+Research collection:  
+[Zotero](https://www.zotero.org/)
+
+## Text Notes
 
 Quick notes/sporadic:  
 [notes.io☁](http://notes.io/)
 
 Notebooks:  
 [Evernote☁🍎🤖⇉](https://evernote.com/),
+[Obsidian⊞⌘🐧](https://obsidian.md/),
 [QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/)
+
+Public notes:  
+[Collected Notes⌘🍎🤖☁](https://collectednotes.com/)
+
+Hierarchical spreadsheets:  
+[TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
 
 Mind mapping/outlining:  
 [coggle☁](https://coggle.it/),
@@ -22,27 +45,14 @@ Mind mapping/outlining:
 [Minder🐧](https://github.com/phase1geo/Minder),
 [Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview),
 
-Reference images/visual boards:  
-[Eagle⊞⌘](https://en.eagle.cool/),
-[Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
+## Task Management
 
-Hierarchical spreadsheets:  
-[TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
+Daily tasks:  
+[Concrete Goals Tracker*](https://davidseah.com/node/the-concrete-goals-tracker/),
+[Emergent Task Planner*](https://davidseah.com/node/the-emergent-task-planner/)
 
-Research gathering:  
-[Zotero](https://www.zotero.org/)
-
-## Lists/Projects
+Progress tracking:  
+[Trask Progress Tracker*](https://davidseah.com/node/the-task-progress-tracker/)
 
 To do lists:  
 [Todoist☁⊞⌘🐧🍎🤖⇉](https://todoist.com/)
-
-Flowcharts:  
-[diagrams.net☁⊞⌘🐧](https://www.diagrams.net/),
-[Lucidchart☁](https://www.lucidchart.com/)
-
-Kanban boards:  
-[Trello☁⊞⌘🍎🤖⇉](https://trello.com/)
-
-Grocery management:  
-[grocy☁⊞🍎🤖](https://grocy.info/)

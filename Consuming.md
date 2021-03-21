@@ -1,5 +1,23 @@
 # Consuming
 
+## Web searches
+
+Search engine:  
+[Qwant☁](https://www.qwant.com/),
+[searx☁](https://searx.space/)
+
+Overlooked web searches:  
+[Million Short☁](https://millionshort.com/)
+
+## Websites
+
+Block scripts/ads:  
+[NoScript⇉](https://noscript.net/),
+[uBlock Origin⇉](https://github.com/gorhill/uBlock/)
+
+Block chat widgets:  
+[Hello, Goodbye⇉](https://hellogoodbye.app/)
+
 ## Downloading
 
 Download manager:  
@@ -99,6 +117,11 @@ Internet bookmarks:
 
 Decentralized music server:  
 [Funkwhale](https://funkwhale.audio/)
+
+## Games
+
+Pausing any game:  
+[Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
 
 ## Specific Content
 

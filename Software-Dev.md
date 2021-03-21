@@ -50,3 +50,7 @@ Public-access APIs:
 
 Dynamic checking - C:  
 [Checked C](https://github.com/Microsoft/checkedc)
+
+## Automatic Code Completion
+
+[Kite](https://www.kite.com/)

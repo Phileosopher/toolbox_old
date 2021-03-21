@@ -12,6 +12,9 @@ UX rules:
 Paper sizes:  
 [PaperSizes*](https://papersizes.io/)
 
+Device metrics:  
+[How to Find Device Metrics for Any Screen*](https://material.io/blog/device-metrics)
+
 ## Design Interfaces
 
 Animations:  
@@ -26,6 +29,9 @@ Graphics:
 [Blender⊞■⌘🐧](https://www.blender.org/),
 [LibreCAD⊞■⌘🐧](https://librecad.org/)
 
+Icons/cursors:  
+[GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
+
 Logo builder:  
 [Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),
 [Logo by ShapeFactory☁](https://logo.shapefactory.co/),
@@ -38,24 +44,11 @@ PDF elements:
 [Ipe⊞⌘🐧](http://ipe.otfried.org/)
 
 Vector graphics/illustrations:  
+[Adobe Illustrator CS Scripts⇉](http://shspage.com/aijs/en/)
 [Canva☁](https://www.canva.com/),
 [Gravit Designer⊞⌘🐧](https://www.designer.io/en/),
 [Icons8's Vector Creator☁](https://icons8.com/vector-creator),
 [Inkscape⊞■⌘🐧](https://inkscape.org/)
-
-## Design Interfaces - Icons
-
-Icons/cursors:  
-[GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
-
-Favicons:  
-[favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
-[Real Favicon Generator☁](https://realfavicongenerator.net/),
-[SVG Favicon Maker☁](https://formito.com/tools/favicon),
-[Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
-
-App icons:  
-[App Icon Generator☁](https://appicon.co/)
 
 ## Design Interfaces - 3D
 

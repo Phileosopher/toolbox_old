@@ -1,5 +1,8 @@
 # Hardware: Files/OS
 
+Tech support basic information:  
+[About My Browser☁](https://aboutmybrowser.com/)
+
 ## File Search
 
 Text in files:  

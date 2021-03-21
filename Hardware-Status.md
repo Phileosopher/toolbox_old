@@ -36,6 +36,7 @@ Laptop Battery:
 ## Planning
 
 PC builds:  
+[Pangoly's PC configurator☁](https://pangoly.com/en/pc-configurator)
 [PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
 
 Hardware upgrade:  

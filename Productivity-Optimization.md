@@ -2,14 +2,21 @@
 
 ## Time Management
 
-Time Tracking:  
+Time tracking:  
 [ActivityWatch⊞⌘🐧🍎🤖⇉](https://activitywatch.net/),
+[Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
 [ProcrastiTracker⊞](http://strlen.com/procrastitracker/),
 [Toggl Track☁](https://toggl.com/)
 
-Gantt Charts:  
+Gantt charts:  
+[Manual Gantt Charting in Excel*](https://davidseah.com/node/manual-gantt-charting-in-excel/)
 [TeamGantt☁](https://www.teamgantt.com/)
 
+Small calendar:  
+[The Compact Calendar*](https://davidseah.com/node/compact-calendar/)
+
+Work-life balance:  
+[Day Grid Balancer*](https://davidseah.com/node/the-day-grid-balancer/)
 ## Focus
 
 Timer:  
@@ -28,9 +35,10 @@ Ambient noise:
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)
 
-App blocking:  
+App/site blocking:  
 [Cold Turkey⊞⌘](https://getcoldturkey.com/),
-[Cold Turkey Micromanager⊞](https://getcoldturkey.com/micromanager/)
+[Cold Turkey Micromanager⊞](https://getcoldturkey.com/micromanager/),
+[Intention⇉](https://www.getintention.com/)
 
 Mouse jiggler (keep screensaver/sleep from activating):  
 [Mouse Jiggler⊞](https://mouse-jiggler.en.lo4d.com/windows)

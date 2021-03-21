@@ -12,10 +12,12 @@ Church events:
 
 ## Editing
 
-Video:  
 [Story Creator☁](https://storycreatorapp.com/),
 [Kdenlive⊞■⌘🐧](https://kdenlive.org/),
 [DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+Team editing:  
+[Motionbox☁](https://motionbox.io/)
 
 File conversion/recording:  
 [FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)

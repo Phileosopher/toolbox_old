@@ -5,6 +5,9 @@ Videos:
 [Vimeo☁](https://vimeo.com/watch),
 [NewPipe (for YouTube)🤖](https://newpipe.schabi.org/)
 
+Shared screen experience:  
+[Kosmi☁](https://kosmi.io/)
+
 Multi-user management:  
 [TweetDeck☁](https://tweetdeck.twitter.com/)
 
@@ -20,3 +23,6 @@ Creator-based:
 
 Cross-platform influencer following:  
 [Fraidycat⇉⊞⌘🐧](https://fraidyc.at/)
+
+Watch movies together remotely:  
+[Binge Together☁](https://bingetogether.com/)

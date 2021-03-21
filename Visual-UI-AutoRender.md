@@ -26,6 +26,20 @@ Text-to-handwriting:
 Triangle patterns:  
 [Trianglify.io☁](https://trianglify.io/)
 
+## Elements - Icons
+
+Favicons:  
+[favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
+[Real Favicon Generator☁](https://realfavicongenerator.net/),
+[SVG Favicon Maker☁](https://formito.com/tools/favicon),
+[Favicon Cheat Sheet*](http://github.com/audreyr/favicon-cheat-sheet)
+
+App icons:  
+[App Icon Generator☁](https://appicon.co/)
+
+QR codes:  
+[QR picture☁](https://www.qrpicture.com/)
+
 ## Effects
 
 Shadows:  

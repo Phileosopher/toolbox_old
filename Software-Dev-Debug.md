@@ -16,6 +16,7 @@ UUID/GUID generator:
 [PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
 
 Fuzzing:  
+[Big List of Naughty Strings🐍](https://github.com/minimaxir/big-list-of-naughty-strings)
 [Microsoft's OneFuzz](https://github.com/microsoft/onefuzz)
 
 ## Manual Debugging

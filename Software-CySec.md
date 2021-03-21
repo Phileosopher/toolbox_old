@@ -13,10 +13,6 @@ Browser fingerprint:
 [AmIUnique☁](https://amiunique.org/),
 [Google's Browserinfo☁](https://toolbox.googleapps.com/apps/browserinfo/),
 
-Browser content blocking:  
-[NoScript⇉](https://noscript.net/),
-[uBlock Origin⇉](https://github.com/gorhill/uBlock/)
-
 Email breach search:  
 [have i been pwned?☁](https://haveibeenpwned.com/)
 

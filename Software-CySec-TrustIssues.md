@@ -20,8 +20,9 @@ Post-it note/sticker over built-in camera
 Account deleter:  
 [Account Killer☁](https://www.accountkiller.com/en/popular)
 
-Ads opt-out:  
-[Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/)
+Information-gathering opt-out:  
+[Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/),
+[Simple Opt Out](https://simpleoptout.com/)
 
 Scam reporting:  
 [ACCC Where to get help☁ (Australia)](https://www.scamwatch.gov.au/get-help/where-to-get-help#report-scams-to-the-authorities),
@@ -43,13 +44,10 @@ App store:
 
 ## Against Google
 
+[degoogle☁](https://degoogle.jmoore.dev/),
 [No More Google☁](https://nomoregoogle.com/)
 
-Search engine:  
-[Qwant☁](https://www.qwant.com/),
-[searx☁](https://searx.space/)
-
-Get APK files:  
+APK files:  
 [APK-DL☁](https://apk-dl.com/),
 [APKMirror☁](https://www.apkmirror.com/)
 [Evozi's APK Downloader☁](https://apps.evozi.com/apk-downloader/)

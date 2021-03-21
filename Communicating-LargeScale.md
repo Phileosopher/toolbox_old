@@ -31,9 +31,8 @@ Social media listening:
 [Notify☁](https://notify.ly/),
 [Mention☁](https://mention.com/)
 
-Popular retail trends:  
-[Google's Rising Retail Categories☁](https://www.thinkwithgoogle.com/feature/category-trends/),
-[Google Shopping Insights☁](https://shopping.thinkwithgoogle.com/)
+Popular trends:  
+[Exploding Topics☁](https://explodingtopics.com/)
 
 The first tweet of something:  
 [First Tweet☁](http://ctrlq.org/first/)

@@ -65,6 +65,7 @@ Citations:
 [Citation Generator☁](https://www.citationgenerator.com/)
 
 Journaling:  
+[Diary Email☁](https://diaryemail.com/)
 [Ponder⇉](https://getponder.app/)
 [RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 

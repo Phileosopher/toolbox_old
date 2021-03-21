@@ -45,6 +45,7 @@ Fix image blur:
 [SmartDeblur⊞⌘](http://smartdeblur.net/)
 
 Remove backgrounds:  
+[Clipping Magic☁](https://clippingmagic.com/),
 [remove bg☁](https://www.remove.bg/),
 [SocialBook's Background Remover☁](https://socialbook.io/remove-background)
 
