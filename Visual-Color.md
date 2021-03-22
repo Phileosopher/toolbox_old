@@ -44,6 +44,7 @@ Gradients:
 [ColorBox by Lyft Design*](https://www.colorbox.io/), [Color Curves*](https://colorcurves.app/), [ColorKit*](https://colorkit.io/),
 [Grabient*](https://www.grabient.com/), [Gradient Hunt*](https://gradienthunt.com/), [Gradienta*](https://gradienta.io/), [Gradient by ShapeFactory*](https://gradient.shapefactory.co/), [Gradihunt*](https://gradihunt.com/),
 [IRA Design*](https://iradesign.io/),
+[MagicPattern's Gradient Generator☁](https://www.magicpattern.design/tools/gradient-generator),
 [uiGradients*](https://uigradients.com/),
 [WebGradients*](https://webgradients.com/)
 

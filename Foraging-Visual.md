@@ -69,13 +69,16 @@ Landing pages:
 [Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline), [Mono Icons](https://icons.mono.company/), [Myiconfinder](http://www.myiconfinder.com/),
 [Noun Project](https://thenounproject.com/),
 [Remix Icon](https://remixicon.com/), [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/),
-[Simple Icons](https://simpleicons.org/), [Streamline Icons](https://www.streamlineicons.com), [SVG Icons](http://svgicons.sparkk.fr/), [System UIcons](https://systemuicons.com/),
+[Simple Icons](https://simpleicons.org/), [Streamline Icons](https://www.streamlineicons.com), [Studyum 3D icons](https://studyum.store/), [SVG Icons](http://svgicons.sparkk.fr/), [System UIcons](https://systemuicons.com/),
 [Tabler Icons](https://tablericons.com/), [Typicons](https://www.s-ings.com/typicons/),
 [Unicons by iconscout](https://iconscout.com/unicons), [UXWing](https://uxwing.com/),
 [vivid.js](https://webkul.github.io/vivid/)
 
 Low-memory icons:  
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
+
+Emojis:  
+[Sensa Emoji](https://sensa.co/emoji/)
 
 ## Mockup templates
 
@@ -86,13 +89,13 @@ Low-memory icons:
 [Lstore Graphics' Free Mockups](https://www.ls.graphics/free-mockups),
 [Mockup World](https://www.ls.graphics/free-mockups)
 
-## PPT/Google Slideshow Templates
+## Slideshow Templates
 
 [SlidesCarnival](https://www.slidescarnival.com/)
 
 ## SVGs/Illustrations/Animations
 
-[Absurd Design](https://absurd.design/), [Avataaars](https://avataaars.com/),
+[Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/), [Avataaars](https://avataaars.com/),
 [Black Illustrations](https://www.blackillustrations.com/), [Bulbman](https://bulbman.art/),
 [DrawKit](https://www.drawkit.io/), [Dash Illustrations](https://www.karthiksrinivas.in/dash), [Delesign's Free Illustrations](https://www.delesign.com/free-designs/graphics),
 [Getillustrations.com's Ghost Builder](https://getillustrations.com/illustration-pack/ghost-illustrations-builder), [Glaze](https://www.glazestock.com/),

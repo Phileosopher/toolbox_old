@@ -12,18 +12,23 @@ Annotation styling:
 
 Blobs:  
 [z creative labs' Blobmaker☁](https://www.blobmaker.app/),
-[Blobs☁](https://blobs.app/)
+[Blobs☁](https://blobs.app/),
+[MagicPattern's Blob Generator☁](https://www.magicpattern.design/tools/blob-generator),
+[MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds),
 
 Live backgrounds:  
 [makebackground.io☁](https://makebackground.io/)
 
-SVG waves:  
-[Get Waves☁](https://getwaves.io/)
-
 Text-to-handwriting:  
 [Calligrapher.ai☁](https://www.calligrapher.ai/)
 
-Triangle patterns:  
+Geometric patterns:  
+[MagicPattern's CSS Background Patterns☁](https://www.magicpattern.design/tools/css-backgrounds)
+
+Geometric patterns - SVG waves:  
+[Get Waves☁](https://getwaves.io/)
+
+Geometric patterns - triangles:  
 [Trianglify.io☁](https://trianglify.io/)
 
 ## Elements - Icons

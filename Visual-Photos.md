@@ -46,11 +46,15 @@ Fix image blur:
 
 Remove backgrounds:  
 [Clipping Magic☁](https://clippingmagic.com/),
+[removal.ai](https://removal.ai),
 [remove bg☁](https://www.remove.bg/),
 [SocialBook's Background Remover☁](https://socialbook.io/remove-background)
 
 Recover text from pixelized images:  
 [Depix](https://github.com/beurtschipper/Depix)
+
+Add grain:  
+[MagicPattern's Add Grain To Images☁](https://www.magicpattern.design/tools/add-grain-to-images)
 
 ## Image Optimization
 

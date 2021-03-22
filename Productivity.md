@@ -12,6 +12,9 @@ Kanban boards:
 
 ## Idea-Gathering
 
+Expiring patents:  
+[PatentsExpiringToday.com☁](https://patentsexpiringtoday.com/)
+
 Flowcharts:  
 [diagrams.net☁⊞⌘🐧](https://www.diagrams.net/),
 [Lucidchart☁](https://www.lucidchart.com/)
