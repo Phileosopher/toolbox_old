@@ -1,5 +1,8 @@
 # Consuming
 
+Speed-reading:  
+[BeeLine Reader🍎🤖⇉](https://www.beelinereader.com/)
+
 ## Web searches
 
 Search engine:  

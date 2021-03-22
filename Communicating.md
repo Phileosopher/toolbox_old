@@ -9,8 +9,11 @@ Link shortener:
 Videoconferencing/screensharing/phone:  
 [Jitsi Meet☁🍎🤖](https://meet.jit.si/)
 
-Videoconferencing with facial tracking:  
+Video calls with facial tracking:  
 [Around](https://www.around.co/)
+
+Video calls with custom effects:  
+[mmhmm⊞](https://www.mmhmm.app/)
 
 Webpage markups:  
 [Marker.to⇉](http://marker.to/)

@@ -67,6 +67,7 @@ Gain adjustment:
 [MP3Gain⊞](http://mp3gain.sourceforge.net/)
 
 Metadata:  
+[Discogs*](https://www.discogs.com/)
 [Mp3tag⊞■⌘](https://www.mp3tag.de/en/),
 [MusicBrainz Picard⊞■⌘🐧](https://picard.musicbrainz.org/)
 

@@ -38,6 +38,7 @@ Temporary email:
 [Maildrop☁](https://maildrop.cc/),
 [10 minute mail☁](https://10minutemail.com/),
 [Email On Deck☁](https://www.emailondeck.com/),
+[Firefox Relay⇉](https://relay.firefox.com/accounts/profile/),
 [guerrillamail.com☁](https://www.guerrillamail.com/)
 
 Sending corrupted files:  

@@ -11,6 +11,9 @@ General design:
 Spatial dimensions:  
 [Dimensions.com☁](https://www.dimensions.com/)
 
+Mechanical programming:  
+[MockMechanics⊞🐧](https://mockmechanics.com/)
+
 ## Simulations
 
 Mechanical experimentation:  

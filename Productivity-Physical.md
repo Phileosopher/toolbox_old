@@ -2,6 +2,9 @@
 
 ## Food
 
+Diet management:  
+[Eat This Much☁🍎🤖](https://www.eatthismuch.com/)
+
 Grocery management:  
 [grocy☁⊞🍎🤖](https://grocy.info/)
 
