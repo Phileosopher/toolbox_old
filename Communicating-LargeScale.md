@@ -16,6 +16,10 @@ Image posts:
 [Pablo by Buffer☁](https://pablo.buffer.com/),
 [Remix by Buffer🍎🤖](https://buffer.com/remix)
 
+Emails:  
+[Buttondown☁](https://buttondown.email/),
+[Mailchimp](https://www.mailchimp.com/)
+
 ## Websites/Profiles
 
 [about.me☁](https://about.me),

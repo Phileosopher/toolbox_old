@@ -24,16 +24,30 @@ Titling:
 
 ## Inspiration - Content
 
+Dictionary:  
+[Dictionary.com☁](https://www.dictionary.com/)
+
+Definition search:  
+[Reverse Dictionary☁](https://reversedictionary.org/)
+
 Historical word usage:  
 [Google Books Ngram Viewer☁](https://books.google.com/ngrams),
-[Online Etymology Dictionary☁](https://www.etymonline.com/)
+[Online Etymology Dictionary☁](https://www.etymonline.com/),
+[Wordsworth☁](http://www.wordsworth.us/)
 
-Thesaurus/Dictionary:  
-[wordhippo☁](https://www.wordhippo.com/),
+Thesaurus:  
 [Artha⊞■🐧](http://artha.sourceforge.net/),
+[Thesaurus.com☁](https://www.thesaurus.com/),
+[wordhippo☁](https://www.wordhippo.com/)
 
-Translation:  
-[Google Translate☁](https://translate.google.com/)
+Rhymes:  
+[RhymeZone☁](https://www.rhymezone.com/)
+
+Adjectives:  
+[Describing Words☁](https://describingwords.io/)
+
+Similar words:  
+[Related Words☁](https://relatedwords.org/)
 
 Word pronunciation:  
 [YouGlish☁](https://youglish.com/)

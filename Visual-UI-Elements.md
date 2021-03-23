@@ -1,14 +1,31 @@
-# Visual: UI - Auto-Rendered
+# Visual: UI - Elements
 
-## Auto-Styling
+## Environment Styling
 
 Dark mode:  
 [Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
 
-## Elements
+## Text Styling
 
 Annotation styling:  
 [RoughNotation](https://roughnotation.com/)
+
+Text-to-handwriting:  
+[Calligrapher.ai☁](https://www.calligrapher.ai/)
+
+## Background Styling
+
+Live backgrounds:  
+[makebackground.io☁](https://makebackground.io/)
+
+Geometric patterns:  
+[Gradienta*](https://gradienta.io/),
+[MagicPattern's CSS Background Patterns☁](https://www.magicpattern.design/tools/css-backgrounds)
+
+Geometric patterns - triangles:  
+[Trianglify.io☁](https://trianglify.io/)
+
+## Background Styling - Specific Elements
 
 Blobs:  
 [z creative labs' Blobmaker☁](https://www.blobmaker.app/),
@@ -16,22 +33,10 @@ Blobs:
 [MagicPattern's Blob Generator☁](https://www.magicpattern.design/tools/blob-generator),
 [MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds),
 
-Live backgrounds:  
-[makebackground.io☁](https://makebackground.io/)
-
-Text-to-handwriting:  
-[Calligrapher.ai☁](https://www.calligrapher.ai/)
-
-Geometric patterns:  
-[MagicPattern's CSS Background Patterns☁](https://www.magicpattern.design/tools/css-backgrounds)
-
-Geometric patterns - SVG waves:  
+SVG waves:  
 [Get Waves☁](https://getwaves.io/)
 
-Geometric patterns - triangles:  
-[Trianglify.io☁](https://trianglify.io/)
-
-## Elements - Icons
+## Icons
 
 Favicons:  
 [favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
@@ -50,7 +55,7 @@ QR codes:
 Shadows:  
 [brumm.af's SmoothShadows☁](https://brumm.af/shadows)
 
-Frosted glass aesthetic:  
+Frosted glass:  
 [Glassmorphism☁](https://glassmorphism.com/)
 
 ## 3D Elements

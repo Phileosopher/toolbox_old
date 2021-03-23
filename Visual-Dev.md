@@ -30,3 +30,6 @@ Linting - JS:
 
 Final testing:  
 [Facebook's Playable Preview☁](https://developers.facebook.com/tools/playable-preview/)
+
+Color matching:  
+[Hex Naw☁](https://hexnaw.com/)

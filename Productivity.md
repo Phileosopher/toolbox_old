@@ -26,6 +26,9 @@ Reference images/visual boards:
 Research collection:  
 [Zotero](https://www.zotero.org/)
 
+Creative writing collection:  
+[Scrivener⊞⌘🍎](https://www.literatureandlatte.com/scrivener/overview)
+
 ## Text Notes
 
 Quick notes/sporadic:  

@@ -4,6 +4,9 @@ Link shortener:
 [bitly☁](https://bitly.com/),
 [TinyURL☁](https://tinyurl.com)
 
+Language translation:  
+[DeepL☁](https://www.deepl.com/translator)
+
 ## Real-Time
 
 Videoconferencing/screensharing/phone:  

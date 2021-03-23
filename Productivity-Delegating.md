@@ -34,6 +34,11 @@ College professors:
 [Coursera's Expert Network☁](https://experts.coursera.org/),
 [Expertise Finder☁](https://expertisefinder.com/)
 
+Book reviews:  
+[IndieView's Indie Book Reviewers List☁](https://www.theindieview.com/indie-reviewers/),
+[Midwest Book Review☁](https://www.midwestbookreview.com/get_rev.htm),
+[Self-Publishing Review☁](https://www.selfpublishingreview.com/)
+
 Self-help advice:  
 [Self-Growth.com's Expert Search☁](https://www.selfgrowth.com/experts.html)
 

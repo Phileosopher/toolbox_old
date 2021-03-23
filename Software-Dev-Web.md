@@ -23,12 +23,6 @@ Free domains:
 Domain expiration checker:  
 [Domain Expiry Date Checker☁](https://www.websiteplanet.com/webtools/check-domain/)
 
-## Publishing
-
-Newsletter:  
-[Buttondown☁](https://buttondown.email/)
-[MailPoet⇉](https://www.mailpoet.com/)
-
 ## Testing - Speed
 
 HTTP testing:  
@@ -91,6 +85,12 @@ Google business review link generator:
 
 Local business schema generator:  
 [Supple's Local Business Schema Generator☁](https://supple.com.au/tools/local-business-schema-generator/)
+
+
+## SEO - Publishing
+
+Emails:  
+[MailPoet(WordPress)⇉](https://www.mailpoet.com/)
 
 ## Tracking
 

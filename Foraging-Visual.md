@@ -26,7 +26,7 @@
 [LibreStock](https://librestock.com/), [Life of Pix](https://www.lifeofpix.com/),
 [Magdeleine](https://magdeleine.co/), [Morguefile](https://morguefile.com/photos),
 [Negative Space](https://negativespace.co/), [New Old Stock](https://nos.twnsnd.co/),
-[picjumbo](https://picjumbo.com/), [Picography](https://picography.co), [picspree](https://picspree.com/), [pikwizard](https://pikwizard.com/), [Pixelmob](https://pixelmob.co/),
+[picjumbo](https://picjumbo.com/), [Picography](https://picography.co), [picspree](https://picspree.com/), [pikwizard](https://pikwizard.com/), [Pixabay](https://pixabay.com), [Pixelmob](https://pixelmob.co/),
 [Realistic Shots](https://realisticshots.com/), [Reshot](https://www.reshot.com/),
 [Shopify's Burst](https://burst.shopify.com/), [Skitterphoto](https://skitterphoto.com/), [SKUAWK](http://skuawk.com/), [Stock Up](https://www.sitebuilderreport.com/stock-up/), [Stockified](https://www.stockified.com/), [StockSnap.io](https://stocksnap.io/), [Stockvault](https://www.stockvault.net/), [stokpic](https://stokpic.com/),
 [Unsplash](https://unsplash.com/),
@@ -43,7 +43,8 @@
 ## Stock Photos - Maps
 
 [Dave Rumsey Historical Map Collection](https://www.davidrumsey.com/),
-[George II Topographical Collection](https://www.flickr.com/photos/tags/georgeiiitopographicalcollection)
+[George II Topographical Collection](https://www.flickr.com/photos/tags/georgeiiitopographicalcollection),
+[Old Maps Online](https://www.oldmapsonline.org/)
 
 ## Stock photos - Web Images
 
@@ -100,7 +101,7 @@ Emojis:
 [DrawKit](https://www.drawkit.io/), [Dash Illustrations](https://www.karthiksrinivas.in/dash), [Delesign's Free Illustrations](https://www.delesign.com/free-designs/graphics),
 [Getillustrations.com's Ghost Builder](https://getillustrations.com/illustration-pack/ghost-illustrations-builder), [Glaze](https://www.glazestock.com/),
 [Hero Patterns](https://www.heropatterns.com/), [Humaaans](https://www.humaaans.com/),
-[Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/),
+[Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/), [IRA Design](https://iradesign.io/gallery/illustrations),
 [Karthic Srinivas' Illustrations](https://www.karthiksrinivas.in/illustrations),
 [Lukasz Adam's Free Illustrations](https://lukaszadam.com/illustrations),
 [Manuela Langella's Retroooo Folks!](https://www.manuelalangella.com/retroooo-folks/), [ManyPixels' Illustration Gallery](https://www.manypixels.co/gallery/),

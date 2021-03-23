@@ -86,6 +86,9 @@ Mockups:
 [Threed.io☁](https://threed.io/),
 [Web App Mockups (Figma)⇉](https://www.figma.com/community/file/945035983482109746)
 
+Mockups - book covers:  
+[DIY Book Cover's 3D Book Cover Creator☁](https://diybookcovers.com/3Dmockups/)
+
 Desktop publishing:  
 [Microsoft Sway☁](https://sway.office.com),
 [Scribus⊞■⌘🐧](https://www.scribus.net/)
