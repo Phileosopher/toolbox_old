@@ -32,3 +32,10 @@ Laptop/tablet:
 Phone:  
 [PINEPHONE](https://www.pine64.org/pinephone/),
 [Purism's Librem](https://puri.sm/products/librem-5/)
+
+## Repairs
+
+[Fix-It Club*](https://fixitclub.com/)
+
+Repair clay/glue:  
+[Sugru](https://sugru.com/)

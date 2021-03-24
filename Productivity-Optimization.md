@@ -39,15 +39,24 @@ Ambient noise:
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)
 
+## OS Tweaking
+
 App/site blocking:  
 [Cold Turkey⊞⌘](https://getcoldturkey.com/),
 [Cold Turkey Micromanager⊞](https://getcoldturkey.com/micromanager/),
+[Freedom⊞⌘🍎🤖⇉](https://freedom.to/),
 [Intention⇉](https://www.getintention.com/)
 
-Mouse jiggler (keep screensaver/sleep from activating):  
-[Mouse Jiggler⊞](https://mouse-jiggler.en.lo4d.com/windows)
+Interface config:  
+[FreeCommander⊞■](https://freecommander.com/en/summary/)
 
-## Keyboard Shortcuts
+Desktop icon positions:  
+[DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK)
+
+Automated actions:  
+[Macro Recorder - No more repetitive tasks - Mouse and Keyboard Capture](https://www.macrorecorder.com/)
+
+## OS Tweaking - Keyboard Shortcuts
 
 Built-in:
 [Universal Shortcuts*](https://stucky.tech/toolbox/u),
@@ -57,9 +66,6 @@ Built-in:
 Keyboard macros:  
 [AutoHotkey⊞](https://www.autohotkey.com/),
 [TinyTask⊞■](https://thetinytask.com/)
-
-Extra keypad:  
-[Razer Tartarus(buy)](https://www.razer.com/search/tartarus)
 
 Facial movement tracking:  
 [Movement Tracking(Github)⊞■⌘🐧](https://github.com/surya-veer/movement-tracking),
@@ -73,14 +79,11 @@ Keys to gamepad:
 Text substitution:  
 [Texter⊞■](https://texter.en.softonic.com/)
 
-Design-specific shortcuts:  Optimization - .io/),
-[FreeCommander⊞■](https://freecommander.com/en/summary/)
-
 Virtual desktops:  
 [VirtuaWin⊞■](https://virtuawin.sourceforge.io/)
 
-Secondary/gaming keypad (for faster macros)
-
+Extra keypad:  
+[Razer Tartarus(buy)](https://www.razer.com/search/tartarus),
 10-key pad (for small laptops)
 
 USB extensions and hubs (to avoid constant swapping)

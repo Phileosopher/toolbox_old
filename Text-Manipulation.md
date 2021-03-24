@@ -1,7 +1,9 @@
 # Text: Manipulation
+
 ## PDF/ebook Editing
 
 Editor:  
+[PDF24⊞☁](https://en.pdf24.org/)
 [PDFescape☁](https://www.pdfescape.com/windows/),
 [PDF-XChange Editor⊞■](https://pdf-xchange.eu/pdf-xchange-editor/index.htm),
 [PDFTK Builder⊞■](http://www.angusj.com/pdftkb/)

@@ -6,6 +6,11 @@ Possible projects:
 Open-source licenses:  
 [Choose a License*](https://choosealicense.com/)
 
+Tutorials:  
+[Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
+
+## Productivity Improvement
+
 IDEs:  
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),
 [GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/),
@@ -13,11 +18,8 @@ IDEs:
 [Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
 [VSCodium⊞⌘🐧](https://vscodium.com/)
 
-Tutorials:  
-[Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
-
-AWS:  
-[Amazon Web Services (explained on one line each)*](https://adayinthelifeof.nl/2020/05/20/aws.html)
+Distraction-free coding videos:  
+[CodeOnVideo☁](https://codeonvideo.com/)
 
 ## Existing Source Code
 

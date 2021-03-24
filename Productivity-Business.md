@@ -1,20 +1,22 @@
-# Creating: Planning/Optimization - Business
+# Productivity: Business
+
+## Idea-Gathering
+
+Expiring patents:  
+[PatentsExpiringToday.com☁](https://patentsexpiringtoday.com/)
 
 ## Small-Scale All-In-One
 
 [Bonsai](https://www.hellobonsai.com/),
 [FloTask](https://flotask.webflow.io/)
 
-## Business Calculators
+## Startups
 
 Startup profitability calculator:  
 [Startup Growth Calculator☁](http://growth.tlb.org/#)
 
 Stock option outcome calculator:  
 [TLDR Stock Options☁](https://tldroptions.io/)
-
-Marketing ROI calculator:  
-[Fractl Content ROI Calculator☁](http://frac.tl/content-roi-calc/)
 
 ## Microfinance/POS
 
@@ -31,7 +33,7 @@ Invoices - Bitcoin-based:
 [Zaprite☁](https://zaprite.com/)
 
 ## Crowdfunding
-  
+
 [GoFundMe☁](https://www.gofundme.com/),
 [Indiegogo☁](https://www.indiegogo.com/)
 
@@ -50,29 +52,26 @@ Creatives:
 Games:  
 [fig.co☁](https://www.fig.co/)
 
-## Accounting/ERP/CRM
-
-Accounting all-in-one:  
-[Wave Financial☁](https://www.waveapps.com)
-
-ERP/CRM:  
-[Dolibarr⊞🐧](https://www.dolibarr.org/),
-[iDempiere⊞🐧](https://www.idempiere.org/),
-[inoERP⊞🐧](http://www.inoideas.org/),
-[metasfresh🐧](https://metasfresh.com/en)
-
-Accounting/ERP software:  
-[GnuCash⊞■⌘🐧](https://www.gnucash.org/),
-[KMyMoney⊞⌘🐧](https://kmymoney.org/),
-[LedgerSMB🐧](https://ledgersmb.org/),
-[SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
-
 ## Marketing Back-End
+
+Marketing ROI calculator:  
+[Fractl Content ROI Calculator☁](http://frac.tl/content-roi-calc/)
+
+Monetization:  
+[YouTube Money Calculator☁](https://commentpicker.com/youtube-money-calculator.php)
 
 CRM:  
 [CiviCRM⊞🐧](https://civicrm.org/),
 [Dex☁🍎🤖](https://getdex.com/),
 [Monica☁](https://github.com/monicahq/monica)
+
+Data from existing content:  
+[Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
+[Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
+[Export Instagram Comments to Excel & CSV☁](https://commentpicker.com/export-comments-instagram.php),
+[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php),
+[YouTube Tag Extractor☁](https://commentpicker.com/youtube-tag-extractor.php),
+[YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php)
 
 Market surveys:  
 [OpinionX](https://www.opinionx.co/),
@@ -83,31 +82,3 @@ Market surveys:
 
 Niche branding:  
 [ExpertFile](https://expertfile.com/)
-
-## Financial Planning/Investing
-
-Banking - online:  
-[Ally☁](https://www.ally.com/)
-
-Banking - for teens:  
-[Step☁](https://step.com/)
-
-Market terminal:  
-[GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal)
-
-Positions:  
-[Personal Capital☁](https://www.personalcapital.com/)
-
-Debt management:  
-[Debt-Dash☁](https://www.debt-dash.io/)
-
-Investing:  
-[investorjunkie☁](https://investorjunkie.com/)
-
-Investing - VC firms:  
-[Open VC☁](https://www.openvc.app/)
-
-## Financial Planning/Investing - Consumer Goods
-
-Product comparison charts:  
-[Product Chart☁](https://www.productchart.com/)

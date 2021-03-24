@@ -10,14 +10,29 @@ Linting:
 Unix-like terminal:  
 [fastmac (via Github Actions)](https://github.com/fastai/fastmac/)
 
-## Input Errors
+## Input Errors/Fuzzing
 
-UUID/GUID generator:  
+MAC:  
+[MAC address generator☁](https://commentpicker.com/mac-address-generator.php)
+
+UUID/GUID:  
 [PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
 
-Fuzzing:  
-[Big List of Naughty Strings🐍](https://github.com/minimaxir/big-list-of-naughty-strings)
+IP addresses:  
+[IP address generator☁](https://commentpicker.com/ip-address-generator.php)
+
+Text:  
+[Big List of Naughty Strings🐍](https://github.com/minimaxir/big-list-of-naughty-strings),
 [Microsoft's OneFuzz](https://github.com/microsoft/onefuzz)
+
+Images:  
+[Random Bitmap Generator☁](https://www.random.org/bitmaps/)
+
+Raw data:  
+[RANDOM.ORG's Pregenerated File Archive](https://archive.random.org/)
+
+Audio:  
+[Audio Noise Generator☁](https://www.random.org/audio-noise/)
 
 ## Manual Debugging
 

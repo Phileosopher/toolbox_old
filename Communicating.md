@@ -55,4 +55,6 @@ Drawn images:
 
 [Meetup☁🍎🤖](https://www.meetup.com/)
 
-[Naming Babies☁](https://deckofnames.com/)
+Gift registry:  
+[Giftster☁](https://www.giftster.com/),
+[Honeyfund☁](https://www.honeyfund.com/)

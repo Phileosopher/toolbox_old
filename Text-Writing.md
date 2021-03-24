@@ -52,6 +52,21 @@ Similar words:
 Word pronunciation:  
 [YouGlish☁](https://youglish.com/)
 
+Random words:  
+[Random Word Generator☁](https://commentpicker.com/random-word-generator.php)
+
+## Inspiration - Name Generators
+
+[Chaotic Shiny☁](https://www.chaoticshiny.com/),
+[Cult of Squid's Random Name Generator☁](https://squid.org/rpg-random-generator),
+[Darkest of Nights☁](https://www.darkestofnights.com/gens.php),
+[Eposic Generators☁](https://www.trollmystic.com/pub/category/generators/),
+[Fantasy name generators☁](https://www.fantasynamegenerators.com/),
+[Mithril & Mages☁](https://www.mithrilandmages.com/),
+[RanGen☁](https://www.rangen.co.uk/),
+[Serendipity☁](https://nine.frenchboys.net/),
+[Seventh Sanctum☁](https://www.seventhsanctum.com/)
+
 ## Word Processing
 
 Text editor:  
@@ -97,18 +112,29 @@ Wiki creation:
 
 ## Editing - Transcript
 
-Grammar/Spelling/Style Check:  
+Grammar/Spelling/Style check:  
 [After the Deadline☁](https://www.polishmywriting.com/),
 [Bullshit.js■⇉](https://mourner.github.io/bullshit.js/),
 [Grammarly⇉☁](https://app.grammarly.com/),
 [Hemingway App☁](http://www.hemingwayapp.com/),
 [Readable☁](https://app.readable.com/text/?demo)
 
-Counting:  
-[WordCounter.net's Editor Counter☁](https://wordcounter.net/edit-counter),
-[WordCounter.net's Character Counter☁](https://wordcounter.net/character-count),
-[WordCounter.net's Website Page Word Counter☁](https://wordcounter.net/website-word-count),
+Counting words:  
+[Comment Picker's Online Word & Characters Count Tool☁](https://commentpicker.com/word-counter.php)
+[WordCounter.net's Editor Counter☁](https://wordcounter.net/edit-counter)
+[WordCounter.net's Character Counter☁](https://wordcounter.net/character-count)
+
+Counting words - websites:  
+[WordCounter.net's Website Page Word Counter☁](https://wordcounter.net/website-word-count)
+
+Counting pages:  
 [WordCounter.net's Words Per Page☁](https://wordcounter.net/words-per-page)
+
+Copywriting freelancers:  
+[Copify UK☁](https://uk.copify.com/)
+
+Localization freelancers:  
+[Crowdin☁](https://crowdin.com/)
 
 ## Editing - Formatting
 

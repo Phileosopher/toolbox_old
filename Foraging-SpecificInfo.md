@@ -14,17 +14,17 @@ Search by image:
 
 ## Location-Based
 
+Businesses in an area:  
+[Yelp☁](https://www.yelp.com/)
+
 Maps/geolocation:  
 [OpenStreetMap☁](https://www.openstreetmap.org/about)
 
 Weather:  
 [Weather Underground☁](https://www.wunderground.com/)
 
-Device location tag:  
+Device's location tag:  
 [Where Am I☁](https://ctrlq.org/maps/where/)
-
-Traveling radius:  
-[OALLEY☁](https://www.oalley.net/)
 
 International time:  
 [Every Time Zone☁](https://everytimezone.com/)

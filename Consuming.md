@@ -1,7 +1,21 @@
 # Consuming
 
+## Reading
+
+Book reading estimation:  
+[How Long to Read☁](https://www.howlongtoread.com/)
+
 Speed-reading:  
 [BeeLine Reader🍎🤖⇉](https://www.beelinereader.com/)
+
+Jargon filter:  
+[Bullshit.js⇉](https://mourner.github.io/bullshit.js/)
+
+Language translation:  
+[DeepL☁](https://www.deepl.com/translator)
+
+Torah/Bible:  
+[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)
 
 ## Web searches
 
@@ -61,6 +75,9 @@ RSS:
 RSS-to-email:  
 [Blogtrottr☁](https://blogtrottr.com)
 
+Email rollup:  
+[Unroll.Me☁](https://unroll.me/)
+
 News aggregation:  
 [[INSIDE]☁](https://inside.com/)
 
@@ -80,11 +97,12 @@ Memorization/flashcards:
 [Mnemosyne⊞■⌘🐧🤖](https://mnemosyne-proj.org/),
 [Anki⊞⌘🐧🍎🤖](https://apps.ankiweb.net/)
 
-Language:  
-[Duolingo☁🍎🤖](https://www.duolingo.com/)
+English:  
+[Plain English Campaign*](https://www.plainenglish.co.uk/)
 
-Distraction-free coding videos:  
-[CodeOnVideo☁](https://codeonvideo.com/)
+Languages:  
+[Duolingo☁🍎🤖](https://www.duolingo.com/),
+[Memrise☁](https://www.memrise.com/)
 
 Machine learning research papers:  
 [OpenReview☁](https://openreview.net/)
@@ -135,11 +153,3 @@ Web browsing:
 
 Pausing any game:  
 [Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
-
-## Specific Content
-
-Language translation:  
-[DeepL☁](https://www.deepl.com/translator)
-
-Torah/Bible:  
-[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)

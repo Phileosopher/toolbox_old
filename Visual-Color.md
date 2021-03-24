@@ -26,6 +26,10 @@ Color name search:
 Color code reference:  
 [HTML Color Codes☁](https://htmlcolorcodes.com/)
 
+Random colors:  
+[Random Color Generator☁](https://commentpicker.com/random-color-generator.php),
+[Random Hex Color Code Generator☁](https://www.random.org/colors/hex)
+
 ## Palettes
 
 Tailored palettes:  
@@ -51,6 +55,7 @@ Pickers:
 [Material Design Color Palette Generator☁](https://www.materialpalette.com/),
 [Palettable☁](https://www.palettable.io),
 [Palette List☁](https://www.palettelist.com/)
+[WebBrowserTools' Color Picker☁](https://webbrowsertools.com/color-picker/)
 
 Color wheels:  
 [Adobe Color Wheel☁](https://color.adobe.com/create/color-wheel),

@@ -24,6 +24,7 @@ Tone generation:
 
 Recording/mixing audio:  
 [Audacity⊞■⌘🐧](https://www.audacityteam.org/),
+[Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [Ardour⊞⌘🐧](https://ardour.org/)
 

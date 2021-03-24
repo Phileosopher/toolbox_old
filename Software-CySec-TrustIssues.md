@@ -15,6 +15,7 @@ Automated legal services:
 [DoNotPay](https://donotpay.com/)
 
 Post-it note/sticker over built-in camera
+
 ## Against Private Organizations
 
 Account deleter:  
@@ -75,6 +76,3 @@ Image scrubbing:
 
 Photo IDs:  
 [IDPhotoStudio⊞■](https://kcsoftwares.com/?idps)
-
-Charities/NPO research:  
-[Charity Navigator☁](https://www.charitynavigator.org/)

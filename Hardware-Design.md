@@ -32,6 +32,9 @@ Circuit simulator:
 [Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html),
 [CircuitLab☁](https://www.circuitlab.com/)
 
+Circuit simulator - analog circuits:  
+[LTspice⊞⌘](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+
 Electronics design:  
 [Fritzing⊞⌘🐧](https://fritzing.org/)
 [KiCad⊞⌘🐧](https://www.kicad.org/)

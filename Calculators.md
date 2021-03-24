@@ -21,23 +21,33 @@ Measurement conversion:
 Country size conversion:  
 [The True Size Of...☁](https://thetruesize.com/)
 
-## Exercise
+## Random Generators
 
-Running comparison calculator:  
-[Running Level☁](https://runninglevel.com/)
+[RANDOM.ORG☁🤖](https://www.random.org/),
+[Random Picker☁](https://commentpicker.com/random-picker.php),
+[GeneratorLand.com☁](https://www.generatorland.com/)
 
-Weightlifting comparison calculator:  
-[Strength Level☁](https://strengthlevel.com/)
+Randomizers:  
+[Combination Generator☁](https://commentpicker.com/combination-generator.php),
+[List Randomizer☁](https://commentpicker.com/list-randomizer.php),
+[Name Picker☁](https://commentpicker.com/random-name-picker.php)
 
-## Generators
+Specific generators:  
+[Animals☁](https://commentpicker.com/random-animal-generator.php),
+[Calendar Date☁](https://www.random.org/calendar-dates/),
+[Dice☁](https://www.random.org/dice/)
+[Jazz Scales☁](https://www.random.org/jazz-scales/),
+[Letters☁](https://commentpicker.com/random-letter-generator.php),
+[Lottery Numbers☁](https://commentpicker.com/lottery-number-generator.php)
+[Numbers☁](https://commentpicker.com/random-number-generator.php)
 
-Random number generator:  
-[RANDOM.ORG☁🤖](https://www.random.org/)
+Specific generators - names:  
+[Baby Name Generator☁](https://commentpicker.com/baby-name-generator.php),
+[Deck of Names☁](https://deckofnames.com/),
+[Pet Name Generator☁](https://commentpicker.com/pet-name-generator.php),
+[Name Generator☁](https://commentpicker.com/random-name-generator.php)
 
-## Other
-
-Book reading estimation:  
-[How Long to Read☁](https://www.howlongtoread.com/)
-
-Renting vs. Buying calculator:  
-[NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
+Specific generators - geographic:  
+[Country☁](https://commentpicker.com/random-country-generator.php)
+[Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),
+[Capital Cities☁](https://commentpicker.com/random-capital-generator.php)
