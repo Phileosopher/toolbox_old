@@ -72,6 +72,10 @@ Site status (for when any code on the site itself changes):
 
 ## Learning
 
+College education:  
+[Coursera☁](https://www.coursera.org/),
+[Western Governors University☁](https://www.wgu.edu/)
+
 Memorization/flashcards:  
 [Mnemosyne⊞■⌘🐧🤖](https://mnemosyne-proj.org/),
 [Anki⊞⌘🐧🍎🤖](https://apps.ankiweb.net/)
@@ -125,6 +129,9 @@ Decentralized music server:
 [Funkwhale](https://funkwhale.audio/)
 
 ## Games
+
+Web browsing:  
+[Opera GX⊞](https://www.opera.com/gx)
 
 Pausing any game:  
 [Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)

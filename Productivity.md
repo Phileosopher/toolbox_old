@@ -35,6 +35,7 @@ Quick notes/sporadic:
 [notes.io☁](http://notes.io/)
 
 Notebooks:  
+[cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
 [Evernote☁🍎🤖⇉](https://evernote.com/),
 [Obsidian⊞⌘🐧](https://obsidian.md/),
 [QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/)
@@ -62,3 +63,8 @@ Progress tracking:
 
 To do lists:  
 [Todoist☁⊞⌘🐧🍎🤖⇉](https://todoist.com/)
+
+## OS Tweaking
+
+Desktop icon positions:  
+[DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK)

@@ -86,6 +86,12 @@ Niche branding:
 
 ## Financial Planning/Investing
 
+Banking - online:  
+[Ally☁](https://www.ally.com/)
+
+Banking - for teens:  
+[Step☁](https://step.com/)
+
 Market terminal:  
 [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal)
 

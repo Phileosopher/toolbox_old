@@ -11,9 +11,29 @@ PE format file analysis (.exe, .dll, .ocx, .bpl, et al):
 Window analysis:  
 [WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
 
+## Process Issues
+
+Locked files/folders:  
+[ThisIsMyFile⊞](https://www.softwareok.com/?seite=Freeware/ThisIsMyFile)
+
+Timed process killing:  
+[ProcessKO⊞](https://www.softwareok.com/?seite=Freeware/ProcessKO)
+
+Delete on reboot:  
+[Delete.On.Reboot⊞](https://www.softwareok.com/?seite=Freeware/Delete.On.Reboot)
+
+## Driver issues
+
+Display drivers:  
+[Display Driver Uninstaller⊞](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+
 ## Internet Issues
 
 [Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
+
+## Media Playback Issues
+
+[K-Lite Codec Pack⊞](https://codecguide.com/about_kl.htm)
 
 ## Registry
 

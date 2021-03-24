@@ -147,6 +147,9 @@ JavaScript browser test:
 Telnet/SSH client:  
 [PuTTY⊞■🐧](https://putty.org/)
 
+Web browser:  
+[Mozilla Firefox⊞■⌘🐧🍎🤖⇉](https://www.mozilla.org/en-US/firefox/)
+
 ## Remote Access
 
 Remote boot management:  

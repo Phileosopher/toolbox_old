@@ -96,6 +96,19 @@ VM manager:
 Macs:  
 [Docker-OSX(Docker)](https://github.com/sickcodes/Docker-OSX)
 
+## Cross-Platform - PC-to-Mobile
+
+[Wormhole⊞⌘🐧🍎🤖](https://er.run/)
+
+iOS - file management and jailbreak:  
+[3uTools⊞](https://www.3u.com/)
+
+Android - file management and root:  
+[Odin3⊞](https://odin3download.com/)
+
+Android - PC drivers:  
+[Samsung USB Drivers⊞](https://androidmtk.com/download-samsung-usb-drivers)
+
 ## Cross-Platform - Specific Platforms
 
 Linux:  
@@ -126,7 +139,14 @@ Split peripheral use on same device:
 
 ## Portable Computing
 
-Portable Apps:  
+BIN to ISO converter:  
+[WinBin2Iso⊞](https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
+
+Mount disk images:  
+[Brasero🐧](https://wiki.gnome.org/Apps/Brasero),
+[WinCDEmu⊞](https://wincdemu.sysprogs.org/)
+
+Portable apps:  
 [PortableApps.com⊞■](https://portableapps.com/)
 
 Portable OS:  
@@ -137,4 +157,7 @@ Portable USB/CD drive (from a phone's storage):
 [DriveDroid🤖](https://www.drivedroid.io/)
 
 Mouse jiggler (keep screensaver/sleep from activating):  
+[Caffeine⊞⌘](https://zhornsoftware.co.uk/caffeine/),
+[Don't Sleep⊞](https://www.softwareok.com/?seite=Microsoft/DontSleep),
+[Mouse Jiggler⊞](https://mousejiggler.org/),
 [ScreenSaver Mouse Jiggler (needs an Arduino)](https://github.com/nshadov/screensaver-mouse-jiggler)

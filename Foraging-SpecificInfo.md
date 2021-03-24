@@ -38,6 +38,9 @@ Nuclear detonations:
 Visa-based travel restrictions:  
 [Visa List☁](https://visalist.io/)
 
+Ship location:  
+[VesselFinder☁](https://www.vesselfinder.com/)
+
 ## Personally Relevant Information
 
 Flights:  
