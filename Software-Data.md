@@ -22,3 +22,7 @@ Approximate Spreadsheets:
 
 Barcodes:  
 [Zint Barcode Generator⊞■](https://sourceforge.net/projects/zint/)
+
+## Privacy Policy
+
+[PrivacyPolicy.com☁](https://www.privacypolicies.com/)

@@ -113,7 +113,8 @@ Site status:
 Site probe:  
 [builtWith☁⇉](https://builtwith.com/),
 [WhatRuns⇉](https://www.whatruns.com/),
-[WhoIsHostingThis☁](https://www.whoishostingthis.com/)
+[WhoIsHostingThis☁](https://www.whoishostingthis.com/),
+[Whois Lookup☁](https://whois.domaintools.com/)
 
 Traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
