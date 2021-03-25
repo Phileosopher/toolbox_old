@@ -55,13 +55,16 @@ APK files:
 
 Alternative Google Play Store:  
 [APKPure.com🤖](https://m.apkpure.com/),
-[Aptoide🤖](https://en.aptoide.com/)
+[Aptoide🤖](https://en.aptoide.com/),
 [F-Droid🤖](https://f-droid.org/)
 
 Google Play Services:  
 [MicroG Project🤖](https://microg.org/)
 
-## Against Others
+## Against Other Private Organizations
+
+Anti-Facebook:  
+[No More Facebook](https://nomorefacebook.xyz/)
 
 Anti-Reddit:  
 [Teddit☁](https://teddit.net/)
