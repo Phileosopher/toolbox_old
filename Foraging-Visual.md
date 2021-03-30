@@ -36,6 +36,7 @@
 
 [Artvee](https://artvee.com/),
 [Barnes Collection Online](https://collection.barnesfoundation.org/),
+[Louvre site des collections](https://collections.louvre.fr/en/),
 [Public Domain Pictures](https://www.publicdomainpictures.net/),
 [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio),
 [Van Gogh Museum Collection](https://www.vangoghmuseum.nl/en/collection)
