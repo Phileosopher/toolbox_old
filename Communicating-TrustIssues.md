@@ -70,6 +70,12 @@ Website verification:
 Phone number (via site crawling):  
 [Ampare Phone Number Crawler🐧](https://snapcraft.io/amparephonenumbercrawler)
 
+## Reporting
+
+Child exploitation:  
+[CEOP](https://www.ceop.police.uk/Safety-Centre/),
+[Childline](https://www.childline.org.uk/)
+
 ## Traveling
 
 Friend followup service:  

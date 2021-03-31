@@ -8,8 +8,13 @@ Power tools:
 PE format file analysis (.exe, .dll, .ocx, .bpl, et al):  
 [PEInfo⊞■](http://www.pazera-software.com/products/peinfo/)
 
+## Opened Windows
+
 Window analysis:  
 [WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
+
+View open windows:  
+[GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html)
 
 ## Process Issues
 
@@ -22,6 +27,20 @@ Timed process killing:
 Delete on reboot:  
 [Delete.On.Reboot⊞](https://www.softwareok.com/?seite=Freeware/Delete.On.Reboot)
 
+"Open With" dialog box management:  
+[OpenWithView⊞](https://www.nirsoft.net/utils/open_with_view.html)
+
+File type management:  
+[FileTypesMan⊞](https://www.nirsoft.net/utils/file_types_manager.html)
+
+## Folder Issues
+
+Special folder management:  
+[SpecialFoldersView⊞](https://www.nirsoft.net/utils/special_folders_view.html)
+
+Shortcut management:  
+[ShortcutsMan⊞](https://www.nirsoft.net/utils/shman.html)
+
 ## Driver issues
 
 Display drivers:  
@@ -31,8 +50,9 @@ Display drivers:
 
 [Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
 
-## Media Playback Issues
+## Media Issues
 
+Media codecs:  
 [K-Lite Codec Pack⊞](https://codecguide.com/about_kl.htm)
 
 ## Registry

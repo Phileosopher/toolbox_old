@@ -56,6 +56,10 @@ Desktop icon positions:
 Automated actions:  
 [Macro Recorder - No more repetitive tasks - Mouse and Keyboard Capture](https://www.macrorecorder.com/)
 
+Clipboard management:  
+[Clipboard PRO🍎](https://clipboardpro.app/),
+[Clipboardic⊞](https://www.nirsoft.net/utils/clipboardic.html)
+
 ## OS Tweaking - Keyboard Shortcuts
 
 Built-in:
@@ -111,6 +115,3 @@ Service synchronization - enterprise:
 Tech support callback:  
 [GetHuman☁](https://gethuman.com/),
 [FastCustomer☁](http://www.fastcustomer.com/)
-
-Frequently used information:  
-[Clipboard PRO🍎](https://clipboardpro.app/)

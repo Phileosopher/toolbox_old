@@ -2,6 +2,7 @@
 
 ## Inspiration
 
+[Fantasy UIs*](https://www.pushing-pixels.org/fui/),
 [Game UI Database☁](https://www.gameuidatabase.com/)
 
 CSS improvements:  
@@ -22,10 +23,14 @@ Interactive maps:
 ## Libraries - Styles
 
 Futuristic sci-fi:  
-[Arwes](https://arwes.dev/)
+[Arwes](https://arwes.dev/),
+[augmented-ui](https://augmented-ui.com/)
 
 Old NES:  
 [NES.css](https://nostalgic-css.github.io/NES.css/)
+
+Hand-drawn sketch feel:  
+[Wired Elements](https://wiredjs.com/)
 
 Windows 98:  
 [98.css](https://jdan.github.io/98.css/)
