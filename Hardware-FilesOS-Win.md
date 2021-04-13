@@ -8,6 +8,9 @@ Power tools:
 PE format file analysis (.exe, .dll, .ocx, .bpl, et al):  
 [PEInfo⊞■](http://www.pazera-software.com/products/peinfo/)
 
+BSOD:  
+[Microsoft's Bug Checks*](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/bug-checks--blue-screens-)
+
 ## Opened Windows
 
 Window analysis:  

@@ -11,7 +11,8 @@ Temperature:
 
 CPU/motherboard:  
 [CPU-X🐧](https://x0rg.github.io/CPU-X/),
-[CPU-Z⊞■](https://www.cpuid.com/softwares/cpu-z.html)
+[CPU-Z⊞■](https://www.cpuid.com/softwares/cpu-z.html),
+[Prime95⊞](https://prime95.en.lo4d.com/windows)
 
 RAM:  
 [MemTest86⊞■🐧](https://www.memtest86.com/),
