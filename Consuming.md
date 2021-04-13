@@ -102,6 +102,7 @@ English:
 
 Languages:  
 [Duolingo☁🍎🤖](https://www.duolingo.com/),
+[Mate⌘🍎⇉](https://gikken.co/mate-translate/),
 [Memrise☁](https://www.memrise.com/)
 
 Machine learning research papers:  
