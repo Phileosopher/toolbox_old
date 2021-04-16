@@ -34,7 +34,8 @@ Repetitive strain timer:
 
 Ambient noise:  
 [Noisli☁🍎🤖⇉](https://www.noisli.com/),
-[generative.fm☁](https://generative.fm/)
+[generative.fm☁](https://generative.fm/),
+[lofi.cafe☁](https://lofi.cafe/)
 
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)

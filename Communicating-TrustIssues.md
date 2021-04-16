@@ -52,6 +52,9 @@ PDFs that look signed:
 
 ## Receiving/Investigating
 
+Public information:  
+[Truthfinder☁](https://www.truthfinder.com/)
+
 Email headers:  
 [Google's Messageheader☁](https://toolbox.googleapps.com/apps/messageheader/)
 [WhatIsMyIPAddress' Trace Email☁](https://whatismyipaddress.com/trace-email)
