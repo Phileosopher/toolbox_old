@@ -51,6 +51,13 @@ Faxes:
 Drawn images:  
 [Witeboard☁](https://witeboard.com)
 
+Screenshot improvement:  
+[ProductShot☁](https://productshot.app/)
+
+Money:  
+[Slash☁](https://www.joinslash.com/),
+[Braid☁](https://braid.co/)
+
 ## IRL
 
 [Meetup☁🍎🤖](https://www.meetup.com/)
