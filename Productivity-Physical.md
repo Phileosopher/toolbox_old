@@ -32,12 +32,15 @@ Renting vs. Buying calculator:
 Travel guides:  
 [Frommer's Travel Guides*](https://www.frommers.com/)
 
-## Wellness - Memory
+Light pollution:  
+[Light pollution map☁](https://www.lightpollutionmap.info/)
 
+## Wellness
+
+Memory:  
 [Lumosity Brain Training☁](https://www.lumosity.com/en/)
 
-## Wellness - Vision Test
-
+Vision Test:  
 [WebBrowserTools' Vision Test☁](https://webbrowsertools.com/vision-test/)
 
 ## Wellness - Workouts
